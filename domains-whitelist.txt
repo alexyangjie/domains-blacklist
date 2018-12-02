@@ -1,0 +1,3 @@
+# Below are domains that should not be blocked
+doc.fabric.io
+fabric.io
