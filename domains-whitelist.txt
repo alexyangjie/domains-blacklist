@@ -1,2 +1,3 @@
 # Below are domains that should not be blocked
 fabric.io
+nordvpn.com
