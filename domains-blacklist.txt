@@ -2923,6 +2923,7 @@ img.ads.tvb.com
 h1.tvhome.com
 a.tvsou.com
 c.tvsou.com
+jss.tvzhe.com
 twb98.com
 twcczhu.com
 twitterzs.com
@@ -3167,6 +3168,7 @@ xingjuhe.com
 a2.xinhuanet.com
 xinkuaiyu.com
 xinlongrubber.com
+dd.xinshipu.com
 xiongdong.com
 xiongyin.com
 xitao3.com
@@ -32282,6 +32284,7 @@ greatcpm.com
 gridlockparadise.com
 gtsads.com
 gunzblazingpromo.com
+guoyhfjrpt.com
 gzbop.com
 halileo.com
 finding.hardwareheaven.com
