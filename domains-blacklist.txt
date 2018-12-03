@@ -419,6 +419,7 @@ cpro.zol.com.cn
 zsdexun.com.cn
 continuedsys.cn
 cooolyi.cn
+bdu1.coozhi.cn
 countersys.cn
 coveredsys.cn
 cpshwl.cn
@@ -3756,6 +3757,7 @@ gdsqwy.org
 aa.gushiwen.org
 321.jintang114.org
 jibn12.jintang114.org
+m1.jintang114.org
 journalforum.org
 leturich.org
 gg86.pinggu.org
@@ -3992,6 +3994,7 @@ silimbompom.com
 skencituer.com
 soodatmish.com
 sparnove.com
+statdynamic.com
 stonecalcom.com
 str1kee.com
 synconnector.com
@@ -4295,7 +4298,7 @@ candid.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 946
+# Ignored duplicates: 947
 
 # Ignored entries due to the whitelist: 30
 
@@ -17484,7 +17487,6 @@ stat24.com
 statcount.com
 statcounter.com
 statcounterfree.com
-statdynamic.com
 statecannoticed.com
 statelead.com
 sp.statesmanjournal.com
@@ -32423,6 +32425,7 @@ kodicdn.com
 kolestence.com
 kolitat.com
 cadvv.koreaherald.com
+kpchywhqcrkz.com
 krebsonsecurity.com
 lavantat.com
 leaplunchroom.com
