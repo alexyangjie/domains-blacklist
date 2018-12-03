@@ -4292,6 +4292,8 @@ candid.zone
 
 # Ignored duplicates: 946
 
+# Ignored entries due to the whitelist: 30
+
 js.cdn.ac
 8iaxbnbk.accountant
 ap76rmx3.accountant
@@ -6428,7 +6430,6 @@ amavalet.com
 amazingcounters.com
 amazon-adsystem.com
 amazon-cornerstone.com
-aan.amazon.com
 cloudfront-labs.amazonaws.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
@@ -6619,11 +6620,6 @@ appsdt.com
 api.appsee.com
 appserver-ap.com
 appserver-cp.com
-api.appsflyer.com
-events.appsflyer.com
-register.appsflyer.com
-t.appsflyer.com
-track.appsflyer.com
 splash.appsgeyser.com
 amp-error-reporting.appspot.com
 axislogger.appspot.com
@@ -9406,9 +9402,6 @@ ekolamis.com
 ekulavabuf.com
 ekxlneryaiefwn.com
 ela-3-tnk.com
-clientlogger-prod.elasticbeanstalk.com
-houseads-prod.elasticbeanstalk.com
-optimera.elasticbeanstalk.com
 elasticchange.com
 elbeobjhnsvh.com
 elcolpplwua.com
@@ -10510,7 +10503,6 @@ giphylee.com
 giqepofa.com
 girlzgirlzgirlz4u.com
 girrjaqgjb.com
-collector-cdn.github.com
 collector.githubapp.com
 gitpw.com
 givingsol.com
@@ -13558,9 +13550,6 @@ micodigo.com
 micpn.com
 micro-win.com
 microadinc.com
-c.microsoft.com
-vortex.data.microsoft.com
-glbdns.microsoft.com
 mictxtwtjigs.com
 midas-i.com
 cdn.midas-network.com
@@ -15684,7 +15673,6 @@ pushbasic.com
 track.pushbullet.com
 pushdusk.com
 pusheify.com
-stats.pusher.com
 pusherism.com
 pushfeeds.com
 pushimer.com
@@ -17385,7 +17373,6 @@ sponsorpay.com
 sponsorselect.com
 sportslovin.com
 sportsyndicator.com
-adeventtracker.spotify.com
 spotmx.com
 spotrails.com
 spottt.com
@@ -17735,7 +17722,6 @@ tag4arm.com
 tagcade.com
 tagcdn.com
 tagcombiner.com
-tagcommander.com
 tagdelivery.com
 tagifydiageo.com
 tagjunction.com
@@ -22689,9 +22675,6 @@ stats-dc1.frz.io
 getbeacon.io
 gez.io
 giraff.io
-drozdovvalerij0.github.io
-kireevairina959.github.io
-prxio.github.io
 pixel.glimr.io
 hashzone.io
 hits.io
@@ -23726,11 +23709,6 @@ static.clickscloud.net
 clicksor.net
 clicktale.net
 clickterra.net
-adsmws.cloudapp.net
-cookietracker.cloudapp.net
-ihstats.cloudapp.net
-respond-adserver.cloudapp.net
-trackingapi.cloudapp.net
 d10lpsik1i8c69.cloudfront.net
 d10lumateci472.cloudfront.net
 d10vy5gom1ed53.cloudfront.net
@@ -24112,8 +24090,6 @@ prom.ecato.net
 eclampsialemontree.net
 analytics.prod.aws.ecnext.net
 edgeadx.net
-analytics.edgekey.net
-moatads.com.edgekey.net
 analytics.edgesuite.net
 edomz.net
 edt02.net
@@ -25048,10 +25024,6 @@ widgetlead.net
 widgetvalue.net
 wifly.net
 wiflyad.net
-1app.blob.core.windows.net
-insitez.blob.core.windows.net
-onedrive-collection.device.mobileengagement.windows.net
-encoderfarmced-stats-ns.servicebus.windows.net
 wisetrack.net
 tracking.wlscripts.net
 wmrok.net
@@ -28706,7 +28678,9 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4268
+# Ignored duplicates: 4260
+
+# Ignored entries due to the whitelist: 8
 
 tracking.krone.at
 mobtop.az
@@ -28801,7 +28775,9 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13713
+# Ignored duplicates: 13709
+
+# Ignored entries due to the whitelist: 7
 
 ad.kissanime.ac
 ad.kisscartoon.ac
@@ -32533,8 +32509,6 @@ meta4-group.com
 metartmoney.com
 methodcash.com
 meubonus.com
-adbroker.mp.dse.microsoft.com
-rad.microsoft.com
 mileporn.com
 mk-ads.com
 mmaaxx.com
@@ -32705,6 +32679,7 @@ portable-basketball.com
 sbhc.portalhc.com
 pourmajeurs.com
 ppc-direct.com
+ppxoxkdpxtu.com
 predictivdisplay.com
 partner.premiumdomains.com
 premiumhdv.com
@@ -33576,7 +33551,6 @@ ver-pelis.net
 ct.verticalhealth.net
 vktr073.net
 vroll.net
-palmendeals.blob.core.windows.net
 ad.r.worldssl.net
 xclicks.net
 xmediawebs.net
@@ -33846,7 +33820,9 @@ trust.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1160
+# Ignored duplicates: 1150
+
+# Ignored entries due to the whitelist: 11
 
 exe.bid
 goyetteconnelly.bid
@@ -33854,7 +33830,6 @@ theship.club
 afreeca-tag.ad-mapps.com
 app.adjust.com
 adywind.com
-stats.appsflyer.com
 brahe.apptimize.com
 west.bidtellect.com
 newad.ifeng.com
