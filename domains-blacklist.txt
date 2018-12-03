@@ -10720,6 +10720,7 @@ grabmyads.com
 et.grabnetworks.com
 txn.grabnetworks.com
 grafpedia.com
+graftaub.com
 grandslammedia.com
 granodiorite.com
 grapheffect.com
@@ -11992,7 +11993,6 @@ mms.jalopnik.com
 jamexistence.com
 jamkkydyiyhx.com
 jandolav.com
-jango.com
 jangonetwork.com
 janrlobmiroi.com
 jarvinzo.com
@@ -12092,6 +12092,7 @@ jiiyddosyv.com
 jijcetagjfzo.com
 jillsclickcorner.com
 jimdo-stats.com
+jimqcqsyhser.com
 jingavot.com
 jirafe.com
 jiruygrsl.com
@@ -12180,6 +12181,7 @@ tracker.joost.com
 joqnoyniblzm.com
 joqpatxugyug.com
 events.jora.com
+joredi.com
 joribobo.com
 jorjodika.com
 jorndvyzchaq.com
@@ -24095,6 +24097,7 @@ docols.net
 ya.domain-vip.net
 domino757.net
 dominocounter.net
+dompegho.net
 domvkq.net
 dosugcz.net
 dotmetrics.net
@@ -28806,7 +28809,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13731
+# Ignored duplicates: 13736
 
 # Ignored entries due to the whitelist: 7
 
@@ -32293,7 +32296,6 @@ d.gossipcenter.com
 adtools.gossipkings.com
 govereign.com
 promos.gpniches.com
-graftaub.com
 greatcpm.com
 gridlockparadise.com
 gtsads.com
@@ -32403,17 +32405,16 @@ iwinnersadvantage.com
 banners.ixitools.com
 ixspublic.com
 ad.jamster.com
+jango.com
 javbucks.com
 jaymancash.com
 jeisl.com
 jerrcotch.com
 jfresi.com
-jimqcqsyhser.com
 anime.jlist.com
 widget.jobberman.com
 joinnowinstantly.com
 ad.jokeroo.com
-joredi.com
 jowapt.com
 joyourself.com
 jsmptjmp.com
@@ -32996,6 +32997,7 @@ vectorstock.com
 verticalaffiliation.com
 vertoz.com
 vfgta.com
+vglpukrekfij.com
 advice-ads-cdn.vice.com
 vice-ads-cdn.vice.com
 ad.vidaroo.com
@@ -33472,7 +33474,6 @@ dyl3p6so5yozo.cloudfront.net
 widgets.comcontent.net
 datexchanges.net
 desiad.net
-dompegho.net
 adss.dotdo.net
 ad.e-kolay.net
 sitescout-video-cdn.edgesuite.net
