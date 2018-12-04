@@ -188,7 +188,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
-# Ignored duplicates: 13
+# Ignored duplicates: 17
 
 123456.asia
 cloudad.asia
@@ -2068,9 +2068,6 @@ istreamsche.com
 gb.it1352.com
 italy-lottery.com
 itechwall.com
-cee1.iteye.com
-mpb1.iteye.com
-rabc1.iteye.com
 iuuff.com
 iwansf.com
 bdjs.ixiumei.com
@@ -2760,7 +2757,6 @@ snxyf.com
 snyu.com
 so9l.com
 socdm.com
-wuliao.epro.sogou.com
 inte.sogou.com
 lu.sogou.com
 lu.sogoucdn.com
@@ -4303,7 +4299,7 @@ candid.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 947
+# Ignored duplicates: 948
 
 # Ignored entries due to the whitelist: 30
 
@@ -4685,6 +4681,7 @@ adswrapme.click
 allopenclose.click
 track.buybox.click
 detour.click
+doaraifa.click
 glotchat.click
 koapsooh.click
 kokos.click
@@ -4750,6 +4747,7 @@ ptengine.cn
 m71.qhdzfs.cn
 reachmax.cn
 sitebot.cn
+sugs.m.sm.cn
 bps.sysact.cn
 tagmanager.cn
 testin.cn
@@ -5044,6 +5042,7 @@ js.133u.com
 1sen-pit-fan.com
 1st-iklan.com
 1traf.com
+1warie.com
 1xpers99.com
 1yk851od.com
 1yme78h.com
@@ -5522,6 +5521,7 @@ acetrk.com
 acexedge.com
 achsijkc.com
 acjmkenepeyn.com
+aclhagvngkjf.com
 acloudimages.com
 acloudvideos.com
 aclsqdpgeaik.com
@@ -7460,6 +7460,7 @@ bpnjigwalqjho.com
 bpprksdgogtw.com
 bptracking.com
 bpudfbrc.com
+bpyxg.com
 bqgvtryyrhjmf.com
 bqptlqmtroto.com
 bqqjowpigdnx.com
@@ -9418,6 +9419,7 @@ ekhgvpsfrwqm.com
 ekiytcllwboe.com
 ekmas.com
 ekmpinpoint.com
+ekmztfadigi.com
 ekoatchooze.com
 ekolamis.com
 ekulavabuf.com
@@ -9889,6 +9891,7 @@ feqlklwaafgc.com
 fer-ta.com
 feranewsblogone.com
 ferrellis.com
+fessoovy.com
 fetchback.com
 fexzuf.com
 ff52e77ba517.com
@@ -11886,6 +11889,7 @@ italianadirectory.com
 itbiwlsxtigx.com
 ct.itbusinessedge.com
 itevcsjvtcmb.com
+iteye.com
 itgfqliqge.com
 sp.ithacajournal.com
 itlmnxlauah.com
@@ -15343,6 +15347,7 @@ pmelon.com
 pmgmbpuiblak.com
 pminnsodv.com
 pmjnelusn.com
+pmjwztzpuhb.com
 pmkvqmtjniwtyl.com
 pmlcuxqbngrl.com
 pmohsibnim.com
@@ -15915,6 +15920,7 @@ qhkfgjoyinllld.com
 qhlzkkwb.com
 qhqofqeivtno.com
 qhqrtjgsnu.com
+qhupdate.com
 qhxpdoipj.com
 qicggmagur.com
 qidkcvmr.com
@@ -16617,6 +16623,7 @@ rpdtrk.com
 rpspeqqiddjm.com
 rpulxcwmnuxi.com
 rpzcwgrpbkltp.com
+rqbxfbls.com
 rqgrdrqs.com
 rqigvkwoqafpjz.com
 rqjgepzyowyr.com
@@ -17308,6 +17315,7 @@ reklam.softreklam.com
 software-archiv.com
 tracking.softwareprojects.com
 softwares2015.com
+epro.sogou.com
 pb.i.sogou.com
 pingback.sogou.com
 sohdqpqlgis.com
@@ -17493,6 +17501,7 @@ stagingjobshq.com
 stalesplit.com
 standadv.com
 standartads.com
+standtrouble.com
 star-advertising.com
 star-cntr-5.com
 stargamesaffiliate.com
@@ -19131,6 +19140,7 @@ vfwazmnubbtabc.com
 vgckzqudqhfr.com
 vgfeahkrzixa.com
 vgjawpqjn.com
+vglpukrekfij.com
 vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 vgogzrukn.com
 vgtnbvzkepbm.com
@@ -20658,6 +20668,7 @@ yycikstmz.com
 yycxldhlajjuj.com
 yyndmhkv.com
 yyuin.com
+yyupkqqokrus.com
 yyuztnlcpiym.com
 yz56lywd.com
 yzlwuuzzehjh.com
@@ -20851,6 +20862,7 @@ znnmzggbw.com
 znoumvve.com
 znsqykdmcjh.com
 znvctmolksaj.com
+znztvqgtaivf.com
 zogzogolla.com
 zohaqnxwkvyt.com
 zoileyozfexv.com
@@ -26349,6 +26361,7 @@ harolmo.ru
 hay-borsa.ru
 hdtracker.ru
 for.health-net-lady.ru
+healthynews03.ru
 helpls.ru
 henharat.ru
 hiaaheddgjdfgabiafc.ru
@@ -28504,7 +28517,7 @@ adz.co.zw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/14.txt ##########
 
-# Ignored duplicates: 16
+# Ignored duplicates: 17
 
 wat.atms.at
 wpush.biz
@@ -28596,7 +28609,6 @@ cc.silktide.com
 widget.siteheart.com
 cdn.siteswithcontent.com
 widgets.sprinkletxt.com
-standtrouble.com
 cdn.swellrewards.com
 terriblethumb.com
 tracdelight.com
@@ -28717,7 +28729,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4262
+# Ignored duplicates: 4263
 
 # Ignored entries due to the whitelist: 8
 
@@ -28813,7 +28825,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13736
+# Ignored duplicates: 13746
 
 # Ignored entries due to the whitelist: 7
 
@@ -31628,7 +31640,6 @@ iprofit.cc
 bumskontakte.ch
 ad.search.ch
 accesssearch.click
-doaraifa.click
 mdtrack.click
 blyxb.27667.club
 olswr.27684.club
@@ -31711,7 +31722,6 @@ player.1800coupon.com
 1loop.com
 player.1stcreditrepairs.com
 1tizer.com
-1warie.com
 21sextury.com
 21sexturycash.com
 ad.23blogs.com
@@ -31757,7 +31767,6 @@ tool.acces-vod.com
 ad.accessmediaproductions.com
 player.accoona.com
 accouncila.com
-aclhagvngkjf.com
 acmexxx.com
 adf.acrosspf.com
 actionlocker.com
@@ -32147,7 +32156,6 @@ ebdr2.com
 ebocornac.com
 eboundservices.com
 ecortb.com
-ekmztfadigi.com
 elekted.com
 emediawebs.com
 pr-static.empflix.com
@@ -32197,7 +32205,6 @@ fderty.com
 res3.feedsportal.com
 felixflow.com
 cash.femjoy.com
-fessoovy.com
 festaporno.com
 fibriumpa.com
 engagesrvr.filefactory.com
@@ -32678,7 +32685,6 @@ inline.playbryte.com
 playgirl.com
 banners.playocio.com
 plugrush.com
-pmjwztzpuhb.com
 pnads.com
 ft.pnop.com
 pocofh.com
@@ -32797,7 +32803,6 @@ rya.rockyou.com
 utility.rogersmedia.com
 roia.com
 royal-cash.com
-rqbxfbls.com
 streaming.rtbiddingplatform.com
 rtbsystem.com
 rtrdan1.com
@@ -33008,7 +33013,6 @@ vectorstock.com
 verticalaffiliation.com
 vertoz.com
 vfgta.com
-vglpukrekfij.com
 advice-ads-cdn.vice.com
 vice-ads-cdn.vice.com
 ad.vidaroo.com
@@ -33137,12 +33141,10 @@ yu0123456.com
 yuppads.com
 gashot.yurivideos.com
 yx0banners.com
-yyupkqqokrus.com
 mb.zam.com
 zapads.zapak.com
 zenkreka.com
 ziphentai.com
-znztvqgtaivf.com
 ads.zynga.com
 .ads.css
 adcell.de
