@@ -28595,6 +28595,7 @@ cc.silktide.com
 widget.siteheart.com
 cdn.siteswithcontent.com
 widgets.sprinkletxt.com
+standtrouble.com
 cdn.swellrewards.com
 terriblethumb.com
 tracdelight.com
@@ -28715,7 +28716,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4261
+# Ignored duplicates: 4262
 
 # Ignored entries due to the whitelist: 8
 
@@ -31626,6 +31627,7 @@ iprofit.cc
 bumskontakte.ch
 ad.search.ch
 accesssearch.click
+doaraifa.click
 mdtrack.click
 blyxb.27667.club
 olswr.27684.club
@@ -32193,6 +32195,7 @@ fderty.com
 res3.feedsportal.com
 felixflow.com
 cash.femjoy.com
+fessoovy.com
 festaporno.com
 fibriumpa.com
 engagesrvr.filefactory.com
