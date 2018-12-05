@@ -7359,6 +7359,7 @@ bluestreak.com
 bluetoad.com
 blvdstatus.com
 blvqxlczxeda.com
+blwfqlmhi.com
 bm23.com
 bm324.com
 bmanpn.com
@@ -10239,6 +10240,7 @@ cookie.fuel451.com
 fueldeck.com
 fugetech.com
 fukchwgbsl.com
+fukkzdxfyrchhc.com
 fulhudhoo.com
 analyze.full-marke.com
 fullspeeddownload.com
@@ -12247,6 +12249,7 @@ sp.jsonline.com
 m.jsqinvest.com
 jsretra.com
 jstracker.com
+jsybwjivrlhx.com
 jtacrwtaf.com
 jtbmxdoadktnm.com
 jtrakk.com
@@ -13600,6 +13603,7 @@ milleonid.com
 millioncounter.com
 milparota.com
 miltqbfqstsf.com
+mimgoal.com
 analytics.mindjolt.com
 mindlytix.com
 mindtake.com
@@ -13776,6 +13780,7 @@ modulepush.com
 apiv2.moengage.com
 moffsets.com
 mofox.com
+moginhstnxswt.com
 mogointeractive.com
 moguldom.com
 mohcafpwpldi.com
@@ -14782,6 +14787,7 @@ ooredi.com
 ooredrr.com
 oos4l.com
 oosdjdhqayjm.com
+ootqfqjhzfrtn.com
 oouggjayokzx.com
 ooutqfslr.com
 ooxxsearch.com
@@ -15334,7 +15340,6 @@ plufdsb.com
 plugerr.com
 pluginsjquery.com
 leadtracking.plumvoice.com
-plusgrade.com
 plushlikegarnier.com
 plutusads.com
 plwvwvhudkuv.com
@@ -18495,6 +18500,7 @@ turboadv.com
 events.turbosquid.com
 turbotraff.com
 turn.com
+turngrind.com
 turnsocial.com
 turnto.com
 turyvfzreolc.com
@@ -20545,6 +20551,7 @@ ynyhiyqybbit.com
 ynzdtoawstxvh.com
 yoc-adserver.com
 yocsprvjl.com
+yofyzgkoktwlc.com
 yogkshigsy.com
 yohioo.com
 yojxoefvnyrc.com
@@ -22771,6 +22778,7 @@ outbid.io
 owlads.io
 owlanalytics.io
 pc1.io
+presage.io
 proper.io
 pubwise.io
 pxf.io
@@ -24134,6 +24142,7 @@ trk.email.dynect.net
 e-pagerank.net
 e-planning.net
 e-webtrack.net
+easysol.net
 prom.ecato.net
 eclampsialemontree.net
 analytics.prod.aws.ecnext.net
@@ -24542,6 +24551,7 @@ nedstatpro.net
 nefroto.net
 nend.net
 neocounter.neoworx-blog-tools.net
+nepsauss.net
 netbiscuits.net
 netbizzer.net
 netflixalternative.net
@@ -28172,6 +28182,7 @@ vqfqo.us
 wecai.us
 mediab.uy
 top.sec.uz
+e-planning.video
 moe.video
 skyad.video
 ad360.vn
@@ -28825,7 +28836,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13746
+# Ignored duplicates: 13754
 
 # Ignored entries due to the whitelist: 7
 
@@ -31954,7 +31965,6 @@ adv.blogupp.com
 blossoms.com
 bluhostedbanners.blucigs.com
 img.bluehost.com
-blwfqlmhi.com
 board-books.com
 bobtrk.com
 boinkcash.com
@@ -32265,7 +32275,6 @@ geobanner.fuckbookhookups.com
 fuckermedia.com
 fuckyoucash.com
 fuelbuck.com
-fukkzdxfyrchhc.com
 funnypickuplinesforgirls.com
 shoppingpartners2.futurenet.com
 g0ads.com
@@ -32436,7 +32445,6 @@ ad.jokeroo.com
 jowapt.com
 joyourself.com
 jsmptjmp.com
-jsybwjivrlhx.com
 shared.juicybucks.com
 justgetitfaster.com
 justicejudo.com
@@ -32567,7 +32575,6 @@ mobilerevenu.com
 dontblockme.modaco.com
 fileserver.mode.com
 modelsgonebad.com
-moginhstnxswt.com
 mopilod.com
 morehitserver.com
 banners.moreniche.com
@@ -32640,7 +32647,6 @@ offaces-butional.com
 cdn.offcloud.com
 onhercam.com
 potd.onlytease.com
-ootqfqjhzfrtn.com
 adsor.openrunner.com
 auth.opera.com
 optimallimit.com
@@ -33136,7 +33142,6 @@ yesmessenger.com
 yfum.com
 richmedia.yimg.com
 yobihost.com
-yofyzgkoktwlc.com
 s-yoolk-banner-assets.yoolk.com
 s-yoolk-billboard-assets.yoolk.com
 yoshatia.com
@@ -33540,7 +33545,6 @@ t.mmnt.net
 tap.more-results.net
 az413505.vo.msecnd.net
 mywebclick.net
-nepsauss.net
 ngbn.net
 noadblock.net
 oddads.net
@@ -33823,7 +33827,6 @@ wtpn.twenga.co.uk
 partners.vouchedfor.co.uk
 x-exchanger.co.uk
 ad.indomp3z.us
-e-planning.video
 abbp1.website
 abbp2.website
 d3b3e6340.website
@@ -33862,7 +33865,7 @@ trust.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1150
+# Ignored duplicates: 1151
 
 # Ignored entries due to the whitelist: 11
 
@@ -33883,7 +33886,6 @@ etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
 auto-api.yelp.com
-presage.io
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
