@@ -3579,6 +3579,7 @@ jsf.cnlinfo.net
 adp.cnool.net
 cnsjx.net
 cnxad.net
+baidu1.codejie.net
 corechina.net
 phpad.cqnews.net
 uniondm.cz88.net
