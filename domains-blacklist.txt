@@ -415,6 +415,7 @@ wda.ydt.com.cn
 milk.yesky.com.cn
 yoyi.com.cn
 1.zhev.com.cn
+ziig.com.cn
 p.zol-img.com.cn
 cpro.zol.com.cn
 zsdexun.com.cn
@@ -775,6 +776,7 @@ ysgsq.cn
 ytbnm.cn
 yunpifu.cn
 yuyue008.cn
+ywadf.cn
 ywjxsp168.cn
 yktj.yzz.cn
 xue.zbyw.cn
@@ -28839,7 +28841,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13754
+# Ignored duplicates: 13753
 
 # Ignored entries due to the whitelist: 7
 
