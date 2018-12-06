@@ -4367,6 +4367,7 @@ pix.news.at
 tracking.oe24.at
 oewabox.at
 smd.premiumpromotions.at
+px.staticfiles.at
 adc.tripple.at
 trocado.at
 waust.at
@@ -7931,6 +7932,7 @@ loggly.cheatsheet.com
 checkabil.com
 checkhit.com
 checkm8.com
+checkmygeo.com
 checkoutfree.com
 rock.cheerfulhunter.com
 cheezburger-analytics.com
@@ -7992,6 +7994,7 @@ cityadspix.com
 control.cityofcairns.com
 civitik.com
 cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
+log.cizion.com
 cjgpifztileh.com
 cjhdmrcv.com
 cjkjeyjbl.com
@@ -15582,6 +15585,7 @@ promobagus.com
 promobenef.com
 promocns.com
 promoheads.com
+rotator.promokrot.com
 promoloader.com
 promoted.com
 promotioncamp.com
@@ -16977,6 +16981,7 @@ seoparts.com
 seosape.com
 sepakbolagol.com
 separatesilver.com
+septembership.com
 septimus-kyr.com
 sepulchralconestogaleftover.com
 sepyqhipq.com
@@ -18042,6 +18047,7 @@ thpsflsjw.com
 thqwivyhdpoem.com
 throattrees.com
 thsfkcymkoce.com
+thterras.com
 thtlvguaqmkv.com
 thump-night-stand.com
 thvdzghlvfoh.com
@@ -23590,6 +23596,7 @@ affiz.net
 affroba.net
 afy11.net
 agencytradingdesk.net
+aicontents.net
 air360tracker.net
 airserve.net
 ads.aitype.net
@@ -24920,6 +24927,7 @@ uim.tifbs.net
 tightexact.net
 session.timecommerce.net
 ape-tagit.timeinc.net
+tinb.net
 tizer6.net
 tizer7.net
 tizer8.net
@@ -27246,6 +27254,7 @@ toroptotrab.ru
 reterafu.torplanet.ru
 torrent-trackers.ru
 tostega.ru
+towithdureb.ru
 tptrk.ru
 trade7.ru
 traf-zona.ru
@@ -27924,6 +27933,7 @@ bitfalcon.tv
 bitx.tv
 ping.buto.tv
 l.coincident.tv
+dawin.tv
 hit.dogannet.tv
 e2yth.tv
 extend.tv
@@ -28186,7 +28196,6 @@ vqfqo.us
 wecai.us
 mediab.uy
 top.sec.uz
-e-planning.video
 moe.video
 skyad.video
 ad360.vn
@@ -28745,7 +28754,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4263
+# Ignored duplicates: 4264
 
 # Ignored entries due to the whitelist: 8
 
@@ -28765,7 +28774,6 @@ atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
 bat.bing.com
-checkmygeo.com
 confirmit.com
 cxense.com
 webtrack.dhlglobalmail.com
@@ -28842,7 +28850,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13753
+# Ignored duplicates: 13755
 
 # Ignored entries due to the whitelist: 7
 
@@ -32861,7 +32869,6 @@ b.sell.com
 mt.sellingrealestatemalta.com
 senkinar.com
 delivery.senvangvn.com
-septembership.com
 server140.com
 sesxc.com
 settleships.com
@@ -32964,7 +32971,6 @@ get.thisisvegas.com
 affiliates.thrixxx.com
 thrnt.com
 ths9j89.com
-thterras.com
 timteen.com
 tingrinter.com
 tinyweene.com
