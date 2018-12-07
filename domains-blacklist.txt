@@ -188,7 +188,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
-# Ignored duplicates: 17
+# Ignored duplicates: 16
 
 123456.asia
 cloudad.asia
@@ -3835,7 +3835,7 @@ eat-travel.com.tw
 widget.ezprice.com.tw
 gohappy.com.tw
 hauchi.com.tw
-housefun.com.tw
+admd.housefun.com.tw
 iprefer.com.tw
 prohost.com.tw
 ahd.ruten.com.tw
@@ -8301,6 +8301,7 @@ contextly.com
 contextrtb.com
 contextuads.com
 contextweb.com
+contineljs.com
 continue.com
 ads.contractoruk.com
 contratellaps.com
@@ -19012,6 +19013,7 @@ v2mlamber.com
 v2mlemerald.com
 v3g4s.com
 v4dwkcv.com
+vacaneedasap.com
 vacnuuitxqot.com
 vacwrite.com
 vadideo.com
@@ -22262,6 +22264,7 @@ generinge.info
 genroso.info
 germarked.info
 gernewt.info
+getaim.info
 getetafun.info
 getfuneta.info
 getgale.info
@@ -23072,6 +23075,7 @@ vis1.shinobi.jp
 siteanalytics.jp
 ad.smaad.jp
 speead.jp
+speee-ad.jp
 strs.jp
 swcs.jp
 tapone.jp
@@ -23249,6 +23253,7 @@ autonewspron.me
 beliqq.me
 bgclck.me
 bigclick.me
+blckads.me
 bola168.me
 clnk.me
 contentexchange.me
@@ -23680,6 +23685,7 @@ banner-in.net
 bannerbridge.net
 bannerchange.net
 bannerconnect.net
+bannernetwork.net
 bannerperformance.net
 bannersnack.net
 barilliance.net
@@ -23756,6 +23762,7 @@ centralnervous.net
 chanished.net
 channelvn.net
 chartbeat.net
+chauksoa.net
 checkmypr.net
 chitika.net
 citysite.net
@@ -27794,6 +27801,7 @@ bxjch.top
 cdnload.top
 chabg.top
 chajv.top
+chouphoa.top
 clhko.top
 cytk85wu.top
 d088e52cfa9e344beb.top
@@ -28206,6 +28214,7 @@ adnetwork.vn
 adsplus.vn
 adtima.vn
 adtimaserver.vn
+amcdn.vn
 amobi.vn
 anthill.vn
 ants.vn
@@ -28851,7 +28860,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13755
+# Ignored duplicates: 13758
 
 # Ignored entries due to the whitelist: 7
 
@@ -33038,7 +33047,6 @@ yea.uploadimagex.com
 urpornnetwork.com
 uxernab.com
 v3rjvtt.com
-vacaneedasap.com
 ad.valuecalling.com
 vdtrack.com
 vectorpastel.com
@@ -33355,7 +33363,6 @@ x.castanet.net
 ba.ccm2.net
 a.cdngeek.net
 chatlivejasmin.net
-chauksoa.net
 d13czkep7ax7nj.cloudfront.net
 d140sbu1b1m3h0.cloudfront.net
 d15565yqt7pv7r.cloudfront.net
@@ -33806,7 +33813,6 @@ watchmygf.to
 1xtbw.top
 bestcontentservice.top
 bestcontentuse.top
-chouphoa.top
 fmhcj.top
 iwtra.top
 jump2.top
