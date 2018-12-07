@@ -1220,6 +1220,7 @@ alicmayuns.com
 alisinak.com
 alitianxia168.com
 oa-panther.data.aliyun.com
+mixbig.oss-ap-southeast-1.aliyuncs.com
 jpg1.oss-cn-beijing.aliyuncs.com
 zhuashi.oss-cn-beijing.aliyuncs.com
 aliyuncss.com
