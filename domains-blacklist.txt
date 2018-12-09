@@ -33340,6 +33340,7 @@ api.bitp.it
 transexy.it
 adnico.jp
 impact-ad.jp
+nicoad.nicovideo.jp
 -ads3.jpg
 -adv.jpg
 -adv.js
