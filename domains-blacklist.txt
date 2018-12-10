@@ -28863,8 +28863,10 @@ ip-api.com
 mixpanel.com
 g.msn.com
 rel.msn.com
+analytics-udg.netdna-ssl.com
 webmetrics.nintendo-europe.com
 optimizely.com
+log.outbrainimg.com
 btrace.qq.com
 qualtrics.com
 track2.royalmail.com
