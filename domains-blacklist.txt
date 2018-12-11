@@ -9245,6 +9245,7 @@ dyjkbkpzxgpjfs.com
 dynamicdn.com
 dynamicoxygen.com
 px.dynamicyield.com
+st.dynamicyield.com
 dynamitedata.com
 beacon.rum.dynapis.com
 dynatrace.com
@@ -17722,7 +17723,7 @@ logs.supersonic.com
 supersonicads.com
 superstats.com
 supertura.com
-supplyframe.com
+analytics.supplyframe.com
 te.supportfreecontent.com
 supportxmr.com
 supprent.com
@@ -17834,6 +17835,7 @@ tagcombiner.com
 tagdelivery.com
 tagifydiageo.com
 tagjunction.com
+tagmngrs.com
 tagshost.com
 it.tagslimit.com
 tagsrvcs.com
@@ -22280,6 +22282,7 @@ dreyeli.info
 drugog.info
 dstrack2.info
 dualmarket.info
+dunellengez.info
 dv0.info
 dygadan.info
 ebeda.info
@@ -22590,6 +22593,7 @@ referralargumentationnetwork.info
 regdfh.info
 requiredcollectfilm.info
 reseireejoch.info
+resentaticexhaus.info
 retainguaninefluorite.info
 tracker.revip.info
 robotext.info
@@ -24100,6 +24104,7 @@ dpz55hrzd89zs.cloudfront.net
 dqqulesm3pfse.cloudfront.net
 dr3k6qonw2kee.cloudfront.net
 drrcckbju3nd0.cloudfront.net
+ds02gfqy6io6i.cloudfront.net
 dsh1ct2zrfakt.cloudfront.net
 dtto8zfzskfoa.cloudfront.net
 dtxtngytz5im1.cloudfront.net
@@ -26331,6 +26336,7 @@ efmeni.ru
 efngeka8czukzyb.ru
 efpark.ru
 efresa.ru
+ehntqzv1apeizca.ru
 ejdbebdeghajgdicadc.ru
 ejmovec.ru
 ekkhgwp5atpuxdq.ru
@@ -28844,7 +28850,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4269
+# Ignored duplicates: 4270
 
 # Ignored entries due to the whitelist: 8
 
@@ -28868,7 +28874,6 @@ confirmit.com
 cxense.com
 webtrack.dhlglobalmail.com
 digits.com
-st.dynamicyield.com
 edigitalsurvey.com
 webstat.freaks4u.com
 trk.freepik.com
@@ -28940,7 +28945,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13800
+# Ignored duplicates: 13803
 
 # Ignored entries due to the whitelist: 7
 
@@ -33328,7 +33333,6 @@ cervicalknowledge.info
 clicktrace.info
 rd.cockhero.info
 weeklyprizewinner.com-net.info
-dunellengez.info
 erotizer.info
 flipflapflo.info
 fonderreader.info
@@ -33344,7 +33348,6 @@ parkingse.info
 js.picsomania.info
 pornoh.info
 direct.quasir.info
-resentaticexhaus.info
 solidayw.info
 stopadblock.info
 tanil.info
@@ -33601,7 +33604,6 @@ dq2tgxnc2knif.cloudfront.net
 dqhi3ea93ztgv.cloudfront.net
 dr8pk6ovub897.cloudfront.net
 drf8e429z5jzt.cloudfront.net
-ds02gfqy6io6i.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
 dsie7h4lo9wxu.cloudfront.net
 dtakdb1z5gq7e.cloudfront.net
