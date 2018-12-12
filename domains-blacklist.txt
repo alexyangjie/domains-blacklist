@@ -3215,6 +3215,7 @@ cmm.xmfish.com
 xmgysweb.com
 xmshqh.com
 xmsqz.com
+xmtsyg.com
 xnghmc.com
 xnjpg.com
 xnjzsn.com
@@ -28855,7 +28856,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4271
+# Ignored duplicates: 4272
 
 # Ignored entries due to the whitelist: 8
 
@@ -28938,6 +28939,7 @@ zdbb.net
 track.ad.nl
 logging.apache.org
 metrics.torproject.org
+p.gazeta.pl
 montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
@@ -32205,6 +32207,7 @@ tour.cum-covered-gfs.com
 aff.cupidplc.com
 affiliates.cupidplc.com
 cwgads.com
+cwvdzcqvg.com
 cyberbidhost.com
 cybernetentertainment.com
 cygngisr.com
@@ -32929,6 +32932,7 @@ redzxxxtube.com
 reevivenetwork.com
 reevivepro.com
 tag.regieci.com
+regqrfuvncqcm.com
 reliablebanners.com
 renewads.com
 reprak.com
@@ -33283,6 +33287,7 @@ servedby.yell.com
 yesmessenger.com
 yfum.com
 richmedia.yimg.com
+ynuyzeqtswtd.com
 yobihost.com
 s-yoolk-banner-assets.yoolk.com
 s-yoolk-billboard-assets.yoolk.com
