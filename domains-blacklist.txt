@@ -28733,6 +28733,7 @@ master-push.com
 milotree.com
 netmera-web.com
 messenger.ngageics.com
+noiselessplough.com
 notification-time.com
 consent.cmp.oath.com
 cdn.onesignal.com
@@ -28891,7 +28892,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4273
+# Ignored duplicates: 4274
 
 # Ignored entries due to the whitelist: 8
 
@@ -32965,6 +32966,7 @@ tracker1.richcasino.com
 ripbwing.com
 rivcash.com
 rmkflouh.com
+rniiylqxvxybv.com
 robotadserver.com
 partners.rochen.com
 rya.rockyou.com
@@ -33316,6 +33318,7 @@ mb.zam.com
 zapads.zapak.com
 zenkreka.com
 ziphentai.com
+zramisxvxmkf.com
 ads.zynga.com
 .ads.css
 adcell.de
