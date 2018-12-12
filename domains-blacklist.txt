@@ -28855,7 +28855,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4270
+# Ignored duplicates: 4271
 
 # Ignored entries due to the whitelist: 8
 
@@ -28950,7 +28950,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13803
+# Ignored duplicates: 13804
 
 # Ignored entries due to the whitelist: 7
 
@@ -31825,6 +31825,7 @@ zanyx.club
 fuckbook.cm
 lulu.dian500.com.cn
 pmm.people.com.cn
+jin33456.cn
 ageverify.co
 baltizm.co
 bitcoin-code.co
@@ -33288,6 +33289,7 @@ yoshatia.com
 your-big.com
 yourdatelink.com
 ypmadserver.com
+yrtyflmurngv.com
 yu0123456.com
 yuppads.com
 yurivideo.com
