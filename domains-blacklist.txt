@@ -517,6 +517,7 @@ ienkdaged.cn
 ienkdago.cn
 ifocus.cn
 j.imdb.cn
+a.imgso.cn
 increased.cn
 index8.cn
 instreet.cn
@@ -2606,6 +2607,7 @@ qiqivv.com
 qiqiyii.com
 s1.qiqutt.com
 becode.qiushibaike.com
+fzb01.qiushibaike.com
 mall0.qiyipic.com
 qiyou.com
 qizhihaotian.com
@@ -2945,6 +2947,7 @@ img.ads.tvb.com
 h1.tvhome.com
 a.tvsou.com
 c.tvsou.com
+cdn1.tvzhe.com
 jss.tvzhe.com
 twb98.com
 twcczhu.com
@@ -32766,6 +32769,7 @@ images.mylot.com
 myprecisionads.com
 mypromocenter.com
 fimserve.myspace.com
+mzhcaexrrl.com
 n9nedegrees.com
 nadstive.com
 naiadexports.com
