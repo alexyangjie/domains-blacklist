@@ -4955,6 +4955,7 @@ alog.umeng.co
 oc.umeng.co
 rlog-api.under9.co
 verblife-2.co
+i.viafoura.co
 vibrant.co
 vstats.co
 whitud.co
@@ -7428,6 +7429,7 @@ bniarapemvbd.com
 bnkgacehxxmx.com
 bnmla.com
 bnnsgqjofzar.com
+bnpmudgktroz.com
 bnqgubwpq.com
 bnrdom.com
 bnserving.com
@@ -7532,6 +7534,7 @@ bravenetmedianetwork.com
 bravo-lea.com
 brcdn.com
 brdlplgvdq.com
+brdmin.com
 breadpro.com
 stats.break.com
 breakingfeedz.com
@@ -9433,6 +9436,7 @@ efjucmgdzexeab.com
 efluqmlyzi.com
 efnypuzqni.com
 efukznkfmrck.com
+efzhzqtyomldfj.com
 egamingonline.com
 egcocjwpzqsa.com
 egcsbdrj.com
@@ -9475,6 +9479,7 @@ ekggptrw.com
 ekgmjxjyfzzd.com
 ekhgvpsfrwqm.com
 ekiytcllwboe.com
+eklcrpehu.com
 ekmas.com
 ekmpinpoint.com
 ekmztfadigi.com
@@ -10898,6 +10903,7 @@ gvahzhgblkkyr.com
 gverjfuapaag.com
 gvfubsvgdodrj.com
 gvgakxvukmrm.com
+gvhqnlti.com
 gvisit.com
 gvoszbzfzmtl.com
 gvrqquiotcyr.com
@@ -11986,6 +11992,7 @@ ivnpbikks.com
 ivqoqtozlmjp.com
 ivqvzkwedcjo.com
 ivsqnmridfxn.com
+ivvoooxuyjfuo.com
 ivyfsbbwsf.com
 ivykiosk.com
 iwantuonly.com
@@ -20393,6 +20400,7 @@ xttrofww.com
 xtvoh.com
 xubob.com
 xubqqaqhotit.com
+xudfxpvm.com
 xugnzawkrkvu.com
 xuhktijdskah.com
 xuikjhak.com
@@ -21006,6 +21014,7 @@ zmxcefuntbgf.com
 zmytwgfd.com
 znaptag.com
 znbdr.com
+znbokxhkwx.com
 znfnwozd.com
 znmrgzozlohe.com
 znnmt.com
@@ -26547,6 +26556,7 @@ banshop.gruntovik.ru
 gsmonitor.ru
 guktuti.ru
 gvapp.ru
+haphiterton.ru
 harolmo.ru
 hay-borsa.ru
 hdtracker.ru
@@ -29022,7 +29032,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13851
+# Ignored duplicates: 13858
 
 # Ignored entries due to the whitelist: 7
 
@@ -32156,7 +32166,6 @@ adv.blogupp.com
 blossoms.com
 bluhostedbanners.blucigs.com
 img.bluehost.com
-bnpmudgktroz.com
 board-books.com
 bobtrk.com
 boinkcash.com
@@ -32359,8 +32368,6 @@ ebdr2.com
 ebocornac.com
 eboundservices.com
 ecortb.com
-efzhzqtyomldfj.com
-eklcrpehu.com
 elekted.com
 emediawebs.com
 pr-static.empflix.com
@@ -32522,7 +32529,6 @@ greatdexchange.com
 gridlockparadise.com
 gtsads.com
 gunzblazingpromo.com
-gvhqnlti.com
 gzbop.com
 halileo.com
 finding.hardwareheaven.com
@@ -32622,7 +32628,6 @@ itmcash.com
 itrxx.com
 itslive.com
 itsup.com
-ivvoooxuyjfuo.com
 iwanttodeliver.com
 iwebanalyze.com
 iwinnersadvantage.com
@@ -32801,6 +32806,7 @@ fimserve.myspace.com
 n9nedegrees.com
 nadstive.com
 naiadexports.com
+naohofhbprtx.com
 nastydollars.com
 nativexxx.com
 nature-friend.com
@@ -33312,7 +33318,6 @@ partners.xpertmarket.com
 xpollo.com
 pod.xpress.com
 xsrs.com
-xudfxpvm.com
 xv9xm6zxb8.com
 static-hw.xvideos-cdn.com
 xxltr.com
@@ -33358,7 +33363,6 @@ mb.zam.com
 zapads.zapak.com
 zenkreka.com
 ziphentai.com
-znbokxhkwx.com
 ads.zynga.com
 .ads.css
 adcell.de
