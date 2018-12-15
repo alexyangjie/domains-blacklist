@@ -4584,6 +4584,7 @@ scene-ads.biz
 sceneads.biz
 securesurf.biz
 seriouspartner.biz
+snapdeal.biz
 spacenine.biz
 sunnysales.biz
 surveywidget.biz
@@ -9587,6 +9588,7 @@ eosads.com
 eotbkgjqu.com
 eovkzcueutgf.com
 ep4p.com
+epbathcyav.com
 eperfectdata.com
 epernepojkle.com
 epesogtigole.com
@@ -11041,6 +11043,7 @@ hdoabbjyyebca.com
 hdplayer-download.com
 hduefoyd.com
 hdvidcodecs.com
+hdwjwooqvnm.com
 hdwlzheftpin.com
 hdxfyoziizy.com
 he2d.com
@@ -14170,6 +14173,7 @@ namitol.com
 namjixxurjam.com
 nanigans.com
 nanuyalailai.com
+naohofhbprtx.com
 napickmw.com
 sp.naplesnews.com
 narrangel.com
@@ -16496,6 +16500,7 @@ reson8.com
 resourse43.com
 respondhq.com
 responsetap.com
+resulticks.com
 resultlinks.com
 resultsz.com
 tracking.resumecompanion.com
@@ -17244,6 +17249,7 @@ silvermob.com
 silverpop.com
 similarsabine.com
 analytics.similarweb.com
+simility.com
 simpio.com
 simpleheatmaps.com
 simplehitcounter.com
@@ -18722,6 +18728,7 @@ uadexchange.com
 uadx.com
 uafgymcern.com
 uamgajydnv.com
+uaneklzqph.com
 uanomwcxixed.com
 uaofcvzlhhh.com
 uarating.com
@@ -19921,6 +19928,7 @@ wizard-teasers.com
 wizard-traffic.com
 wizejdnlqwcb.com
 wizknbrgxuqjo.com
+wjavelurhgx.com
 wjdjovjrxsqx.com
 wjefwuiioe123f.com
 wjgddzpvx.com
@@ -20095,6 +20103,7 @@ wvfputwcdbkoip.com
 wvjbsdjplo.com
 wvljugmqpfyd.com
 wvqqugicfuac.com
+wvvftburvtyz.com
 wvzhj.com
 wwbn.com
 wwclickgo.com
@@ -20529,6 +20538,7 @@ ybzfsppttoaz.com
 ycexjzoek.com
 ychbtidylyna.com
 ycjwgpkudmve.com
+yckdywmihuabu.com
 ycmejutxukkz.com
 ycojhxdobkrd.com
 ycpepqbyhvtb.com
@@ -21143,6 +21153,7 @@ zxavxgjcjmkh.com
 zxbjgrxbcgrp.com
 zxbzuyuifdqj.com
 zxcrsyhkndzoc.com
+zxczritytzsjz.com
 zxeyqwgwsfv.com
 zxiikxeagmferu.com
 zxjmybvewmso.com
@@ -22061,6 +22072,7 @@ weborama.fr
 ukdtx.31202.fun
 wer.glib-cough.fun
 tainiesonline.fun
+toothsome-crook.fun
 shr.fyi
 2ssltome.ga
 very.big-sword.ga
@@ -29035,7 +29047,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13858
+# Ignored duplicates: 13866
 
 # Ignored entries due to the whitelist: 7
 
@@ -32376,7 +32388,6 @@ elekted.com
 emediawebs.com
 pr-static.empflix.com
 enoratraffic.com
-epbathcyav.com
 a.eporner.com
 ad.eporner.com
 dot.eporner.com
@@ -32542,7 +32553,6 @@ showing.hardwareheaven.com
 click.hay3s.com
 hdvid-codec.com
 hdvid-codecs.com
-hdwjwooqvnm.com
 a.heavy-r.com
 hebadu.com
 helltraffic.com
@@ -32812,7 +32822,6 @@ fimserve.myspace.com
 n9nedegrees.com
 nadstive.com
 naiadexports.com
-naohofhbprtx.com
 nastydollars.com
 nativexxx.com
 nature-friend.com
@@ -33217,7 +33226,6 @@ ashot.txxx.com
 myashot.txxx.com
 tynyh.com
 cerebral.typn.com
-uaneklzqph.com
 eva.ucas.com
 ucontrate.com
 slot.union.ucweb.com
@@ -33294,7 +33302,6 @@ athena-ads.wikia.com
 wildhookups.com
 wildmatch.com
 ad.winningpartner.com
-wjavelurhgx.com
 wood-pen.com
 worldsbestcams.com
 s1.wp.com
@@ -33305,7 +33312,6 @@ partners.wrike.com
 ms.wsex.com
 wsockd.com
 ad.wsod.com
-wvvftburvtyz.com
 wwwmobiroll.com
 wz856.com
 x-adservice.com
@@ -33352,7 +33358,6 @@ iframe.travel.yahoo.com
 ysm.yahoo.com
 jscode.yavli.com
 yazcash.com
-yckdywmihuabu.com
 servedby.yell.com
 yesmessenger.com
 yfum.com
@@ -33373,7 +33378,6 @@ mb.zam.com
 zapads.zapak.com
 zenkreka.com
 ziphentai.com
-zxczritytzsjz.com
 ads.zynga.com
 .ads.css
 adcell.de
