@@ -4336,7 +4336,7 @@ candid.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 950
+# Ignored duplicates: 952
 
 # Ignored entries due to the whitelist: 30
 
@@ -6446,6 +6446,7 @@ dmtracking2.alibaba.com
 stat.alibaba.com
 tracelog.www.alibaba.com
 alikelys.com
+alikuvxxwy.com
 alimama.com
 css.aliyun.com
 log.aliyuncs.com
@@ -11221,6 +11222,7 @@ hlekbinpgsuk.com
 hlfjgurbaln.com
 hljiofrtqenc.com
 hlotiwnz.com
+hloyloppqpvnmd.com
 hlqnhatfxtclut.com
 hlserve.com
 hlvvlouaeicp.com
@@ -12729,6 +12731,7 @@ ktdthraxzxt.com
 ktexnnvlvhxa.com
 kthdreplfmil.com
 kthztsgfuygcw.com
+ktjcrhdppesdd.com
 ktjqfqadgmxh.com
 ktrackdata.com
 ktrgcpceilj.com
@@ -15594,6 +15597,7 @@ ppgzokht.com
 ppinstall.com
 ppjjbzcxripw.com
 ppqfteducvts.com
+pprcfwhlmtagay.com
 pptxpeqqcr.com
 ppuuwencqopa.com
 ppvlj.com
@@ -16744,6 +16748,7 @@ rpdtrk.com
 rpspeqqiddjm.com
 rpulxcwmnuxi.com
 rpzcwgrpbkltp.com
+rqaobxvj.com
 rqbxfbls.com
 rqgrdrqs.com
 rqigvkwoqafpjz.com
@@ -16758,6 +16763,7 @@ rqyezhetbspk.com
 rrbiprsifnmv.com
 rrimpl.com
 rriqwzgmaazsp.com
+rrnqzntj.com
 rrptobfpqeftyg.com
 rrrdddbtofnf.com
 rrscdnsfunoe.com
@@ -17436,6 +17442,7 @@ socketanalytics.com
 sockjgaabayf.com
 sodoit.com
 sodud.com
+soehcsryxyd.com
 soflopxl.com
 soft4dle.com
 rtb.softcube.com
@@ -19456,6 +19463,7 @@ vkzziiuqacv.com
 vlaqqdwltcuk.com
 vlgqpikka.com
 vlhdmywfi.com
+vlkdntgqqfjusm.com
 vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
 vlpufjkwpmjhbn.com
 vlrzhoueyoxw.com
@@ -29048,7 +29056,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13866
+# Ignored duplicates: 13874
 
 # Ignored entries due to the whitelist: 7
 
@@ -32075,7 +32083,6 @@ aipmedia.com
 ajkzd9h.com
 alfatraffic.com
 click.aliexpress.com
-alikuvxxwy.com
 alipromo.com
 www5.oss-cn-hangzhou.aliyuncs.com
 all-about-tech.com
@@ -32573,7 +32580,6 @@ highnets.com
 hipals.com
 hit2k.com
 hizlireklam.com
-hloyloppqpvnmd.com
 mb.hockeybuzz.com
 home-soon.com
 visit.homepagle.com
@@ -32693,7 +32699,6 @@ kolestence.com
 kolitat.com
 cadvv.koreaherald.com
 krebsonsecurity.com
-ktjcrhdppesdd.com
 lavantat.com
 leaplunchroom.com
 leche69.com
@@ -32956,7 +32961,6 @@ portable-basketball.com
 sbhc.portalhc.com
 pourmajeurs.com
 ppc-direct.com
-pprcfwhlmtagay.com
 predictivdisplay.com
 partner.premiumdomains.com
 premiumhdv.com
@@ -33040,8 +33044,6 @@ rya.rockyou.com
 utility.rogersmedia.com
 roia.com
 royal-cash.com
-rqaobxvj.com
-rrnqzntj.com
 streaming.rtbiddingplatform.com
 rtbsystem.com
 rtrdan1.com
@@ -33115,7 +33117,6 @@ ad.smartmediarep.com
 banners.smarttweak.com
 sms-xxx.com
 geobanner.socialflirt.com
-soehcsryxyd.com
 static.softlayer.com
 solutionsadultes.com
 api-secure.solvemedia.com
@@ -33270,7 +33271,6 @@ green.virtual-nights.com
 target.vivid.com
 vividcash.com
 vlexokrako.com
-vlkdntgqqfjusm.com
 vlogexpert.com
 vod-cash.com
 vokut.com
