@@ -28748,7 +28748,7 @@ adz.co.zw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/14.txt ##########
 
-# Ignored duplicates: 19
+# Ignored duplicates: 10
 
 wat.atms.at
 wpush.biz
@@ -28761,7 +28761,6 @@ api.autopilothq.com
 oil.axelspringer.com
 widgets.binotel.com
 code.blablateka.com
-butterburst.com
 cdn.callbackhunter.com
 cdn.callbackkiller.com
 centrnotify.com
@@ -28784,7 +28783,6 @@ foresee.com
 foxpush.com
 getpushmonkey.com
 widgets.getsitecontrol.com
-giraffepiano.com
 my.hellobar.com
 cookieconsent.insites.com
 iopushtech.com
@@ -28842,7 +28840,6 @@ cdn.siteswithcontent.com
 widgets.sprinkletxt.com
 sumo.com
 cdn.swellrewards.com
-terriblethumb.com
 tracdelight.com
 consent.truste.com
 viapush.com
@@ -28961,7 +28958,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4274
+# Ignored duplicates: 4283
 
 # Ignored entries due to the whitelist: 8
 
@@ -28981,34 +28978,52 @@ atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
 bat.bing.com
+butterburst.com
+calculatorcamera.com
+chickensstation.com
 confirmit.com
 cxense.com
+detailedglue.com
 webtrack.dhlglobalmail.com
 digits.com
+dragzebra.com
 edigitalsurvey.com
 webstat.freaks4u.com
 trk.freepik.com
+gammamaximum.com
 c.gazetevatan.com
 georiot.com
+giraffepiano.com
 googleadservices.com
 b-ssl.grvcdn.com
 csi.gstatic.com
 ext.host-tracker.com
+humdrumhat.com
 hxtrack.com
 imrworldwide.com
 ip-api.com
+justicejudo.com
+leaplunchroom.com
+lettucelimit.com
 mixpanel.com
 g.msn.com
 rel.msn.com
 webmetrics.nintendo-europe.com
+optimallimit.com
 optimizely.com
+perceivequarter.com
 btrace.qq.com
 qualtrics.com
+receptivereaction.com
 track2.royalmail.com
 nmetrics.samsung.com
 scorecardresearch.com
+sincerebuffalo.com
 skimresources.com
 statuscake.com
+steamsecretary.com
+straightschool.com
+terriblethumb.com
 dig.ultimedia.com
 visualwebsiteoptimizer.com
 smetrics.washingtonpost.com
@@ -29056,7 +29071,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13874
+# Ignored duplicates: 13861
 
 # Ignored entries due to the whitelist: 7
 
@@ -32215,7 +32230,6 @@ d.businessinsider.com
 buy404s.com
 adserver.bworldonline.com
 c7d470df880b1d0.com
-calculatorcamera.com
 caltat.com
 widgetssec.cam-content.com
 cam4flat.com
@@ -32258,7 +32272,6 @@ cfcloudcdn.com
 chachatool.com
 che-ka.com
 chestyry.com
-chickensstation.com
 pub.chinadailyasia.com
 chopstick16.com
 oascentral.chron.com
@@ -32340,7 +32353,6 @@ dematom.com
 denotyro.com
 depravedwhores.com
 desklks.com
-detailedglue.com
 newopenx.detik.com
 as.devbridge.com
 spt.dictionary.com
@@ -32365,7 +32377,6 @@ cad.donga.com
 double-check.com
 doublegear.com
 beta.down2crazy.com
-dragzebra.com
 pub.dreamboxcart.com
 images.dreamhost.com
 affiliate.dtiserv.com
@@ -32514,7 +32525,6 @@ lw2.gamecopyworld.com
 gamescarousel.com
 gamesrevenu24.com
 gamevui24.com
-gammamaximum.com
 ganardineroreal.com
 banner.gasuki.com
 gayadpros.com
@@ -32602,7 +32612,6 @@ hsmclick.com
 hubtraffic.com
 hueads.com
 ll.a.hulu.com
-humdrumhat.com
 iframes.hustler.com
 roia.hutchmedia.com
 a.i-sgcm.com
@@ -32676,7 +32685,6 @@ joyourself.com
 jsmptjmp.com
 shared.juicybucks.com
 justgetitfaster.com
-justicejudo.com
 pop-over.powered-by.justplayzone.com
 justresa.com
 entitlements.jwplayer.com
@@ -32700,13 +32708,11 @@ kolitat.com
 cadvv.koreaherald.com
 krebsonsecurity.com
 lavantat.com
-leaplunchroom.com
 leche69.com
 deals.ledgertranscript.com
 legendarylars.com
 adserv.legitreviews.com
 widgets.lendingtree.com
-lettucelimit.com
 lickbylick.com
 lie2anyone.com
 likingyetsnarl.com
@@ -32879,7 +32885,6 @@ onhercam.com
 potd.onlytease.com
 adsor.openrunner.com
 auth.opera.com
-optimallimit.com
 partners.optiontide.com
 ordermc.com
 otherprofit.com
@@ -32907,7 +32912,6 @@ promo.pegcweb.com
 pennynetwork.com
 banners.penthouse.com
 pepipo.com
-perceivequarter.com
 bannershotlink.perfectgonzo.com
 perfecttoolmedia.com
 philstraffic.com
@@ -33017,7 +33021,6 @@ realitance.com
 realitycash.com
 br.realitykings.com
 realitytraffic.com
-receptivereaction.com
 red-direct-n.com
 imads.rediff.com
 redirectoptimizer.com
@@ -33102,7 +33105,6 @@ gfxa.sheetmusicplus.com
 explorer.sheknows.com
 shopilize.com
 siccash.com
-sincerebuffalo.com
 sixsigmatraffic.com
 sjosteras.com
 skeettools.com
@@ -33136,10 +33138,8 @@ startwebpromo.com
 adsatt.abcnews.starwave.com
 adsatt.espn.starwave.com
 amz.steamprices.com
-steamsecretary.com
 steamtraffic.com
 stoagergu.com
-straightschool.com
 streamateaccess.com
 fansign.streamray.com
 stripsaver.com
