@@ -30740,7 +30740,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13868
+# Ignored duplicates: 13869
 
 # Ignored entries due to the whitelist: 7
 
@@ -34966,7 +34966,7 @@ webcampromotions.com
 banners.webcams.com
 webclickengine.com
 webclickmanager.com
-ls.webmd.com
+webmd.com
 sponsors.webosroundup.com
 websitepromoserver.com
 adv.welaika.com
@@ -34986,7 +34986,6 @@ worldsbestcams.com
 s1.wp.com
 wptpoker.com
 wqlkp.com
-wrestlezone.com
 partners.wrike.com
 ms.wsex.com
 wsockd.com
