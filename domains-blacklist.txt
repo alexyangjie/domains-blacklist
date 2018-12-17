@@ -3251,6 +3251,7 @@ a.xuezizhai.com
 xujx8.com
 xul478.com
 xulizui6.com
+xvyljkr.com
 xxhrd.com
 xxkio.com
 xxlmxsh.com
@@ -35416,6 +35417,7 @@ d3tdefw8pwfkbk.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3uqm14ppr8tkw.cloudfront.net
 d3vc1nm9xbncz5.cloudfront.net
+d3vpf6i51y286p.cloudfront.net
 d5pb47xzjz3fc.cloudfront.net
 d5pvnbpawsaav.cloudfront.net
 d6bdy3eto8fyu.cloudfront.net
@@ -35731,6 +35733,7 @@ dlski.space
 mhogb.space
 adca.st
 iceban.su
+ad.kisscartoon.su
 newpush.support
 notify.support
 -ads.swf
