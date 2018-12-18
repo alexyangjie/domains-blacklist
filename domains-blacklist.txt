@@ -3899,7 +3899,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 631
+# Ignored duplicates: 632
 
 # Ignored entries due to the whitelist: 30
 
@@ -18467,6 +18467,7 @@ ueosdjscxucj.com
 ueptzgugtxis.com
 uerhhgezdrdi.com
 uerladwdpkge.com
+uescuqejoirsh.com
 uetqkude.com
 ueuerea.com
 uewejiuqwqx.com
@@ -30741,7 +30742,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13869
+# Ignored duplicates: 13870
 
 # Ignored entries due to the whitelist: 7
 
@@ -34911,7 +34912,6 @@ cerebral.typn.com
 eva.ucas.com
 ucontrate.com
 slot.union.ucweb.com
-uescuqejoirsh.com
 ufpcdn.com
 mediamgr.ugo.com
 unaspajas.com
