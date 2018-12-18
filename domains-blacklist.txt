@@ -30742,7 +30742,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13870
+# Ignored duplicates: 13869
 
 # Ignored entries due to the whitelist: 7
 
@@ -34104,6 +34104,7 @@ euro-rx.com
 media.eurolive.com
 banner.europacasino.com
 evanetwork.com
+everydayhealth.com
 ad.evozi.com
 yrt7dgkf.exashare.com
 zkake.exashare.com
@@ -34971,7 +34972,7 @@ webcampromotions.com
 banners.webcams.com
 webclickengine.com
 webclickmanager.com
-webmd.com
+ls.webmd.com
 sponsors.webosroundup.com
 websitepromoserver.com
 adv.welaika.com
@@ -35103,6 +35104,7 @@ banner.mob.hr
 -ads2.htm
 -ads3.htm
 -ads4.htm
+ad.netmedia.hu
 ad.kaskus.co.id
 cfs1.uzone.id
 makemoneyonline.2yu.in
