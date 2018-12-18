@@ -37624,7 +37624,7 @@ xfyubqmldwvuyar.yt
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1151
+# Ignored duplicates: 1150
 
 # Ignored entries due to the whitelist: 11
 
