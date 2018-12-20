@@ -30477,7 +30477,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/14.txt ##########
 
-# Ignored duplicates: 11
+# Ignored duplicates: 12
 
 wat.atms.at
 wpush.biz
@@ -30687,7 +30687,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4300
+# Ignored duplicates: 4302
 
 # Ignored entries due to the whitelist: 8
 
@@ -30707,6 +30707,7 @@ atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
 bat.bing.com
+cinarra.com
 confirmit.com
 cxense.com
 webtrack.dhlglobalmail.com
@@ -30752,6 +30753,7 @@ statistic.gamona.de
 prophet.heise.de
 mm.welt.de
 ethn.io
+t.karte.io
 onthe.io
 rtoaster.jp
 .gatracking.js
@@ -34160,6 +34162,7 @@ webmaster.extabit.com
 a.extremetech.com
 eyemedias.com
 outils.f5biz.com
+fabrkrup.com
 facebookofsex.com
 faceporn.com
 fapality.com
@@ -34522,6 +34525,7 @@ mo8mwxi1.com
 mobalives.com
 mobbobr.com
 widgets.mobilelocalnews.com
+mobileoffers-cb-download.com
 mobilerevenu.com
 dontblockme.modaco.com
 fileserver.mode.com
