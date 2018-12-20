@@ -30682,7 +30682,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4301
+# Ignored duplicates: 4300
 
 # Ignored entries due to the whitelist: 8
 
