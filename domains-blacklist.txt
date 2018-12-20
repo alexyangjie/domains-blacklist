@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/12.txt ##########
 
-# Ignored duplicates: 4
+# Ignored duplicates: 3
 
 images.primewire.ag
 0912701309f8ce.com
