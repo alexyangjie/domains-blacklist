@@ -4435,6 +4435,7 @@ conceau.co
 conflibred.co
 crewita.co
 cruisteerses.co
+customerlabs.co
 cxmedia.co
 d-1.co
 d41.co
@@ -9886,6 +9887,7 @@ frescoerspica.com
 fresh-video.com
 freshcounter.com
 fresheye.com
+freshmarketer.com
 freshplum.com
 freshrefresher.com
 frfgfhzxtfvsp.com
@@ -18150,6 +18152,7 @@ traff10wap.com
 traffic-delivery.com
 traffic-supremacy.com
 traffic2bitcoin.com
+trafficadbar.com
 trafficbarads.com
 trafficbee.com
 trafficbroker.com
@@ -30779,7 +30782,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13893
+# Ignored duplicates: 13894
 
 # Ignored entries due to the whitelist: 7
 
@@ -34920,7 +34923,6 @@ yb.torchbrowser.com
 kat-ads.torrenticity.com
 tossoffads.com
 traffic-in.com
-trafficadbar.com
 trafficdelivery1.com
 trafficjunky.com
 trafficlearn.com
