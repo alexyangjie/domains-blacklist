@@ -3914,7 +3914,7 @@ gotourl.xyz
 
 # Ignored duplicates: 632
 
-# Ignored entries due to the whitelist: 30
+# Ignored entries due to the whitelist: 31
 
 js.cdn.ac
 8iaxbnbk.accountant
@@ -13495,7 +13495,6 @@ mobikano.com
 mobile-10.com
 mobile333.com
 mobileadspopup.com
-mobileapptracking.com
 mobilecore.com
 mobileoffers-a-download.com
 mobileoffers-h-download.com
@@ -38031,9 +38030,9 @@ www.riverwalktrader.co.za
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1150
+# Ignored duplicates: 1149
 
-# Ignored entries due to the whitelist: 11
+# Ignored entries due to the whitelist: 12
 
 exe.bid
 goyetteconnelly.bid

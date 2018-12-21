@@ -27,3 +27,4 @@ tracker.debian.org
 windows.net
 fabric.io
 nordvpn.com
+mobileapptracking.com
