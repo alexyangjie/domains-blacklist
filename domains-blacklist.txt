@@ -30693,7 +30693,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4304
+# Ignored duplicates: 4305
 
 # Ignored entries due to the whitelist: 8
 
@@ -33626,6 +33626,7 @@ iuhzosuy.club
 jf2mn2ms.club
 klik1tn0w.club
 krrmpgdmoexc.club
+ltanesperexcitems.club
 mardjxrw.club
 mechangesee.club
 mrepqeyednht.club
@@ -33648,6 +33649,7 @@ restoring.club
 revitalize.club
 securial.club
 siblesectiveal.club
+smentcirrhoea.club
 snapvine.club
 soukou.club
 staticswind.club
