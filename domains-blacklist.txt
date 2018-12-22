@@ -3919,7 +3919,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 631
+# Ignored duplicates: 632
 
 # Ignored entries due to the whitelist: 31
 
@@ -4208,6 +4208,8 @@ analytics.blue
 videoframe.blue
 nctrk.abmail.com.br
 trk.absuite.com.br
+cifraclub.com.br
+clearsale.com.br
 track.e7r.com.br
 hotwords.com.br
 hitserver.ibope.com.br
@@ -5237,6 +5239,7 @@ ad2up.com
 ad4game.com
 adserver.ad4link.com
 ad4sell.com
+ad5track.com
 ad7.com
 adabra.com
 adacado.com
@@ -7584,6 +7587,7 @@ cts.channelintelligence.com
 cts-log.channelintelligence.com
 cts-secure.channelintelligence.com
 ttwbs.channelintelligence.com
+events.chaordicsystems.com
 chargeplatform.com
 charltonmedia.com
 chartaca.com
@@ -13024,6 +13028,7 @@ magnetisemedia.com
 magnify360.com
 magnomita.com
 magwfymjhils.com
+mahimeta.com
 maidlytsnrn.com
 banner.maido3.com
 statistics.mailerlite.com
@@ -14923,6 +14928,7 @@ perahbashmama.com
 perceivequarter.com
 percentmobile.com
 percularity.com
+percycle.com
 peredest.com
 geo.perezhilton.com
 tracer.perezhilton.com
@@ -18795,6 +18801,7 @@ utxatnjs.com
 utyrqbgrmoxs.com
 utyynepwwnl.com
 utzpjbrtyjuj.com
+uuaajohul.com
 uuaoy.com
 uubxhbwnwmfqp.com
 uuiqhzpvfql.com
@@ -19340,6 +19347,7 @@ vxkupxpf.com
 vxlpefsjnmws.com
 vxncdkrggd.com
 vxqhchlyijwu.com
+vxrpmslex.com
 vxuhavco.com
 vxumimuhg.com
 vxvxsgut.com
@@ -20429,6 +20437,7 @@ ymtracking.com
 ymugm4x1pwehlaskticjrn9qz9t.com
 ymuhybbrk.com
 ymvkirvjqgha.com
+ymzrrizntbhde.com
 ynewcdjtop.com
 ynhetcoypgnl.com
 ynhonjqahrh.com
@@ -22736,6 +22745,7 @@ lytics.io
 n.mailfire.io
 px.marchex.io
 mbid.io
+mdxapi.io
 metrics.io
 mineralt.io
 misosoup.io
@@ -23658,6 +23668,7 @@ awaps.net
 awmengine.net
 awstaticdn.net
 axf8.net
+cdnbigdata.azureedge.net
 b-click.net
 bablogon.net
 baltchd.net
@@ -28299,6 +28310,7 @@ adnetwork.vn
 adsplus.vn
 adtima.vn
 adtimaserver.vn
+ambientplatform.vn
 amcdn.vn
 amobi.vn
 anthill.vn
@@ -30795,7 +30807,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13895
+# Ignored duplicates: 13900
 
 # Ignored entries due to the whitelist: 7
 
@@ -34489,7 +34501,6 @@ madbanner.com
 madisonlogic.com
 brcache.madthumbs.com
 magical-sky.com
-mahimeta.com
 admin.mailchimp.com
 makechatcash.com
 malakasonline.com
@@ -35802,7 +35813,6 @@ wtpn.twenga.co.uk
 partners.vouchedfor.co.uk
 x-exchanger.co.uk
 ad.indomp3z.us
-ambientplatform.vn
 abbp1.website
 abbp2.website
 d3b3e6340.website
