@@ -34732,6 +34732,7 @@ prscripts.com
 ptclassic.com
 ptrfc.com
 ptwebcams.com
+c.pubguard.com
 publish4.com
 punsong.com
 pushmobilenews.com
@@ -35116,6 +35117,7 @@ yazcash.com
 servedby.yell.com
 yesmessenger.com
 yfum.com
+jscdn.yieldbird.com
 richmedia.yimg.com
 yobihost.com
 s-yoolk-banner-assets.yoolk.com
@@ -35503,6 +35505,7 @@ login.gaijin.net
 gameonmom.net
 engine.gamerati.net
 geoaddicted.net
+hb.headbidder.net
 stream.heavenmedia.net
 hostave.net
 hostave2.net
@@ -35644,6 +35647,7 @@ tozer.youwatch.org
 trans.youwatch.org
 adx.kat.ph
 llog.pl
+advmanager.techfun.pl
 bsxmuny.wp.pl
 baconaces.pro
 gomain.pro
