@@ -188,7 +188,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
-# Ignored duplicates: 16
+# Ignored duplicates: 18
 
 123456.asia
 cloudad.asia
@@ -3571,9 +3571,7 @@ xiaoyang.mobi
 0531mnk.net
 11370090.net
 12086.net
-img1.126.net
-img2.126.net
-static.ws.126.net
+126.net
 pg-ad-b1.nosdn.127.net
 yt-adp.nosdn.127.net
 12l22.net
@@ -3920,7 +3918,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 632
+# Ignored duplicates: 633
 
 # Ignored entries due to the whitelist: 31
 
@@ -23428,7 +23426,6 @@ live.cxo.name
 personage.name
 varsloqt.name
 1001noch.net
-stat.ws.126.net
 afflow.18-plus.net
 jdd01.198game.net
 1biznes.net
