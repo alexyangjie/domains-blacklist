@@ -434,7 +434,6 @@ z1.cyla.cn
 czjiuding.cn
 czxjx.cn
 adf.dahe.cn
-ad.damai.cn
 dami66.cn
 danangmo.cn
 jc1.dayfund.cn
@@ -1631,6 +1630,7 @@ dou777.com
 erebor.douban.com
 doubleadv.com
 abc.douguo.com
+kpshx.douguo.com
 shili.downxia.com
 dpjszs.com
 dqgpb.com
