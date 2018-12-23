@@ -3573,6 +3573,7 @@ xiaoyang.mobi
 12086.net
 img1.126.net
 img2.126.net
+static.ws.126.net
 pg-ad-b1.nosdn.127.net
 yt-adp.nosdn.127.net
 12l22.net
