@@ -3919,7 +3919,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 633
+# Ignored duplicates: 634
 
 # Ignored entries due to the whitelist: 31
 
@@ -4387,6 +4387,7 @@ bps.sysact.cn
 tagmanager.cn
 testin.cn
 collect.tianya.cn
+topstat.cn
 trs.cn
 appwall.tv2phone.cn
 adslot.uc.cn
@@ -4645,6 +4646,7 @@ js.133u.com
 14b41d7ec7766122d.com
 152media.com
 1543b1db8a0825760.com
+163yun.com
 166cd0ac1454aef5c0.com
 168logger.com
 16e2ae8f200d975b.com
@@ -6946,6 +6948,7 @@ bizrate.com
 bizrotator.com
 bizua.com
 bizzclick.com
+bjcathay.com
 bjcunwelpd.com
 bjcvibh.com
 bjjingda.com
@@ -11011,6 +11014,7 @@ htvlulpbhtkgr.com
 htyazxwc.com
 htyfmm.com
 huayucnblhgy.com
+hubpd.com
 hubrus.com
 track.hubspot.com
 hubvotrpjios.com
@@ -13262,6 +13266,7 @@ report.meituan.com
 mekadr.com
 melahorgani.com
 melatstat.com
+hyrankhit.meldingcloud.com
 mellowads.com
 mellowtin.com
 melqdjqiekcv.com
@@ -14304,6 +14309,7 @@ nyacampwk.com
 nyadmcncserve-05y06a.com
 nybpurpgexoe.com
 nycgwaknv.com
+nycnjewyxex.com
 nyctrl32.com
 nyltsyud.com
 stats.nymag.com
@@ -15468,6 +15474,7 @@ ptzbgvqpwnxg.com
 ptzljkufu.com
 pub-fit.com
 pubgears.com
+c.pubguard.com
 pubguru.com
 publicidees.com
 publicityclerks.com
@@ -20352,6 +20359,7 @@ yicainjezma.com
 yidop.com
 yieldads.com
 yieldadvert.com
+jscdn.yieldbird.com
 yieldbot.com
 yieldbuild.com
 yieldify.com
@@ -24288,6 +24296,7 @@ havamedia.net
 adf.hdkinoshka.net
 brend.hdkinoshka.net
 hdvid-codecs-dl.net
+hb.headbidder.net
 hermes-studio.net
 hilltopads.net
 ad-ettoday.cdn.hinet.net
@@ -25582,6 +25591,7 @@ salesmanago.pl
 smectapop12.pl
 stat.pl
 stsodds.sts.pl
+advmanager.techfun.pl
 tracker.twenga.pl
 stats.ulixes.pl
 vendimob.pl
@@ -30806,7 +30816,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13900
+# Ignored duplicates: 13905
 
 # Ignored entries due to the whitelist: 7
 
@@ -34619,7 +34629,6 @@ nummobile.com
 nuvidp.com
 nvp2auf5.com
 nwolb.com
-nycnjewyxex.com
 o2live.com
 odzb5nkp.com
 offaces-butional.com
@@ -34731,7 +34740,6 @@ prscripts.com
 ptclassic.com
 ptrfc.com
 ptwebcams.com
-c.pubguard.com
 publish4.com
 punsong.com
 pushmobilenews.com
@@ -35116,7 +35124,6 @@ yazcash.com
 servedby.yell.com
 yesmessenger.com
 yfum.com
-jscdn.yieldbird.com
 richmedia.yimg.com
 yobihost.com
 s-yoolk-banner-assets.yoolk.com
@@ -35504,7 +35511,6 @@ login.gaijin.net
 gameonmom.net
 engine.gamerati.net
 geoaddicted.net
-hb.headbidder.net
 stream.heavenmedia.net
 hostave.net
 hostave2.net
@@ -35646,7 +35652,6 @@ tozer.youwatch.org
 trans.youwatch.org
 adx.kat.ph
 llog.pl
-advmanager.techfun.pl
 bsxmuny.wp.pl
 baconaces.pro
 gomain.pro
