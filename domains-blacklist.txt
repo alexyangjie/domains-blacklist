@@ -30638,6 +30638,7 @@ scripts.mailfire.io
 pushex.io
 sharpay.io
 widget.textback.io
+yakutia.io
 sdk.push7.jp
 -cookie-law.js
 -cookie-message.js
