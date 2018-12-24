@@ -5144,6 +5144,7 @@ abfcfxfkzmiqht.com
 abletomeet.com
 ablida-rotation.com
 ablsrv.com
+abodealley.com
 clk.about.com
 abruptroad.com
 abscontal.com
@@ -30823,7 +30824,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13905
+# Ignored duplicates: 13906
 
 # Ignored entries due to the whitelist: 7
 
@@ -33770,7 +33771,6 @@ ab4tn.com
 ais.abacast.com
 clarity.abacast.com
 abgeobalancer.com
-abodealley.com
 park.above.com
 click.absoluteagency.com
 abusedbabysitters.com
