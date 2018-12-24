@@ -37742,6 +37742,7 @@ auto-api.yelp.com
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
+tapdaq-adverts.global.ssl.fastly.net
 hasmobi.net
 gate.hockeyapp.net
 ups.ksmobile.net
