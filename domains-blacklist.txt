@@ -3926,7 +3926,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 634
+# Ignored duplicates: 637
 
 # Ignored entries due to the whitelist: 31
 
@@ -28188,9 +28188,6 @@ contentclick.co.uk
 coretarget.co.uk
 trac.couponandgo.co.uk
 whoson.creativemark.co.uk
-rta.dailymail.co.uk
-t.dailymail.co.uk
-ted.dailymail.co.uk
 dirt.dennis.co.uk
 dianomioffers.co.uk
 pixel.digitalspy.co.uk
@@ -30825,7 +30822,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13906
+# Ignored duplicates: 13909
 
 # Ignored entries due to the whitelist: 7
 
@@ -34283,7 +34280,6 @@ g6ni40i7.com
 g726n8cy.com
 lw2.gamecopyworld.com
 gamescarousel.com
-gamespot.com
 gamesrevenu24.com
 gamevui24.com
 ganardineroreal.com
@@ -35217,9 +35213,11 @@ goclick.info
 host-go.info
 impotencehelp.info
 iridiumsergeiprogenitor.info
+merylaural.info
 might-stay.info
 netosdesalim.info
 dasfdasfasdf.no-ip.info
+ohleiludieje.info
 owlopadjet.info
 parkingse.info
 js.picsomania.info
@@ -35821,7 +35819,7 @@ bliss-systems-api.co.uk
 affiliates.bookdepository.co.uk
 oasc07.citywire.co.uk
 cnetwidget.creativemark.co.uk
-mads.dailymail.co.uk
+dailymail.co.uk
 customer.heartinternet.co.uk
 affiliate.juno.co.uk
 network.sofeminine.co.uk
