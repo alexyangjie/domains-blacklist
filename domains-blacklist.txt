@@ -28676,7 +28676,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13504
+# Ignored duplicates: 13545
 
 # Ignored entries due to the whitelist: 8
 
@@ -29464,6 +29464,7 @@ cryptominingpool.eu
 cubepool.eu
 dasan.deutschland-zahlung.eu
 y.fd6fq54s6df541q23sdxfg.eu
+gcpool.eu
 hashgate.eu
 134.ip-51-254-219.eu
 kippo.eu
@@ -29866,6 +29867,7 @@ prohash.net
 punchsub.net
 shitcoinmining.net
 shscrypto.net
+simplypool.net
 smartmining.net
 sweetbook.net
 aeon-pool.sytes.net
