@@ -30818,6 +30818,7 @@ metrics.torproject.org
 montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
+redatastore.ru
 stat.sports.ru
 smartpixel.tv
 countess.twitch.tv
