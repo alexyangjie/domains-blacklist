@@ -3579,7 +3579,6 @@ xiaoyang.mobi
 0531mnk.net
 11370090.net
 12086.net
-126.net
 pg-ad-b1.nosdn.127.net
 yt-adp.nosdn.127.net
 12l22.net
@@ -3927,7 +3926,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 637
+# Ignored duplicates: 636
 
 # Ignored entries due to the whitelist: 31
 
@@ -23444,6 +23443,7 @@ live.cxo.name
 personage.name
 varsloqt.name
 1001noch.net
+126.net
 afflow.18-plus.net
 jdd01.198game.net
 1biznes.net
