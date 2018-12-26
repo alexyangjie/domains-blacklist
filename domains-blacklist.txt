@@ -188,7 +188,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
-# Ignored duplicates: 18
+# Ignored duplicates: 16
 
 123456.asia
 cloudad.asia
@@ -3586,6 +3586,8 @@ xiaoyang.mobi
 0531mnk.net
 11370090.net
 12086.net
+img1.126.net
+img2.126.net
 pg-ad-b1.nosdn.127.net
 yt-adp.nosdn.127.net
 12l22.net
@@ -3933,7 +3935,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 636
+# Ignored duplicates: 635
 
 # Ignored entries due to the whitelist: 31
 
@@ -4152,6 +4154,7 @@ moneyplatform.biz
 moneysyst.biz
 morar.biz
 mpay69.biz
+mtwbedsl.biz
 nepeoripa.biz
 novostimira.biz
 oblivki.biz
@@ -5942,6 +5945,7 @@ afterdownload.com
 afterdownloads.com
 afuiw.com
 afyonturkreklam.com
+afzkqajwcbub.com
 afzoyaquhjltdd.com
 againclence.com
 againscan.com
@@ -8230,6 +8234,7 @@ ctohqzii.com
 ctplyvuuzdcv.com
 ctrhub.com
 ctrmanager.com
+ctrsopfwiadfjn.com
 cttnlnsnwdokqb.com
 cttracking02.com
 ctyzd.com
@@ -8809,6 +8814,7 @@ drbwugautcgh.com
 drcfjmkmy.com
 dreamaquarium.com
 event.api.drift.com
+metrics.api.drift.com
 drnxs.com
 drogomet.com
 dropzenad.com
@@ -9124,6 +9130,7 @@ ejgxyfzciwyi.com
 ejjgrmutgrdwxg.com
 ejjrckrhigez.com
 ejkoolhhepojeu.com
+ejoyjumnsft.com
 ejwmxjttljbe.com
 ejyymghi.com
 ek8k5dst5c.com
@@ -9695,6 +9702,7 @@ fjcvncxrmmru.com
 fjeqkpblfb.com
 fjfxpykp.com
 fjjuo.com
+fjocjdbo.com
 fjrkn.com
 fjrlvkpjfimw.com
 fjszsffyfihqlg.com
@@ -9937,6 +9945,7 @@ t.frtyi.com
 fruitflan.com
 fruitkings.com
 frvfrv.com
+frxohovv.com
 frzaj.com
 fsddidfmmzvw.com
 fsdvydpldxrbu.com
@@ -10520,6 +10529,7 @@ grt02.com
 grt03.com
 grteab.com
 grubpbrmek.com
+api.grumft.com
 grumpyadzen.com
 grumrt.com
 analytics.grupogodo.com
@@ -11223,6 +11233,7 @@ ieoexdjxrwtq.com
 ieqbsnteuyn.com
 ieqprskfariw.com
 ieuezabolxphga.com
+ieuhd.com
 iewsaprgerkjny.com
 ifactz.com
 ifaklabnhplb.com
@@ -11322,6 +11333,7 @@ ikvfgsftmyhn.com
 ikvltjooosqh.com
 ikxhjlsynfeo.com
 ikzikistheking.com
+ilaantxayy.com
 ilakffljjdpwb.com
 ilclngnarpy.com
 ilfsrsgmgbex.com
@@ -11332,6 +11344,7 @@ illqbirymsr.com
 illumenix.com
 illustriousoatmeal.com
 ilogbox.com
+ilqufadqxd.com
 ilrxikdjozlk.com
 ilsivrexvpyv.com
 ilugfyhlfv.com
@@ -11575,6 +11588,7 @@ ipfrom.com
 ipinfodb.com
 ipllxfcftp.com
 iplocationtools.com
+ipncblpgxlhjpc.com
 ipntpfokhkrh.com
 wat.ipowerapps.com
 ipowercdn.com
@@ -12197,6 +12211,7 @@ kgidpryrz8u2v0rz37.com
 kgkjlivo.com
 kgkkfrvujnqf.com
 kgobpqziy.com
+kgqlrcjlrx.com
 kgvgtudoridc.com
 kgzuerzjysxw.com
 khaklikrt.com
@@ -13111,6 +13126,7 @@ martiniadnetwork.com
 maruduthutabarat.com
 ads.marvel.com
 maryneallynndyl.com
+mascqybw.com
 exacttarget.api.mashery.com
 geoip.masslive.com
 mms.masslive.com
@@ -13178,6 +13194,7 @@ mddlhkzkntmmb.com
 mdeaoowvqxma.com
 mdeih.com
 mdialog.com
+mdlhzknv.com
 mdn2015x1.com
 mdn2015x2.com
 mdn2015x3.com
@@ -13333,6 +13350,7 @@ mfryftaguwuv.com
 mftbfgcusnzl.com
 mftracking.com
 mfuebmooizdr.com
+mfxjgymma.com
 mfxxpyhzofbsg.com
 mgage.com
 counter.mgaserv.com
@@ -14153,6 +14171,7 @@ nmayxdwzhaus.com
 nmfzjbyub.com
 nmhhnyqmxgku.com
 nmlvcxad.com
+nmnzukxervpdnx.com
 campaign.nmobs.com
 nmouzlbragpyp.com
 nmpmgmldzvrmra.com
@@ -14387,8 +14406,10 @@ obvbubmzdvom.com
 obwvmzdb.com
 obxwnnheaixf.com
 oceanwebcraft.com
+ocfsmefzzarkmo.com
 ochze.com
 ocipbbphfszy.com
+ocixtsnyxxvyaw.com
 oclaserver.com
 oclasrv.com
 oclsasrv.com
@@ -14692,6 +14713,7 @@ osqbk.com
 ossdqciz.com
 osunrrhwhf.com
 osuq4jc.com
+otdgnmvw.com
 otewxlcmkih.com
 othersonline.com
 otinekocin.com
@@ -14984,6 +15006,7 @@ pertholin.com
 pestrike.com
 petametrics.com
 petiteumbrella.com
+pewdewgeehc.com
 peyttlwbznahi.com
 pezrphjl.com
 pfibgoaqdzbp.com
@@ -15954,6 +15977,7 @@ qwzhaqtbiygid.com
 qwzmje9w.com
 qxamtnrwxjyy.com
 qxbnmdjmymqa.com
+qxboqjnmxv.com
 qxcibgzsxegxc.com
 qxekuavasuzgfc.com
 qxfzgftkfgukkp.com
@@ -16362,6 +16386,7 @@ rjnqbphb.com
 rjpqbishujeu.com
 rjszckwlctpup.com
 rjtcrxzd.com
+rjveitlz.com
 rjxspgol.com
 rjyihkorkewq.com
 br.rk.com
@@ -16691,6 +16716,7 @@ sbftffngpzwt.com
 sbhmn-miner.com
 sbhnftwdlpbo.com
 sbifdctojpisuw.com
+sbkjxpwxrmk.com
 sblcjzjp.com
 sbmijpifoszz.com
 sbs-ad.com
@@ -17713,6 +17739,7 @@ tclarcrzfbceoo.com
 sp.tcpalm.com
 track.tcppu.com
 tcrinrvfejjh.com
+tcwcsaddht.com
 tcxygxdrv.com
 tcyeyccspxod.com
 td-tracker.com
@@ -17759,6 +17786,7 @@ analytics.teespring.com
 tehkvecryl.com
 teipgupp.com
 tek-tek-trek.com
+tektbzadrceqje.com
 tel-tel-fie.com
 download.televisionfanatic.com
 teliad.com
@@ -18566,6 +18594,7 @@ uhboiygnytbql.com
 smetrics.uhc.com
 uhccvnxi.com
 uhfqrxwlnszw.com
+uhicnlmab.com
 uhpdodqzxewhcv.com
 uhvbjjse.com
 uhygtf1.com
@@ -19354,6 +19383,7 @@ vuysooqimdbt.com
 vvgttgprssiy.com
 vvoowcdnogp.com
 vvqeavcir.com
+vvrygjuozwps.com
 vwbnexnwpmangv.com
 vwcsl.com
 vwdrpxmgehqknz.com
@@ -19445,6 +19475,7 @@ watrz.com
 watxeoifxbjo.com
 sp.wausaudailyherald.com
 wawlfosfkdy.com
+wawyxzfkab.com
 way2traffic.com
 t.wayfair.com
 waymp.com
@@ -19683,6 +19714,7 @@ witthethim.com
 frog.wix.com
 orts.wixawin.com
 wiykefcon.com
+wiywlvkwwwrms.com
 wizard-teasers.com
 wizard-traffic.com
 wizejdnlqwcb.com
@@ -19715,6 +19747,7 @@ wkvjkwbjkv.com
 wkwakmsttsehi.com
 wkzovkuc.com
 wlbann.com
+wlezfkwtv.com
 a.wlgnd.com
 wlhbgwzgep.com
 wljuxryvolwc.com
@@ -21869,6 +21902,7 @@ weborama.fr
 1q2w3.fun
 ukdtx.31202.fun
 wer.glib-cough.fun
+squalid-linen.fun
 tainiesonline.fun
 toothsome-crook.fun
 shr.fyi
@@ -22367,6 +22401,7 @@ megabc.info
 meinooriut3.info
 menemier.info
 ad2017.meo4.info
+merylaural.info
 metodikadeneg.info
 mi-de-ner-nis3.info
 stats.miarroba.info
@@ -22437,6 +22472,7 @@ odbabo.info
 officerrecordscale.info
 offshort.info
 ofrecom.info
+ohleiludieje.info
 ohs1upuwi8b.info
 ohsatum.info
 oileddaintiessunset.info
@@ -23450,7 +23486,7 @@ live.cxo.name
 personage.name
 varsloqt.name
 1001noch.net
-126.net
+stat.ws.126.net
 afflow.18-plus.net
 jdd01.198game.net
 1biznes.net
@@ -24231,6 +24267,7 @@ fastapi.net
 fastates.net
 fastclick.net
 clarium.global.ssl.fastly.net
+tapdaq-adverts.global.ssl.fastly.net
 fastnewsis.net
 feedcat.net
 maik.ff-bt.net
@@ -26184,6 +26221,7 @@ cdn-my3.ru
 cdn-my4.ru
 cdn-my5.ru
 stat.rum.cdnvideo.ru
+cehiswasreb.ru
 cepereh.ru
 chanitet.ru
 cheaptop.ru
@@ -26477,6 +26515,7 @@ hitlist.ru
 hitmeter.ru
 hitmir.ru
 hitter.ru
+hjgajfbhiefjigafafc.ru
 hlpidkr.ru
 hnikna.ru
 hochu-deneg.ru
@@ -27065,6 +27104,7 @@ readnewstoday.ru
 real5traf.ru
 recreativ.ru
 recrinsit.ru
+redatastore.ru
 redclick.ru
 redflu.ru
 redsurf.ru
@@ -30737,7 +30777,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4305
+# Ignored duplicates: 4307
 
 # Ignored entries due to the whitelist: 8
 
@@ -30823,7 +30863,6 @@ metrics.torproject.org
 montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
-redatastore.ru
 stat.sports.ru
 smartpixel.tv
 countess.twitch.tv
@@ -30833,7 +30872,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13909
+# Ignored duplicates: 13939
 
 # Ignored entries due to the whitelist: 7
 
@@ -33860,7 +33899,6 @@ affiliatewindow.com
 affiliation-int.com
 affiliaxe.com
 affutdmedia.com
-afzkqajwcbub.com
 aipbannerx.com
 aipmedia.com
 ajkzd9h.com
@@ -34090,7 +34128,6 @@ widget.crowdignite.com
 crptentry.com
 crtracklink.com
 cstraffic.com
-ctrsopfwiadfjn.com
 tour.cum-covered-gfs.com
 aff.cupidplc.com
 affiliates.cupidplc.com
@@ -34177,7 +34214,6 @@ ebdr2.com
 ebocornac.com
 eboundservices.com
 ecortb.com
-ejoyjumnsft.com
 elekted.com
 emediawebs.com
 pr-static.empflix.com
@@ -34278,7 +34314,6 @@ geo.frtya.com
 geo.frtyd.com
 frtyh.com
 frutrun.com
-frxohovv.com
 partners.fshealth.com
 fstsrv.com
 fuckbookdating.com
@@ -34337,7 +34372,6 @@ promos.gpniches.com
 greatcpm.com
 greatdexchange.com
 gridlockparadise.com
-api.grumft.com
 gtsads.com
 gunzblazingpromo.com
 gzbop.com
@@ -34404,10 +34438,8 @@ wrapper.ign.com
 iheartbucks.com
 ard.ihookup.com
 ijquery10.com
-ilaantxayy.com
 ilovecheating.com
 ad.iloveinterracial.com
-ilqufadqxd.com
 ak.imgaft.com
 ak1.imgaft.com
 imglnka.com
@@ -34430,7 +34462,6 @@ intellichatadult.com
 interfalls.com
 intrapromotion.com
 fugger.ipage.com
-ipncblpgxlhjpc.com
 st.ipornia.com
 ipvertising.com
 irtye.com
@@ -34473,7 +34504,6 @@ partners.keezmovies.com
 widget.kelkoo.com
 servedby.keygamesnetwork.com
 affiliateprogram.keywordspy.com
-kgqlrcjlrx.com
 a.killergram-girls.com
 kindredplc.com
 static.kinghost.com
@@ -34546,7 +34576,6 @@ mb.marathonbet.com
 marfeel.com
 markswebcams.com
 marticula.com
-mascqybw.com
 masterwanker.com
 cp.intl.match.com
 media.match.com
@@ -34556,7 +34585,6 @@ maxiadv.com
 on.maxspeedcdn.com
 mb103.com
 mc-nudes.com
-mdlhzknv.com
 mdlsrv.com
 karma.mdpcdn.com
 meccahoo.com
@@ -34576,7 +34604,6 @@ meta4-group.com
 metartmoney.com
 methodcash.com
 meubonus.com
-mfxjgymma.com
 mileporn.com
 mk-ads.com
 mmaaxx.com
@@ -34646,7 +34673,6 @@ nikkiscash.com
 niytrusmedia.com
 access.njherald.com
 nkk31jjp.com
-nmnzukxervpdnx.com
 nonkads.com
 noowmedia.com
 banners.nostringsattached.com
@@ -34659,8 +34685,6 @@ nuvidp.com
 nvp2auf5.com
 nwolb.com
 o2live.com
-ocfsmefzzarkmo.com
-ocixtsnyxxvyaw.com
 odzb5nkp.com
 offaces-butional.com
 cdn.offcloud.com
@@ -34697,7 +34721,6 @@ banners.penthouse.com
 pepipo.com
 bannershotlink.perfectgonzo.com
 perfecttoolmedia.com
-pewdewgeehc.com
 philstraffic.com
 adxx.phimsk.com
 phu1aefue.com
@@ -34789,7 +34812,6 @@ queronamoro.com
 quexotac.com
 quierest.com
 iadc.qwapi.com
-qxboqjnmxv.com
 qyifd.com
 r7e0zhv8.com
 widget.raaze.com
@@ -34825,7 +34847,6 @@ rfvoort.com
 tracker1.richcasino.com
 ripbwing.com
 rivcash.com
-rjveitlz.com
 rmkflouh.com
 robotadserver.com
 partners.rochen.com
@@ -34852,7 +34873,6 @@ safelinktracker.com
 mealsandsteals.sandiego6.com
 sascdn.com
 sascentral.com
-sbkjxpwxrmk.com
 ox-d.sbnation.com
 affiliatesmedia.sbobet.com
 scenesgirls.com
@@ -34947,11 +34967,9 @@ tantoporno.com
 targetedinfo.com
 targetedtopic.com
 targetingnow.com
-tcwcsaddht.com
 teaservizio.com
 tech-board.com
 teendestruction.com
-tektbzadrceqje.com
 banner.telefragged.com
 thattoftheg.com
 the-adult-company.com
@@ -35031,7 +35049,6 @@ ucontrate.com
 slot.union.ucweb.com
 ufpcdn.com
 mediamgr.ugo.com
-uhicnlmab.com
 unaspajas.com
 supply.upjers.com
 yea.uploadimagex.com
@@ -35071,7 +35088,6 @@ lightson.vpsboard.com
 showcase.vpsboard.com
 vq40567.com
 vrstage.com
-vvrygjuozwps.com
 vzoozv.com
 walprater.com
 wamcash.com
@@ -35081,7 +35097,6 @@ pwapi.washingtonpost.com
 watchmygf.com
 a.watershed-publishing.com
 dcad.watersoul.com
-wawyxzfkab.com
 promos.wealthymen.com
 adds.weatherology.com
 pm.web.com
@@ -35106,8 +35121,6 @@ athena-ads.wikia.com
 wildhookups.com
 wildmatch.com
 ad.winningpartner.com
-wiywlvkwwwrms.com
-wlezfkwtv.com
 wood-pen.com
 worldsbestcams.com
 s1.wp.com
@@ -35249,11 +35262,9 @@ goclick.info
 host-go.info
 impotencehelp.info
 iridiumsergeiprogenitor.info
-merylaural.info
 might-stay.info
 netosdesalim.info
 dasfdasfasdf.no-ip.info
-ohleiludieje.info
 owlopadjet.info
 parkingse.info
 js.picsomania.info
@@ -38107,7 +38118,7 @@ www.riverwalktrader.co.za
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1149
+# Ignored duplicates: 1150
 
 # Ignored entries due to the whitelist: 12
 
@@ -38131,7 +38142,6 @@ auto-api.yelp.com
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
-tapdaq-adverts.global.ssl.fastly.net
 hasmobi.net
 gate.hockeyapp.net
 ups.ksmobile.net
