@@ -3935,7 +3935,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 635
+# Ignored duplicates: 632
 
 # Ignored entries due to the whitelist: 31
 
@@ -28236,6 +28236,9 @@ contentclick.co.uk
 coretarget.co.uk
 trac.couponandgo.co.uk
 whoson.creativemark.co.uk
+rta.dailymail.co.uk
+t.dailymail.co.uk
+ted.dailymail.co.uk
 dirt.dennis.co.uk
 dianomioffers.co.uk
 pixel.digitalspy.co.uk
@@ -30777,7 +30780,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4307
+# Ignored duplicates: 4306
 
 # Ignored entries due to the whitelist: 8
 
@@ -30872,7 +30875,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13939
+# Ignored duplicates: 13938
 
 # Ignored entries due to the whitelist: 7
 
@@ -34996,6 +34999,7 @@ thesocialsexnetwork.com
 srv.thespacereporter.com
 ad.thisav.com
 get.thisisvegas.com
+thoughtcatalog.com
 affiliates.thrixxx.com
 thrnt.com
 ths9j89.com
@@ -35876,7 +35880,7 @@ bliss-systems-api.co.uk
 affiliates.bookdepository.co.uk
 oasc07.citywire.co.uk
 cnetwidget.creativemark.co.uk
-dailymail.co.uk
+mads.dailymail.co.uk
 customer.heartinternet.co.uk
 affiliate.juno.co.uk
 network.sofeminine.co.uk
