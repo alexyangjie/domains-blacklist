@@ -30933,7 +30933,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13974
+# Ignored duplicates: 13975
 
 # Ignored entries due to the whitelist: 7
 
@@ -35417,6 +35417,7 @@ mbid.advance.net
 freexxxvideoclip.aebn.net
 screencapturewidget.aebn.net
 affiligay.net
+aifoosty.net
 cdncache2-a.akamaihd.net
 contentcache-a.akamaihd.net
 couponcp-a.akamaihd.net
@@ -35644,6 +35645,7 @@ ad.jamba.net
 juicycash.net
 k9x.net
 etrader.kalahari.net
+kaukoafa.net
 kingpinmedia.net
 ba.kioskea.net
 rotabanner.kulichki.net
