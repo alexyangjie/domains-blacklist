@@ -30834,6 +30834,7 @@ atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
 bat.bing.com
+caringzinc.com
 confirmit.com
 cxense.com
 webtrack.dhlglobalmail.com
