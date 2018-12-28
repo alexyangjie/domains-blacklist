@@ -30878,6 +30878,7 @@ mixpanel.com
 g.msn.com
 rel.msn.com
 webmetrics.nintendo-europe.com
+noy90o.com
 optimizely.com
 btrace.qq.com
 qualtrics.com
@@ -34484,6 +34485,7 @@ ll.a.hulu.com
 iframes.hustler.com
 roia.hutchmedia.com
 a.i-sgcm.com
+i22lo.com
 promotions.iasbet.com
 ad.icasthq.com
 icetraffic.com
