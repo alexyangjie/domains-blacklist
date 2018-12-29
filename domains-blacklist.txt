@@ -2084,6 +2084,7 @@ dkg.ifeng.com
 as.g4.ifeng.com
 as.g5s.ifeng.com
 g8f.ifeng.com
+jiejg.ifeng.com
 ao.r7f.ifeng.com
 bdfpbimg.ifengimg.com
 a.ihref.com
