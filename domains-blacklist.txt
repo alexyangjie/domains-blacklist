@@ -3940,7 +3940,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 632
+# Ignored duplicates: 633
 
 # Ignored entries due to the whitelist: 31
 
@@ -16323,7 +16323,6 @@ rewardtv.com
 rewartific.com
 rewdinghes.com
 ad.reyazilim.com
-vast.reyden-x.com
 rezilopompa.com
 reztksclx.com
 reztrack.com
@@ -34688,6 +34687,7 @@ banners.moreniche.com
 mp3ix.com
 mp3vicio.com
 mpmcash.com
+mrporngeek.com
 mrskincash.com
 ac2.msn.com
 g00.msn.com
@@ -34832,6 +34832,7 @@ banner1.pornhost.com
 pornkings.com
 pornleep.com
 pornoow.com
+bnnr.pornpics.com
 cams.pornrabbit.com
 porntagged.com
 porntrack.com
@@ -34910,6 +34911,7 @@ reprak.com
 retoxo.com
 revivestar.com
 rexbucks.com
+reyden-x.com
 rfvoort.com
 tracker1.richcasino.com
 ripbwing.com
@@ -35034,6 +35036,7 @@ tantoporno.com
 targetedinfo.com
 targetedtopic.com
 targetingnow.com
+tdntrack.com
 teaservizio.com
 tech-board.com
 teendestruction.com
@@ -35157,6 +35160,7 @@ showcase.vpsboard.com
 vq40567.com
 vrstage.com
 vzoozv.com
+wallstrads.com
 walprater.com
 wamcash.com
 wantatop.com
@@ -35193,6 +35197,7 @@ wnzmauurgol.com
 wood-pen.com
 worldsbestcams.com
 s1.wp.com
+wpncdn.com
 wptpoker.com
 wqlkp.com
 partners.wrike.com
