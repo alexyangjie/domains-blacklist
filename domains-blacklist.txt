@@ -7703,6 +7703,7 @@ cityadspix.com
 control.cityofcairns.com
 civitik.com
 cixjmaxkemzknxxuyvkbzlhvvgeqmzgopppvefpfkqdraonoez.com
+cixvlpbnceh.com
 log.cizion.com
 cjgpifztileh.com
 cjhdmrcv.com
@@ -11167,6 +11168,7 @@ hzulgipdcbgwad.com
 hzwxkqnqrdfv.com
 i-stats.com
 i-vengo.com
+i22lo.com
 i2idata.com
 i2iserv.com
 i401xox.com
@@ -14266,6 +14268,7 @@ nowinteract.com
 nowspots.com
 nowymmrxj.com
 noxaffiliates.com
+noy90o.com
 npauffnlpgzw.com
 npeanaixbjptsemxrcivetuusaagofdeahtrxofqpxoshduhri.com
 npgdqwtrprfq.com
@@ -16328,6 +16331,7 @@ rewardtv.com
 rewartific.com
 rewdinghes.com
 ad.reyazilim.com
+reyden-x.com
 rezilopompa.com
 reztksclx.com
 reztrack.com
@@ -17796,6 +17800,7 @@ ads.tdbank.com
 tdblazing.com
 tdcgjhfgdxfghfch.com
 tdjoaosibes.com
+tdntrack.com
 tdrmwnjwnccws.com
 tdsjsext.com
 tdstats.com
@@ -18372,6 +18377,7 @@ trkrdel.com
 trksrv44.com
 trktrk011.com
 trmit.com
+trmnsite.com
 trndoffers.com
 tracking.trnox.com
 trombocrack.com
@@ -19497,6 +19503,7 @@ waiads.com
 wakapita.com
 walasearch.com
 walftgaqiemcx.com
+wallstrads.com
 beacon.affil.walmart.com
 beacon.walmart.com
 analytics.mobile.walmart.com
@@ -19827,6 +19834,7 @@ wmzona.com
 wnbdbmqyerfqs.com
 wnp.com
 wnstpoiqrv.com
+wnzmauurgol.com
 wnzxwgatxjuf.com
 wnzzxwysay.com
 wodipaca.com
@@ -23710,6 +23718,7 @@ affroba.net
 afy11.net
 agencytradingdesk.net
 aicontents.net
+aifoosty.net
 air360tracker.net
 airserve.net
 ads.aitype.net
@@ -24485,6 +24494,7 @@ jump-time.net
 junta.net
 kadam.net
 karisimbi.net
+kaukoafa.net
 kaunairu.net
 t.kctag.net
 kerg.net
@@ -25106,6 +25116,7 @@ analytics.traidnt.net
 p.travelsmarter.net
 trekmedia.net
 treksol.net
+triptease.net
 trkclk.net
 trkme.net
 truehits.net
@@ -30843,7 +30854,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4310
+# Ignored duplicates: 4311
 
 # Ignored entries due to the whitelist: 8
 
@@ -30883,7 +30894,6 @@ mixpanel.com
 g.msn.com
 rel.msn.com
 webmetrics.nintendo-europe.com
-noy90o.com
 optimizely.com
 btrace.qq.com
 qualtrics.com
@@ -30939,7 +30949,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13975
+# Ignored duplicates: 13983
 
 # Ignored entries due to the whitelist: 7
 
@@ -34152,7 +34162,6 @@ chopstick16.com
 oascentral.chron.com
 circularhub.com
 citysex.com
-cixvlpbnceh.com
 topbinaryaffiliates.ck-cdn.com
 cl96rwprue.com
 dart.clearchannel.com
@@ -34491,7 +34500,6 @@ ll.a.hulu.com
 iframes.hustler.com
 roia.hutchmedia.com
 a.i-sgcm.com
-i22lo.com
 promotions.iasbet.com
 ad.icasthq.com
 icetraffic.com
@@ -34917,7 +34925,6 @@ reprak.com
 retoxo.com
 revivestar.com
 rexbucks.com
-reyden-x.com
 rfvoort.com
 tracker1.richcasino.com
 ripbwing.com
@@ -35042,7 +35049,6 @@ tantoporno.com
 targetedinfo.com
 targetedtopic.com
 targetingnow.com
-tdntrack.com
 teaservizio.com
 tech-board.com
 teendestruction.com
@@ -35166,7 +35172,6 @@ showcase.vpsboard.com
 vq40567.com
 vrstage.com
 vzoozv.com
-wallstrads.com
 walprater.com
 wamcash.com
 wantatop.com
@@ -35199,7 +35204,6 @@ athena-ads.wikia.com
 wildhookups.com
 wildmatch.com
 ad.winningpartner.com
-wnzmauurgol.com
 wood-pen.com
 worldsbestcams.com
 s1.wp.com
@@ -35433,7 +35437,6 @@ mbid.advance.net
 freexxxvideoclip.aebn.net
 screencapturewidget.aebn.net
 affiligay.net
-aifoosty.net
 cdncache2-a.akamaihd.net
 contentcache-a.akamaihd.net
 couponcp-a.akamaihd.net
@@ -35661,7 +35664,6 @@ ad.jamba.net
 juicycash.net
 k9x.net
 etrader.kalahari.net
-kaukoafa.net
 kingpinmedia.net
 ba.kioskea.net
 rotabanner.kulichki.net
