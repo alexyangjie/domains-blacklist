@@ -35400,6 +35400,7 @@ nicoad.nicovideo.jp
 .iads.js
 -doubleclick.min.js
 .popunder.js
+.prebid.js
 .weborama.js
 ad.about.co.kr
 ad.imad.co.kr
