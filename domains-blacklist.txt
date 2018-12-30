@@ -3950,7 +3950,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 633
+# Ignored duplicates: 634
 
 # Ignored entries due to the whitelist: 31
 
@@ -4355,6 +4355,7 @@ leadlab.click
 llladiez.click
 lovacmar.click
 nm7xq628.click
+nompakru.click
 oneopenclose.click
 openclose.click
 poogriry.click
@@ -5544,6 +5545,7 @@ adotomy.com
 adotsolution.com
 adotube.com
 adovida.com
+adovr.com
 adpacks.com
 adparlor.com
 adpaths.com
@@ -15140,6 +15142,7 @@ pipfire.com
 pipilazipi.com
 pipilida.com
 pippio.com
+pirdoust.com
 piroji.com
 pitatagata.com
 pitduougk.com
@@ -16925,6 +16928,7 @@ servingtrkid.com
 servustats.com
 sessioncam.com
 sessionm.com
+sessionstack.com
 setnewsonedayc.com
 seuojaesymeriv.com
 sev4ifmxa.com
@@ -22068,6 +22072,7 @@ clickmedia.co.id
 roxedltd.co.id
 sitti.co.id
 props.id
+toads.id
 publish.web.id
 distilled.ie
 irelandmetrix.ie
@@ -22858,12 +22863,14 @@ ironbeast.io
 t.karte.io
 knowlead.io
 ga.kvideo.io
+l2.io
 track.leadhit.io
 leadintel.io
 leadsmonitor.io
 analytics.liftoff.io
 limbik.io
 links.io
+livesession.io
 cdns.lodeo.io
 logmatic.io
 lp4.io
@@ -25670,6 +25677,7 @@ pzkysq.pink
 adclick.pk
 resonance.pk
 stats1.tune.pk
+stats2.tune.pk
 adstat.4u.pl
 stat.4u.pl
 adbid.pl
@@ -30954,7 +30962,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13984
+# Ignored duplicates: 13988
 
 # Ignored entries due to the whitelist: 7
 
@@ -33770,7 +33778,6 @@ bumskontakte.ch
 ad.search.ch
 accesssearch.click
 mdtrack.click
-nompakru.click
 blyxb.27667.club
 olswr.27684.club
 anothere.club
@@ -33928,7 +33935,6 @@ adlandpro.com
 admez.com
 adnetxchange.com
 adobelogin.com
-adovr.com
 adperiun.com
 adpron.com
 adrenovate.com
@@ -34817,7 +34823,6 @@ pictureturn.com
 pinkberrytube.com
 pinkhoneypots.com
 ads.pinterest.com
-pirdoust.com
 plantaosexy.com
 platinumdown.com
 inline.playbryte.com
@@ -35332,7 +35337,6 @@ banner.mob.hr
 -ads4.htm
 ad.netmedia.hu
 ad.kaskus.co.id
-toads.id
 cfs1.uzone.id
 makemoneyonline.2yu.in
 media.onlineteachers.co.in
