@@ -3950,7 +3950,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 634
+# Ignored duplicates: 639
 
 # Ignored entries due to the whitelist: 31
 
@@ -6504,6 +6504,7 @@ august15download.com
 aultemeztokc.com
 aunmdhxrco.com
 auspipe.com
+authcaptcha.com
 authmoumrl.com
 authorinsights.com
 autkmgrbdlbj.com
@@ -7631,6 +7632,7 @@ chanicut.com
 count.channeladvisor.com
 t.channeladvisor.com
 tracking2.channeladvisor.com
+channeldate.com
 cts.channelintelligence.com
 cts-log.channelintelligence.com
 cts-secure.channelintelligence.com
@@ -7933,6 +7935,7 @@ coinhive-manager.com
 coinhiveproxy.com
 coinimp.com
 coinminerz.com
+coinminingonline.com
 coinnebula.com
 coinsicmp.com
 coinsup.com
@@ -9702,6 +9705,7 @@ fifwin.com
 fiksu.com
 filetarget.com
 filitrac.com
+filmoljupci.com
 filtermomosearch.com
 filtonay.com
 fimserve.com
@@ -14171,6 +14175,7 @@ niklesrov.com
 nikxhdrys.com
 niltutch.com
 nimdinb.com
+nimiq.com
 nimiqpool.com
 ninestats.com
 track.ning.com
@@ -15008,6 +15013,7 @@ pemgeccz.com
 geoip.pennlive.com
 mms.pennlive.com
 pennzxycrdmw.com
+penspade.com
 penuma.com
 pepperjamnetwork.com
 peqdwnztlzjp.com
@@ -18634,6 +18640,7 @@ ufkdsnlvxoqw.com
 ufmnicckqyru.com
 ufnozeotbqsn.com
 ufnzapqvrbyx.com
+ufpcdn.com
 ufraton.com
 ufrzvzpympib.com
 ufugfbtpp.com
@@ -21122,6 +21129,7 @@ us.3zs0.date
 66b9c396b3b06a7.date
 6mg38boa.date
 98ccb39c305ef1a.date
+alflying.date
 bf41f552ceb9a150ee17.date
 cf6d25bb1333544.date
 d8acddffe978b5dfcae6.date
@@ -21129,6 +21137,8 @@ d9c47b2e6aec5c8dbdab.date
 dkf9g61v.date
 dll5uyyj.date
 fg18kvv7.date
+flightsy.date
+flightzy.date
 freecontent.date
 gettate.date
 hostingcloud.date
@@ -21142,6 +21152,7 @@ statistic.date
 xlw5e582.date
 sfo.xsgfhkwd.date
 yqaywudifu.date
+zymerget.date
 123-counter.de
 13p76nnir.de
 pixel.1und1.de
@@ -21787,6 +21798,7 @@ datasecu.download
 dataservices.download
 dt39ojrs.download
 f7a97da7bb4390.download
+freecontent.download
 h166g9ej.download
 hostingcloud.download
 is3eho4w.download
@@ -21820,6 +21832,7 @@ contadordevisitas.es
 contadorgratis.es
 analytics.epi.es
 estadisticasgratis.es
+flags.es
 gaug.es
 adserver.kimia.es
 contadores.miarroba.es
@@ -21900,13 +21913,16 @@ sessions.exchange
 04xdqcfz.faith
 busyd5s0.faith
 ckdegfi5.faith
+freecontent.faith
 gettate.faith
 hodling.faith
 hostingcloud.faith
+jshosting.faith
 rxlex.faith
 wmrdwhv3.faith
 xbt0izlb.faith
 xmr6v4yg.faith
+zymerget.faith
 insight.fonecta.fi
 gallupnet.fi
 kavijaseuranta.fi
@@ -21989,6 +22005,7 @@ jonjo.ga
 events.kaloo.ga
 geo.kaloo.ga
 mercy.ga
+moneone.ga
 onerror.ga
 presjots.ga
 puttme.ga
@@ -22005,6 +22022,7 @@ cfcdist.gdn
 cloudcdn.gdn
 dlfja.gdn
 epital.gdn
+httpp.gdn
 links.boom.ge
 counter.top.ge
 clean.gg
@@ -22025,6 +22043,7 @@ mhiobjnirs.gq
 mwor.gq
 oei1.gq
 onerror.gq
+pasoherb.gq
 replase.gq
 scriptall.gq
 ssl4us.gq
@@ -22044,9 +22063,12 @@ tr.n2.hk
 networld.hk
 prf.hn
 aclickoooo.host
+anybest.host
+cdn-code.host
 cdn-jquery.host
 mxf.dfp.host
 gus.host
+mighbest.host
 staticsfs.host
 xfast.host
 linker.hr
@@ -22153,6 +22175,7 @@ x-ads.in
 5362367e.info
 69m.info
 7window7.info
+aalbbh84.info
 absential.info
 acinster.info
 acknowinge.info
@@ -22344,6 +22367,7 @@ fungoiddempseyimpasse.info
 fzoneli.info
 galkama.info
 gamsano.info
+garrogy.info
 gearnews.info
 geede.info
 gegmanu.info
@@ -22516,6 +22540,7 @@ natsety.info
 negomes.info
 nekopod.info
 ner-de-mi-nis-6.info
+netflare.info
 netupdater.info
 network-media.info
 newisnews.info
@@ -22591,6 +22616,7 @@ pistoma.info
 pitally.info
 affiliation.planethoster.info
 playerassets.info
+plexcoin.info
 pobaftern.info
 poblemi.info
 pobliba.info
@@ -22930,6 +22956,7 @@ sprkl.io
 sqate.io
 collector.sspinc.io
 sdk.starbolt.io
+streambeam.io
 tracker.streamroot.io
 log1.survey.io
 taps.io
@@ -24191,6 +24218,7 @@ codigobarras.net
 cogmatch.net
 cogocast.net
 coinadvert.net
+coinimp.net
 collective-media.net
 com-wkejf32ljd23409system.net
 connectedads.net
@@ -24672,6 +24700,7 @@ mologiq.net
 monetate.net
 monitus.net
 monkeybroker.net
+monkeyminer.net
 more427.net
 motosal.net
 movad.net
@@ -24690,6 +24719,8 @@ adv.mxmcdn.net
 mxptint.net
 my-layer.net
 mycooliframe.net
+bauersagtnein.myeffect.net
+gobba.myeffect.net
 mypagerank.net
 myplayerhd.net
 tracker.myseofriend.net
@@ -25178,6 +25209,7 @@ stats.videodelivery.net
 videoroll.net
 stats.videoseyredin.net
 vidout.net
+js.vidoza.net
 view-affiliwelt.net
 viewablemedia.net
 vipadvert.net
@@ -25531,6 +25563,7 @@ ads.n-ws.org
 neki.org
 newseek.org
 show.niqiu99.org
+notmining.org
 ntlab.org
 top.nydus.org
 obitel.org
@@ -25635,6 +25668,7 @@ server.zombie-tv.org
 zwaar.org
 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
 altavista.ovh
+m.anyfiles.ovh
 descz.ovh
 encoding.ovh
 fcs.ovh
@@ -25654,20 +25688,24 @@ xaxaxa.ovh
 ah77llcy.party
 aservices.party
 b2ce5ba15afd9.party
+blockchained.party
 bsyauqwerd.party
 c3caf79a8df36.party
 coinhive-proxy.party
 d27c2fc111e8e.party
 d2aizum1.party
 ezmay9jo.party
+freecontent.party
 goredirect.party
 hodlers.party
 hodling.party
+hostingcloud.party
 j880iceh.party
 jshosting.party
 rcersu5g.party
 rhmed6po.party
 xcvgdf.party
+zymerget.party
 adsdot.ph
 adserve.ph
 auditoire.ph
@@ -25865,6 +25903,7 @@ tracking.redirect.pub
 a4to4.pw
 adblockerkillswebsites.pw
 adcamel.pw
+anybest.pw
 us.b3018.pw
 bdzhhjnml.pw
 belicimo.pw
@@ -25878,6 +25917,7 @@ click4girlz.pw
 clod.pw
 dcplayeza.pw
 dle-news.pw
+dubester.pw
 errtmotmw.pw
 furginator.pw
 gitcdn.pw
@@ -25887,6 +25927,7 @@ interestingz.pw
 interfax.pw
 kbllskkwvp.pw
 marketnews.pw
+mighbest.pw
 minero.pw
 minr.pw
 mpay69.pw
@@ -25923,6 +25964,7 @@ e22c62690bd1.racing
 f254b5a7fa4f.racing
 freecontent.racing
 gettate.racing
+hostingcloud.racing
 j8w4xqtu.racing
 jshosting.racing
 xfwkn8au.racing
@@ -25942,8 +25984,10 @@ daede5b1821.review
 f35983cb8ed.review
 fcve2mi2.review
 fkvnjw6d.review
+freecontent.review
 ghosthis.review
 hmal5re3.review
+hostingcloud.review
 iaheyftbsn.review
 izoyshe6.review
 jshosting.review
@@ -26667,6 +26711,7 @@ iqok.ru
 iqsoh.ru
 iqtewa.ru
 irdanen.ru
+mysite.irkdsu.ru
 irtula.ru
 iryazan.ru
 islamclick.ru
@@ -27700,6 +27745,7 @@ zorkabiz.ru
 zozoter.ru
 pir.zspb.ru
 api.ztgm17.ru
+mm.zubovskaya-banya.ru
 zurgerya.ru
 zz2017.ru
 bid.run
@@ -27712,9 +27758,11 @@ c4p69ovw.science
 chainblock.science
 corrosif.science
 dlfxyr7b.science
+freecontent.science
 hodling.science
 hostingcloud.science
 iocawy99.science
+jshosting.science
 kge1ru01.science
 r91c6tvs.science
 ry0brv6w.science
@@ -27785,10 +27833,12 @@ adscpm.site
 adshark.site
 adshost.site
 akamaihd.site
+anybest.site
 apiyandex.site
 boostads.site
 d73e096e98a80e99146.site
 dom002.site
+dubester.site
 filadmir.site
 gctwh9xc.site
 gitcdn.site
@@ -27801,6 +27851,7 @@ jfx61qca.site
 kkddlt2f.site
 klnrew.site
 less-css.site
+mighbest.site
 mobileofferplace.site
 mwgdibcu.site
 pmndbsjd.site
@@ -27846,6 +27897,7 @@ gpbqs.24590.space
 9441f9cf1f1b3ade7.space
 98fefefb7a692cafc.space
 ablaze-class.space
+anybest.space
 apps4.space
 appsha2.space
 appsha4.space
@@ -27860,6 +27912,7 @@ copylon.space
 cryptoads.space
 csklde.space
 dexim.space
+dubester.space
 filternal.space
 flowplayer.space
 gets-web.space
@@ -27908,12 +27961,14 @@ assetscdn.stream
 d7f25580a8da471f141.stream
 freecontent.stream
 gkol15n1.stream
+hostingcloud.stream
 jshosting.stream
 kzkjewg7.stream
 minexmr.stream
 moneroocean.stream
 omoukkkj.stream
 tde2wkyv.stream
+wasm.stream
 webassembly.stream
 zndaowjdnf.stream
 zymerget.stream
@@ -27969,6 +28024,18 @@ truehits.in.th
 truehits1.gits.net.th
 truehits3.gits.net.th
 adcfrthyo.tk
+aeros01.tk
+aeros02.tk
+aeros03.tk
+aeros04.tk
+aeros05.tk
+aeros06.tk
+aeros07.tk
+aeros08.tk
+aeros09.tk
+aeros10.tk
+aeros11.tk
+aeros12.tk
 andite.tk
 arizona-miner.tk
 axoncoho.tk
@@ -28165,6 +28232,8 @@ webservis.gen.tr
 b80077a4be3ec4763.trade
 ccvwtdtwyu.trade
 f08253c9a45a7c723.trade
+freecontent.trade
+hostingcloud.trade
 jshosting.trade
 knopka.trade
 mbbxbbtm.trade
@@ -28217,6 +28286,7 @@ tracking.ustream.tv
 l0-secure.videohub.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+play.vidzi.tv
 viedeo2k.tv
 log.wat.tv
 zaehler.tv
@@ -28552,6 +28622,7 @@ wshp1rbq.website
 8162bf1e58d95.win
 94a564b26cf87.win
 af56b5faa8d5c.win
+alflying.win
 as1a6nl8.win
 cf09304f5f138.win
 dsdsc.win
@@ -28559,10 +28630,14 @@ e3kgk5su.win
 ea38c0b6bbb44.win
 f5xzc55l.win
 video.flashiest-vacation.win
+flightsy.win
+flighty.win
+flightzy.win
 freecontent.win
 fxox4wvv.win
 hashing.win
 hemnes.win
+hostingcloud.win
 j4y01i3o.win
 jshosting.win
 lindon-pool.win
@@ -28657,6 +28732,7 @@ aleinvest.xyz
 alemoney.xyz
 alltheladyz.xyz
 aqcmri.xyz
+asasfasdf.xyz
 asermtawlfs.xyz
 avero.xyz
 axlpf.xyz
@@ -28762,6 +28838,7 @@ smrtbnr.xyz
 sohbetpaneli.xyz
 stabilityappointdaily.xyz
 tabzz.xyz
+tidafors.xyz
 tpjz.tmuurnthtf.xyz
 torads.xyz
 traflabs.xyz
@@ -28772,6 +28849,7 @@ uplvcx.xyz
 upxip.xyz
 veracdn.xyz
 verata.xyz
+videoplayer2.xyz
 virtl.xyz
 whatsapp-chat.xyz
 winvideo.xyz
@@ -28811,7 +28889,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13545
+# Ignored duplicates: 13615
 
 # Ignored entries due to the whitelist: 8
 
@@ -29066,7 +29144,6 @@ coins.arstechnica.com
 asicpool.com
 asicpools.com
 auroramine.com
-authcaptcha.com
 authedmine.com
 backup-pool.com
 bandaomodel.com
@@ -29152,7 +29229,6 @@ coinhove.com
 coinive.com
 coinjive.com
 coinminex.com
-coinminingonline.com
 coinotron.com
 coinsolver.com
 coinsprofit.com
@@ -29551,11 +29627,7 @@ fearmypenguin.ath.cx
 authedwebmine.cz
 bitcoin.cz
 ecoinz.cz
-alflying.date
 clickwith.date
-flightsy.date
-flightzy.date
-zymerget.date
 bitcoin.de
 bitcoin-game.de
 bitmainer.de
@@ -29583,7 +29655,6 @@ dogecoin.dog
 cliggi.download
 delivery1class.download
 deliveryclub-6589.download
-www.freecontent.download
 gamestoredownload.download
 ullnot.download
 hashcoins.ee
@@ -29616,9 +29687,6 @@ korbit.express
 myethereumwallet.express
 poloniex.express
 ethclassic.faith
-freecontent.faith
-www.jshosting.faith
-zymerget.faith
 bittrex.family
 cncoin.farm
 karbo.farm
@@ -29647,7 +29715,6 @@ mariadeabreu.ga
 minelearnto.ga
 minmissy.ga
 mlcros0ft.ga
-moneone.ga
 selverrytony.ga
 sinussoda.ga
 theslots.ga
@@ -29659,7 +29726,6 @@ zinterest.ga
 dogepool.rf.gd
 cfcnet.gdn
 cloudmedia.gdn
-httpp.gdn
 labaleine.gg
 pool.gold
 6ow9rhxtolls.gq
@@ -29680,7 +29746,6 @@ minmissy.gq
 mlcr0soft.gq
 mlcros0ft.gq
 mylovesister.gq
-pasoherb.gq
 pool.gq
 pricefbcf.gq
 rezak.gq
@@ -29691,9 +29756,6 @@ wmasters.gq
 xinchao13.gq
 zpool.guru
 bitcoin.inc.hk
-anybest.host
-cdn-code.host
-mighbest.host
 pocketgolf.host
 stratum.sye.host
 systemlog.host
@@ -29714,7 +29776,6 @@ p2pool.in
 simpleco.in
 stati.in
 vertco.in
-aalbbh84.info
 mine.ar-net.info
 pool.ar-net.info
 asicpool.info
@@ -29755,10 +29816,8 @@ myeytherwallet.info
 down.mys2016.info
 js.mys2016.info
 mytlnerwalilet.info
-api.netflare.info
 ough.info
 p2pool.info
-plexcoin.info
 qrlmining.info
 rbklong.info
 rbkshort.info
@@ -29835,7 +29894,6 @@ nidscom.io
 p2pool.io
 pandapool.io
 rainpool.io
-cdn.streambeam.io
 uax.io
 ubiqpool.io
 ultimatepool.io
@@ -29950,7 +30008,6 @@ d3ddidv77grh0f.cloudfront.net
 cloudpools.net
 cocozuma.net
 coinhive.net
-coinimp.net
 cool-pool.net
 crypto-coins.net
 cryptominer.net
@@ -29988,11 +30045,8 @@ miningmania.net
 m.miricommunity.net
 monero-miner.net
 monerominers.net
-monkeyminer.net
 mycoinwallet.net
-bauersagtnein.myeffect.net
 carry.myeffect.net
-gobba.myeffect.net
 myetherwallets.net
 njbtcmine.net
 p00ls.net
@@ -30017,7 +30071,6 @@ ucrypto.net
 unimining.net
 universalpool.net
 vcrypt.net
-js.vidoza.net
 play.vb.wearesaudis.net
 www193.wixdns.net
 xeminer.net
@@ -30151,7 +30204,6 @@ ww1.netcodepool.org
 www.netcodepool.org
 wwwe.netcodepool.org
 poppoob.no-ip.org
-notmining.org
 p00l.org
 p2pool.org
 phoenixcoin.org
@@ -30168,15 +30220,10 @@ bitcoinp2pool.zapto.org
 litecoinp2pool.zapto.org
 p2poolchina.zapto.org
 pool.zeropool.org
-m.anyfiles.ovh
 bitcoinzguiding.ovh
 electroneum.ovh
 poloniex.partners
-blockchained.party
-freecontent.party
-www.hostingcloud.party
 myoffers.party
-zymerget.party
 scriptproxy.pie.net.pk
 xmr.101010.pl
 best-cdn.pl
@@ -30232,13 +30279,10 @@ zenmine.pro
 zhash.pro
 bitcoin.co.pt
 xmr.pt
-anybest.pw
 at0m.pw
 bmpx.pw
 coinmine.pw
-dubester.pw
 mining.usa.hypernova.pw
-mighbest.pw
 stat.miraben.pw
 64.myxmr.pw
 omfg.pw
@@ -30251,11 +30295,8 @@ thecoin.pw
 torrent.pw
 xmrm.pw
 play.anyname.zelfo.pw
-www.hostingcloud.racing
 buyandfun.review
 clickandbuy.review
-www.freecontent.review
-www.hostingcloud.review
 travel-offers.review
 bacm.ro
 miner.rocks
@@ -30296,7 +30337,6 @@ hjnbvg.ru
 gate.hws.ru
 ns.hws.ru
 igdxzzeglrlqm.ru
-mysite.irkdsu.ru
 irrrymucwxjl.ru
 japveny.ru
 jhfdmiwcgnty.ru
@@ -30355,10 +30395,7 @@ yoaabgvkm.ru
 mine.zarabotaibitok.ru
 zivbxion.ru
 zjemch.ru
-mm.zubovskaya-banya.ru
 zzqhsrg.ru
-freecontent.science
-www.jshosting.science
 js.pascal1.science
 pascal3.science
 moneroseeds.se
@@ -30394,22 +30431,17 @@ harvest.surge.sh
 8000plus.si
 qp.si
 ron.si
-anybest.site
 coiner.site
 coinone.site
 cryptobrowser.site
 cryptosearch.site
 play.mnr.dorama.site
-dubester.site
 etherdelta.site
 korbit.site
-mighbest.site
 p2pool.site
 whchsvlxch.site
 pool.ski
-anybest.space
 devappgrant.space
-dubester.space
 electroneum.space
 extensionsapiversion.space
 ffjk.space
@@ -30420,9 +30452,7 @@ mine.cc.st
 eligius.st
 forre.st
 app.abcxyz.stream
-www.hostingcloud.stream
 tainiesonline.stream
-wasm.stream
 bijo.style
 uranus.kei.su
 wireless.kei.su
@@ -30451,18 +30481,6 @@ ablen10.tk
 ablen11.tk
 ablen12.tk
 abreu123.tk
-aeros01.tk
-aeros02.tk
-aeros03.tk
-aeros04.tk
-aeros05.tk
-aeros06.tk
-aeros07.tk
-aeros08.tk
-aeros09.tk
-aeros10.tk
-aeros11.tk
-aeros12.tk
 applest.tk
 binm.tk
 bnm.tk
@@ -30509,16 +30527,13 @@ socialextensions.top
 template-download.top
 theshoppingoffers.top
 stratum.1ex.trade
-freecontent.trade
 guardcoin.trade
-www.hostingcloud.trade
 tazm9p7tso.trade
 theshoppingoffers.trade
 fili.tv
 s1.hqq.tv
 s2.hqq.tv
 hiy.vidzi.tv
-play.vidzi.tv
 m1.stream.vidzi.tv
 m2.stream.vidzi.tv
 play.stream.vidzi.tv
@@ -30550,18 +30565,13 @@ webcoin.us
 binance.ventures
 64uq73u7ug.webcam
 ait7ee.win
-alflying.win
 apdrive.win
 bitcoiner.win
 clickandbuy.win
 coinhub.win
 eeme7j.win
 eeme7je.win
-flightsy.win
-flighty.win
-flightzy.win
 globalthlinkalgounsi.win
-www.hostingcloud.win
 masolo.win
 randomsatoshi.win
 superpool.win
@@ -30631,13 +30641,11 @@ rp5jxi.xyz
 s-games.xyz
 sb1xju.xyz
 setup-game.xyz
-tidafors.xyz
 ui2ulh.xyz
 uloma.xyz
 update-flash-win64.xyz
 updateflash.xyz
 ush1.xyz
-videoplayer2.xyz
 bitly.wa4eri.xyz
 win-flash.xyz
 win64-flash.xyz
@@ -30867,7 +30875,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4311
+# Ignored duplicates: 4312
 
 # Ignored entries due to the whitelist: 8
 
@@ -30908,7 +30916,6 @@ g.msn.com
 rel.msn.com
 webmetrics.nintendo-europe.com
 optimizely.com
-penspade.com
 btrace.qq.com
 qualtrics.com
 track2.royalmail.com
@@ -30963,7 +30970,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13989
+# Ignored duplicates: 13995
 
 # Ignored entries due to the whitelist: 7
 
@@ -34171,7 +34178,6 @@ cennter.com
 certified-apps.com
 cfcloudcdn.com
 chachatool.com
-channeldate.com
 che-ka.com
 chestyry.com
 pub.chinadailyasia.com
@@ -35148,7 +35154,6 @@ cerebral.typn.com
 eva.ucas.com
 ucontrate.com
 slot.union.ucweb.com
-ufpcdn.com
 mediamgr.ugo.com
 unaspajas.com
 supply.upjers.com
@@ -35360,7 +35365,6 @@ weeklyprizewinner.com-net.info
 erotizer.info
 flipflapflo.info
 fonderreader.info
-garrogy.info
 goclick.info
 host-go.info
 impotencehelp.info
@@ -35998,7 +36002,6 @@ feeder.xxx
 07zq44y2tmru.xyz
 data.13dc235d.xyz
 adult.xyz
-asasfasdf.xyz
 base.filedot.xyz
 fusttds.xyz
 hitopadxdo.xyz
