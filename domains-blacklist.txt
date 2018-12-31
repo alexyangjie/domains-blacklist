@@ -30962,7 +30962,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13988
+# Ignored duplicates: 13989
 
 # Ignored entries due to the whitelist: 7
 
@@ -33862,6 +33862,7 @@ xpop.co
 100pour.com
 banner.101xp.com
 10y5gehv.com
+11c9e55308a.com
 11x11.com
 api.140proof.com
 15yomodels.com
@@ -34079,6 +34080,7 @@ becomicse.com
 bedformj.com
 banners.beevpn.com
 belamicash.com
+bellatraffic.com
 best2017games.com
 bestholly.com
 bestssn.com
@@ -34168,6 +34170,7 @@ cennter.com
 certified-apps.com
 cfcloudcdn.com
 chachatool.com
+channeldate.com
 che-ka.com
 chestyry.com
 pub.chinadailyasia.com
