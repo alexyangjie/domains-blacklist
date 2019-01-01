@@ -1784,6 +1784,7 @@ fm6w.com
 fmgoal.com
 fnkjj.com
 focuscat.com
+ypa.focusoftime.com
 focusprolight.com
 forrerri.com
 fotao9.com
@@ -3950,7 +3951,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 639
+# Ignored duplicates: 640
 
 # Ignored entries due to the whitelist: 31
 
@@ -9837,7 +9838,6 @@ fobjoccwkrkv.com
 focalex.com
 analysis.focalprice.com
 focuscoat.com
-ypa.focusoftime.com
 foditgoz.com
 fofjazpwccc.com
 foganonura.com
