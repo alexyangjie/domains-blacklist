@@ -15405,6 +15405,7 @@ practicetoothpaste.com
 practively.com
 pradma.com
 praeicwgzapf.com
+prctxexizzpp.com
 precisionclick.com
 precisioncounter.com
 predictad.com
@@ -30970,7 +30971,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13995
+# Ignored duplicates: 13996
 
 # Ignored entries due to the whitelist: 7
 
@@ -34879,7 +34880,6 @@ portable-basketball.com
 sbhc.portalhc.com
 pourmajeurs.com
 ppc-direct.com
-prctxexizzpp.com
 predictivdisplay.com
 partner.premiumdomains.com
 premiumhdv.com
