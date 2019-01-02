@@ -3955,7 +3955,7 @@ gotourl.xyz
 
 # Ignored duplicates: 640
 
-# Ignored entries due to the whitelist: 31
+# Ignored entries due to the whitelist: 32
 
 js.cdn.ac
 8iaxbnbk.accountant
@@ -5195,6 +5195,7 @@ accouncilist.com
 accumulatorg.com
 accumulatork.com
 accuserveadsystem.com
+acdektqffm.com
 acdnpro.com
 acduswfvyjylzq.com
 acecounter.com
@@ -5313,6 +5314,7 @@ adbroo.com
 adbrook.com
 adbuddiz.com
 adbuff.com
+adbukaserver.com
 adbull.com
 adbutler.com
 adbuyer.com
@@ -6110,6 +6112,7 @@ allsiemens.com
 alltracked.com
 allyes.com
 almosto.com
+alocdn.com
 ad.aloodo.com
 alphabird.com
 alphabirdnetwork.com
@@ -6347,6 +6350,7 @@ gu-pix.appspot.com
 javascriptcounter.appspot.com
 optimizely.appspot.com
 petitionermaster.appspot.com
+ping-dot-acp-magento.appspot.com
 qubitanalytics.appspot.com
 sc-analytics.appspot.com
 tap-nexus.appspot.com
@@ -7580,6 +7584,7 @@ ce69817852420b7fea.com
 ce9c00f41ae8cdd.com
 cebadu.com
 cedexis.com
+ceetoaho.com
 ceidxneoogpuh.com
 celebros-analytics.com
 celebrus.com
@@ -8556,6 +8561,7 @@ derlatas.com
 derploime.com
 derqboxqca.com
 descapita.com
+descrepush.com
 sp.desertsun.com
 sp.desmoinesregister.com
 destinationurl.com
@@ -9658,6 +9664,7 @@ feljack.com
 ivw.fem.com
 fengrtnoxuwwe.com
 fenixm.com
+fepzygektdt.com
 feqlklwaafgc.com
 fer-ta.com
 feranewsblogone.com
@@ -11717,6 +11724,7 @@ iu16wmye.com
 iu1xoe7o.com
 iuabiwhclldt.com
 iuncajvw.com
+iuooczzbi.com
 iupqelechcmj.com
 iuumkigdfcz.com
 iuymaolvzery.com
@@ -13143,6 +13151,7 @@ manuelu.com
 maokdata.com
 maploco.com
 mapmyuser.com
+marfeelcache.com
 margadoncat.com
 marginalwoodfernrounddance.com
 marimedia.com
@@ -17141,6 +17150,7 @@ skyglue.com
 skyscrpr.com
 tracking.skyword.com
 skzhfyqozkic.com
+skzpsnpp.com
 sl-ct5.com
 analytics.slashdotmedia.com
 stats.slashgear.com
@@ -17669,6 +17679,7 @@ swpopynngk.com
 abtest.swrve.com
 swtwtbiwbjvq.com
 sxdpyazzofu.com
+sxedqvvaxxj.com
 sxhpwsgdyhw.com
 sxiyvcqnp.com
 sxjhskptisd.com
@@ -18006,6 +18017,7 @@ thowytaoo.com
 thpsflsjw.com
 thqwivyhdpoem.com
 throattrees.com
+thrtle.com
 thsfkcymkoce.com
 thterras.com
 thtlvguaqmkv.com
@@ -20430,6 +20442,7 @@ ydxzdniz.com
 yeabble.com
 yeahmobi.com
 yebadu.com
+yefttzzn.com
 yehazsnxdevr.com
 yejkuusxijvzz.com
 yekpop.com
@@ -20907,6 +20920,7 @@ znbdr.com
 znbokxhkwx.com
 znfnwozd.com
 znmrgzozlohe.com
+znnabrxnotlm.com
 znnmt.com
 znnmzggbw.com
 znoumvve.com
@@ -23953,6 +23967,7 @@ d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d17rlarvg2khuc.cloudfront.net
+d18p8z0ptb8qab.cloudfront.net
 d19182vyfoustz.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d19uh5b0umbjrr.cloudfront.net
@@ -24967,6 +24982,7 @@ ping.xlmc.sandai.net
 saple.net
 saveads.net
 sayyac.net
+sc-static.net
 scoutanalytics.net
 counter.scribblelive.net
 sftrack.searchforce.net
@@ -25342,6 +25358,7 @@ pub.network
 searchdims.network
 omni-ads.omni.news
 vrt.news
+adbuka.com.ng
 botman.ninja
 realtracking.ninja
 active24stats.nl
@@ -25422,6 +25439,7 @@ afbanner.kinobomber3.online
 markboil.online
 mobalert.online
 moneromining.online
+murkymouse.online
 obliv.online
 onlinereserchstatistics.online
 onlivestreams.online
@@ -25733,6 +25751,7 @@ adtraffic.pl
 tracker.advisable.pl
 stats.asp24.pl
 b117f8da23446a91387efea0e428392a.pl
+burdaffi.burdadigital.pl
 cdn-analytics.pl
 analytics.ceneo.pl
 partnerzyapi.ceneo.pl
@@ -30973,7 +30992,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13996
+# Ignored duplicates: 14009
 
 # Ignored entries due to the whitelist: 7
 
@@ -33931,14 +33950,12 @@ tool.acces-vod.com
 ad.accessmediaproductions.com
 player.accoona.com
 accouncila.com
-acdektqffm.com
 acmexxx.com
 adf.acrosspf.com
 actionlocker.com
 ad-411.com
 ad-u.com
 ad4partners.com
-adbukaserver.com
 adcitrus.com
 addbags.com
 adenabler.com
@@ -34178,7 +34195,6 @@ lw1.cdmediaworld.com
 cdnjke.com
 image.cecash.com
 ceepq.com
-ceetoaho.com
 celeb-ads.com
 cs.celebbusters.com
 celogera.com
@@ -34269,7 +34285,6 @@ demanier.com
 dematom.com
 denotyro.com
 depravedwhores.com
-descrepush.com
 desklks.com
 newopenx.detik.com
 as.devbridge.com
@@ -34582,7 +34597,6 @@ itmcash.com
 itrxx.com
 itslive.com
 itsup.com
-iuooczzbi.com
 iwanttodeliver.com
 iwebanalyze.com
 iwinnersadvantage.com
@@ -34686,7 +34700,6 @@ pod.manplay.com
 aff.marathonbet.com
 mb.marathonbet.com
 marfeel.com
-marfeelcache.com
 markswebcams.com
 marticula.com
 masterwanker.com
@@ -35035,7 +35048,6 @@ skeettools.com
 api-merchants.skimlinks.com
 authentication-api.skimlinks.com
 affiliatehub.skybet.com
-skzpsnpp.com
 slendastic.com
 dtrk.slimcdn.com
 get.slotocash.com
@@ -35080,7 +35092,6 @@ clicks.superpages.com
 aff.svjump.com
 ard.sweetdiscreet.com
 sweetstudents.com
-sxedqvvaxxj.com
 talk-blog.com
 tantoporno.com
 targetedinfo.com
@@ -35296,7 +35307,6 @@ iframe.travel.yahoo.com
 ysm.yahoo.com
 jscode.yavli.com
 yazcash.com
-yefttzzn.com
 servedby.yell.com
 yesmessenger.com
 yfum.com
@@ -35317,7 +35327,6 @@ mb.zam.com
 zapads.zapak.com
 zenkreka.com
 ziphentai.com
-znnabrxnotlm.com
 ads.zynga.com
 .ads.css
 adcell.de
@@ -35776,7 +35785,6 @@ w.homes.yahoo.net
 sync.disk.yandex.net
 xmpp.disk.yandex.net
 zmh.zope.net
-adbuka.com.ng
 widget.cheki.com.ng
 widgets.privateproperty.com.ng
 123advertising.nl
@@ -35792,7 +35800,6 @@ geoshopping.nzherald.co.nz
 advertising.scoop.co.nz
 adlink.shopsafe.co.nz
 meetthegame.online
-murkymouse.online
 pornworld.online
 24smile.org
 adstop.org
@@ -35832,7 +35839,6 @@ nest.youwatch.org
 tozer.youwatch.org
 trans.youwatch.org
 adx.kat.ph
-burdaffi.burdadigital.pl
 llog.pl
 bsxmuny.wp.pl
 baconaces.pro
