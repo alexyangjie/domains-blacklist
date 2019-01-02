@@ -30992,7 +30992,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14009
+# Ignored duplicates: 14010
 
 # Ignored entries due to the whitelist: 7
 
