@@ -10058,6 +10058,7 @@ fuzzyflavor.com
 fvbaffiliate.com
 fvbeyduylvgy.com
 fvbtqaijuo.com
+fvenxjtzuaxu.com
 fveugxikrgrbsh.com
 fvffhcyxc.com
 fvgfcotnmj.com
@@ -11383,6 +11384,7 @@ iklanumum.com
 ikmymeivze.com
 iknctklddhoh.com
 ikobsqwcutnss.com
+ikupicwg.com
 ikvagxovc.com
 ikvfgsftmyhn.com
 ikvltjooosqh.com
@@ -16600,6 +16602,7 @@ rsuuc.com
 rsvpgenius.com
 rsvxipjqyvfs.com
 rswgoccwzs.com
+rtb-seller.com
 rtb-usync.com
 rtb123.com
 rtbanalytics.com
@@ -17415,6 +17418,7 @@ spylog.com
 spywords.com
 sq2trk2.com
 sqnezuqjdbhe.com
+sqnkkpba.com
 sqtsuzrfefwy.com
 harvester.ext.square-enix-europe.com
 squarterun.com
@@ -20470,6 +20474,7 @@ yesucplcylxg.com
 t.yesware.com
 yeuotdalcxqwr.com
 yeyddgjqpwya.com
+yfdrpdjbxjm.com
 yfdxyyenovxir.com
 yfgietsfti.com
 yfiycpeebse.com
@@ -20677,6 +20682,7 @@ ysdxcrighudjmw.com
 ysgjivctf.com
 yshsoycsac.com
 ysljgoytuyfbg.com
+ysosfhyrbyre.com
 ysowy.com
 ysqdjkermxyt.com
 ysyrcnsb.com
@@ -22906,6 +22912,7 @@ tracking.i2w.io
 jsc.idealmedia.io
 instana.io
 iol.io
+ipinfo.io
 ironbeast.io
 t.karte.io
 knowlead.io
@@ -23865,6 +23872,7 @@ bannernetwork.net
 bannerperformance.net
 bannersnack.net
 barilliance.net
+pixel-a.basis.net
 an.batmobi.net
 cdn.batmobi.net
 ploy.batmobi.net
@@ -30996,7 +31004,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14010
+# Ignored duplicates: 14015
 
 # Ignored entries due to the whitelist: 7
 
@@ -34455,7 +34463,6 @@ fuckyoucash.com
 fuelbuck.com
 funnypickuplinesforgirls.com
 shoppingpartners2.futurenet.com
-fvenxjtzuaxu.com
 g0ads.com
 g17media.com
 g6ni40i7.com
@@ -34570,7 +34577,6 @@ wrapper.ign.com
 iheartbucks.com
 ard.ihookup.com
 ijquery10.com
-ikupicwg.com
 ilovecheating.com
 ad.iloveinterracial.com
 ak.imgaft.com
@@ -35074,7 +35080,6 @@ ad.sponsoreo.com
 ad.spreaker.com
 tags.sprizzy.com
 spunkycash.com
-sqnkkpba.com
 squeeder.com
 srvbytrking.com
 ssl2anyone.com
@@ -35317,7 +35322,6 @@ jscode.yavli.com
 yazcash.com
 servedby.yell.com
 yesmessenger.com
-yfdrpdjbxjm.com
 yfum.com
 richmedia.yimg.com
 yobihost.com
@@ -35327,7 +35331,6 @@ yoshatia.com
 your-big.com
 yourdatelink.com
 ypmadserver.com
-ysosfhyrbyre.com
 yu0123456.com
 yuppads.com
 yurivideo.com
