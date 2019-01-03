@@ -378,6 +378,7 @@ wuliao.chzsport.cn
 7car.com.cn
 8800271.com.cn
 whfpbc.99.com.cn
+1.bh5.com.cn
 union.china.com.cn
 bdasd.chinabig.com.cn
 same.chinadaily.com.cn
@@ -35113,7 +35114,6 @@ delivery.thebloggernetwork.com
 delivery-dev.thebloggernetwork.com
 thebunsenburner.com
 ad.theepochtimes.com
-a.thefreethoughtproject.com
 ext.theglobalweb.com
 thejesperbay.com
 d.thelocal.com
