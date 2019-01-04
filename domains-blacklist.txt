@@ -31004,7 +31004,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14015
+# Ignored duplicates: 14016
 
 # Ignored entries due to the whitelist: 7
 
@@ -31038,7 +31038,7 @@ aapxtnrhq.bid
 aaslmqzce.bid
 aatfnptblbxpuy.bid
 abaujsqnndg.bid
-click.abctrack.bid
+abctrack.bid
 abunmrqsbfn.bid
 abuuvohpzlcrp.bid
 acpxgmzozlxtbj.bid
@@ -35855,6 +35855,7 @@ adx.kat.ph
 llog.pl
 bsxmuny.wp.pl
 baconaces.pro
+besguses.pro
 gomain.pro
 ophistler.pro
 qlinks.pro
@@ -36047,6 +36048,7 @@ kalo.onvid.xyz
 pcruxm.xyz
 refpamsj.xyz
 refpazcx.xyz
+tchhelpdmn.xyz
 ttdaz.xyz
 ad.itweb.co.za
 banner.itweb.co.za
