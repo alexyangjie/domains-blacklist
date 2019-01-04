@@ -2636,6 +2636,7 @@ cp.qbaobei.com
 qbyy010.com
 qcjslm.com
 qdchunyu.com
+qdiut.com
 qdxrhg.com
 qgss8.com
 qhaif.com
@@ -3063,6 +3064,7 @@ vbieu.com
 vbinu.com
 vbtrax.com
 script.vccoo.com
+vchim.com
 a1.vdolady.com
 ve001nz.com
 vedeh.com
@@ -4368,6 +4370,7 @@ nompakru.click
 oneopenclose.click
 openclose.click
 poogriry.click
+psoapeez.click
 ptmopenclose.click
 rustds.click
 s37.click
@@ -7842,6 +7845,7 @@ clickthrucash.com
 clicktrack1.com
 clicktracks.com
 clicktripz.com
+clicktrkservices.com
 clickunderad.com
 clickupto.com
 clickwinks.com
@@ -9356,6 +9360,7 @@ escokuro.com
 escottish.com
 esdykqhupjp.com
 esearchvision.com
+eseecmoa.com
 esfqqfqagkkbrl.com
 esgnyfznnihl.com
 esgvhaspsjg.com
@@ -14036,6 +14041,7 @@ nedmppiilnld.com
 nedstat.com
 neecnuaa.com
 neentjsdrgsf.com
+neepaips.com
 neevjrhxk.com
 neewweeklylinsz.com
 nefczemmdcqi.com
@@ -15506,6 +15512,7 @@ promotioncamp.com
 promotionengine.com
 promoviral.com
 track.promptfile.com
+proofpoint.com
 proofpositivemedia.com
 propellerads.com
 propellerclick.com
@@ -15640,6 +15647,7 @@ pusheify.com
 pusherism.com
 pushfeeds.com
 pushimer.com
+pushlommy.com
 pushnative.com
 pushnest.com
 pushno.com
@@ -15754,6 +15762,7 @@ q0zsp5e3dv.com
 q1media.com
 q1mediahydraplatform.com
 q1xyxm89.com
+q64a9ris0j.com
 qaadv.com
 qaazzemfo.com
 qadabra.com
@@ -24360,6 +24369,7 @@ edgeadx.net
 analytics.edgesuite.net
 edomz.net
 edt02.net
+eetseemp.net
 effectfree.net
 effectivemeasure.net
 tracking.ehavior.net
@@ -25819,6 +25829,7 @@ aution.pro
 axzsd.pro
 azxsd.pro
 bellissimome.pro
+besguses.pro
 ad.bilgin.pro
 blailays.pro
 bravome.pro
@@ -28874,6 +28885,7 @@ smrtbnr.xyz
 sohbetpaneli.xyz
 stabilityappointdaily.xyz
 tabzz.xyz
+tchhelpdmn.xyz
 tidafors.xyz
 tpjz.tmuurnthtf.xyz
 torads.xyz
@@ -31006,7 +31018,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14016
+# Ignored duplicates: 14024
 
 # Ignored entries due to the whitelist: 7
 
@@ -33822,7 +33834,6 @@ bumskontakte.ch
 ad.search.ch
 accesssearch.click
 mdtrack.click
-psoapeez.click
 blyxb.27667.club
 olswr.27684.club
 anothere.club
@@ -34372,7 +34383,6 @@ webmaster.erotik.com
 erotikdating.com
 ertya.com
 escortso.com
-eseecmoa.com
 alvares.esportsheaven.com
 aff.eteachergroup.com
 ethfw0370q.com
@@ -34796,7 +34806,6 @@ nativexxx.com
 nature-friend.com
 lp.ncdownloader.com
 needlive.com
-neepaips.com
 neobux.com
 webstatic.nero.com
 ad.netcommunities.com
@@ -34946,7 +34955,6 @@ ptrfc.com
 ptwebcams.com
 publish4.com
 punsong.com
-pushlommy.com
 pushmobilenews.com
 media.pussycash.com
 pussyeatingclub.com
@@ -34956,7 +34964,6 @@ b92.putniktravel.com
 putrr11.com
 putrr14.com
 pyiel2bz.com
-q64a9ris0j.com
 quagodex.com
 core.queerclick.com
 queronamoro.com
@@ -35706,7 +35713,6 @@ adss.dotdo.net
 ad.e-kolay.net
 sitescout-video-cdn.edgesuite.net
 yieldmanager.edgesuite.net
-eetseemp.net
 eroterest.net
 x.eroticity.net
 bigboy.eurogamer.net
@@ -35864,7 +35870,6 @@ adx.kat.ph
 llog.pl
 bsxmuny.wp.pl
 baconaces.pro
-besguses.pro
 gomain.pro
 ophistler.pro
 qlinks.pro
@@ -36058,7 +36063,6 @@ kalo.onvid.xyz
 pcruxm.xyz
 refpamsj.xyz
 refpazcx.xyz
-tchhelpdmn.xyz
 ttdaz.xyz
 ad.itweb.co.za
 banner.itweb.co.za
