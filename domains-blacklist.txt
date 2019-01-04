@@ -31018,7 +31018,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14024
+# Ignored duplicates: 14025
 
 # Ignored entries due to the whitelist: 7
 
@@ -35813,6 +35813,7 @@ w.homes.yahoo.net
 sync.disk.yandex.net
 xmpp.disk.yandex.net
 zmh.zope.net
+owndata.network
 widget.cheki.com.ng
 widgets.privateproperty.com.ng
 123advertising.nl
