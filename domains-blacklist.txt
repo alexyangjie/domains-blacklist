@@ -7558,6 +7558,7 @@ tmgr.ccmbg.com
 ccpnzfts.com
 ccrtvi.com
 ccwinenmbnso.com
+ccyttdkwntyhx.com
 cd490573c64f3f.com
 cd828.com
 cd87c85eb2890d048d2.com
@@ -11086,6 +11087,7 @@ hsvqfvjidloc.com
 hszyozoawqnk.com
 htalizer.com
 htamaster.com
+htlbid.com
 htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
 counter.htmlvalidator.com
 htmonster.com
@@ -17364,6 +17366,7 @@ speed-trap.com
 pix.speedbit.com
 speedcurve.com
 speednetwork14.com
+speednetwork19.com
 speedshiftmedia.com
 spfrlpjmvkmq.com
 zdlogs.sphereup.com
@@ -25378,6 +25381,7 @@ capturemedia.network
 cdn7.network
 cleanbrowser.network
 launchers.network
+owndata.network
 panda.network
 pub.network
 searchdims.network
@@ -28268,6 +28272,7 @@ adsim.sabah.com.tr
 is.sabah.com.tr
 reklam.star.com.tr
 rss.tmgrup.com.tr
+st.tmgrup.com.tr
 reklam.vogel.com.tr
 ads.yenimedya.com.tr
 realist.gen.tr
@@ -31019,7 +31024,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14025
+# Ignored duplicates: 14029
 
 # Ignored entries due to the whitelist: 7
 
@@ -34218,7 +34223,6 @@ banner2.casino.com
 partner.catchy.com
 cbcomponent.com
 offers-service.cbsinteractive.com
-ccyttdkwntyhx.com
 lw1.cdmediaworld.com
 cdnjke.com
 image.cecash.com
@@ -34571,7 +34575,6 @@ hotsocialz.com
 hqpass.com
 hqtrk.com
 hsmclick.com
-htlbid.com
 hubtraffic.com
 hueads.com
 ll.a.hulu.com
@@ -35094,7 +35097,6 @@ cams.spacash.com
 layers.spacash.com
 spankmasters.com
 spcwm.com
-speednetwork19.com
 ad.sponsoreo.com
 ad.spreaker.com
 tags.sprizzy.com
@@ -35817,7 +35819,6 @@ w.homes.yahoo.net
 sync.disk.yandex.net
 xmpp.disk.yandex.net
 zmh.zope.net
-owndata.network
 widget.cheki.com.ng
 widgets.privateproperty.com.ng
 123advertising.nl
