@@ -3964,7 +3964,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 640
+# Ignored duplicates: 643
 
 # Ignored entries due to the whitelist: 32
 
@@ -6465,6 +6465,7 @@ asqamasz.com
 asqbwneriyvur.com
 asrety.com
 asrjtcddksm.com
+asrjxxzxmxy.com
 assetize.com
 assoc-amazon.com
 associazio.com
@@ -7270,6 +7271,7 @@ brygxppyaugt.com
 brztxamj.com
 bsaixnxcpaai.com
 bsepyppitmkkf.com
+bsjhbxtrbvkr.com
 bsmryjou.com
 bsnbfufjgxrb.com
 bspjagxietut.com
@@ -7886,6 +7888,7 @@ clsvugmivpf.com
 clubcollector.com
 phxwwaznm.clupsvdblzcgnjj.com
 clustrmaps.com
+clutaqawmz.com
 clybtbahdbwkep.com
 clyilp.com
 cmbestsrv.com
@@ -9125,6 +9128,7 @@ eec3fb771502a923f.com
 eecd179r3b.com
 eefbzuwvnnab.com
 eefiwmtwppppay.com
+eefiywjjzxry.com
 eehdssnxola.com
 eejcqlenlsko.com
 eekmkywfke.com
@@ -11061,6 +11065,7 @@ hqsxomhxwhpq.com
 hqtrxzcjjjj.com
 hquijlndtd.com
 hqxtsqwpvort.com
+hraowdzgs.com
 hrdbamvfzipe.com
 hrkshoveizfo.com
 jobs.hrkspjbs.com
@@ -11153,6 +11158,7 @@ hvfzacisynoq.com
 hvfzshrpfueb.com
 hvgytlbdnuqunp.com
 hvmimwpe.com
+hvpcxythnjl.com
 hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
 hvuvqsun.com
 hvvhxzdps.com
@@ -11585,6 +11591,7 @@ instivate.com
 instraffic.com
 instreamatic.com
 insulling.com
+intangibleconcordant.com
 integral-marketing.com
 integritystat.com
 intelevance.com
@@ -11965,6 +11972,7 @@ jjydbqlzz.com
 jjyovwimoydq.com
 jjyysfxhn.com
 jjzqygrh.com
+jkawfxvh.com
 jkfg4hfdss.com
 jkiicqewzn.com
 jkiwvfgrsythrw.com
@@ -12121,6 +12129,7 @@ justrelevant.com
 justsweetgirls.com
 justuno.com
 jutulep.com
+juuwyyvjecnvps.com
 juvqtttkhz.com
 juyfhwxcvzft.com
 jvffngzl.com
@@ -12321,6 +12330,7 @@ kiohmgklwi.com
 kiosked.com
 kioxprngouirqu.com
 kip5j.com
+kiqsynap.com
 kirilaboola.com
 kissmetrics.com
 kisstesting.com
@@ -12570,6 +12580,7 @@ kxtepdregiuo.com
 kxujlopfsmttyc.com
 kxwkbkfespyh.com
 kxzmmtdx.com
+kygozmlrr.com
 kyhkyreweusn.com
 kylqpeevrkgh.com
 kyowarob.com
@@ -12733,6 +12744,7 @@ lfirckcbkh.com
 lfjvaaswkxqj.com
 lflplmckcncj.com
 lfqocbhv.com
+lfrqmuplp.com
 lfstmedia.com
 lftyfcqqctj.com
 lfvrjrdrgazl.com
@@ -12977,6 +12989,7 @@ pw.lpsxssm.com
 lptggobhuuxcdw.com
 lpwvdgfo.com
 lpxxafsupgsho.com
+lqbyqjap.com
 lqcdn.com
 lqfolelqvc.com
 lqhnrsfkgcfe.com
@@ -14390,8 +14403,10 @@ nuseek.com
 nushflxucofk.com
 beacon.nuskin.com
 nutga.com
+nutlekuainya.com
 cnt.nuvid.com
 nuxdkxknj.com
+nuxsmhexm.com
 nvadn.com
 nvajxoahenwe.com
 nvgcmeqfn.com
@@ -14913,6 +14928,7 @@ analytics.paddle.com
 padsdelivery.com
 padstm.com
 paecbeeavmopbl.com
+pagaynrbee.com
 pagefair.com
 pagerankfree.com
 pagesense.com
@@ -14994,6 +15010,7 @@ pbhletstiooizj.com
 pbjnssfvatrhc.com
 pbmvz.com
 pbnnsras.com
+pbpdgojwzfdc.com
 pbuuadgoktmz.com
 pbyet.com
 pbzmmqakvzhm.com
@@ -15591,6 +15608,7 @@ ptrahwwg.com
 ptrk-wn.com
 ptrqrnadg.com
 pttjrlnydgjffv.com
+ptvcfltikpdi.com
 ptvjsyfayezb.com
 ptxqjyqhscs.com
 ptyezfyxcaeu.com
@@ -15762,6 +15780,7 @@ pzowsxuko.com
 pzpdxayohfdc.com
 pzpwjawqbmei.com
 pzuwqncdai.com
+pzzmqjrp.com
 q-counter.com
 q0zsp5e3dv.com
 q1media.com
@@ -15797,6 +15816,7 @@ qbpawthj.com
 qbpuavqlsu.com
 qbsanzpkfj.com
 qbsrhrhnybwox.com
+qbwjddqa.com
 qcaejiouuvgk.com
 qcexplnqbrral.com
 qcjphhqwl.com
@@ -16835,6 +16855,7 @@ schoolyeargo.com
 sciencerevenue.com
 scintillatingspace.com
 scjczeqyuqjs.com
+sckzvqadc.com
 scmffjmashzc.com
 os.scmpacdn.com
 scootloor.com
@@ -17678,6 +17699,7 @@ svbsvbwci.com
 svdsutdq.com
 svitnews.com
 svjloaomrher.com
+svmtvfuok.com
 svnhdfqvhjzn.com
 stats.svpply.com
 svr-prc-01.com
@@ -18032,6 +18054,7 @@ thirdrespect.com
 thisisacoolthing.com
 thisisanothercoolthing.com
 thisiswaldo.com
+thismetric.com
 thjlnyagmxrbt.com
 thjuvpgdmjj.com
 thnqemehtyfe.com
@@ -18450,6 +18473,7 @@ truefilen32.com
 truesecurejump.com
 truex.com
 truoptik.com
+trustaffs.com
 trackerapi.truste.com
 mevents.trusteer.com
 truthfulhead.com
@@ -18575,6 +18599,7 @@ txvsifff.com
 txwnwvhkbtzb.com
 txwzdalmamma.com
 txyxoktogdcy.com
+tyccaweownne.com
 tylzbdkjsjig.com
 tynt.com
 tyoaclrjeb.com
@@ -19077,6 +19102,7 @@ vbskcvjdabdp.com
 vbupfouyymse.com
 vbuqjdyrsrvi.com
 vbwakfbazxd.com
+vbwfqaisbgn.com
 vbyefnnrswpn.com
 vcdtowafqibekr.com
 vcgbtlktbagb.com
@@ -19087,6 +19113,7 @@ vcmosyicygejth.com
 vcommission.com
 vcslotoplay.com
 sp.vcstar.com
+vcvapkiua.com
 vcwdjbbughuy.com
 vcxqcjov.com
 vczprcezg.com
@@ -19353,6 +19380,7 @@ vltvhssjbliy.com
 vlvowhlxxibn.com
 vlxgszdgmnay.com
 vlyqzdsucomih.com
+vlyuopulvewg.com
 vm5apis.com
 vmcpydzlqfcg.com
 vmftwflt.com
@@ -19618,6 +19646,7 @@ wddtrsuqmqhw.com
 wdjbxcdriyjoeu.com
 wdnflsjig.com
 wduygininqbu.com
+wdzeuxkfvyv.com
 weadrevenue.com
 x.weather.com
 web-adservice.com
@@ -20003,6 +20032,7 @@ wundercounter.com
 wunderdaten.com
 wurea.com
 wurgaxfamfgyo.com
+wuuyczqcgm.com
 wvetuwwcojfgw.com
 wvfputwcdbkoip.com
 wvjbsdjplo.com
@@ -20047,6 +20077,7 @@ wyuxy.com
 wywrettqmke.com
 wywy.com
 wywyuserservice.com
+wyyrjymqewhulr.com
 wzadmmddcmml.com
 wzafekkdp.com
 wzfxaqhiapptsz.com
@@ -20755,6 +20786,7 @@ yyuin.com
 yyupkqqokrus.com
 yyuztnlcpiym.com
 yz56lywd.com
+yzesxnzfhyy.com
 yzlwuuzzehjh.com
 yzreywobobmw.com
 yzrnur.com
@@ -20915,6 +20947,7 @@ zjgygpdfudfu.com
 zjhnmbfqylme.com
 zjk24.com
 zjkdrqtjowihn.com
+zjnmgmidmx.com
 zjsbdjkdtjzoxh.com
 zjsbeont.com
 zjujxffup.com
@@ -20922,6 +20955,7 @@ zjwcddahpz.com
 zkennongwozs.com
 zkezpfdfnthb.com
 zkfhdpogauqb.com
+zkfjgzonjvg.com
 zkowrpcb.com
 zkzpfpoazfgq.com
 zlacraft.com
@@ -20936,6 +20970,7 @@ zlxwasugtn.com
 zm232.com
 stats.zmags.com
 zmbrweqglexv.com
+zmkihizd.com
 zmkkiqghh.com
 zmnqoymznwng.com
 zmujsnyzujuy.com
@@ -28320,6 +28355,7 @@ a.fobos.tv
 freestats.tv
 analytics.ifood.tv
 ijncw.tv
+pt.ispot.tv
 kost.tv
 laim.tv
 analytics00.meride.tv
@@ -31026,7 +31062,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14029
+# Ignored duplicates: 14063
 
 # Ignored entries due to the whitelist: 7
 
@@ -34116,7 +34152,6 @@ asiafriendfinder.com
 adtag.asiaone.com
 asiatravel2017.com
 ads.askgamblers.com
-asrjxxzxmxy.com
 network.aufeminin.com
 augrenso.com
 pub.aujourdhui.com
@@ -34190,7 +34225,6 @@ pubportal.brkmd.com
 brothersincash.com
 g.brothersoft.com
 brqvld0p.com
-bsjhbxtrbvkr.com
 bumblecash.com
 ivitrine.buscape.com
 network.business.com
@@ -34260,7 +34294,6 @@ creatives.cliphunter.com
 geo.cliphunter.com
 clockdisplaystoring.com
 banners.clubworldgroup.com
-clutaqawmz.com
 cmdfnow.com
 ad.download.cnet.com
 codelnet.com
@@ -34378,7 +34411,6 @@ ebdr2.com
 ebocornac.com
 eboundservices.com
 ecortb.com
-eefiywjjzxry.com
 elekted.com
 emediawebs.com
 pr-static.empflix.com
@@ -34586,7 +34618,6 @@ hueads.com
 ll.a.hulu.com
 iframes.hustler.com
 roia.hutchmedia.com
-hvpcxythnjl.com
 a.i-sgcm.com
 i62e2b4mfy.com
 promotions.iasbet.com
@@ -34625,7 +34656,6 @@ gfx.infomine.com
 tanzanite.infomine.com
 creatives.inmotionhosting.com
 player.insuranceandhealth.com
-intangibleconcordant.com
 intellichatadult.com
 interfalls.com
 intrapromotion.com
@@ -34651,7 +34681,6 @@ jaymancash.com
 jeisl.com
 jerrcotch.com
 jfresi.com
-jkawfxvh.com
 anime.jlist.com
 widget.jobberman.com
 joinnowinstantly.com
@@ -34663,7 +34692,6 @@ shared.juicybucks.com
 justgetitfaster.com
 pop-over.powered-by.justplayzone.com
 justresa.com
-juuwyyvjecnvps.com
 entitlements.jwplayer.com
 jz9ugaqb.com
 jzfzjss.com
@@ -34679,20 +34707,17 @@ kindredplc.com
 static.kinghost.com
 click.kink.com
 cjmooter.xcache.kinxcdn.com
-kiqsynap.com
 kodicdn.com
 kolestence.com
 kolitat.com
 cadvv.koreaherald.com
 krebsonsecurity.com
-kygozmlrr.com
 lavantat.com
 leche69.com
 deals.ledgertranscript.com
 legendarylars.com
 adserv.legitreviews.com
 widgets.lendingtree.com
-lfrqmuplp.com
 lickbylick.com
 lie2anyone.com
 likingyetsnarl.com
@@ -34721,7 +34746,6 @@ lostun.com
 loveadverts.com
 loveme.com
 lovercash.com
-lqbyqjap.com
 lsawards.com
 lucidcommerce.com
 thirdpartycdn.lumovies.com
@@ -34856,9 +34880,7 @@ nscash.com
 nsfwads.com
 image.nsk-sys.com
 nummobile.com
-nutlekuainya.com
 nuvidp.com
-nuxsmhexm.com
 nvp2auf5.com
 nwolb.com
 o2live.com
@@ -34878,7 +34900,6 @@ outster.com
 oxcluster.com
 ozelmedikal.com
 padsdel.com
-pagaynrbee.com
 promote.pair.com
 get.paradise8.com
 parkingpremium.com
@@ -34890,7 +34911,6 @@ banners.passiondollars.com
 patiencepls.com
 syndicate.payloadz.com
 banners.payserve.com
-pbpdgojwzfdc.com
 pc20160522.com
 pd-news.com
 pecash.com
@@ -34976,7 +34996,6 @@ protect-x.com
 prscripts.com
 ptclassic.com
 ptrfc.com
-ptvcfltikpdi.com
 ptwebcams.com
 publish4.com
 punsong.com
@@ -34989,8 +35008,6 @@ b92.putniktravel.com
 putrr11.com
 putrr14.com
 pyiel2bz.com
-pzzmqjrp.com
-qbwjddqa.com
 quagodex.com
 core.queerclick.com
 queronamoro.com
@@ -35062,7 +35079,6 @@ ox-d.sbnation.com
 affiliatesmedia.sbobet.com
 scenesgirls.com
 homad-global-configs.schneevonmorgen.com
-sckzvqadc.com
 widget.scoutpa.com
 scund.com
 searchignited.com
@@ -35146,7 +35162,6 @@ sunnysmedia.com
 thumbs.sunporno.com
 clicks.superpages.com
 aff.svjump.com
-svmtvfuok.com
 ard.sweetdiscreet.com
 sweetstudents.com
 talk-blog.com
@@ -35216,7 +35231,6 @@ trhunt.com
 trktrk017.com
 trktrk029.com
 trktrk047.com
-trustaffs.com
 choices.truste.com
 trustedadserver.com
 trw12.com
@@ -35231,7 +35245,6 @@ twistyscash.com
 advertise.twitpic.com
 ashot.txxx.com
 myashot.txxx.com
-tyccaweownne.com
 tynyh.com
 cerebral.typn.com
 eva.ucas.com
@@ -35246,8 +35259,6 @@ urpornnetwork.com
 uxernab.com
 v3rjvtt.com
 ad.valuecalling.com
-vbwfqaisbgn.com
-vcvapkiua.com
 vdtrack.com
 vectorpastel.com
 vectorstock.com
@@ -35271,7 +35282,6 @@ target.vivid.com
 vividcash.com
 vlexokrako.com
 vlogexpert.com
-vlyuopulvewg.com
 vod-cash.com
 vokut.com
 voluumtrk.com
@@ -35289,7 +35299,6 @@ pwapi.washingtonpost.com
 watchmygf.com
 a.watershed-publishing.com
 dcad.watersoul.com
-wdzeuxkfvyv.com
 promos.wealthymen.com
 adds.weatherology.com
 pm.web.com
@@ -35324,9 +35333,7 @@ partners.wrike.com
 ms.wsex.com
 wsockd.com
 ad.wsod.com
-wuuyczqcgm.com
 wwwmobiroll.com
-wyyrjymqewhulr.com
 wz856.com
 x-adservice.com
 x3v66zlz.com
@@ -35388,14 +35395,10 @@ yuppads.com
 yurivideo.com
 gashot.yurivideos.com
 yx0banners.com
-yzesxnzfhyy.com
 mb.zam.com
 zapads.zapak.com
 zenkreka.com
 ziphentai.com
-zjnmgmidmx.com
-zkfjgzonjvg.com
-zmkihizd.com
 ads.zynga.com
 .ads.css
 adcell.de
