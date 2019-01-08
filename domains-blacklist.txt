@@ -2100,6 +2100,7 @@ aa1.ifeng.com
 ae4.ifeng.com
 ax.ifeng.com
 bb2.ifeng.com
+bvakl.ifeng.com
 cc3.ifeng.com
 deliver.ifeng.com
 dkg.ifeng.com
@@ -35187,6 +35188,7 @@ tags.sprizzy.com
 spunkycash.com
 squeeder.com
 srvbytrking.com
+ssdsylfzav.com
 ssl2anyone.com
 startede.com
 startwebpromo.com
