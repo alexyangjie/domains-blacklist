@@ -1756,6 +1756,7 @@ family-joy.com
 fastable.com
 fate-xy.com
 fbaot.com
+fbieq.com
 adcast.fblife.com
 js.fc090.com
 fcaot.com
@@ -29016,7 +29017,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13615
+# Ignored duplicates: 13638
 
 # Ignored entries due to the whitelist: 8
 
@@ -29452,6 +29453,60 @@ sxcdn1.herokuapp.com
 sxcdn5.herokuapp.com
 wpcdn1.herokuapp.com
 www.cryptokitties.co.herokudns.com
+aeon.herominers.com
+alloy.herominers.com
+arqma.herominers.com
+bitcoal.herominers.com
+bitsum.herominers.com
+bittube.herominers.com
+bixbite.herominers.com
+bloc.herominers.com
+caliber.herominers.com
+catalyst.herominers.com
+citadel.herominers.com
+citicash.herominers.com
+conceal.herominers.com
+dero.herominers.com
+edollar.herominers.com
+electronero.herominers.com
+electroneum.herominers.com
+etn.herominers.com
+fonero.herominers.com
+git.herominers.com
+graft.herominers.com
+haven.herominers.com
+horizen.herominers.com
+intensecoin.herominers.com
+intucoin.herominers.com
+ipbc.herominers.com
+karbo.herominers.com
+lethean.herominers.com
+leviarcoin.herominers.com
+lines.herominers.com
+loki.herominers.com
+masari.herominers.com
+monero.herominers.com
+monerov.herominers.com
+musicoin.herominers.com
+myztic.herominers.com
+ombre.herominers.com
+privatepay.herominers.com
+qrl.herominers.com
+recoal.herominers.com
+ryo.herominers.com
+safex.herominers.com
+saronite.herominers.com
+stellite.herominers.com
+sumo.herominers.com
+test.herominers.com
+test2.herominers.com
+tube.herominers.com
+turtlecoin.herominers.com
+ultranote.herominers.com
+uplexa.herominers.com
+www.herominers.com
+xcash.herominers.com
+xdrop.herominers.com
 serenity.hiddenjadestone.com
 hitbtc.com
 ppdata.idlebuddy.com
@@ -29495,6 +29550,7 @@ maupool.com
 mdwnte.com
 meganfoxloveyou.com
 mergemining.com
+mibpool.com
 minanagency.com
 minandoando.com
 minanmedia.com
@@ -29513,6 +29569,11 @@ mining711.com
 miningexpress.com
 eu.miningfield.com
 us.miningfield.com
+.miningfool.com
+btcp.miningfool.com
+btg.miningfool.com
+mnx.miningfool.com
+www.miningfool.com
 miningpoolhub.com
 miningrigrentals.com
 miningspeed.com
@@ -35307,6 +35368,7 @@ uptopopunder.com
 urpornnetwork.com
 uxernab.com
 v3rjvtt.com
+vaigowoa.com
 ad.valuecalling.com
 vdtrack.com
 vectorpastel.com
@@ -35383,6 +35445,7 @@ ms.wsex.com
 wsockd.com
 ad.wsod.com
 wwwmobiroll.com
+wynather.com
 wz856.com
 x-adservice.com
 x3v66zlz.com
