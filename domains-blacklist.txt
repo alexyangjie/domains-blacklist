@@ -4384,6 +4384,7 @@ nm7xq628.click
 nompakru.click
 oneopenclose.click
 openclose.click
+pheegoab.click
 poogriry.click
 psoapeez.click
 ptmopenclose.click
@@ -9996,6 +9997,7 @@ freecountercode.com
 freecounterstat.com
 freecouponbiz.com
 spinbox.freedom.com
+freegamespub.com
 mo.freeindoapp.com
 freelogs.com
 freeonlineusers.com
@@ -22381,6 +22383,7 @@ britiesee.info
 burbanked.info
 burnsoftware.info
 byktana.info
+cadlereducter.info
 camleyads.info
 cashtrafic.info
 casterist.info
@@ -22446,6 +22449,7 @@ diktafe.info
 directile.info
 directoral.info
 disedet.info
+djiboutdifficial.info
 dnab.info
 dochyedu.info
 document4u.info
@@ -22463,6 +22467,7 @@ dunellengez.info
 dv0.info
 dygadan.info
 ebeda.info
+econsideepofle.info
 ecsexyp.info
 efishedo.info
 ekod.info
@@ -22536,6 +22541,7 @@ haln.info
 halpeperglagedokkei.info
 hanlowu.info
 happer.info
+hdpass.info
 counter.hdvb.info
 hewoman.info
 histock.info
@@ -22950,6 +22956,7 @@ adclicks.io
 adexchange.io
 app.adjust.io
 adless.io
+adlive.io
 admp.io
 adnami.io
 adplus.io
@@ -23455,6 +23462,7 @@ fuxoasim.link
 glothouw.link
 greenfelder.link
 hartookr.link
+hdpass.link
 mayert.link
 mno.link
 nauchegy.link
@@ -24537,6 +24545,7 @@ fmpub.net
 fogtrack.net
 novunu.football-plyus.net
 forex-affiliate.net
+fortstore.net
 cdn.ads.fotoable.net
 geoip.fotoable.net
 franecki.net
@@ -24618,6 +24627,7 @@ metric-agent.i10c.net
 iadvert.net
 ibpxl.net
 comet.ibsrv.net
+iceimg.net
 idt.id-news.net
 i-stats.ieurop.net
 iklanbarisgratispasang.net
@@ -25027,6 +25037,7 @@ proteaser.net
 protizer.net
 proxad.net
 prugskh.net
+psoaghie.net
 loglady.publicbroadcasting.net
 publicidad.net
 publited.net
@@ -25937,6 +25948,7 @@ bravome.pro
 brigenlies.pro
 brtmout.pro
 buonome.pro
+burporess.pro
 bystfied.pro
 carvarial.pro
 chief-con.pro
@@ -28426,6 +28438,7 @@ runetki.tv
 mtrcs.samba.tv
 stats.sawlive.tv
 shoofle.tv
+skytvonline.tv
 spotx.tv
 userlog.synapseip.tv
 teads.tv
@@ -28667,6 +28680,7 @@ tmqhw.us
 trkn.us
 trks.us
 uwuyn.us
+vodexor.us
 vqfqo.us
 wecai.us
 mediab.uy
@@ -31181,7 +31195,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14109
+# Ignored duplicates: 14123
 
 # Ignored entries due to the whitelist: 7
 
@@ -33997,7 +34011,6 @@ bumskontakte.ch
 ad.search.ch
 accesssearch.click
 mdtrack.click
-pheegoab.click
 blyxb.27667.club
 olswr.27684.club
 anothere.club
@@ -34620,7 +34633,6 @@ free-porn-vidz.com
 freecamsexposed.com
 adshare.freedocast.com
 server.freegamesall.com
-freegamespub.com
 freehookupaffair.com
 links.freeones.com
 pops.freeze.com
@@ -35576,18 +35588,14 @@ adsvlad.info
 advsense.info
 bizinfoyours.info
 black-ghettos.info
-cadlereducter.info
 cervicalknowledge.info
 clicktrace.info
 rd.cockhero.info
 weeklyprizewinner.com-net.info
-djiboutdifficial.info
-econsideepofle.info
 erotizer.info
 flipflapflo.info
 fonderreader.info
 goclick.info
-hdpass.info
 host-go.info
 impotencehelp.info
 iridiumsergeiprogenitor.info
@@ -35611,7 +35619,6 @@ whies.info
 wrigginger.info
 zindas.info
 zinzimo.info
-adlive.io
 ad.kissanime.io
 ad.kisscartoon.io
 onfocus.io
@@ -35642,7 +35649,6 @@ sndkorea.nowcdn.co.kr
 pass.yandex.kz
 adsmedia.life
 click2go.link
-hdpass.link
 hickle.link
 klocko.link
 wisozk.link
@@ -35896,7 +35902,6 @@ facetz.net
 ad.favod.net
 fickads.net
 flipflapflo.net
-fortstore.net
 ox.furaffinity.net
 login.gaijin.net
 gameonmom.net
@@ -35907,7 +35912,6 @@ hostave.net
 hostave2.net
 hostave4.net
 i4track.net
-iceimg.net
 ad.idgtn.net
 igiplay.net
 internebula.net
@@ -35947,7 +35951,6 @@ bontent.powvideo.net
 dyn.primecdn.net
 privateseiten.net
 profistats.net
-psoaghie.net
 zeus.qj.net
 quantumws.net
 queen-domain.net
@@ -36048,7 +36051,6 @@ adx.kat.ph
 llog.pl
 bsxmuny.wp.pl
 baconaces.pro
-burporess.pro
 gomain.pro
 ophistler.pro
 qlinks.pro
@@ -36192,7 +36194,6 @@ livejasmin.tv
 premium.naturalnews.tv
 c.netu.tv
 ad.pandora.tv
-skytvonline.tv
 fan.twitch.tv
 cache.worldfriends.tv
 ad.digitimes.com.tw
@@ -36218,7 +36219,6 @@ wtpn.twenga.co.uk
 partners.vouchedfor.co.uk
 x-exchanger.co.uk
 ad.indomp3z.us
-vodexor.us
 abbp1.website
 abbp2.website
 d3b3e6340.website
