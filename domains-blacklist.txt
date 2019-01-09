@@ -29054,7 +29054,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13638
+# Ignored duplicates: 13642
 
 # Ignored entries due to the whitelist: 8
 
@@ -29606,11 +29606,7 @@ mining711.com
 miningexpress.com
 eu.miningfield.com
 us.miningfield.com
-.miningfool.com
-btcp.miningfool.com
-btg.miningfool.com
-mnx.miningfool.com
-www.miningfool.com
+miningfool.com
 miningpoolhub.com
 miningrigrentals.com
 miningspeed.com
