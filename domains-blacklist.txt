@@ -3976,7 +3976,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 644
+# Ignored duplicates: 641
 
 # Ignored entries due to the whitelist: 32
 
@@ -7141,6 +7141,7 @@ boerilav.com
 bogads.com
 bogkmogzrvzf.com
 boguaokxhdsa.com
+boiceta.com
 boilingbeetle.com
 boizgpgrxvokd.com
 click.bokecc.com
@@ -7172,6 +7173,7 @@ boostshow.com
 bootstrap-js.com
 bop-bop-bam.com
 boqdapoiv.com
+borazita.com
 boredcrown.com
 stat.boredomtherapy.com
 geoip.boredpanda.com
@@ -8691,6 +8693,7 @@ dimestore.com
 dimprive.com
 dinclinx.com
 dinkstat.com
+dinovala.com
 dioperu.com
 dipsbbygv.com
 dircash-promost.com
@@ -11980,6 +11983,7 @@ jiawen88.com
 jiifnvkesug.com
 jiiyddosyv.com
 jijcetagjfzo.com
+jilabukurlabu.com
 jillsclickcorner.com
 jimdo-stats.com
 jimqcqsyhser.com
@@ -12546,6 +12550,7 @@ kthdreplfmil.com
 kthztsgfuygcw.com
 ktjcrhdppesdd.com
 ktjqfqadgmxh.com
+ktoloto.com
 ktrackdata.com
 ktrgcpceilj.com
 ktrmzzrlkbet.com
@@ -12856,7 +12861,9 @@ links2revenue.com
 linkshowoff.com
 linksmart.com
 ads.linksrequest.com
-linksynergy.com
+ad.linksynergy.com
+ads.rd.linksynergy.com
+amp.rd.linksynergy.com
 analytics.linkwelove.com
 linkwithin.com
 linkworth.com
@@ -13071,6 +13078,7 @@ luhbhndh.com
 luhqeqaypvmc.com
 luisardo.com
 lujkgrvheh.com
+lulpolopolo.com
 luminate.com
 lumpyleaf.com
 lumzvjur.com
@@ -15898,6 +15906,7 @@ qerlrppx.com
 qertewrt.com
 qevivcixnngf.com
 qevmzohvwxesrd.com
+qewisoti.com
 qeyps.com
 qezcdxxskinzi.com
 qfcsljgckvpz.com
@@ -16440,6 +16449,7 @@ revresda.com
 revresponse.com
 revrtb.com
 revstripe.com
+rewapala.com
 rewardisement.com
 rewardsaffiliates.com
 collect.rewardstyle.com
@@ -17739,6 +17749,7 @@ surveywriter.com
 survicate.com
 suryaiklan.com
 sushipool.com
+susitasita.com
 suthome.com
 sutzinjwnroui.com
 suvesobezi.com
@@ -23039,6 +23050,7 @@ l2.io
 track.leadhit.io
 leadintel.io
 leadsmonitor.io
+liftoff.io
 limbik.io
 links.io
 livesession.io
@@ -31190,7 +31202,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14123
+# Ignored duplicates: 14132
 
 # Ignored entries due to the whitelist: 7
 
@@ -34341,12 +34353,10 @@ bluhostedbanners.blucigs.com
 img.bluehost.com
 board-books.com
 bobtrk.com
-boiceta.com
 boinkcash.com
 tools.bongacams.com
 affiliates.bookdepository.com
 bookofsex.com
-borazita.com
 get.box24casino.com
 branzas.com
 bravo-dog.com
@@ -34494,7 +34504,6 @@ digitaldesire.com
 digitaldsp.com
 display.digitalriver.com
 gameads.digyourowngrave.com
-dinovala.com
 direction-x.com
 ad.directmirror.com
 directnicparking.com
@@ -34813,7 +34822,6 @@ jaymancash.com
 jeisl.com
 jerrcotch.com
 jfresi.com
-jilabukurlabu.com
 anime.jlist.com
 widget.jobberman.com
 joinnowinstantly.com
@@ -34845,7 +34853,6 @@ kolestence.com
 kolitat.com
 cadvv.koreaherald.com
 krebsonsecurity.com
-ktoloto.com
 lavantat.com
 leche69.com
 deals.ledgertranscript.com
@@ -34882,7 +34889,6 @@ loveme.com
 lovercash.com
 lsawards.com
 lucidcommerce.com
-lulpolopolo.com
 thirdpartycdn.lumovies.com
 luvcash.com
 luvcom.com
@@ -35143,7 +35149,6 @@ b92.putniktravel.com
 putrr11.com
 putrr14.com
 pyiel2bz.com
-qewisoti.com
 quagodex.com
 core.queerclick.com
 queronamoro.com
@@ -35180,7 +35185,6 @@ renewads.com
 reprak.com
 retoxo.com
 revivestar.com
-rewapala.com
 rexbucks.com
 rfvoort.com
 tracker1.richcasino.com
@@ -35299,7 +35303,6 @@ sunmcre.com
 sunnysmedia.com
 thumbs.sunporno.com
 clicks.superpages.com
-susitasita.com
 aff.svjump.com
 ard.sweetdiscreet.com
 sweetstudents.com
@@ -38110,7 +38113,7 @@ xfyubqmldwvuyar.yt
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1151
+# Ignored duplicates: 1152
 
 # Ignored entries due to the whitelist: 12
 
@@ -38131,7 +38134,6 @@ etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
 auto-api.yelp.com
-liftoff.io
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
