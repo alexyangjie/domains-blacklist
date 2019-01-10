@@ -3976,7 +3976,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 643
+# Ignored duplicates: 644
 
 # Ignored entries due to the whitelist: 32
 
@@ -23039,7 +23039,6 @@ l2.io
 track.leadhit.io
 leadintel.io
 leadsmonitor.io
-analytics.liftoff.io
 limbik.io
 links.io
 livesession.io
@@ -38111,7 +38110,7 @@ xfyubqmldwvuyar.yt
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1150
+# Ignored duplicates: 1151
 
 # Ignored entries due to the whitelist: 12
 
@@ -38132,6 +38131,7 @@ etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
 auto-api.yelp.com
+liftoff.io
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
