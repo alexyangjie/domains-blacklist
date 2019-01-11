@@ -505,6 +505,7 @@ h01ce.cn
 h0o33.cn
 h2pzh.cn
 h501.cn
+haizirv.cn
 hajuwang.cn
 hbalx.cn
 headwell.cn
@@ -2858,7 +2859,6 @@ lu.sogoucdn.com
 ads.sohu.com
 m.aty.sohu.com
 sohu999.com
-0d077ef9e74d8.cdn.sohucs.com
 somennew.com
 gg.sonhoo.com
 sonomoyo.com
