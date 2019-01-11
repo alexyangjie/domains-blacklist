@@ -31219,7 +31219,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14140
+# Ignored duplicates: 14138
 
 # Ignored entries due to the whitelist: 7
 
@@ -35775,6 +35775,7 @@ d1rguclfwp7nc8.cloudfront.net
 d1rkf0bq85yx06.cloudfront.net
 d1spb7fplenrp4.cloudfront.net
 d1vbm0eveofcle.cloudfront.net
+d1wjz6mrey9f5v.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d21j20wsoewvjq.cloudfront.net
 d22lo5bcpq2fif.cloudfront.net
