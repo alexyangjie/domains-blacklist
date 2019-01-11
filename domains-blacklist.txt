@@ -2453,6 +2453,7 @@ da.mgtv.com
 mgwcn.com
 mgwl668.com
 mh9dskj8jg.com
+mhuos.com
 miaobeichina.com
 miaos11.com
 miaozhen.com
@@ -3352,6 +3353,7 @@ adpub.yaolan.com
 adpubs.yaolan.com
 yaoyl.com
 ybaih.com
+ybaiu.com
 ybaoh.com
 ybeih.com
 ybhypt.com
@@ -3588,6 +3590,7 @@ zzrcz.com
 zzsdjq.com
 zzsno1.com
 zzyonghao.com
+fanli.in
 52lover.info
 aifei.info
 as75.info
@@ -3718,6 +3721,7 @@ ecuc123.net
 edncui.net
 expo123.net
 ysm.ezprice.net
+fengyelin.net
 flashwing.net
 food5.net
 gangtiebang.net
@@ -4706,6 +4710,7 @@ test.p.12cpm.com
 12place.com
 13190546cd1dec9bbdc.com
 js.133u.com
+13vm73vbmp.com
 14119276be0852.com
 14b41d7ec7766122d.com
 152media.com
@@ -7836,6 +7841,7 @@ clickandjoinyourgirl.com
 clickbet88.com
 clickbooth.com
 clickboothlnk.com
+clickbrainiacs.com
 clickcash.com
 clickcashmoney.com
 clickcease.com
@@ -8812,6 +8818,7 @@ dnudg.com
 dnxpseduuehm.com
 dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 dobjgpqzygow.com
+dochase.com
 docksalmon.com
 doclix.com
 docqacvwhgbxv.com
@@ -10317,6 +10324,7 @@ getfreebl.com
 getgscfree.com
 getmygeo.com
 getpopunder.com
+getrockerbox.com
 getscorecash.com
 getsidecar.com
 getsmartcontent.com
@@ -12721,6 +12729,7 @@ leadacceptor.com
 leadboxer.com
 leadcola.com
 collector.leaddyno.com
+leadfeeder.com
 leadforce1.com
 leadforensics.com
 leadformix.com
@@ -17016,6 +17025,7 @@ sendtraffic.com
 senfvsdvtsn.com
 senolati.com
 senrzuolwqvj.com
+sensible-ads.com
 sentemanactri.com
 sentifi.com
 sentrapromosi.com
@@ -20450,6 +20460,7 @@ xwwvcsquuhbd.com
 xwzhazcuyf.com
 xxamqnqeygbk.com
 xxehantfkywk.com
+xxhgzzinkrbbo.com
 xxlargepop.com
 xxrniridsnzr.com
 xxwpminhccoq.com
@@ -22757,6 +22768,7 @@ ozmifi.info
 pabrashu.info
 panyeri.info
 parabled.info
+paratingexcret.info
 parding.info
 parserwords.info
 patiskcontentdelivery.info
@@ -22785,6 +22797,7 @@ popshow.info
 poundaccordexecute.info
 ppdxyz.info
 prchecker.info
+prequire.info
 presidery.info
 print3.info
 provalist.info
@@ -22818,6 +22831,7 @@ samvinva.info
 sationy.info
 scene-pics.info
 securesoft.info
+sedatorsinted.info
 see-work.info
 sellously.info
 service4refresh.info
@@ -22956,6 +22970,7 @@ zhinkichi.info
 zhitkise.info
 zoglafi.info
 zoomclick.info
+zumcontentdelivery.info
 mycrypto.ink
 static.1dmp.io
 sync.1dmp.io
@@ -31204,7 +31219,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 14132
+# Ignored duplicates: 14140
 
 # Ignored entries due to the whitelist: 7
 
@@ -34110,7 +34125,6 @@ banner.101xp.com
 10y5gehv.com
 11c9e55308a.com
 11x11.com
-13vm73vbmp.com
 api.140proof.com
 15yomodels.com
 player.1800coupon.com
@@ -34521,7 +34535,6 @@ divascam.com
 divertura.com
 digdug.divxnetworks.com
 dnckawxatc.com
-dochase.com
 pan.dogster.com
 btr.domywife.com
 cad.donga.com
@@ -35244,7 +35257,6 @@ seitentipp.com
 b.sell.com
 mt.sellingrealestatemalta.com
 senkinar.com
-sensible-ads.com
 delivery.senvangvn.com
 server140.com
 sesxc.com
@@ -35621,14 +35633,11 @@ morphonebrities.info
 netosdesalim.info
 dasfdasfasdf.no-ip.info
 owlopadjet.info
-paratingexcret.info
 parkingse.info
 js.picsomania.info
 pornoh.info
-prequire.info
 direct.quasir.info
 sconcentpract.info
-sedatorsinted.info
 solidayw.info
 stopadblock.info
 tanil.info
@@ -35639,7 +35648,6 @@ whies.info
 wrigginger.info
 zindas.info
 zinzimo.info
-zumcontentdelivery.info
 ad.kissanime.io
 ad.kisscartoon.io
 onfocus.io
