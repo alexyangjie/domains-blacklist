@@ -34719,6 +34719,7 @@ aff-jp.dxlive.com
 dynamicserving.com
 ads.dynamicyield.com
 srv.dynamicyield.com
+dynpaa.com
 dynsrvaba.com
 dynsrvazf.com
 dynsrvwer.com
@@ -36253,6 +36254,7 @@ bitterstrawberry.org
 downloadweb.org
 easy-dating.org
 freewebfonts.org
+hoortols.org
 looky.hyves.org
 icqadvert.org
 life.imagepix.org
@@ -36397,6 +36399,7 @@ notify.support
 -ads.swf
 -advert.swf
 sexengine.sx
+projectagora.tech
 drevil.to
 a.kickass.to
 readcomiconline.to
