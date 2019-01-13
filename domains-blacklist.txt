@@ -4624,6 +4624,7 @@ alog.umeng.co
 oc.umeng.co
 rlog-api.under9.co
 verblife-2.co
+verblife-3.co
 i.viafoura.co
 vibrant.co
 vstats.co
@@ -4810,6 +4811,7 @@ log1.24liveplus.com
 2dpt.com
 2el-2el-fie.com
 2f5a1f1fab21a56.com
+2gok8g15p2.com
 2hanwriten.com
 2iiyrxk0.com
 2iui01.com
@@ -4952,6 +4954,7 @@ statsrv.451.com
 538b5d8f303be.com
 55labs.com
 x.55peixun.com
+565an8qpws.com
 56bc7e3668e952c.com
 56bfc388bf12.com
 img.56gmz.com
@@ -5210,6 +5213,7 @@ a4g.com
 a5020fec1701e9f3.com
 a5a5a.com
 a5pub.com
+a63t9o1azf.com
 a69ee4fa50dc3.com
 a6be07586bc4a7.com
 a6f845e6c37b2833148.com
@@ -5370,6 +5374,7 @@ adacts.com
 adafazerub.com
 adagora.com
 adalizer.com
+adalso.com
 adalyser.com
 adamoads.com
 adapd.com
@@ -5953,6 +5958,7 @@ aec40f9e073ba6.com
 aeckcjy.com
 aefqdgklyu.com
 aeghae5y.com
+aemxvcqi.com
 aenrqpnfmdogf.com
 aeobzaii.com
 aepwqsajypyti.com
@@ -6649,6 +6655,7 @@ awestatic.com
 awfjqdhcuftd.com
 awgsmfzrslcp.com
 awgyhiupjzvu.com
+awhxbiqf.com
 awin1.com
 awltovhc.com
 awogbtinorwx.com
@@ -9751,6 +9758,7 @@ analyzer51.fc2.com
 analyzer52.fc2.com
 fc2b9b7ce3165.com
 fc9033ae4bac99b6e.com
+fcbykurluasdeu.com
 itracking.fccinteractive.com
 tracking.fccinteractive.com
 widgets.fccinteractive.com
@@ -15156,6 +15164,7 @@ peer39.com
 peerius.com
 peewuranpdwo.com
 peewuvgdcian.com
+pega.com
 pegfkacjwjca.com
 pejhnrurllsq.com
 pejqoq4cafo3bg9yqqqtk5e6s6.com
@@ -16698,6 +16707,7 @@ ropsinde.com
 roqweslqqlyklb.com
 roritabo.com
 rotabetaffiliates.com
+rotate4all.com
 rotatingad.com
 rotibald.com
 rotorads.com
@@ -18001,6 +18011,7 @@ teasernet.com
 teaserrotator.com
 teasersystem.com
 tebadu.com
+tebo0o2xw4.com
 tec-tec-boom.com
 techbeat.com
 triad.technorati.com
@@ -19845,6 +19856,7 @@ wfnetwork.com
 wfqeqnvqdjvs.com
 wfwtfgrzwsonh.com
 wfxkcimqvt.com
+triggers.wfxtriggers.com
 wfyqdhypgmscy.com
 wfywchrzpic.com
 wgaycnmfz.com
@@ -20896,6 +20908,7 @@ yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
 yzuezvrahok.com
 yzus09by.com
 yzuzfvlzi.com
+yzveuheeothp.com
 yzyalgnxo.com
 yzygkqjhedpw.com
 yzysnbqc.com
@@ -22441,6 +22454,7 @@ diktafe.info
 directile.info
 directoral.info
 disedet.info
+dissonbegant.info
 djiboutdifficial.info
 dnab.info
 dochyedu.info
@@ -22799,6 +22813,7 @@ sationy.info
 scene-pics.info
 securesoft.info
 sedatorsinted.info
+sedatorslegallock.info
 see-work.info
 sellously.info
 service4refresh.info
@@ -25172,6 +25187,7 @@ statisfy.net
 statistichegratis.net
 statistik-gallup.net
 statok.net
+stats4u.net
 statsadvance-01.net
 statsy.net
 cdn.steambets.net
@@ -25397,6 +25413,7 @@ widgetvalue.net
 wifly.net
 wiflyad.net
 wisetrack.net
+analytics.witglobal.net
 tracking.wlscripts.net
 wmrok.net
 wootmedia.net
@@ -30955,7 +30972,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13858
+# Ignored duplicates: 13870
 
 # Ignored entries due to the whitelist: 7
 
@@ -33839,7 +33856,6 @@ log.openload.co
 potedly.co
 profitmaximizer.co
 runetki.co
-verblife-3.co
 xpop.co
 0llii0g6.com
 0torrent.com
@@ -33860,7 +33876,6 @@ player.1stcreditrepairs.com
 ad.23blogs.com
 24x7adservice.com
 2b8869dfc34690.com
-2gok8g15p2.com
 2kl08cd74f.com
 33traffic.com
 3a5be2a583475ea31b.com
@@ -33872,7 +33887,6 @@ indieclick.3janecdn.com
 4c7og3qcob.com
 4dcdc.com
 site.img.4tube.com
-565an8qpws.com
 59zs1xei.com
 699fy4ne.com
 banner.69stream.com
@@ -33911,7 +33925,6 @@ actionlocker.com
 ad-411.com
 ad-u.com
 ad4partners.com
-adalso.com
 adcitrus.com
 addbags.com
 adenabler.com
@@ -33974,7 +33987,6 @@ adxregie.com
 adzs.com
 aeesy.com
 aemediatraffic.com
-aemxvcqi.com
 ext.affaire.com
 affiliatewindow.com
 affiliation-int.com
@@ -34049,7 +34061,6 @@ zws.avvo.com
 awadhtimes.com
 awentw.com
 awept.com
-awhxbiqf.com
 awmpartners.com
 ax47mp-xp-21.com
 azerbazer.com
@@ -34342,7 +34353,6 @@ pop.fapxl.com
 news.fark.com
 banners.fastcupid.com
 ruleclaim.web.fc2.com
-fcbykurluasdeu.com
 fderty.com
 res3.feedsportal.com
 felixflow.com
@@ -34944,7 +34954,6 @@ partners.rochen.com
 rya.rockyou.com
 utility.rogersmedia.com
 roia.com
-rotate4all.com
 royal-cash.com
 streaming.rtbiddingplatform.com
 rtbsystem.com
@@ -35062,7 +35071,6 @@ targetedinfo.com
 targetedtopic.com
 targetingnow.com
 teaservizio.com
-tebo0o2xw4.com
 tech-board.com
 teendestruction.com
 banner.telefragged.com
@@ -35287,7 +35295,6 @@ yuppads.com
 yurivideo.com
 gashot.yurivideos.com
 yx0banners.com
-yzveuheeothp.com
 mb.zam.com
 zapads.zapak.com
 zenkreka.com
@@ -35351,7 +35358,6 @@ cervicalknowledge.info
 clicktrace.info
 rd.cockhero.info
 weeklyprizewinner.com-net.info
-dissonbegant.info
 erotizer.info
 flipflapflo.info
 fonderreader.info
@@ -35369,7 +35375,6 @@ js.picsomania.info
 pornoh.info
 direct.quasir.info
 sconcentpract.info
-sedatorslegallock.info
 solidayw.info
 stopadblock.info
 tanil.info
