@@ -4490,6 +4490,7 @@ aggeneyer.co
 alogationa.co
 anlclqrvbsk.co
 appclick.co
+arrowbucket.co
 awakinatters.co
 ayads.co
 bahisciler.co
@@ -6091,6 +6092,7 @@ aheadday.com
 ahjljmxfxuet.com
 ahkpdnrtjwat.com
 ahstrelgnh.com
+ahuosyyqprt.com
 ahwjxktemuyz.com
 ahyuzjgukqyd.com
 ahzybvwdwrhi.com
@@ -9555,6 +9557,7 @@ eurocounter.com
 europacash.com
 europagerank.com
 tracking.eurosport.com
+tracking.ws.eurosport.com
 eutdrjvsrmav.com
 eutklhuazxlt.com
 euuikdao.com
@@ -10205,6 +10208,7 @@ fvhxlrcd.com
 fvipinzac.com
 fvrbloxygbrv.com
 fvrvxmksxhut.com
+fvtwyjev.com
 fvwcwbdrprdt.com
 fwbhvrpiunlzyh.com
 fwbntw.com
@@ -10905,6 +10909,7 @@ hcggkyhzxzsv.com
 hcijbbzz.com
 hclccadfmkpw.com
 hcmafnawzxfnam.com
+hcmjlsxhebb.com
 hcqjgkpg.com
 hcrsxbke.com
 hctcdmqp.com
@@ -12545,6 +12550,7 @@ sp.knoxnews.com
 knqjhdkndh.com
 knqjqzziu.com
 knslxwqgatnd.com
+knwfmpvtj.com
 kochava.com
 tracking.koego.com
 kofeereb.com
@@ -12800,6 +12806,7 @@ lead-123.com
 lead-converter.com
 leadacceptor.com
 leadboxer.com
+leadchampion.com
 leadcola.com
 collector.leaddyno.com
 leadfeeder.com
@@ -15218,6 +15225,7 @@ permato.com
 permutive.com
 persevered.com
 persianstat.com
+personaclick.com
 personalicanvas.com
 personyze.com
 pertholin.com
@@ -16119,6 +16127,7 @@ qqgtevtjnpwd.com
 qqjmbj.com
 qqrkutrsg.com
 qqtqicbvrwg.com
+qquwjmmgtmle.com
 qqvatwaqtzgp.com
 qqylzyrqnewl.com
 qractv.com
@@ -16219,6 +16228,7 @@ qxnniyuuaxhv.com
 qxvnvbkcm.com
 qxxyzmukttyp.com
 qxyam.com
+qybzvfvqzpmxpu.com
 qycxhqkddcc.com
 qydylxmzlnqw.com
 qyfunsvmtudozq.com
@@ -16321,6 +16331,7 @@ rckxwyowygef.com
 rcnkflgtxspr.com
 rcumwyqkv.com
 rcurn.com
+rcvhzfcnja.com
 rcwczstm.com
 rczagufykvpw.com
 rdfpnzisjyiwtu.com
@@ -16872,6 +16883,7 @@ rzfldcrlwe.com
 rzgiiioqfpny.com
 rzgqfvhfj.com
 rzhujam.com
+rzmrzylebgq.com
 rztrkr.com
 rzuwelgm.com
 rzwzstbiqk.com
@@ -17382,6 +17394,7 @@ smrtlnks.com
 smrtrdrct.com
 sms-mmm.com
 smspartnerprogramm.com
+smuucatbrc.com
 smwrjtdzhg.com
 ping.smyte.com
 smzvvqztihof.com
@@ -18526,6 +18539,7 @@ traviilo.com
 m.trb.com
 trbna.com
 trbo.com
+trbucgmbren.com
 trcbxjusetvc.com
 trdhjlszfbwk.com
 treasuredata.com
@@ -18547,6 +18561,7 @@ collector.trendmd.com
 trenpyle.com
 trflog.com
 trfpump.com
+trgdwwhaa.com
 trgtcdn.com
 triadmedianetwork.com
 tribalfusion.com
@@ -20614,6 +20629,7 @@ ydxzdniz.com
 yeabble.com
 yeahmobi.com
 yebadu.com
+yecxfxsbkb.com
 yefttzzn.com
 yehazsnxdevr.com
 yejkuusxijvzz.com
@@ -23198,6 +23214,7 @@ mystat.it
 nanostats.nanopress.it
 trac.oferting.it
 osd.oxygem.it
+instore.pagomeno.it
 payclick.it
 geo.play.it
 prostats.it
@@ -30881,7 +30898,7 @@ chat.whatsappx.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4312
+# Ignored duplicates: 4313
 
 # Ignored entries due to the whitelist: 8
 
@@ -30922,7 +30939,6 @@ g.msn.com
 rel.msn.com
 webmetrics.nintendo-europe.com
 optimizely.com
-personaclick.com
 btrace.qq.com
 qualtrics.com
 track2.royalmail.com
@@ -30977,7 +30993,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13870
+# Ignored duplicates: 13883
 
 # Ignored entries due to the whitelist: 7
 
@@ -33851,7 +33867,6 @@ fuckbook.cm
 lulu.dian500.com.cn
 pmm.people.com.cn
 ageverify.co
-arrowbucket.co
 baltizm.co
 bitcoin-code.co
 bitcoinloophole.co
@@ -33999,7 +34014,6 @@ affiliatewindow.com
 affiliation-int.com
 affiliaxe.com
 affutdmedia.com
-ahuosyyqprt.com
 aipbannerx.com
 aipmedia.com
 ajkzd9h.com
@@ -34429,7 +34443,6 @@ fuckyoucash.com
 fuelbuck.com
 funnypickuplinesforgirls.com
 shoppingpartners2.futurenet.com
-fvtwyjev.com
 g0ads.com
 g17media.com
 g6ni40i7.com
@@ -34486,7 +34499,6 @@ finding.hardwareheaven.com
 serrano.hardwareheaven.com
 showing.hardwareheaven.com
 click.hay3s.com
-hcmjlsxhebb.com
 hdvid-codec.com
 hdvid-codecs.com
 a.heavy-r.com
@@ -34619,7 +34631,6 @@ kindredplc.com
 static.kinghost.com
 click.kink.com
 cjmooter.xcache.kinxcdn.com
-knwfmpvtj.com
 kodicdn.com
 kolestence.com
 kolitat.com
@@ -34923,14 +34934,12 @@ b92.putniktravel.com
 putrr11.com
 putrr14.com
 pyiel2bz.com
-qquwjmmgtmle.com
 quagodex.com
 core.queerclick.com
 queronamoro.com
 quexotac.com
 quierest.com
 iadc.qwapi.com
-qybzvfvqzpmxpu.com
 qyifd.com
 r7e0zhv8.com
 widget.raaze.com
@@ -34941,7 +34950,6 @@ ragazzeinvendita.com
 ramctrlgate.com
 resimler.randevum.com
 ox-d.rantsports.com
-rcvhzfcnja.com
 reachword.com
 realdatechat.com
 realitance.com
@@ -34985,7 +34993,6 @@ rulerclick.com
 runetki.com
 banners.rushcommerce.com
 russianlovematch.com
-rzmrzylebgq.com
 sponsors.s2ki.com
 pb.s3wfg.com
 s5prou7ulr.com
@@ -35047,7 +35054,6 @@ ad.slutload.com
 ad.smartmediarep.com
 banners.smarttweak.com
 sms-xxx.com
-smuucatbrc.com
 geobanner.socialflirt.com
 static.softlayer.com
 solutionsadultes.com
@@ -35147,8 +35153,6 @@ traffictraffickers.com
 trafficundercontrol.com
 trafflict.com
 trafyield.com
-trbucgmbren.com
-trgdwwhaa.com
 trhnt.com
 trhunt.com
 trktrk017.com
@@ -35302,7 +35306,6 @@ iframe.travel.yahoo.com
 ysm.yahoo.com
 jscode.yavli.com
 yazcash.com
-yecxfxsbkb.com
 servedby.yell.com
 yesmessenger.com
 yfum.com
@@ -37899,7 +37902,7 @@ xfyubqmldwvuyar.yt
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1152
+# Ignored duplicates: 1153
 
 # Ignored entries due to the whitelist: 12
 
@@ -37911,7 +37914,6 @@ app.adjust.com
 adywind.com
 brahe.apptimize.com
 west.bidtellect.com
-tracking.ws.eurosport.com
 newad.ifeng.com
 mobimagic.com
 api-a.op-mobile.opera.com
