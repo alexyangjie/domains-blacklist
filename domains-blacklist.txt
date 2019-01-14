@@ -3995,7 +3995,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 640
+# Ignored duplicates: 638
 
 # Ignored entries due to the whitelist: 32
 
@@ -22508,6 +22508,7 @@ enousouz.info
 estocaf.info
 etrase.info
 exoneratedresignation.info
+expectorslapsino.info
 explainidentifycoding.info
 expresided.info
 extstat.info
@@ -22656,6 +22657,7 @@ lvodomo.info
 lzoloro.info
 madite.info
 magicalled.info
+majoritishbettes.info
 maneta.info
 maraukog.info
 marketgid.info
@@ -24027,7 +24029,8 @@ bidrev.net
 bidswitch.net
 bigadpoint.net
 bigbord.net
-bigmir.net
+c.bigmir.net
+vi.bigmir.net
 mediapartner.bigpoint.net
 bigstats.net
 bitads.net
@@ -24343,6 +24346,7 @@ dp1fzft1fdb84.cloudfront.net
 dpz55hrzd89zs.cloudfront.net
 dqqulesm3pfse.cloudfront.net
 dr3k6qonw2kee.cloudfront.net
+drda5yf9kgz5p.cloudfront.net
 drrcckbju3nd0.cloudfront.net
 ds02gfqy6io6i.cloudfront.net
 dsh1ct2zrfakt.cloudfront.net
@@ -30794,6 +30798,7 @@ shop.kicker.de
 push.connect.digital
 cookie-bar.eu
 push.expert
+bttm.guru
 pushell.info
 pushere.info
 blinger.io
@@ -30993,7 +30998,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13883
+# Ignored duplicates: 13886
 
 # Ignored entries due to the whitelist: 7
 
@@ -35387,14 +35392,12 @@ clicktrace.info
 rd.cockhero.info
 weeklyprizewinner.com-net.info
 erotizer.info
-expectorslapsino.info
 flipflapflo.info
 fonderreader.info
 goclick.info
 host-go.info
 impotencehelp.info
 iridiumsergeiprogenitor.info
-majoritishbettes.info
 might-stay.info
 morphonebrities.info
 netosdesalim.info
@@ -35668,7 +35671,6 @@ dpsq2uzakdgqz.cloudfront.net
 dq2tgxnc2knif.cloudfront.net
 dqhi3ea93ztgv.cloudfront.net
 dr8pk6ovub897.cloudfront.net
-drda5yf9kgz5p.cloudfront.net
 drf8e429z5jzt.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
 dsie7h4lo9wxu.cloudfront.net
