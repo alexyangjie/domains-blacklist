@@ -9102,6 +9102,7 @@ dxzgoyzo.com
 dyazeqpeoykf.com
 dydxtkvmktumjp.com
 dyerbegytfkj.com
+dyhwaacbbntu.com
 dyino.com
 dyjifezeyagm.com
 dyjkbkpzxgpjfs.com
@@ -10414,6 +10415,7 @@ getblueshift.com
 getbonusnow3.com
 getclicky.com
 getdrip.com
+getfree-vpn.com
 getfreebacklinks.com
 getfreebl.com
 getgscfree.com
@@ -12221,6 +12223,7 @@ jrarnqfvjijaa.com
 jrcpoxuskv.com
 jrlsithadutpm.com
 jrmyhchnfawh.com
+jrrekpskc.com
 jrrmwjybfaztct.com
 jrtawlpbusyg.com
 jrtzehrbg.com
@@ -12655,6 +12658,7 @@ ktrgcpceilj.com
 ktrmzzrlkbet.com
 kttjowlrr.com
 ktxtr.com
+ktzwdewsckssid.com
 kuaiyan.com
 kuavzcushxyd.com
 kuaygqohsbeg.com
@@ -12912,6 +12916,7 @@ lhzgqc.com
 liadlzantv.com
 liadm.com
 liakiadlbs.com
+libertystmedia.com
 metrics-api.librato.com
 libstat.com
 flashstats.libsyn.com
@@ -14959,6 +14964,7 @@ ouiinryhlvbgq.com
 oulxdvvpmfcd.com
 ournet-analytics.com
 ourunlimitedleads.com
+ousufauk.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 eventlog.outbrain.com
@@ -21703,6 +21709,7 @@ cj.madeleine.de
 madsack-native.de
 ad.madvertise.de
 manughl.de
+maria-herzt.de
 marketing-guerilla.de
 marketing-page.de
 maxi-ad.de
@@ -24645,6 +24652,7 @@ hottraffic.net
 hs-analytics.net
 hsadspixel.net
 hurterkranach.net
+hwcdn.net
 hypemakers.net
 hyperbanner.net
 metric-agent.i10c.net
@@ -25516,6 +25524,7 @@ owndata.network
 panda.network
 pub.network
 searchdims.network
+yoads.network
 omni-ads.omni.news
 vrt.news
 adbuka.com.ng
@@ -31006,7 +31015,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13887
+# Ignored duplicates: 13895
 
 # Ignored entries due to the whitelist: 8
 
@@ -34472,7 +34481,6 @@ gefnaro.com
 genialradio.com
 geoinventory.com
 get-a-fuck-tonight.com
-getfree-vpn.com
 getiton.com
 tools.gfcash.com
 gfhdkse.com
@@ -34625,7 +34633,6 @@ joinnowinstantly.com
 ad.jokeroo.com
 jowapt.com
 joyourself.com
-jrrekpskc.com
 jsmptjmp.com
 shared.juicybucks.com
 justgetitfaster.com
@@ -34657,7 +34664,6 @@ deals.ledgertranscript.com
 legendarylars.com
 adserv.legitreviews.com
 widgets.lendingtree.com
-libertystmedia.com
 lickbylick.com
 lie2anyone.com
 likingyetsnarl.com
@@ -34836,7 +34842,6 @@ auth.opera.com
 partners.optiontide.com
 ordermc.com
 otherprofit.com
-ousufauk.com
 banners.outpersonals.com
 ad.outsidehub.com
 outster.com
@@ -35723,7 +35728,6 @@ stream.heavenmedia.net
 hostave.net
 hostave2.net
 hostave4.net
-hwcdn.net
 i4track.net
 ad.idgtn.net
 igiplay.net
@@ -35807,7 +35811,6 @@ w.homes.yahoo.net
 sync.disk.yandex.net
 xmpp.disk.yandex.net
 zmh.zope.net
-yoads.network
 widget.cheki.com.ng
 widgets.privateproperty.com.ng
 123advertising.nl
