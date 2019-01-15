@@ -28,3 +28,4 @@ windows.net
 fabric.io
 nordvpn.com
 mobileapptracking.com
+use.fontawesome.com
