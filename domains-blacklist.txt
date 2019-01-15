@@ -9942,6 +9942,7 @@ flcfstbzncsim.com
 flcounter.com
 fldlyzvhgjq.com
 fleconomnipuer.com
+flepzrkdwm.com
 fleshlight-russia.com
 fleshyourlight.com
 flexlinks.com
@@ -10354,6 +10355,7 @@ gannett.gcion.com
 gcujnsgvdq.com
 gcwhhynufwnj.com
 gdbhmiyly.com
+gdbmpwlhf.com
 gdbohhvoo.com
 gddrio.com
 gdekvzhsqwau.com
@@ -13352,7 +13354,6 @@ marketleverage.com
 marketnetwork.com
 marketoring.com
 marketshot.com
-markitondemand.com
 maropost.com
 marphezis.com
 smetrics.marriott.com
@@ -16857,6 +16858,7 @@ rvtlife.com
 rvttrack.com
 rvtxrtzbswdji.com
 rvvslhmmbor.com
+rvyvkjqffmdp.com
 rvzudtgpvwxz.com
 rwcdoeigzraeu.com
 rwdkcusan.com
@@ -18793,6 +18795,7 @@ ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com
 adserver.ubiyoo.com
 ubktdzjnjkpon.com
 ubopxbdwtnlf.com
+ubpjjgso.com
 ubpurlsu.com
 ububilecif.com
 ubudigital.com
@@ -20359,6 +20362,7 @@ xihwtdncwtxc.com
 xijgedjgg5f55.com
 xikrik.com
 xilfqkxezy.com
+xilnalycptredw.com
 ximad.com
 ximeldnjuusl.com
 analytic.xingcloud.com
@@ -31015,7 +31019,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13895
+# Ignored duplicates: 13900
 
 # Ignored entries due to the whitelist: 8
 
@@ -34417,7 +34421,6 @@ firstload.com
 vendor1.fitschigogerl.com
 flashadtools.com
 flashplayer-updates.com
-flepzrkdwm.com
 fleshcash.com
 fleshlightgirls.com
 adb.fling.com
@@ -34478,7 +34481,6 @@ ganardineroreal.com
 banner.gasuki.com
 gayadpros.com
 gayxperience.com
-gdbmpwlhf.com
 gefnaro.com
 genialradio.com
 geoinventory.com
@@ -35017,7 +35019,6 @@ rulerclick.com
 runetki.com
 banners.rushcommerce.com
 russianlovematch.com
-rvyvkjqffmdp.com
 sponsors.s2ki.com
 pb.s3wfg.com
 s5prou7ulr.com
@@ -35199,7 +35200,6 @@ ashot.txxx.com
 myashot.txxx.com
 tynyh.com
 cerebral.typn.com
-ubpjjgso.com
 eva.ucas.com
 ucontrate.com
 slot.union.ucweb.com
@@ -35297,7 +35297,6 @@ xenfrastucter.com
 xfuckbook.com
 xgogi.com
 xhamstercams.com
-xilnalycptredw.com
 embed.xinhuanet.com
 xlovecam.com
 xmatch.com
