@@ -31006,7 +31006,7 @@ newserv.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/2.txt ##########
 
-# Ignored duplicates: 13886
+# Ignored duplicates: 13887
 
 # Ignored entries due to the whitelist: 8
 
@@ -34657,6 +34657,7 @@ deals.ledgertranscript.com
 legendarylars.com
 adserv.legitreviews.com
 widgets.lendingtree.com
+libertystmedia.com
 lickbylick.com
 lie2anyone.com
 likingyetsnarl.com
@@ -35722,6 +35723,7 @@ stream.heavenmedia.net
 hostave.net
 hostave2.net
 hostave4.net
+hwcdn.net
 i4track.net
 ad.idgtn.net
 igiplay.net
