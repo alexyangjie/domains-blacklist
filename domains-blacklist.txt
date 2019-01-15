@@ -1757,6 +1757,7 @@ a.exam58.com
 eyd77s.com
 img1.eywdf.com
 ez33.com
+ezuon.com
 f1190.com
 f11w.com
 f1zd.com
@@ -31006,7 +31007,7 @@ newserv.xyz
 
 # Ignored duplicates: 13886
 
-# Ignored entries due to the whitelist: 7
+# Ignored entries due to the whitelist: 8
 
 ad.kissanime.ac
 ad.kisscartoon.ac
@@ -34421,7 +34422,6 @@ fncash.com
 fncnet1.com
 ad.fnnews.com
 focuusing.com
-use.fontawesome.com
 fophaumpoor.com
 forgetstore.com
 gateway.fortunelounge.com
