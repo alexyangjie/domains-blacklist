@@ -4099,6 +4099,7 @@ affiliate.productreview.com.au
 medrx.sensis.com.au
 streem.com.au
 surfboarddigital.com.au
+logger.tv.telstra.com.au
 tiser.com.au
 zoomdirect.com.au
 counter.theconversation.edu.au
@@ -9730,6 +9731,7 @@ faftjhuu.com
 faggrim.com
 fairadsnetwork.com
 l.fairblocker.com
+fairnessels.com
 fairypays.com
 fajonlkb.com
 fajsbncwlaws.com
@@ -10966,6 +10968,7 @@ hedvid.com
 heefwozhlxgz.com
 hefgfqcyfmv.com
 hefgynqlzwi.com
+heg-cp.com
 hegrinhar.com
 hehraybryciyls.com
 heias.com
@@ -13088,7 +13091,6 @@ stats.load.com
 loadercdn.com
 loading-resource.com
 localadbuy.com
-localbitcoins.com
 localedgemedia.com
 localytics.com
 locjzfoh.com
@@ -18580,6 +18582,7 @@ traversedlp.com
 travidia.com
 traviilo.com
 m.trb.com
+trbas.com
 trbna.com
 trbo.com
 trbucgmbren.com
@@ -18836,6 +18839,7 @@ uciservice.com
 uckxjsiy.com
 uclylhzwg.com
 ucptqdmerltn.com
+ucvrtwfh.com
 adn.insight.ucweb.com
 puds.ucweb.com
 uc.ucweb.com
@@ -22885,6 +22889,7 @@ securesoft.info
 sedatorsinted.info
 sedatorslegallock.info
 see-work.info
+seecontentdelivery.info
 sellously.info
 service4refresh.info
 sethads.info
@@ -25464,6 +25469,7 @@ w55c.net
 wapbanner.net
 waplog.net
 cpm.wargaming.net
+watchingthat.net
 waycash.net
 wbtrk.net
 wcfbc.net
@@ -30749,7 +30755,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4312
+# Ignored duplicates: 4313
 
 # Ignored entries due to the whitelist: 8
 
