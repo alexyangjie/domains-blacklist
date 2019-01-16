@@ -4008,7 +4008,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 604
+# Ignored duplicates: 605
 
 # Ignored entries due to the whitelist: 32
 
@@ -11852,7 +11852,6 @@ ipvvitntvja.com
 ipxdoldjsvnjvw.com
 ipzjwnbhgymuw.com
 iqfp1.com
-secure.iqmining.com
 iqmjedevvojm.com
 tracker.iqnomy.com
 iqpfextjfphjnn.com
@@ -25552,7 +25551,6 @@ z5x.net
 zhuwawa.net
 zisboombah.net
 ziyu.net
-zmctrack.net
 zoocauvo.net
 zoossoft.net
 zqtk.net
@@ -28926,7 +28924,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13642
+# Ignored duplicates: 13948
 
 # Ignored entries due to the whitelist: 8
 
@@ -29013,6 +29011,7 @@ eqpool.cash
 hashfor.cash
 hashto.cash
 myzen.cash
+stellite.cash
 z.cash
 coinminer.co.cc
 cryptoknight.cc
@@ -29147,6 +29146,7 @@ julrina.000webhostapp.com
 spiky-inclinations.000webhostapp.com
 xenafiter.000webhostapp.com
 xerox300.000webhostapp.com
+1-hash.com
 browsermine.12finance.com
 browsersurf.12finance.com
 xcnpool2.1gh.com
@@ -29211,6 +29211,7 @@ bitpoolmining.com
 bittrex.com
 bittrexbtc.com
 bitzfree.com
+bixin.com
 bizoninvest.com
 serv0100.blacktds.com
 blake2s.com
@@ -29250,6 +29251,7 @@ miner.cinemafacil.com
 us.clevermining.com
 clickgem.com
 cloudmediacdn.com
+cloudminer.com
 cloudzad.com
 coihive.com
 coin-blocker.com
@@ -29339,6 +29341,7 @@ imperium.getmyip.com
 gigarho.com
 give-me-coins.com
 goldennoncepool.com
+gonspool.com
 goxmrminer.com
 grcpool.com
 d.greece-search.com
@@ -29423,15 +29426,18 @@ infamylists.com
 stats.infogenservice.com
 inwemo.com
 pool.ipominer.com
+iqmining.com
 italyiimp.com
 itgpll.com
 jhshxbv.com
 jixiangrong.com
 jquery-js.com
+karbowanec.com
 mix.kinostuff.com
 kissdoujin.com
 kiwiminers.com
 ot.knotwork.com
+krunzy.com
 www.chinaenter.cn.w.kunlunar.com
 l3pool.com
 labbinarymining.com
@@ -29446,6 +29452,7 @@ mobile.live-signin.com
 ads.locationforexpert.com
 rr.locationforexpert.com
 lochjol.com
+loudmining.com
 au.ltcrabbit.com
 eu.ltcrabbit.com
 hk.ltcrabbit.com
@@ -29479,6 +29486,7 @@ miningexpress.com
 eu.miningfield.com
 us.miningfield.com
 miningfool.com
+miningpoolhouse.com
 miningpoolhub.com
 miningrigrentals.com
 miningspeed.com
@@ -29627,6 +29635,7 @@ techtricksworld.com
 teramill.com
 p2pool.tgservers.com
 theappguruz.com
+thetapool.com
 timeteh.com
 toastpool.com
 tubetitties.com
@@ -29812,6 +29821,7 @@ selverrytony.ga
 sinussoda.ga
 theslots.ga
 versusafteberr.ga
+webchainpool.ga
 wmasters.ga
 yrtumngfdsdgf.ga
 zinterect.ga
@@ -29956,6 +29966,7 @@ pool.sfo.coinbucks.io
 coinfirm.io
 coinking.io
 comining.io
+coorp.io
 copay.io
 equihash.cryptobroker.io
 scrypt.cryptobroker.io
@@ -30014,6 +30025,7 @@ binance.live
 coinone.live
 minepool.live
 poloniex.live
+webchain.live
 play.alt.indigital.lt
 korbit.ltd
 d.sdgndsfajfsdf.ltd
@@ -30125,6 +30137,7 @@ graftpool.net
 gridcash.net
 hashbook.net
 hashinvest.net
+hashluck.net
 kinohabr.net
 kisshentai.net
 kiwifarms.net
@@ -30143,6 +30156,7 @@ carry.myeffect.net
 myetherwallets.net
 njbtcmine.net
 p00ls.net
+penguinpool.net
 www49.playercdn.net
 powerltc.net
 prohash.net
@@ -30208,6 +30222,7 @@ mining.akroma.org
 asicpool.org
 big4u.org
 bitcoin-india.org
+bytecoin-pool.org
 ccminer.org
 1480876790.rsc.cdn77.org
 ckpool.org
