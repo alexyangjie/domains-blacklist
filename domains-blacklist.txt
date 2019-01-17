@@ -645,6 +645,7 @@ pro.cn
 1.proewildfire.cn
 prohibited.cn
 a.psxxw.cn
+puzwb.cn
 dm.pw0.cn
 pxyvb.cn
 df666.pzhttaax.cn
@@ -735,6 +736,7 @@ ads.uc.cn
 ucaliyun.cn
 ucrzgcs.cn
 ucstatic.cn
+uhor8.cn
 ujikdd041o.cn
 uklyv.cn
 umm6.cn
