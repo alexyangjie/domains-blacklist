@@ -4018,7 +4018,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 605
+# Ignored duplicates: 606
 
 # Ignored entries due to the whitelist: 32
 
@@ -10978,7 +10978,6 @@ hedvid.com
 heefwozhlxgz.com
 hefgfqcyfmv.com
 hefgynqlzwi.com
-heg-cp.com
 hegrinhar.com
 hehraybryciyls.com
 heias.com
@@ -22599,6 +22598,7 @@ fzoneli.info
 galkama.info
 gamsano.info
 garrogy.info
+gcontentdelivery.info
 gearnews.info
 geede.info
 gegmanu.info
@@ -24702,7 +24702,6 @@ hottraffic.net
 hs-analytics.net
 hsadspixel.net
 hurterkranach.net
-hwcdn.net
 hypemakers.net
 hyperbanner.net
 metric-agent.i10c.net
@@ -28028,6 +28027,7 @@ prxio.site
 sgolden.site
 siteverification.site
 smartoffer.site
+smrtbnr.site
 tdstorage.site
 trav4life.site
 xvideosharing.site
