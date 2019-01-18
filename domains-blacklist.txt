@@ -442,6 +442,7 @@ cpshwl.cn
 dm.cqdxun.cn
 sc.csai.cn
 cwj2h.cn
+cxslchkb.cn
 z1.cyla.cn
 czjiuding.cn
 czxjx.cn
@@ -484,6 +485,7 @@ founseezb.cn
 fxtducb.cn
 fytza.cn
 jiaoben.ganji.cn
+gazoeft.cn
 gclick.cn
 fangdalaw.gd.cn
 gelinboer.cn
@@ -575,6 +577,7 @@ kz8tr2.cn
 l9c4s.cn
 lanhouhou.cn
 le123.cn
+lglady.cn
 linjiajia.cn
 linkpage.cn
 linwukui.cn
@@ -4050,6 +4053,7 @@ cache.am
 circle.am
 s.infogr.am
 tru.am
+codefund.app
 stats.lnol.com.ar
 cdn.c-i.as
 smrt.as
@@ -15262,6 +15266,7 @@ performtracking.com
 perinstallcash.com
 ad.period-calendar.com
 perion.com
+perkcanada.com
 permanyb.com
 permato.com
 permutive.com
@@ -15701,7 +15706,6 @@ promotioncamp.com
 promotionengine.com
 promoviral.com
 track.promptfile.com
-proofpoint.com
 proofpositivemedia.com
 propellerads.com
 propellerclick.com
@@ -17100,6 +17104,7 @@ seedr.com
 seedtag.com
 seegamese.com
 seehits.com
+log.seekda.com
 metrics.seenon.com
 seethisinaction.com
 seewhy.com
@@ -17282,6 +17287,7 @@ shvdvzydgryx.com
 shyyyxjw.com
 siamzone.com
 sibulla.com
+sicksmash.com
 sielsmaats.com
 siftscience.com
 track.sigfig.com
@@ -17646,6 +17652,7 @@ sqnkkpba.com
 sqtsuzrfefwy.com
 harvester.ext.square-enix-europe.com
 squarterun.com
+squeakzinc.com
 squeamishscarecrow.com
 squidanalytics.com
 edge.sqweb.com
@@ -23293,6 +23300,7 @@ stats.technopia.it
 tracc.it
 trackset.it
 tag.triboomedia.it
+trick17.it
 top100.tuttoperinternet.it
 ultrastats.it
 track.veedio.it
@@ -30780,7 +30788,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4313
+# Ignored duplicates: 4315
 
 # Ignored entries due to the whitelist: 8
 
@@ -30826,9 +30834,7 @@ qualtrics.com
 track2.royalmail.com
 nmetrics.samsung.com
 scorecardresearch.com
-sicksmash.com
 skimresources.com
-squeakzinc.com
 statuscake.com
 dig.ultimedia.com
 visualwebsiteoptimizer.com
