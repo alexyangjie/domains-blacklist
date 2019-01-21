@@ -14779,6 +14779,7 @@ oieeezzld.com
 oiffrtkdgoef.com
 oihbs34.com
 oilfeswka.com
+oinqqbzs.com
 oiokewfkjnvq.com
 oipsyfnmrwir.com
 oiramtfxzqfc.com
@@ -18253,6 +18254,7 @@ thewheelof.com
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
+thiksikr.com
 thingswontend.com
 tracker.thinkindot.com
 thirdrespect.com
@@ -19074,6 +19076,7 @@ uoapkzwkoqnk.com
 uoarbhxfyygn.com
 uoccvsdh.com
 uocux.com
+uod2quk646.com
 event.allnews.uodoo.com
 uohpnvpynvsz.com
 uoottsfgy.com
@@ -24168,6 +24171,7 @@ cdnproviders.net
 cedexis-radar.net
 statstracker.celebrity-gossip.net
 centralnervous.net
+ceptavou.net
 chanished.net
 channelvn.net
 chartbeat.net
@@ -26747,6 +26751,7 @@ ezaste.ru
 ezotizer.ru
 phen.fabricmedia.ru
 faceblum.ru
+fafc5ra5.ru
 fairlink.ru
 faktino.ru
 faktozhe.ru
@@ -28375,6 +28380,7 @@ ads5.sabah.com.tr
 adsim.sabah.com.tr
 is.sabah.com.tr
 reklam.star.com.tr
+ipcheck.tmgrup.com.tr
 rss.tmgrup.com.tr
 st.tmgrup.com.tr
 reklam.vogel.com.tr
@@ -30807,7 +30813,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4315
+# Ignored duplicates: 4316
 
 # Ignored entries due to the whitelist: 8
 
@@ -30895,7 +30901,6 @@ montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
 stat.sports.ru
-ipcheck.tmgrup.com.tr
 smartpixel.tv
 countess.twitch.tv
 videostat.meta.ua
