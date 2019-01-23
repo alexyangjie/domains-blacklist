@@ -24069,7 +24069,6 @@ analyticsip.net
 analyticsncc.net
 anametrix.net
 andohs.net
-anrdoezrs.net
 analytics.anvato.net
 tkcatwalk.aotter.net
 tkmedia.aotter.net
@@ -30841,7 +30840,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4316
+# Ignored duplicates: 4315
 
 # Ignored entries due to the whitelist: 8
 
@@ -30910,6 +30909,7 @@ onthe.io
 rtoaster.jp
 .gatracking.js
 bnc.lt
+anrdoezrs.net
 tag.aticdn.net
 cedexis.net
 tracking.content-recommendation.net
