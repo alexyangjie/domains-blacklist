@@ -4044,7 +4044,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 606
+# Ignored duplicates: 607
 
 # Ignored entries due to the whitelist: 32
 
@@ -7687,6 +7687,7 @@ cb5864239d752.com
 cbaazars.com
 cbb16ef5c520a0f.com
 cbbabemymc.com
+cbbvi.com
 cbclickbank.com
 cbclicks.com
 cbdjzemui.com
@@ -13374,6 +13375,7 @@ mainadd.com
 mainadv.com
 mainclc.com
 mainroll.com
+mairdumont.com
 majosita.com
 makemyvids.com
 jizvehd.makeuseof.com
@@ -13490,6 +13492,7 @@ mcsnhbdil.com
 mctqu.com
 mcvyeitc.com
 mczuljmdpysftg.com
+md-nx.com
 mdadx.com
 mdagsecyvd.com
 mddlhkzkntmmb.com
@@ -15393,6 +15396,7 @@ api.pingstart.com
 track.pingstart.com
 pinkintim.com
 tracker.pinnaclesports.com
+analytics.pinpoll.com
 ct.pinterest.com
 log.pinterest.com
 trk.pinterest.com
@@ -22020,7 +22024,7 @@ visionads.de
 visit2visit.de
 visitor-stats.de
 vodafone-direkt.de
-p.vtracy.de
+vtracy.de
 vtrtl.de
 vuiads.de
 w3hoster.de
@@ -25163,6 +25167,7 @@ powerfulbusiness.net
 ppctracking.net
 predicta.net
 predictiveresponse.net
+pressekompass.net
 prnx.net
 pro-market.net
 profiliate.net
@@ -27511,6 +27516,7 @@ track.revolvermarketing.ru
 reytata.ru
 rb.rfn.ru
 rg-be.ru
+a.ria.ru
 lnews.riafan.ru
 counter.rian.ru
 richbanner.ru
@@ -30843,7 +30849,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4317
+# Ignored duplicates: 4318
 
 # Ignored entries due to the whitelist: 8
 
@@ -30931,7 +30937,6 @@ comagic.ru
 montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
-a.ria.ru
 stat.sports.ru
 smartpixel.tv
 countess.twitch.tv
