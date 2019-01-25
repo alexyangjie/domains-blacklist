@@ -4046,7 +4046,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 607
+# Ignored duplicates: 606
 
 # Ignored entries due to the whitelist: 32
 
@@ -8766,6 +8766,7 @@ devatics.com
 developermedia.com
 device9.com
 t.devnet.com
+dewltdgzgtt.com
 deximedia.com
 dexplatform.com
 dexxxrggi.com
@@ -9152,6 +9153,7 @@ dxqorupwedbotu.com
 rc.dxsvr.com
 dxtveuux.com
 dxurtngzawwe.com
+dxyafwkhrnycjp.com
 dxzgoyzo.com
 dyazeqpeoykf.com
 dydxtkvmktumjp.com
@@ -11202,6 +11204,7 @@ hnoajsaivjsg.com
 hnopgrab.com
 hnqnftzzytjl.com
 hnregzjxsafu.com
+hnshjxowpldar.com
 hntpbpeiuajc.com
 hobjzsymztzk.com
 hobtkxap.com
@@ -11270,6 +11273,7 @@ hqncduqyzgfugo.com
 hqnyahlpmehp.com
 script.hqpass.com
 hqqyesittgihp.com
+hqsgnzvjkyog.com
 hqsxomhxwhpq.com
 hqtrxzcjjjj.com
 hquijlndtd.com
@@ -12404,6 +12408,7 @@ kadjwdpzxdxd.com
 kaffnet.com
 kaidop.com
 kakywxgevuv.com
+kalfiydydtnhxk.com
 kalitereklam.com
 kallwqgnec.com
 kalmloda.com
@@ -12865,6 +12870,7 @@ lbypppwfvagq.com
 lbytagcqxefsn.com
 lckpubqq.com
 lcl2adserver.com
+lcmkcvisyynkw.com
 lcolevwciuwj.com
 lcpqoewrzuxh.com
 lcrdolxjoxxlr.com
@@ -12877,6 +12883,7 @@ lcyncwbacrgz.com
 lcyxmuhxroyo.com
 ld82ydd.com
 ldaiuhkayqtu.com
+ldgananrrtx.com
 ldgateway.com
 ldigvkkjquvyn.com
 ldkyzudgbksh.com
@@ -13974,6 +13981,7 @@ mpxxjdqpru.com
 mpytdykvcdsg.com
 mpzuzvqyuvbh.com
 mqcnrhxdsbwr.com
+mqdznyotsam.com
 mqgvsxqc.com
 mqjfzzgcrupfh.com
 mqobpsctcxnbi.com
@@ -16088,6 +16096,7 @@ qfpqmxkiwh.com
 qfrhhvbfofbt.com
 qfrpehkvqtyj.com
 qfsutura.com
+qfypbqbumu.com
 qgawivqfotfyrw.com
 qgbjchbl.com
 qgcliwoxgdptz.com
@@ -16711,6 +16720,7 @@ ritogaga.com
 ritzykey.com
 ritzysponge.com
 riverbanksand.com
+riverhit.com
 riwdydttgbczku.com
 rixaka.com
 rixxvqexdlgrl.com
@@ -19173,6 +19183,7 @@ repdata.usatoday.com
 sp.usatoday.com
 usbanners.com
 uscvlpjeaggyq.com
+usdlgonjnzpu.com
 useads.com
 api.usebutton.com
 useitbetter.com
@@ -19922,6 +19933,7 @@ webiqonline.com
 webleads-tracker.com
 weblogiklan.com
 webmasterplan.com
+webmasterskyi.com
 webmasterspub.com
 webminepool.com
 webminerpool.com
@@ -20604,6 +20616,7 @@ xurokykjwum.com
 xurrehqawu.com
 xuwptpzdwyaw.com
 xuwxbdafults.com
+xvapnjwhofiv.com
 xvgfmbrifa.com
 xvijskugh.com
 xvika.com
@@ -20843,6 +20856,7 @@ yjsshralziws.com
 yjthoibc.com
 yjwtxskmswcjc.com
 yjwymbwcjyfed.com
+yjxtuwpbgzwc.com
 yjxuda0oi.com
 ykaakgddajbt.com
 ykacbmxeapwi.com
@@ -20959,6 +20973,7 @@ yqhgbmyfiomx.com
 yqjoqncxmufi.com
 yqkpt.com
 yqmjmbmxzfz.com
+yqmmjmjxdigdak.com
 yqqxrfhtgcbxz.com
 yqrsfisvrilz.com
 yqtzhigbiame.com
@@ -23781,6 +23796,7 @@ native.ext.media
 hoverr.media
 rtb.kds.media
 m32.media
+stat.mixi.media
 target.mixi.media
 nui.media
 popads.media
@@ -25643,6 +25659,7 @@ owndata.network
 panda.network
 pub.network
 searchdims.network
+stripe.network
 yoads.network
 omni-ads.omni.news
 vrt.news
