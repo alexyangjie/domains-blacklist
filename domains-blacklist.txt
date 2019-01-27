@@ -4058,7 +4058,7 @@ gotourl.xyz
 
 # Ignored duplicates: 606
 
-# Ignored entries due to the whitelist: 32
+# Ignored entries due to the whitelist: 37
 
 js.cdn.ac
 dxracers.accountant
@@ -8374,8 +8374,6 @@ craftkeys.com
 crakmedia.com
 craktraffic.com
 crashfootwork.com
-e.crashlytics.com
-settings.crashlytics.com
 crateac.com
 crawlclocks.com
 crazyegg.com
@@ -16231,9 +16229,6 @@ qpppobrqizen.com
 qpqnbnsnosdss.com
 analy.qq.com
 beacon.qq.com
-android.bugly.qq.com
-astat.bugly.qq.com
-ios.bugly.qq.com
 e.qq.com
 pingma.qq.com
 trace.qq.com
@@ -30895,9 +30890,9 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4318
+# Ignored duplicates: 4317
 
-# Ignored entries due to the whitelist: 8
+# Ignored entries due to the whitelist: 9
 
 tracking.krone.at
 mobtop.az
@@ -32845,9 +32840,9 @@ xfyubqmldwvuyar.yt
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1151
+# Ignored duplicates: 1147
 
-# Ignored entries due to the whitelist: 12
+# Ignored entries due to the whitelist: 16
 
 exe.bid
 goyetteconnelly.bid
