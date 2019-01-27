@@ -29,3 +29,8 @@ fabric.io
 nordvpn.com
 mobileapptracking.com
 use.fontawesome.com
+settings.crashlytics.com
+android.bugly.qq.com
+ios.bugly.qq.com
+astat.bugly.qq.com
+e.crashlytics.com
