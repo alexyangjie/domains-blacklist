@@ -445,6 +445,7 @@ cpshwl.cn
 dm.cqdxun.cn
 sc.csai.cn
 cwj2h.cn
+cxfzw.cn
 cxslchkb.cn
 z1.cyla.cn
 czjiuding.cn
@@ -2626,6 +2627,7 @@ o091i.com
 octopuspop.com
 oesnw.com
 a.oh100.com
+oicchina.com
 ojues.com
 pb.okk123.com
 okkkk.com
@@ -3022,6 +3024,7 @@ tiangu99.com
 tianjieleather.com
 tiankongzudui.com
 tianqi777.com
+datas.tianqistatic.com
 tianxiazhenji.com
 ppt.tianya999.com
 zfds1.tianya999.com
@@ -3078,6 +3081,7 @@ a.tvsou.com
 c.tvsou.com
 cdn1.tvzhe.com
 jss.tvzhe.com
+mc.tvzhe.com
 twb98.com
 twcczhu.com
 twitterzs.com
@@ -3506,6 +3510,7 @@ ysdhe.com
 ysjweb.com
 ysjwj.com
 img1.ysts8.com
+ysxywj.com
 abc1.yszyz.com
 ytdksb.com
 yuanhsu.com
