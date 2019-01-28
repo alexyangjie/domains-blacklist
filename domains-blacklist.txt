@@ -7607,6 +7607,7 @@ ca4ec6874a33a13.com
 ca72472d7aee.com
 ca867c69a5d34.com
 caajevalistl.com
+caanalytics.com
 caaqyzbpsbtk.com
 cabinsone.com
 cabirm.com
@@ -7929,6 +7930,7 @@ cjuntyydjokvde.com
 cjvgnswapbqo.com
 cjxdbmxtnqmy.com
 cjxkzkzmdomd.com
+ck-cdn.com
 ckfctuaga.com
 ckhfffgt.com
 ckivxgxgqknk.com
@@ -13249,6 +13251,7 @@ lrcrobshelr.com
 lrjltdosshhd.com
 lrmjvytlhho.com
 lroywnhohfrj.com
+lruyzrlcef.com
 lrwwnmijztt.com
 lsegvhvzrpqc.com
 lsfinteractive.com
@@ -15867,6 +15870,7 @@ pubguru.com
 publicidees.com
 publicityclerks.com
 sp.publicopiniononline.com
+publift.com
 publir.com
 publisheradnetwork.com
 publishflow.com
@@ -16439,6 +16443,7 @@ statistics.rbi-nl.com
 rbmcash.com
 rbmijhdvh.com
 rbmjeyiyazcpe.com
+rbnjngtbpwbk.com
 rbppnzuxoatx.com
 rbrbvedkazkr.com
 rbrxg.com
@@ -17018,6 +17023,7 @@ s-manager.com
 s-onetag.com
 s1venus.com
 s1vesta.com
+s24-analytics.com
 tracking.s24.com
 s2block.com
 s2blosh.com
@@ -17145,6 +17151,7 @@ echo.scund.com
 scupio.com
 scuwbelujeeu.com
 scxxbyqjslyp.com
+sczcxmaizy.com
 sddan.com
 sdeadbqsjam.com
 sdemctwaiazt.com
@@ -20273,6 +20280,7 @@ wrkxchcsdw.com
 wrmwikcnynbk.com
 wrqjwrrpsnnm.com
 wrrfckzbpygz.com
+wrrytjtsyhrnfg.com
 wrtnetixxrmg.com
 wrwwvymy.com
 ws-gateway.com
@@ -21086,6 +21094,7 @@ yyuztnlcpiym.com
 yz56lywd.com
 yzesxnzfhyy.com
 yzlwuuzzehjh.com
+yzoyfmwr.com
 yzreywobobmw.com
 yzrnur.com
 yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
@@ -21189,6 +21198,7 @@ zevszinklxyf.com
 zewkj.com
 zezowfisdfyn.com
 zfbnzfyciqzreh.com
+zfcjtxosje.com
 zferral.com
 zfgistbbg.com
 zfkkmayphqrw.com
@@ -22115,6 +22125,7 @@ tracksrv.zdf.de
 cc.zeit.de
 zieltracker.de
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
+monu.delivery
 neads.delivery
 adservicemedia.dk
 andersenit.dk
@@ -22592,6 +22603,7 @@ cheatre.info
 chicbuy.info
 chikhanos.info
 chyatikho.info
+cinemahd.info
 click4free.info
 clickcloud.info
 clickmedias.info
@@ -30905,7 +30917,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4320
+# Ignored duplicates: 4321
 
 # Ignored entries due to the whitelist: 9
 
@@ -30949,7 +30961,6 @@ optimizely.com
 btrace.qq.com
 qualtrics.com
 track2.royalmail.com
-s24-analytics.com
 nmetrics.samsung.com
 scorecardresearch.com
 skimresources.com
