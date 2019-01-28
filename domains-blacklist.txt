@@ -30904,7 +30904,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4317
+# Ignored duplicates: 4319
 
 # Ignored entries due to the whitelist: 9
 
@@ -30948,6 +30948,7 @@ optimizely.com
 btrace.qq.com
 qualtrics.com
 track2.royalmail.com
+s24-analytics.com
 nmetrics.samsung.com
 scorecardresearch.com
 skimresources.com
