@@ -4062,7 +4062,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 606
+# Ignored duplicates: 607
 
 # Ignored entries due to the whitelist: 37
 
@@ -15161,6 +15161,7 @@ p-advg.com
 p-comme-performance.com
 p-digital-server.com
 p-td.com
+p071qmn.com
 p2ads.com
 p2poolmining.com
 p7hwvdb4p.com
