@@ -30944,7 +30944,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4323
+# Ignored duplicates: 4324
 
 # Ignored entries due to the whitelist: 9
 
