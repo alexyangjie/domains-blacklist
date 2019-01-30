@@ -4088,6 +4088,7 @@ captivate.ai
 m2.ai
 native.ai
 nrich.ai
+powerad.ai
 soko.ai
 gooo.al
 admail.am
@@ -4096,6 +4097,7 @@ circle.am
 s.infogr.am
 tru.am
 codefund.app
+freegeoip.app
 stats.lnol.com.ar
 cdn.c-i.as
 smrt.as
@@ -4544,7 +4546,6 @@ yeshoutuan.cn
 lynn.zgsemi.cn
 zusrd.cn
 6sc.co
-actionbutton.co
 adbit.co
 adcarem.co
 adk2.co
@@ -9876,6 +9877,7 @@ fdplttrk.com
 fdrkesvb.com
 fdsur.com
 fdvmskmentjob.com
+fdxdjkswppg.com
 fdzylxffu.com
 fe95a992e6afb.com
 fearfulflag.com
@@ -10352,10 +10354,21 @@ fzwoa.com
 fzwxuqoy.com
 fzzudxglrnrr.com
 g-statistic.com
+g1341551423.com
 g1thub.com
+g2247755016.com
+g2281971609.com
 g22rbb7.com
+g2438896021.com
+g2440001011.com
+g2526721279.com
+g2546417787.com
 g27zkdvsxl.com
+g2921554487.com
 tracking.g2crowd.com
+g3369554495.com
+g344530742.com
+g3938452447.com
 g3j2wzmon8b.com
 g4whisperermedia.com
 g5fzq2l.com
@@ -12640,6 +12653,7 @@ klzvkrzluqnx.com
 kmcebwjulu.com
 kmclwuukyffyjf.com
 beacon.kmi-us.com
+kmjexpirqstyzv.com
 kmkdkefa.com
 kmkweqtfjw.com
 kmnjdcrcfhu.com
@@ -13432,6 +13446,7 @@ manuelu.com
 maokdata.com
 maploco.com
 mapmyuser.com
+alexandria.marfeelcdn.com
 margadoncat.com
 marginalwoodfernrounddance.com
 marimedia.com
@@ -13668,6 +13683,7 @@ metavertizer.com
 meteorsolutions.com
 methernary.com
 metricfast.com
+metricool.com
 metrics34.com
 metricsdirect.com
 metrika-informer.com
@@ -15927,6 +15943,7 @@ pusherism.com
 pushfeeds.com
 pushimer.com
 pushlommy.com
+pushmenews.com
 trc.pushnami.com
 pushnative.com
 pushnest.com
@@ -19887,6 +19904,7 @@ wallstrads.com
 beacon.affil.walmart.com
 beacon.walmart.com
 analytics.mobile.walmart.com
+walmeric.com
 walternsa.com
 walternse.com
 stats.walytics.com
@@ -20219,6 +20237,7 @@ wodipaca.com
 wodizapt.com
 woghqyjpiwddme.com
 womenchop.com
+womtp.com
 wonclick.com
 wonder-ma.com
 edgead.woomedya.com
@@ -20500,7 +20519,7 @@ o2o.api.xiaomi.com
 api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 zeus.ad.intl.xiaomi.com
-data.mistat.intl.xiaomi.com
+abtest.mistat.intl.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 data.mistat.xiaomi.com
@@ -21660,6 +21679,7 @@ bonuscounter.de
 borrot.de
 bounce-ads.de
 browser-statistik.de
+bsheute.de
 busterzaster.de
 buywords.de
 c-points.de
@@ -25196,6 +25216,7 @@ parkingcrew.net
 partnerearn.net
 pasangiklangratisbaris.net
 pasangnomor2.net
+paxmedia.net
 pdbu.net
 peer39.net
 pereval.net
@@ -27747,6 +27768,7 @@ syznate.ru
 t-fb-w-sv-bn-7j.ru
 top.t-sk.ru
 tapstat.ru
+targetman.ru
 stat-counter.tass-online.ru
 tastishi.ru
 tataget.ru
@@ -30922,7 +30944,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4322
+# Ignored duplicates: 4323
 
 # Ignored entries due to the whitelist: 9
 
@@ -31011,7 +31033,6 @@ montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
 stat.sports.ru
-targetman.ru
 smartpixel.tv
 countess.twitch.tv
 videostat.meta.ua
@@ -32873,7 +32894,7 @@ xfyubqmldwvuyar.yt
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1146
+# Ignored duplicates: 1147
 
 # Ignored entries due to the whitelist: 16
 
@@ -32895,7 +32916,6 @@ adcs.rqmob.com
 etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
-abtest.mistat.intl.xiaomi.com
 auto-api.yelp.com
 mtag.mman.kr
 cloudads-a.akamaihd.net
