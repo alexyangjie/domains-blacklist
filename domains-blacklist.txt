@@ -29097,7 +29097,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13972
+# Ignored duplicates: 13975
 
 # Ignored entries due to the whitelist: 8
 
