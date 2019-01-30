@@ -29075,7 +29075,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13948
+# Ignored duplicates: 13972
 
 # Ignored entries due to the whitelist: 8
 
@@ -29153,6 +29153,7 @@ searchdf.biz
 todogecoin.biz
 bitclub.bz
 mine.bz
+bitcoindark.ca
 minemoney.ca
 sickrage.ca
 xpool.ca
