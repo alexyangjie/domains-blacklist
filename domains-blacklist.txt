@@ -799,6 +799,7 @@ wuwho.cn
 wvcdn.cn
 wvstatic.cn
 wxktv.cn
+wxstatic.cn
 wyttech.cn
 wywna.cn
 x5cc5z.cn
