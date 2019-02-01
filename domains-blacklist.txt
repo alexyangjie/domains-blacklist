@@ -654,6 +654,7 @@ pmshy.cn
 1.pncdn.cn
 100.pncdn.cn
 poyang.cn
+pqnlorg.cn
 pr33.cn
 prazpf.cn
 pro.cn
