@@ -29167,7 +29167,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 13975
+# Ignored duplicates: 14274
 
 # Ignored entries due to the whitelist: 8
 
@@ -29470,8 +29470,7 @@ bottlecapspool.com
 bravo-mining.com
 breadapp.com
 new.brutum-pool.com
-cn.ss.btc.com
-us.ss.btc.com
+btc.com
 btcc.com
 btcchina.com
 btcdig.com
