@@ -4722,6 +4722,7 @@ susection.co
 sworatio.co
 tagon.co
 tctm.co
+tglyr.co
 thogethoffic.co
 thomized.co
 tiller.co
@@ -6214,6 +6215,7 @@ againclence.com
 againscan.com
 againstein.com
 agcdn.com
+agentanalytics.com
 agentcenters.com
 agentinteractive.com
 agfqcndiugnr.com
@@ -6776,6 +6778,7 @@ autoline-top.com
 automatad.com
 automatedtraffic.com
 automateyourlist.com
+autopilothq.com
 xtag.autotrader.com
 autoua.com
 auwqdpbyl.com
@@ -22103,6 +22106,7 @@ imo-cash.de
 industc.de
 ineassu.de
 inet-tracker.de
+metrics.infranken.de
 inlinks.de
 intelliad.de
 intensifier.de
@@ -23701,6 +23705,7 @@ tracc.it
 trackset.it
 tag.triboomedia.it
 trick17.it
+tracking.trovaprezzi.it
 top100.tuttoperinternet.it
 ultrastats.it
 track.veedio.it
@@ -24500,6 +24505,7 @@ bestwebdeal.net
 betarget.net
 bf-ad.net
 bh3.net
+bidhead.net
 bidrev.net
 bidswitch.net
 bigadpoint.net
@@ -31231,7 +31237,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4325
+# Ignored duplicates: 4326
 
 # Ignored entries due to the whitelist: 9
 
@@ -31294,7 +31300,6 @@ traveltracking.check24.de
 stats.computecmedia.de
 statistic.gamona.de
 prophet.heise.de
-metrics.infranken.de
 mm.welt.de
 ethn.io
 onthe.io
