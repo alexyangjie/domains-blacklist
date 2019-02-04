@@ -4099,7 +4099,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 608
+# Ignored duplicates: 609
 
 # Ignored entries due to the whitelist: 37
 
@@ -9429,7 +9429,6 @@ edgevertise.com
 edgsscofljhc.com
 edibegedol.com
 stats.edicy.com
-edioca.com
 ednnpxhjsqyd.com
 ednplus.com
 edomz.com
@@ -10425,6 +10424,7 @@ fvffhcyxc.com
 fvgfcotnmj.com
 fvhxlrcd.com
 fvipinzac.com
+fviwwkvvxs.com
 fvrbloxygbrv.com
 fvrvxmksxhut.com
 fvtwyjev.com
@@ -19081,6 +19081,7 @@ tuthokcb.com
 tutkazan1.com
 adserver.tutkusunucu.com
 tutvp.com
+tuxbpnne.com
 tuxdipdej.com
 tuxgnhcrhyugjf.com
 tuxphjbzmjfuh.com
@@ -23822,6 +23823,7 @@ hira-meki.jp
 hitgraph.jp
 i2ad.jp
 i2i.jp
+iid-network.jp
 itgear.jp
 j-a-net.jp
 japanmetrix.jp
@@ -23851,6 +23853,7 @@ n8s.jp
 nakanohito.jp
 atech.ne.jp
 doubleclick.ne.jp
+ebis.ne.jp
 log000.goo.ne.jp
 ad.pitta.ne.jp
 r-ad.ne.jp
@@ -23900,7 +23903,7 @@ thatsping.jp
 beacon.tws.toyota.jp
 tracer.jp
 trax-ad.jp
-api.triver.jp
+triver.jp
 ukw.jp
 valueclick.jp
 ad.vippers.jp
@@ -24730,6 +24733,7 @@ d2xgf76oeu9pbh.cloudfront.net
 d2xsy1lxezptdm.cloudfront.net
 d2ymkpxi1rgldj.cloudfront.net
 d2z0gqc8sv0l7p.cloudfront.net
+d30gt5larl1k8h.cloudfront.net
 d30zrwt3s044zr.cloudfront.net
 d3135glefggiep.cloudfront.net
 d31bfnnwekbny6.cloudfront.net
@@ -26017,7 +26021,6 @@ owndata.network
 panda.network
 pub.network
 searchdims.network
-stripe.network
 yoads.network
 omni-ads.omni.news
 vrt.news
