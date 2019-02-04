@@ -1448,6 +1448,7 @@ bjxiaohua.com
 bjygfd.com
 bjzcbx.com
 bla01.com
+blossommo.com
 gg.blueidea.com
 bm999999.com
 bmgan.com
@@ -4120,6 +4121,7 @@ advg.agency
 accio.ai
 ascend.ai
 captivate.ai
+dm.hybrid.ai
 m2.ai
 native.ai
 nrich.ai
@@ -8962,6 +8964,7 @@ digitaloptout.com
 track.digitalriver.com
 digitalthrottle.com
 vstats.digitaltrends.com
+digitiminimi.com
 digitrevenue.com
 digwzeutydo.com
 dijutbdzbv.com
@@ -9426,6 +9429,7 @@ edgevertise.com
 edgsscofljhc.com
 edibegedol.com
 stats.edicy.com
+edioca.com
 ednnpxhjsqyd.com
 ednplus.com
 edomz.com
@@ -11666,6 +11670,7 @@ ictmdbus.com
 icuazeczpeoohx.com
 iczhhiiowapd.com
 id-visitors.com
+id5-sync.com
 idbhsgy.com
 sebar.idblognetwork.com
 idbtfwllhogxc.com
@@ -13224,6 +13229,7 @@ liktirov.com
 lilncsqapikckt.com
 limoncash.com
 limpingline.com
+torimochi.line-apps.com
 linezing.com
 lingospot.com
 link-smart.com
@@ -13927,6 +13933,7 @@ midas-i.com
 cdn.midas-network.com
 client.midosoo.com
 miegpokitjxm.com
+mieru-ca.com
 migrandof.com
 mihqbmugg.com
 online.mik123.com
@@ -19424,6 +19431,7 @@ upstained.com
 uptimecdn.com
 uptimeviewer.com
 uptolike.com
+uptopop.com
 uptracs.com
 uptrendsdata.com
 analytics.upworthy.com
@@ -20763,6 +20771,7 @@ xhwqginopocs.com
 xhwtilplkmvbxumaxwmpaqexnwxypcyndhjokwqkxcwbbsclqh.com
 xhyjlfbqnbr.com
 api.ad.xiaomi.com
+globalapi.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
 o2o.api.xiaomi.com
 api.ad.intl.xiaomi.com
@@ -23175,6 +23184,7 @@ muzotur.info
 my-stats.info
 myemailbox.info
 mypictures-onlinegood.info
+mystighty.info
 mytraf.info
 nadwork.info
 naenticle.info
@@ -23327,6 +23337,7 @@ slinadu.info
 pfx.sma-clsystem.info
 smigro.info
 smudgy.info
+sohjah-thahka.info
 solihullah.info
 solutionzip.info
 spondenced.info
@@ -23836,6 +23847,7 @@ ads.mixi.jp
 mobylog.jp
 mopo.jp
 mtburn.jp
+n8s.jp
 nakanohito.jp
 atech.ne.jp
 doubleclick.ne.jp
@@ -27589,6 +27601,7 @@ tiz.miladynews.ru
 mimizet.ru
 minidoc.ru
 v.mir-18.ru
+mirongotrof.ru
 ban.mirorgazma.ru
 news.mirtesen.ru
 target.mirtesen.ru
@@ -28849,6 +28862,7 @@ pt.ispot.tv
 kost.tv
 laim.tv
 analytics00.meride.tv
+ad.mox.tv
 nativeroll.tv
 collector.nextguide.tv
 logs.ntvplus.tv
@@ -29297,6 +29311,7 @@ janrain.xyz
 jigolobasvuru.xyz
 jwuqescfqa.xyz
 kdsk32lfa.xyz
+kinopushka.xyz
 kkpur.xyz
 kurulum.xyz
 kxqvnfcg.xyz
@@ -31364,7 +31379,7 @@ i01001.dgn.vn
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1147
+# Ignored duplicates: 1148
 
 # Ignored entries due to the whitelist: 16
 
@@ -31386,7 +31401,6 @@ adcs.rqmob.com
 etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
-globalapi.ad.xiaomi.com
 auto-api.yelp.com
 mtag.mman.kr
 cloudads-a.akamaihd.net
