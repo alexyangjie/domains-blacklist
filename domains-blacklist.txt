@@ -31386,6 +31386,7 @@ adcs.rqmob.com
 etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
+globalapi.ad.xiaomi.com
 auto-api.yelp.com
 mtag.mman.kr
 cloudads-a.akamaihd.net
