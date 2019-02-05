@@ -4102,7 +4102,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 609
+# Ignored duplicates: 611
 
 # Ignored entries due to the whitelist: 37
 
@@ -13412,6 +13412,7 @@ loq-90.com
 lordofads.com
 losomy.com
 losstrack.com
+lostplanetcdn.com
 cr.loszona.com
 stats.lotlinx.com
 lotteryaffiliates.com
@@ -23464,8 +23465,7 @@ zoglafi.info
 zoomclick.info
 zumcontentdelivery.info
 mycrypto.ink
-static.1dmp.io
-sync.1dmp.io
+1dmp.io
 1rx.io
 1rxntv.io
 rtapi.abbi.io
@@ -25733,6 +25733,7 @@ statsy.net
 cdn.steambets.net
 stilanzeigen.net
 stopphoulplay.net
+storoukr.net
 storygize.net
 stripedcollar.net
 bi-pipeline-collector.stylight.net
@@ -28260,6 +28261,7 @@ videoclick.ru
 videofan.ru
 videojune.ru
 videoklass.ru
+error.videonow.ru
 video.videonow.ru
 videortb.ru
 vidigital.ru
@@ -28457,6 +28459,7 @@ infox.sg
 epu.sh
 nativepu.sh
 party-vqgdyvoycc.now.sh
+propu.sh
 kos.interseek.si
 1wzfew7a.site
 zafrc.5780.site
@@ -31261,7 +31264,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4326
+# Ignored duplicates: 4327
 
 # Ignored entries due to the whitelist: 9
 
