@@ -31323,8 +31323,10 @@ comet.yahoo.com
 pclick.yahoo.com
 s.youtube.com
 rem-track.bild.de
+builfico.de
 traveltracking.check24.de
 stats.computecmedia.de
+vidapi.expepp.de
 statistic.gamona.de
 prophet.heise.de
 mm.welt.de
