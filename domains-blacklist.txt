@@ -8868,6 +8868,7 @@ mcs.delvenetworks.com
 demandbase.com
 event.demirorenteknoloji.com
 sp.democratandchronicle.com
+events.demoup.com
 denakop.com
 deobp.com
 deouvnqbgflv.com
@@ -14851,7 +14852,6 @@ nuayfpthqlkq.com
 nubtjnopbjup.com
 nuconomy.com
 nucqkjkvppgs.com
-nudatasecurity.com
 phantom.nudgespot.com
 nudooapfildwbz.com
 nuihcvbixjea.com
@@ -17182,6 +17182,7 @@ rumpelstiltskinhead.com
 run-syndicate.com
 runadtag.com
 runative.com
+match.rundsp.com
 runmewivel.com
 runreproducerow.com
 runwtxeisppmt.com
@@ -19376,6 +19377,7 @@ unidati.com
 secure-wa-na.unileversolutions.com
 lobster.unionpeer.com
 uniontraff.com
+uniqodo.com
 uniquecaptcha.com
 unister-adservices.com
 unitedtraders.com
@@ -20898,6 +20900,7 @@ xqrjfouxkrs.com
 xqrupeccbfpzdl.com
 xqtymopje.com
 xqzkpmrgcpsw.com
+xr-tds.com
 ax.xrea.com
 xrgqermbslvg.com
 xrgrymutlq.com
@@ -21957,6 +21960,7 @@ borrot.de
 bounce-ads.de
 browser-statistik.de
 bsheute.de
+builfico.de
 busterzaster.de
 buywords.de
 c-points.de
@@ -22060,6 +22064,7 @@ evania.de
 exapxl.de
 exmarkt.de
 exnzg.de
+vidapi.expepp.de
 track.express.de
 falkag.de
 fastcounter.de
@@ -23107,6 +23112,7 @@ izmyatin.info
 iznozhi.info
 jroqvbvw.info
 jsid.info
+jungloconding.info
 jyhfuqoh.info
 kamnebo.info
 kdowqlpt.info
@@ -24707,6 +24713,7 @@ d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
 d2ghscazvn398x.cloudfront.net
 d2hluuq2g8gwrv.cloudfront.net
+d2ho1n52p59mwv.cloudfront.net
 d2i54aseqwhx68.cloudfront.net
 d2j3te7y7s8xxp.cloudfront.net
 d2jn12r3o7an7z.cloudfront.net
@@ -26838,6 +26845,7 @@ albanmagnit.ru
 alemobile.ru
 alfatarget.ru
 ali-bestshop.ru
+ali-crm.ru
 alibestru.ru
 alibestru3.ru
 alienradar.ru
@@ -31266,7 +31274,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4326
+# Ignored duplicates: 4328
 
 # Ignored entries due to the whitelist: 9
 
@@ -31325,10 +31333,8 @@ comet.yahoo.com
 pclick.yahoo.com
 s.youtube.com
 rem-track.bild.de
-builfico.de
 traveltracking.check24.de
 stats.computecmedia.de
-vidapi.expepp.de
 statistic.gamona.de
 prophet.heise.de
 mm.welt.de
