@@ -4107,7 +4107,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 611
+# Ignored duplicates: 612
 
 # Ignored entries due to the whitelist: 37
 
@@ -5622,6 +5622,7 @@ adelement.com
 adelixir.com
 ademails.com
 adengage.com
+bm.adentifi.com
 rtb.adentifi.com
 adespresso.com
 adexchangecloud.com
@@ -6253,6 +6254,7 @@ agreeableprice.com
 agrxsdujnh.com
 agvzvwof.com
 agwsneccrbda.com
+agxclick.com
 aheadday.com
 ahjljmxfxuet.com
 ahkpdnrtjwat.com
@@ -7058,6 +7060,7 @@ bcloudhost.com
 bcnhnekodmdniu.com
 bcxronvqkwe.com
 bczvulovuap.com
+bd4travel.com
 bdafhnltyxlw.com
 bdash-cloud.com
 bdggxjonzbmq.com
@@ -9115,6 +9118,7 @@ dohillright.com
 dokaboka.com
 dollarade.com
 dollarsponsor.com
+dolohen.com
 dolphindispute.com
 domainadvertising.com
 domainbuyingservices.com
@@ -18844,6 +18848,7 @@ tqrtxfqvcxkjiv.com
 tr553.com
 tr563.com
 trabro.com
+tracdelight.com
 trace-2000.com
 traceadmanager.com
 tracedesire.com
@@ -31277,7 +31282,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4330
+# Ignored duplicates: 4332
 
 # Ignored entries due to the whitelist: 9
 
@@ -31292,12 +31297,10 @@ track.bazonline.ch
 stattds.club
 hit.8digits.com
 web-t.9gag.com
-bm.adentifi.com
 admitad.com
 atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
-bd4travel.com
 bat.bing.com
 confirmit.com
 cxense.com
