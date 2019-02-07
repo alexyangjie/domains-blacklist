@@ -31277,7 +31277,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4329
+# Ignored duplicates: 4330
 
 # Ignored entries due to the whitelist: 9
 
@@ -31292,10 +31292,12 @@ track.bazonline.ch
 stattds.club
 hit.8digits.com
 web-t.9gag.com
+bm.adentifi.com
 admitad.com
 atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
+bd4travel.com
 bat.bing.com
 confirmit.com
 cxense.com
