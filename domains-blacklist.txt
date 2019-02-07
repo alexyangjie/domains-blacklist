@@ -271,6 +271,7 @@ yfx1.17gouwu.cn
 1x26q3.cn
 268mob.cn
 2d-c.cn
+2fnrc.cn
 2r3485.cn
 2wxb5.cn
 2zm4.cn
@@ -31276,7 +31277,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4328
+# Ignored duplicates: 4329
 
 # Ignored entries due to the whitelist: 9
 
