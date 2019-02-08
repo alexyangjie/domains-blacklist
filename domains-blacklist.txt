@@ -6122,6 +6122,7 @@ adzouk.com
 adzouk1tag.com
 adzposter.com
 adzpower.com
+adzyou.com
 ae1a1e258b8b016.com
 ae3482c74b1a99f.com
 aec40f9e073ba6.com
@@ -16067,6 +16068,7 @@ psma03.com
 psmlgjalddqu.com
 psrbrytujuxv.com
 pstats.com
+psughooy.com
 psvdblzcgnjj.com
 t.pswec.com
 trk.pswec.com
@@ -23664,6 +23666,7 @@ vendri.io
 clvk.viki.io
 logger.viki.io
 visitor-analytics.io
+crosspromo.voodoo.io
 weblytics.io
 weborama.io
 geo.xcel.io
@@ -31409,7 +31412,7 @@ i01001.dgn.vn
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1149
+# Ignored duplicates: 1150
 
 # Ignored entries due to the whitelist: 16
 
@@ -31432,7 +31435,6 @@ etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
 auto-api.yelp.com
-crosspromo.voodoo.io
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
