@@ -7355,6 +7355,7 @@ ads.bluelithium.com
 blueserving.com
 bluestreak.com
 bluetoad.com
+tracker.blutv.com
 blvdstatus.com
 blvqxlczxeda.com
 blwfqlmhi.com
@@ -10202,6 +10203,7 @@ fmoihhvbehopc.com
 fmsads.com
 fmuxugcqucuu.com
 fmzxzkgmpmrx.com
+fn-pz.com
 fnaolgfubmlc.com
 fnayazchhum.com
 fnbhjbcfqkrcs.com
@@ -15315,6 +15317,7 @@ vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
 log.outbrainimg.com
+tcheck.outbrainimg.com
 outlookabsorb.com
 outwitch.com
 ouytveod.com
@@ -31282,7 +31285,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4332
+# Ignored duplicates: 4333
 
 # Ignored entries due to the whitelist: 9
 
@@ -31302,7 +31305,6 @@ atdmt.com
 real-user-monitoring.a.autoscout24.com
 tracking.autoscout24.com
 bat.bing.com
-tracker.blutv.com
 confirmit.com
 cxense.com
 webtrack.dhlglobalmail.com
