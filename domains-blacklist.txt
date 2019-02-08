@@ -31409,7 +31409,7 @@ i01001.dgn.vn
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1148
+# Ignored duplicates: 1149
 
 # Ignored entries due to the whitelist: 16
 
@@ -31432,6 +31432,7 @@ etl.tindersparks.com
 preitem.wshareit.com
 xda-cdn.com
 auto-api.yelp.com
+crosspromo.voodoo.io
 mtag.mman.kr
 cloudads-a.akamaihd.net
 d27tpsznug51gz.cloudfront.net
