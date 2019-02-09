@@ -4110,7 +4110,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 612
+# Ignored duplicates: 611
 
 # Ignored entries due to the whitelist: 37
 
@@ -5393,6 +5393,7 @@ aacgeuvaoqbw.com
 aadbobwqgmzi.com
 aaddzz.com
 aadserving.com
+aagmbroxruno.com
 aahfcroigwso.com
 aamsitecertifier.com
 aanqylta.com
@@ -6543,6 +6544,7 @@ aoredi.com
 aorms.com
 aorpum.com
 aorta-net.com
+aorzglux.com
 metrics.apartments.com
 apbwldhfuvnk.com
 apddozcgdh.com
@@ -8517,6 +8519,7 @@ credbgvhijbcj.com
 creofive.com
 creofun.com
 crgfbmzsk.com
+crheaeqw.com
 adops.cricbuzz.com
 ads.cricbuzz.com
 crickwrite.com
@@ -8573,6 +8576,7 @@ csgocpu.com
 cshzkkihjnweb.com
 csi-tracking.com
 csjuq.com
+cskwckhyhriyk.com
 cslxhmchzgbx.com
 csmqorveetie.com
 css-style-95.com
@@ -12572,6 +12576,7 @@ jvodizomnxtg.com
 jvqbbfrg.com
 jvriybgxne.com
 jwaavsze.com
+jwbroglwc.com
 jwbuxywauut.com
 jwcpqgfhlrt.com
 jwfdyujffrzt.com
@@ -13952,6 +13957,7 @@ mictxtwtjigs.com
 midas-i.com
 cdn.midas-network.com
 client.midosoo.com
+analytics.midwesternmac.com
 miegpokitjxm.com
 mieru-ca.com
 migrandof.com
@@ -14892,6 +14898,7 @@ nuxsmhexm.com
 nvadn.com
 nvajxoahenwe.com
 nvgcmeqfn.com
+nvjjquyylqicp.com
 nvjqm.com
 nvkkjenz.com
 nvmjtxnlcdqo.com
@@ -20108,6 +20115,7 @@ vvqeavcir.com
 vvrygjuozwps.com
 vwbnexnwpmangv.com
 vwcsl.com
+vwdjipcvcph.com
 vwdrpxmgehqknz.com
 vwfvnfvelrvvww.com
 vwgffbknpgxe.com
@@ -23519,7 +23527,7 @@ bitcoadz.io
 bitmedia.io
 bitvertise.io
 blockbreaker.io
-branch.io
+api.branch.io
 bttn.io
 burt.io
 buzzad.io
@@ -25130,6 +25138,7 @@ globaladmedia.net
 globaladv.net
 globaltakeoff.net
 globalwebindex.net
+glumtitu.net
 gmads.net
 go-mpulse.net
 godspeaks.net
