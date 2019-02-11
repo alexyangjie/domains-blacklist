@@ -5302,6 +5302,7 @@ c.8l8l.com
 9053fe03868ab.com
 9104cecde1c32cb25f5.com
 t.91chs.com
+91mobiles.com
 924e60106cd9d0e.com
 927a8dd1afec73.com
 92ec94d51076357.com
@@ -13781,6 +13782,7 @@ mdvkn.com
 mdvrxmzofurvkm.com
 meadigital.com
 meagjivconqt.com
+meapk.com
 measuread.com
 measurelyapp.com
 measuremap.com
@@ -13812,6 +13814,7 @@ mediagridwork.com
 mediakeywords.com
 beacons.mediamelon.com
 medianaft.com
+mediaoaktree.com
 mediaonpro.com
 mediapeartree.com
 mediapeo.com
@@ -13822,6 +13825,7 @@ mediaraily.com
 mediarithmics.com
 mediarotate.com
 mediaseeding.com
+mediasprucetree.com
 counter.mediastealer.com
 widget.mediastealer.com
 mediastinct.com
@@ -22520,7 +22524,9 @@ jquery-cdn.download
 jquery-uim.download
 jqwww.download
 jshosting.download
+m3hywq3xaias4u.download
 redirecting.download
+usenetnl.download
 mediaindex.ee
 modastro.ee
 counter.ok.ee
@@ -31323,7 +31329,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4333
+# Ignored duplicates: 4334
 
 # Ignored entries due to the whitelist: 9
 
@@ -31359,7 +31365,6 @@ ext.host-tracker.com
 hxtrack.com
 imrworldwide.com
 ip-api.com
-meapk.com
 mixpanel.com
 g.msn.com
 rel.msn.com
