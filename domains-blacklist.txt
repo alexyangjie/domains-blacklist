@@ -29500,9 +29500,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 14274
-
-# Ignored entries due to the whitelist: 8
+# Ignored duplicates: 14382
 
 bittrex.academy
 miner.ad
@@ -29923,6 +29921,7 @@ grcpool.com
 d.greece-search.com
 greeenanalytics.com
 p2pool.greenbtc.com
+www.greenbtc.com
 pool.groupfabric.com
 guest-stat.com
 haobtc.com
@@ -30086,7 +30085,6 @@ myadstats.com
 stratum.mybtccoin.com
 mycelium.com
 mychainpools.com
-mycrypto.com
 myeherwalliet.com
 myehterumsvallet.com
 myehterurnsvallet.com
@@ -30207,6 +30205,7 @@ sumokoin-pool.com
 sumominer.com
 supportaeon.com
 data.supportithelp.com
+svpool.com
 techtricksworld.com
 teramill.com
 p2pool.tgservers.com
@@ -31260,6 +31259,7 @@ masolo.win
 randomsatoshi.win
 superpool.win
 thebetteroptions.win
+koto-pool.work
 faucet.works
 androidapk.world
 play.strdef.world
