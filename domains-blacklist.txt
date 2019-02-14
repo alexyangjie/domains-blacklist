@@ -4506,6 +4506,7 @@ clickmap.ch
 counter27.ch
 countit.ch
 emediate.ch
+getback.ch
 hung.ch
 netzstat.ch
 mas.nth.ch
@@ -22358,6 +22359,7 @@ stats.opoloo.de
 optimierung-der-website.de
 osxau.de
 otik.de
+ats.otto.de
 ourstats.de
 www.p.de
 page-hit.de
@@ -23111,6 +23113,7 @@ endile.info
 enousouz.info
 estocaf.info
 etrase.info
+evertherenous.info
 exoneratedresignation.info
 expectorslapsino.info
 explainidentifycoding.info
@@ -23163,6 +23166,7 @@ goodadvertising.info
 bk.goodline.info
 googlerank.info
 govbusi.info
+governobylgot.info
 gramovi.info
 greatwork.info
 grey-eyes.info
@@ -25621,6 +25625,7 @@ opt-n.net
 optiad.net
 optify.net
 oreshki-news.net
+ouloutso.net
 ourbanners.net
 owneriq.net
 p2poolmining.net
@@ -26073,6 +26078,7 @@ webtrekk.net
 webtrekk-asia.net
 webtrekk-us.net
 webwise.net
+wedeegut.net
 weedazou.net
 wegetpaid.net
 werbeflut.net
@@ -26238,6 +26244,7 @@ onlivestreams.online
 paripartners.online
 radiatorial.online
 rugirls.online
+s85n4btydl.online
 siteverification.online
 smiinformer.online
 track.special-offers.online
@@ -31398,7 +31405,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4335
+# Ignored duplicates: 4337
 
 # Ignored entries due to the whitelist: 9
 
@@ -31410,7 +31417,6 @@ metrics.uol.com.br
 logger.rm.uol.com.br
 piwik.filecrypt.cc
 track.bazonline.ch
-getback.ch
 stattds.club
 hit.8digits.com
 web-t.9gag.com
@@ -31462,7 +31468,6 @@ traveltracking.check24.de
 stats.computecmedia.de
 statistic.gamona.de
 prophet.heise.de
-ats.otto.de
 mm.welt.de
 ethn.io
 onthe.io
