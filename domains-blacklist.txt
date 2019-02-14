@@ -314,6 +314,7 @@ js.51ir.cn
 daimaceshi.8809.cn
 88818122.cn
 88shu.cn
+8hdp.cn
 8j24h.cn
 .8ox.cn
 913h6.cn
@@ -31397,7 +31398,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4334
+# Ignored duplicates: 4335
 
 # Ignored entries due to the whitelist: 9
 
