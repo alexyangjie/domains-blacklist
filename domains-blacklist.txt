@@ -31407,6 +31407,7 @@ metrics.uol.com.br
 logger.rm.uol.com.br
 piwik.filecrypt.cc
 track.bazonline.ch
+getback.ch
 stattds.club
 hit.8digits.com
 web-t.9gag.com
