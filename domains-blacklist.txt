@@ -2178,6 +2178,7 @@ wneia.iaskhot.com
 ibaop.com
 ibeip.com
 ibinp.com
+a.icdol.com
 static.ichehome.com
 goto.www.iciba.com
 icyrd.com
@@ -3152,6 +3153,7 @@ twcczhu.com
 twitterzs.com
 twldmx.com
 twrank.com
+a1.twtym.com
 twzui6.com
 txkjad.com
 txt2017.com
@@ -3795,6 +3797,7 @@ c1.4qx.net
 51junpin.net
 b1.51scw.net
 55803.net
+dm.66qw.net
 6789.net
 700ok.net
 766ba.net
