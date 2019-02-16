@@ -6750,6 +6750,7 @@ asklots.com
 askywtrk.com
 asooda.com
 asowp.com
+aspxbwteth.com
 asqamasz.com
 asqbwneriyvur.com
 asrety.com
@@ -6893,6 +6894,7 @@ axbet20.com
 axbetb.com
 axbetb2.com
 axbouiklwghehw.com
+axcqasdiots.com
 axdxmdv.com
 axecash.com
 axeldivision.com
@@ -7706,6 +7708,7 @@ bwssvome.com
 bwvigmkn.com
 bwyckpmsolzk.com
 bwzohoomljs.com
+bxejeqyudkgum.com
 bxexufifrsfr.com
 bxkblkok.com
 bxnvdau.com
@@ -13413,6 +13416,7 @@ lkhkeviyctneka.com
 lkjmcevfgoxfbyhhmzambtzydolhmeelgkotdllwtfshrkhrev.com
 lkksbzcslmeefw.com
 lkktkgcpqzwd.com
+lknxarjfidm.com
 lkohqfilvpked.com
 lkp7jo3s.com
 lkrcapch.com
@@ -13665,6 +13669,7 @@ m10s8.com
 m1ll1c4n0.com
 m2pub.com
 m3bnqqqw.com
+m4clicks.com
 m4pub.com
 m57ku6sm.com
 m73lae5cpmgrv38.com
@@ -14002,6 +14007,7 @@ mgid.com
 mglsk.com
 affiliates.mgmmirage.com
 tracker.mgnetwork.com
+mgojnezwuuxyv.com
 mgpejafvxxn.com
 mgplatform.com
 mgrutivnzs.com
@@ -16497,6 +16503,7 @@ qitumxisyt.com
 qiurgfxexsmp.com
 qixlpaaeaspr.com
 qiypdctaqiv.com
+qjlgyiuesk.com
 qjmearsroiyn.com
 qjmkidiwbndolx.com
 qjobvxqp.com
@@ -17338,6 +17345,7 @@ rwugdvqdpxfz.com
 rwugglxboxgw.com
 rwxzeoqfj.com
 rxczemggfsxx.com
+rxhicseychr.com
 rxicrihobtkf.com
 rxisfwvggzot.com
 rxjlimrpfziuqh.com
@@ -18501,6 +18509,7 @@ tbeouuheoyl.com
 tbhmqjpm.com
 tbjjzhkwfezt.com
 tblaqgify.com
+tbmwhcyfapzjre.com
 tbnmmjm.com
 tbnnsmwfjzttct.com
 tbrzzxyvkz.com
@@ -19408,6 +19417,7 @@ uhvbjjse.com
 uhygtf1.com
 uiadserver.com
 uicybyysyllad.com
+uigruwtql.com
 uihzulkvmdgv.com
 uilknldyynwm.com
 uimrmuoztkoia.com
@@ -19791,6 +19801,7 @@ vbupfouyymse.com
 vbuqjdyrsrvi.com
 vbwakfbazxd.com
 vbwfqaisbgn.com
+vbxrcekqkmrzyd.com
 vbyefnnrswpn.com
 vcdtowafqibekr.com
 vcfnspbgztl.com
@@ -19977,6 +19988,7 @@ tracking.viewster.com
 vifog.com
 viille2.com
 vijune.com
+dagda.vilynx.com
 vimart16.com
 vimenhhpqnb.com
 t.vimeo.com
@@ -20623,6 +20635,7 @@ wmzona.com
 wnbdbmqyerfqs.com
 wnp.com
 wnstpoiqrv.com
+wnuvhicameqiso.com
 wnzmauurgol.com
 wnzxwgatxjuf.com
 wnzzxwysay.com
@@ -21353,6 +21366,7 @@ yldbt.com
 ylhjsrwqtqqb.com
 yljjlvywdpn.com
 yljrefexjymy.com
+yljtytqq.com
 ylkkp.com
 ylksuifuyryt.com
 yllix.com
@@ -21384,6 +21398,7 @@ ynhetcoypgnl.com
 ynhhgr2zen.com
 ynhonjqahrh.com
 ynlrfiwj.com
+ynlvwynnsstalh.com
 ynopkisq.com
 ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
 ynuyzeqtswtd.com
@@ -21443,6 +21458,7 @@ ypixrvxi.com
 ypnespepnln.com
 ypreferred.com
 yprnopqzs.com
+yptwqjdgikmcqc.com
 ypummbggdjex.com
 ypyarwgh.com
 yqhgbmyfiomx.com
@@ -21748,6 +21764,7 @@ zoileyozfexv.com
 zoktycom.com
 track.zomato.com
 zompmedia.com
+zomsfhgj.com
 zonealta.com
 zonhpljclov.com
 zonolali.com
@@ -23055,6 +23072,7 @@ chakryzh.info
 chantly.info
 chardneave.info
 cheatre.info
+checkyourgeo.info
 chicbuy.info
 chikhanos.info
 chyatikho.info
@@ -28049,7 +28067,7 @@ cnt.rate.ru
 ratioboom.ru
 ratyakhu.ru
 ravnovesienews.ru
-count.rbc.ru
+r.rbc.ru
 readme.ru
 readnewstoday.ru
 real5traf.ru
@@ -31437,7 +31455,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4336
+# Ignored duplicates: 4338
 
 # Ignored entries due to the whitelist: 9
 
@@ -31501,7 +31519,6 @@ stats.computecmedia.de
 statistic.gamona.de
 prophet.heise.de
 mm.welt.de
-checkyourgeo.info
 ethn.io
 onthe.io
 rtoaster.jp
@@ -31526,7 +31543,6 @@ comagic.ru
 montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
-r.rbc.ru
 stat.sports.ru
 smartpixel.tv
 countess.twitch.tv
