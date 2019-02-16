@@ -2055,7 +2055,6 @@ hcaig.com
 hcenc.com
 hchig.com
 hchik.com
-hcmoo.com
 hcreditx.com
 hcwljy.com
 hdfdm.com
@@ -2242,6 +2241,7 @@ itechwall.com
 iuuff.com
 iwansf.com
 bdjs.ixiumei.com
+iyaos.com
 iyygzs.com
 izouo.com
 izuis.com
@@ -31437,7 +31437,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4337
+# Ignored duplicates: 4336
 
 # Ignored entries due to the whitelist: 9
 
@@ -31525,6 +31525,7 @@ comagic.ru
 montblanc.lenta.ru
 dot-stat.radikal.ru
 ssp.rambler.ru
+r.rbc.ru
 stat.sports.ru
 smartpixel.tv
 countess.twitch.tv
