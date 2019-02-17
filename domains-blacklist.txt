@@ -35,158 +35,6 @@ adfox.ru
 directadvert.ru
 
 
-########## Blacklist from https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt ##########
-
-# Ignored duplicates: 3
-
-msg.71.am
-s.360.cn
-s.so.360.cn
-s.union.360.cn
-imall.cntv.cn
-cig.com.cn
-stat.cqwb.com.cn
-count.enet.com.cn
-count.pcauto.com.cn
-counter.pcauto.com.cn
-count.pcgames.com.cn
-bestpush.pconline.com.cn
-beacon.sina.com.cn
-analytics.techweb.com.cn
-analyse.weather.com.cn
-stat.xgo.com.cn
-imp.zol.com.cn
-pvtest.zol.com.cn
-stat.hebnews.cn
-itsmore.cn
-knet.cn
-kuaishang.cn
-tongji.mafengwo.cn
-statis1.mama.cn
-log.mtime.cn
-log2.mtime.cn
-analytics.oneplus.cn
-p0y.cn
-mixer.sina.cn
-rs.sinajs.cn
-stat.ts.cn
-analy.tuniu.cn
-analytics.tv189.cn
-track.uc.cn
-log.vdisk.cn
-apistat.wasu.cn
-tongji.xinmin.cn
-ysont.cn
-pv.zhiding.cn
-stat.v.17173.com
-analytics.21cn.com
-tj.21ic.com
-webservice.360doc.com
-3jia5.com
-53kf.com
-sp.qf.56.com
-5etv.com
-stats.766.com
-8cnd.com
-a-m-s.adnonstop.com
-mlog.aipai.com
-cir-smart.baidu.com
-cpu.baidu.com
-crs.baidu.com
-fcm.baidu.com
-goutong.baidu.com
-hm.baidu.com
-imgstat.baidu.com
-lxbjs.baidu.com
-log.music.baidu.com
-nsclick.baidu.com
-stat.baike.com
-carstat.bitauto.com
-bobo.com
-s.btime.com
-count.candou.com
-imall.cctv.com
-analysis.chinaiiss.com
-stat.cnmo.com
-cnzz.com
-stat.cutv.com
-log.daqi.com
-reportlog.dftoutiao.com
-other.v.duowan.com
-playstats.v.duowan.com
-stats.v.duowan.com
-stat.ea3w.com
-bdstatic.eastmoney.com
-ejieban.com
-apistat.gao7.com
-hiido.com
-stat.house365.com
-ll.hudong.com
-track.hujiang.com
-stadig.ifeng.com
-stat.ijinshan.com
-ad.qn.img-space.com
-stat.img-space.com
-cnpc.infzm.com
-ipinyou.com
-msg.iqiyi.com
-count.iyaxin.com
-live800.com
-looyu.com
-meiqia.com
-stat.mql5.com
-mylikechat.com
-cpms.now.com
-ntalker.com
-olpv.onlylady.com
-optaim.com
-pop800.com
-dig.qbao.com
-qdp.qidian.com
-haostat.qihoo.com
-msg.video.qiyi.com
-isdspeed.qq.com
-tajs.qq.com
-tcss.qq.com
-bc.qunar.com
-vm.aty.sohu.com
-xls.go.sohu.com
-soperson.com
-countpage.sznews.com
-counter.tianjimedia.com
-click.tianyaui.com
-stat.timedg.com
-tingyun.com
-tjj.com
-wrating.com
-analytics-union.xunlei.com
-stat.download.xunlei.com
-kkpgv2.xunlei.com
-record.kuai.xunlei.com
-g.yccdn.com
-l.ykimg.com
-stat.yunfan.com
-stat.game.yy.com
-cdnlog.zhenai.com
-log.zongheng.com
-51.la
-2005net.net
-d-test.39.net
-51la.net
-5251.net
-54kefu.net
-cbjg.cqnews.net
-zndsssp.dangbei.net
-msg.ettoday.net
-stat.hkwb.net
-stat.pchome.net
-analytics-union.sandai.net
-data.xici.net
-zoosnet.net
-dot.gate.panda.tv
-pv.ltn.com.tw
-
-
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
 # Ignored duplicates: 13
@@ -4135,7 +3983,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 611
+# Ignored duplicates: 590
 
 # Ignored entries due to the whitelist: 37
 
@@ -4164,6 +4012,7 @@ nrich.ai
 powerad.ai
 soko.ai
 gooo.al
+msg.71.am
 admail.am
 cache.am
 circle.am
@@ -4572,6 +4421,7 @@ cctvgb.com.cn
 datamaster.com.cn
 t.hypers.com.cn
 ipinyou.com.cn
+beacon.sina.com.cn
 counter.sina.com.cn
 r.sax.sina.com.cn
 crasheye.cn
@@ -4595,10 +4445,12 @@ stats.jpush.cn
 lockview.cn
 lwnne.cn
 mastertraffic.cn
+p0y.cn
 patriot.cs.pp.cn
 ptengine.cn
 m71.qhdzfs.cn
 reachmax.cn
+rs.sinajs.cn
 sitebot.cn
 sugs.m.sm.cn
 bps.sysact.cn
@@ -4612,6 +4464,7 @@ adslot.uc.cn
 applog.uc.cn
 gjapplog.uc.cn
 gjtrack.uc.cn
+track.uc.cn
 applog.ucdns.uc.cn
 dispatcher.upmc.uc.cn
 h5.wannaplay.cn
@@ -4934,6 +4787,7 @@ js.133u.com
 21a3dd8ea39c0.com
 21b507a044d841b.com
 21c9a53484951.com
+analytics.21cn.com
 22a12efe35e3c2f.com
 22b765488021d482280.com
 23205523023daea6.com
@@ -7004,6 +6858,7 @@ baiaclwdpztd.com
 bzclk.baidu.com
 eclick.baidu.com
 gsp1.baidu.com
+hm.baidu.com
 conf.international.baidu.com
 api.mobojoy.baidu.com
 js.mobojoy.baidu.com
@@ -8274,6 +8129,7 @@ cnsnoljocc.com
 cntadvertising.com
 cntrafficpro.com
 cnxweb.com
+cnzz.com
 coadvertise.com
 cobalten.com
 traffic.prod.cobaltgroup.com
@@ -11605,6 +11461,7 @@ vertical-stats.huffpost.com
 huhrxmgiofzna.com
 huigyetqu.com
 a1.huiqituan.com
+track.hujiang.com
 trackcommon.hujiang.com
 u8.hujiang.com
 hulahooprect.com
@@ -12159,6 +12016,7 @@ iperceptions.com
 ipfingerprint.com
 ipfrom.com
 ipinfodb.com
+ipinyou.com
 ipllxfcftp.com
 iplocationtools.com
 ipncblpgxlhjpc.com
@@ -15328,6 +15186,7 @@ opjalajamak.com
 oppcgcqytazs.com
 oproi.com
 opt-intelligence.com
+imp.optaim.com
 opteama.com
 go.optifuze.com
 optimahub.com
@@ -16489,6 +16348,7 @@ qhzvvwblzrjc.com
 qicggmagur.com
 qidkcvmr.com
 qiheptnm80.com
+haostat.qihoo.com
 qijffgqsbkii.com
 qiktwikahncl.com
 201689.qingkan520.com
@@ -18744,6 +18604,7 @@ thxczhfzad.com
 thxdbyracswy.com
 thzaiqqwsbpps.com
 ti583.com
+counter.tianjimedia.com
 tic-tic-bam.com
 tic-tic-toc.com
 ticklesign.com
@@ -18770,6 +18631,7 @@ metrics.timewarnercable.com
 tin-tin-win.com
 tinbuadserv.com
 tinggalklik.com
+beacon.tingyun.com
 tinkerta.com
 tinycounter.com
 tiouqzubepuy.com
@@ -20702,6 +20564,7 @@ wqtsvqzthaoq.com
 wqxccfoswbwo.com
 wqzaloayckal.com
 wqzorzjhvzqf.com
+wrating.com
 wredint.com
 wrhpnrkdkbqi.com
 wrierville.com
@@ -21217,6 +21080,7 @@ ybrjldiexlqb.com
 ybrmiemawkawxb.com
 ybwackoidmcat.com
 ybzfsppttoaz.com
+g.yccdn.com
 ycexjzoek.com
 ychbtidylyna.com
 ycjwgpkudmve.com
@@ -24148,6 +24012,8 @@ counter.1i.kz
 bx.neolabs.kz
 skylog.kz
 zero.kz
+users.51.la
+web1.51.la
 ss.biquge.la
 analytics.carambo.la
 logging.carambo.la
@@ -24445,6 +24311,7 @@ cnt.3dmy.net
 3wr110.net
 4affiliate.net
 4dsbanner.net
+54kefu.net
 555fff555f.net
 56fff.net
 7eer.net
@@ -25200,6 +25067,7 @@ estrack.net
 ad.ettoday.net
 adv.ettoday.net
 cdn1.ettoday.net
+msg.ettoday.net
 eulerian.net
 euleriancdn.net
 pixel.europapress.net
@@ -26195,6 +26063,7 @@ zhuwawa.net
 zisboombah.net
 ziyu.net
 zoocauvo.net
+zoosnet.net
 zoossoft.net
 zqtk.net
 zucks.net
