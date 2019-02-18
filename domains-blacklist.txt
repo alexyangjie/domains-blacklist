@@ -31532,6 +31532,7 @@ nmetrics.samsung.com
 scorecardresearch.com
 skimresources.com
 statuscake.com
+pa.tns-ua.com
 dig.ultimedia.com
 visualwebsiteoptimizer.com
 smetrics.washingtonpost.com
