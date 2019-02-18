@@ -31625,6 +31625,7 @@ imasdk.googleapis.com
 newad.ifeng.com
 mobimagic.com
 api-a.op-mobile.opera.com
+featured.perfectionholic.com
 promotion.polarisoffice.com
 pics.porndroids.com
 adcs.rqmob.com
