@@ -5283,6 +5283,7 @@ xsell.6waves.com
 7v8rya73sj.com
 wrmwb.7val.com
 7wkfzsj7ss.com
+7wtic7ru.com
 800d24d61daea3c.com
 801e51471fdd.com
 8092686a39ac5.com
@@ -9200,6 +9201,7 @@ doopads.com
 dorapodorasham.com
 dorenga.com
 dosanrnlq.com
+doshaido.com
 doskki.com
 dotandad.com
 dotandads.com
@@ -12730,6 +12732,7 @@ analytics.kapost.com
 karasutanu.com
 karcvrpwayal.com
 karownxatpbd.com
+katurars.com
 katxkxcncwool.com
 kaxsdc.com
 kayfdraimewk.com
@@ -19580,6 +19583,8 @@ upasiansex.com
 metrics.upcload.com
 upliftsearch.com
 upnorma.com
+trl.upperbooking.com
+trv.upperbooking.com
 mobilelog.upqzfile.com
 upravel.com
 tracker.uprinting.com
@@ -23240,6 +23245,7 @@ guardwork.info
 haln.info
 halpeperglagedokkei.info
 hanlowu.info
+hantinlethemsed.info
 happer.info
 hausly.info
 hdpass.info
@@ -24802,6 +24808,7 @@ d10vy5gom1ed53.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d11eq81k50lwgi.cloudfront.net
 d138am4hd4ke4y.cloudfront.net
+d13jhr4vol1304.cloudfront.net
 d160mt023h8h3d.cloudfront.net
 d162nnmwf9bggr.cloudfront.net
 d169bbxks24g2u.cloudfront.net
@@ -25321,6 +25328,7 @@ happyunicorns.gutefrage.net
 h-images.net
 reporting.handll.net
 happilyswitching.net
+haupsoti.net
 havamedia.net
 adf.hdkinoshka.net
 brend.hdkinoshka.net
@@ -25766,6 +25774,7 @@ protizer.net
 proxad.net
 prugskh.net
 psoaghie.net
+psulsobi.net
 loglady.publicbroadcasting.net
 publicidad.net
 publited.net
@@ -25875,6 +25884,7 @@ sevenads.net
 sextadate.net
 sextizer.net
 t.sexycontent.net
+sheenami.net
 silverads.net
 singular.net
 sitebro.net
@@ -26211,6 +26221,7 @@ z5x.net
 zhuwawa.net
 zisboombah.net
 ziyu.net
+zoacaups.net
 zoocauvo.net
 zoossoft.net
 zqtk.net
@@ -31473,7 +31484,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4338
+# Ignored duplicates: 4340
 
 # Ignored entries due to the whitelist: 9
 
@@ -31522,8 +31533,6 @@ scorecardresearch.com
 skimresources.com
 statuscake.com
 dig.ultimedia.com
-trl.upperbooking.com
-trv.upperbooking.com
 visualwebsiteoptimizer.com
 smetrics.washingtonpost.com
 webclicks24.com
