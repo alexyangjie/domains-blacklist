@@ -4142,7 +4142,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 611
+# Ignored duplicates: 614
 
 # Ignored entries due to the whitelist: 37
 
@@ -7063,6 +7063,7 @@ bapaquac.com
 baphruesqm.com
 baptisttop1000.com
 bara-banner.com
+bardogjvsa.com
 bargainpricedude.com
 baronsoffers.com
 barraien.com
@@ -8047,6 +8048,7 @@ metrics.chmedia.com
 chohye2t.com
 hitweb.chosun.com
 hitweb2.chosun.com
+chqspuonctkgz.com
 chqulqxfghdz.com
 stats.christianpost.com
 christiantop1000.com
@@ -9739,6 +9741,7 @@ eptum.com
 eptwulil.com
 epzxtposabej.com
 eqads.com
+eqdlypxvit.com
 eqegggmtc.com
 eqezqqdpjmxbpb.com
 eqfgc.com
@@ -10213,6 +10216,7 @@ fkfmujcudpwdn.com
 fkianrxjfumm.com
 fkjyzxnoxusg.com
 fkphqtgqrfixl.com
+fkrgfktdvta.com
 fkrrvhoierty.com
 fkvjntfj.com
 fkwwhndzjlqrm.com
@@ -10369,6 +10373,7 @@ fptad.com
 fpvfeyjrwlio.com
 fpxkjlzmkqp.com
 fpxthotxzuf.com
+fpzcaabzhvzz.com
 fqazjwxovxlu.com
 fqckdxjgle.com
 fqgqosvpodxn.com
@@ -10443,6 +10448,7 @@ frolnk.com
 fromfriendswithlove.com
 frosmo.com
 frqmnrlqk.com
+frtfwlvwuw.com
 t.frtyi.com
 fruitflan.com
 fruitkings.com
@@ -10522,6 +10528,7 @@ fvrvxmksxhut.com
 fvsdvxjpxi.com
 fvtwyjev.com
 fvwcwbdrprdt.com
+fvzompquocgdsu.com
 fwbhvrpiunlzyh.com
 fwbntw.com
 fwcrhzvfxoyi.com
@@ -11260,6 +11267,7 @@ hd3pi8cv.com
 hdcfyrzx.com
 hddzzizitskc.com
 hdmtools.com
+hdnvtfyvyhq.com
 hdoabbjyyebca.com
 hdplayer-download.com
 hduefoyd.com
@@ -11736,6 +11744,7 @@ ibannerexchange.com
 ibatom.com
 ibbyu85u.com
 iberacon.com
+ibetinwubwl.com
 ibfsream.com
 ibfueyttemsefi.com
 ibillboard.com
@@ -12382,6 +12391,7 @@ jbugk.com
 jbvisobwrlcv.com
 jbvyjtyhatpam.com
 jbyksmjmbmku.com
+jccszmkabdean.com
 jcctggmdccmt.com
 jcmdvfrn.com
 jcnoeyqsdfrc.com
@@ -12583,6 +12593,7 @@ jqinqsrmygeu.com
 jqkxaejcijfz.com
 jqleeknw.com
 jqmcbepfjgks.com
+jqqlucchmbxnn.com
 jqqrcwwd.com
 jqsrfzjgn.com
 jqtsknmobyw.com
@@ -13545,6 +13556,7 @@ pw.lpsxssm.com
 lptggobhuuxcdw.com
 lpwvdgfo.com
 lpxxafsupgsho.com
+lpzsxemf.com
 lqbyqjap.com
 lqcdn.com
 lqfolelqvc.com
@@ -14255,6 +14267,7 @@ moffsets.com
 mofox.com
 moginhstnxswt.com
 mogointeractive.com
+mogqlceldpwbxe.com
 moguldom.com
 mohcafpwpldi.com
 moijs.com
@@ -15684,6 +15697,7 @@ perfb.com
 perfcreatives.com
 perfdrive.com
 perfectaudience.com
+featured.perfectionholic.com
 perfectmarket.com
 perfiliate.com
 perfmelab.com
@@ -17159,6 +17173,7 @@ rllvjujeyeuy.com
 rlomrjxrpsev.com
 rlpabnhvtu.com
 rlqvyqgjkxgx.com
+rlsqhgku.com
 rlszkjkcmjxd.com
 rlxmbkwcyw.com
 rlypbeouoxxw.com
@@ -17849,6 +17864,7 @@ skknyxzaixws.com
 sdrive.skoda-auto.com
 skoovyads.com
 ads.skorfikstur.com
+sksalqvpoc.com
 skspurybnv.com
 analytics.faw.sky.com
 analytics.global.sky.com
@@ -18884,6 +18900,7 @@ tnkfactory.com
 tnlfupvrlr.com
 tnlshxmc.com
 tnpbbdrvwwip.com
+pa.tns-ua.com
 tntqrmqfst.com
 tnvghrlg.com
 tnznswilqtni.com
@@ -19181,6 +19198,7 @@ trymynewspirit.com
 trzi30ic.com
 tscapeplay.com
 tscounter.com
+tsdzmkpewrdxyl.com
 tsk4.com
 tsk5.com
 tskctmvpwjdb.com
@@ -21632,10 +21650,12 @@ zbtqpkimkjcr.com
 zbwp6ghm.com
 zbwttofskjnc.com
 zbxzcrldzzgv.com
+zccebnzdujjw.com
 zcchnqgq.com
 zcczlrtbbx.com
 zcczvunkmmcg.com
 zcinaovb.com
+zcjxeitlmnuq.com
 zcl-js.com
 zcltracker.com
 zclxwzegqslr.com
@@ -22826,6 +22846,7 @@ weborama.fr
 1q2w3.fun
 ukdtx.31202.fun
 wer.glib-cough.fun
+mordi.fun
 squalid-linen.fun
 tainiesonline.fun
 toothsome-crook.fun
@@ -24344,6 +24365,7 @@ track2.me
 tracker.u-link.me
 analytics.wetpaint.me
 stc.oa.zalo.me
+adimage.media
 adplex.media
 aio.media
 andbeyond.media
@@ -26293,6 +26315,7 @@ nzads.net.nz
 pushservice.one
 aj1052.online
 aj1574.online
+aj1603.online
 ajx130.online
 appared.online
 appliere.online
@@ -26816,6 +26839,7 @@ furginator.pw
 gitcdn.pw
 glynzumin.pw
 h78xb.pw
+iarfina.pw
 infomir.pw
 interestingz.pw
 interfax.pw
@@ -31486,7 +31510,7 @@ minez.zone
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/3.txt ##########
 
-# Ignored duplicates: 4340
+# Ignored duplicates: 4341
 
 # Ignored entries due to the whitelist: 9
 
@@ -31534,7 +31558,6 @@ nmetrics.samsung.com
 scorecardresearch.com
 skimresources.com
 statuscake.com
-pa.tns-ua.com
 dig.ultimedia.com
 visualwebsiteoptimizer.com
 smetrics.washingtonpost.com
@@ -31611,7 +31634,7 @@ i01001.dgn.vn
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1149
+# Ignored duplicates: 1150
 
 # Ignored entries due to the whitelist: 16
 
@@ -31627,7 +31650,6 @@ imasdk.googleapis.com
 newad.ifeng.com
 mobimagic.com
 api-a.op-mobile.opera.com
-featured.perfectionholic.com
 promotion.polarisoffice.com
 pics.porndroids.com
 adcs.rqmob.com
