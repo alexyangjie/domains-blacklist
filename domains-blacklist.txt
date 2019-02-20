@@ -460,6 +460,7 @@ cxslchkb.cn
 z1.cyla.cn
 czjiuding.cn
 czxjx.cn
+dachadu.cn
 adf.dahe.cn
 dami66.cn
 danangmo.cn
@@ -771,6 +772,7 @@ tui98.cn
 libs.tvmao.cn
 tvrom.cn
 txdwc.cn
+txstatic.cn
 tyyjzs.cn
 u88.cn
 js.ubaike.cn
