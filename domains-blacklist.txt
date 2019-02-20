@@ -31682,10 +31682,12 @@ app.adjust.com
 adywind.com
 brahe.apptimize.com
 west.bidtellect.com
+data2.doodlemobile.com
 imasdk.googleapis.com
 newad.ifeng.com
 mobimagic.com
 api-a.op-mobile.opera.com
+newfeatureview.perfectionholic.com
 promotion.polarisoffice.com
 pics.porndroids.com
 adcs.rqmob.com
@@ -31695,6 +31697,7 @@ xda-cdn.com
 auto-api.yelp.com
 mtag.mman.kr
 cloudads-a.akamaihd.net
+d239g0z67jcted.cloudfront.net
 d27tpsznug51gz.cloudfront.net
 hasmobi.net
 gate.hockeyapp.net
