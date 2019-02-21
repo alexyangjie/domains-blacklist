@@ -2,17 +2,11 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/12.txt ##########
 
-# Ignored duplicates: 2
+# Ignored duplicates: 1
 
 images.primewire.ag
-0912701309f8ce.com
-307cc283bab2ffdec92.com
 adition.com
-adrunnr.com
-cb8717377086c72d.com
 jisucn.com
-go.mobiprotg.com
-november-lax.com
 pics.porn300.com
 psmardr.com
 qiqiww.com
@@ -20,16 +14,10 @@ vip.sc386.com
 securewebboard.com
 skycdnhost.com
 smilered.com
-smintmouse.com
-wrmcfyzl.com
-xdbwc.com
 banner.dna.fi
-adexec.net
 d3nvrqlo8rj1kw.cloudfront.net
 cnbole.net
 v.fwmrm.net
-large-format.net
-partners.parimatch.net
 tapcreatives.net
 adfox.ru
 directadvert.ru
@@ -189,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylistchina.txt ##########
 
-# Ignored duplicates: 13
+# Ignored duplicates: 12
 
 123456.asia
 cloudad.asia
@@ -3383,6 +3371,7 @@ xcjy876.com
 xcy8.com
 xcycm.com
 xcyrc.com
+xdbwc.com
 xdcqcyp.com
 xdkje.com
 xdunv.com
@@ -4151,7 +4140,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 614
+# Ignored duplicates: 608
 
 # Ignored entries due to the whitelist: 37
 
@@ -5903,6 +5892,7 @@ adrocket.com
 adroll.com
 adrta.com
 adrttt.com
+adrunnr.com
 ads-4u.com
 ads-mall.com
 ads-stats.com
@@ -14941,6 +14931,7 @@ novarevenue.com
 novately.com
 js.novatizer.com
 novbrom.com
+november-lax.com
 novfox2.com
 novhyaxaioxaon.com
 stat.novostimira.com
@@ -17953,6 +17944,7 @@ smileycentral.com
 smilingsock.com
 smilyes4u.com
 smimarket.com
+smintmouse.com
 smnpsburn.com
 smopy.com
 json.smotri.com
@@ -20779,6 +20771,7 @@ wrhpnrkdkbqi.com
 wrierville.com
 track.written.com
 wrkxchcsdw.com
+wrmcfyzl.com
 wrmwikcnynbk.com
 wrqjwrrpsnnm.com
 wrrfckzbpygz.com
@@ -25505,6 +25498,7 @@ p-behacdn.ksmobile.net
 ws.ksmobile.net
 kzqjwdxxussshe.net
 lakidar.net
+large-format.net
 delivery1.lavanetwork.net
 libs.lavanetwork.net
 pub.lavanetwork.net
@@ -25772,6 +25766,7 @@ paidlinkz.net
 paidonresults.net
 pammru.net
 parabolla.net
+partners.parimatch.net
 parkingcrew.net
 partnerearn.net
 pasangiklangratisbaris.net
