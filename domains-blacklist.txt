@@ -31835,7 +31835,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1140
+# Ignored duplicates: 1139
 
 # Ignored entries due to the whitelist: 16
 
