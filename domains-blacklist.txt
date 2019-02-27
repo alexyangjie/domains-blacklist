@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 487
+# Ignored duplicates: 488
 
 # Ignored entries due to the whitelist: 37
 
@@ -1664,6 +1664,7 @@ adbuff.com
 adbukaserver.com
 adbull.com
 adbutler.com
+adbutler-fermion.com
 adbuyer.com
 adcade.com
 adcalm.com
@@ -2983,6 +2984,7 @@ axjxdtnguuyqr.com
 axmxarqxbkc.com
 axonix.com
 axsczaklngkxx.com
+axvabgnr.com
 axzrxkkklakka.com
 ayandns.com
 ayboll.com
@@ -3311,6 +3313,7 @@ bgdacrgsnt.com
 bgfdrngowyy.com
 bgfgaduyvocz.com
 bgibeluywjhgb.com
+bgiiubagsuvv.com
 bgitczbd.com
 bgpxrwjrbsjb.com
 bgrndi.com
@@ -5301,6 +5304,7 @@ domodomain.com
 ad.donanimhaber.com
 adserve.donanimhaber.com
 donecooler.com
+donhyxngg.com
 dontibar.com
 data2.doodlemobile.com
 doogleonduty.com
@@ -5479,6 +5483,7 @@ dxzgoyzo.com
 dyazeqpeoykf.com
 dydxtkvmktumjp.com
 dyerbegytfkj.com
+dogus-ads-cdn.dygdigital.com
 dyhwaacbbntu.com
 dyino.com
 dyjifezeyagm.com
@@ -6501,6 +6506,7 @@ fpxkjlzmkqp.com
 fpxthotxzuf.com
 fpzcaabzhvzz.com
 fqazjwxovxlu.com
+fqbrdnpf.com
 fqckdxjgle.com
 fqgqosvpodxn.com
 fqhpssdbenl.com
@@ -6879,6 +6885,7 @@ getfreebacklinks.com
 getfreebl.com
 getgscfree.com
 banners.getiton.com
+getmyfreetraffic.com
 getmygeo.com
 getpopunder.com
 getrockerbox.com
@@ -7582,6 +7589,7 @@ hiypucxjvfka.com
 hizlipop.com
 hjeoncuvklqh.com
 hjgmasrve.com
+hjihwmtsltqi.com
 hjiss.com
 hjjdmohuzp.com
 hjnekvux.com
@@ -7615,6 +7623,7 @@ hmcczsoimnjxzi.com
 hmcjupvbxxyx.com
 hmeojqyjoascs.com
 hmepgymo.com
+hmgozryqbc.com
 hmjkyzdmoxp.com
 hmjtutipevtmg.com
 hmlghvujrve.com
@@ -8009,6 +8018,7 @@ collect.igodigital.com
 igraplus.com
 igsxvpghnamnsz.com
 igupodzh.com
+igvuw.com
 igwzuwwtvnywx.com
 igyzmhqbihoi.com
 ihcamesgexiv.com
@@ -8323,6 +8333,7 @@ iogous.com
 iogutpkrkkycq.com
 iohaqrkjddeq.com
 ioighavxylne.com
+ioiylgyf.com
 ionbpysfukdh.com
 ionmvdpifz.com
 ioujbpldicfgm.com
@@ -9277,6 +9288,7 @@ kvadaiwjwxdp.com
 kvcymnoxr.com
 kvhxckkd.com
 kvkoqywl.com
+kvnldhrlw.com
 kvpofpkxmlpb.com
 kvprhbqnmszru.com
 kvrozyibdkkt.com
@@ -9382,6 +9394,7 @@ lbkprcoosfgk.com
 lbm1.com
 lbpndcvhuqlm.com
 lbtifiprfzy.com
+lburmovcjefv.com
 lbypppwfvagq.com
 lbytagcqxefsn.com
 lckpubqq.com
@@ -9494,6 +9507,7 @@ lfstmedia.com
 lftyfcqqctj.com
 lfvrjrdrgazl.com
 lgbshazoug.com
+lghrdwdl.com
 lgjqgatg.com
 lgkzfskybz.com
 lgnjcntegeqf.com
@@ -9982,6 +9996,7 @@ marketnetwork.com
 marketo.com
 marketoring.com
 marketshot.com
+oda.markitondemand.com
 maropost.com
 marphezis.com
 smetrics.marriott.com
@@ -10057,6 +10072,7 @@ mcsnhbdil.com
 mctqu.com
 mcvyeitc.com
 mcyopesbusomqf.com
+mczemvlzkndplq.com
 mczuljmdpysftg.com
 md-nx.com
 mdadx.com
@@ -10596,6 +10612,7 @@ heals.msgfocus.com
 msgtag.com
 msiegurhgfyl.com
 msisvvxmnpm.com
+msmaijsxlo.com
 c.msn.com
 mobileads.msn.com
 analytics.msnbc.msn.com
@@ -11268,11 +11285,10 @@ nyctrl32.com
 nyltsyud.com
 stats.nymag.com
 click1.email.nymagazine.com
+nypmjsgpmhd.com
 nyqogyaflmln.com
 nyskocbhfz.com
 meter-svc.nytimes.com
-geoip.newsdev.nytimes.com
-tagx.nytimes.com
 nytlog.com
 nytqlenw.com
 nywpxugigwfzb.com
@@ -12148,6 +12164,7 @@ plxnt.com
 plxserve.com
 plxtejszb.com
 plyftjxmrxrk.com
+plzjcnyxcdl.com
 pm14.com
 pmachrxhrwkd.com
 pmelon.com
@@ -12183,6 +12200,7 @@ pnzchguyctrsyb.com
 poaxupoqbw.com
 poazvacfzbed.com
 poewhatnvxydts.com
+pogdlwpmck.com
 pointclc.com
 pointclicktrack.com
 pointomatic.com
@@ -13517,6 +13535,7 @@ rqtdnrhjktzr.com
 rqthkhiuddlg.com
 rquagrre.com
 rqwozrkmtwiuri.com
+rqxjnkgcobp.com
 rqxwisgin.com
 rqyezhetbspk.com
 rrbiprsifnmv.com
@@ -14282,6 +14301,7 @@ solocpm.com
 pixel.solvemedia.com
 sombes.com
 stats.someecards.com
+somelandingpage.com
 sometrics.com
 ads.sondakika.com
 sonobi.com
@@ -15489,6 +15509,7 @@ ttegjzxzxyetf.com
 ttgwyqmuhfhx.com
 tthxqtogskzp.com
 webtraffic.ttinet.com
+ttulyfbkatyzp.com
 ttzmedia.com
 tubberlo.com
 tubealliance.com
@@ -15597,6 +15618,7 @@ typieced.com
 typiol.com
 typyky.com
 tyroo.com
+tyuawmgqsbz.com
 tyxo.com
 tyxznbghnfkvb.com
 tyyrigtlkny.com
@@ -15986,6 +16008,7 @@ uszpxpcoflkl.com
 utazwa.com
 utbclxmcv.com
 utfffrxmzuvy.com
+uthifuehb.com
 utiiamqdsku.com
 utilient.com
 utlpwxdt.com
@@ -16061,6 +16084,7 @@ uzqtaxiorsev.com
 uzrating.com
 uzreuvnlizlz.com
 uzrrqqzlktpymn.com
+uzvuhhyymmkc.com
 uzwweczttqlayd.com
 uzxyqxolrc.com
 uzxzkkyzb.com
@@ -16516,6 +16540,7 @@ adsdk.vrvm.com
 c.vrvm.com
 cls.vrvm.com
 go.vrvm.com
+vrvyearwxo.com
 vrzgn.com
 vrzparvhipmo.com
 vs20060817.com
@@ -17317,6 +17342,7 @@ xiuuh.com
 xiwhhcyzhtem.com
 xjehskjzyedb.com
 xjfjx8hw.com
+xjjfgxdfpr.com
 xjjjohojeeozv.com
 xjompsubsozc.com
 xjqha.com
@@ -17478,6 +17504,7 @@ xxamqnqeygbk.com
 xxehantfkywk.com
 xxhgzzinkrbbo.com
 xxlargepop.com
+xxqriuedmqzs.com
 xxrniridsnzr.com
 xxwpminhccoq.com
 xxxcounter.com
@@ -18032,6 +18059,7 @@ zferral.com
 zfgistbbg.com
 zfkkmayphqrw.com
 zfmqywrpazlx.com
+zfoeiywwiqo.com
 zfpsotrgboqp.com
 zfqpjxuycxdl.com
 zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
@@ -18171,6 +18199,8 @@ zpkshggvjif.com
 zplvjgpxvh.com
 zpmbsivi.com
 zpnbzxbiqann.com
+zpolivtjrhjquo.com
+zppkpktskuf.com
 zprlpkabqlth.com
 zprrfpczfpnh.com
 zpsgqvvzcbni.com
@@ -18181,6 +18211,7 @@ zpznbracwdai.com
 zpzsdmpvqudhsz.com
 zqaxaqqqutrx.com
 zqdvdygz.com
+zqeskyeg.com
 zqizn.com
 zqjfpxcgivkv.com
 zqlkekbqp.com
@@ -19395,6 +19426,7 @@ advetvy.info
 adwalte.info
 aeghie6dien.info
 aew9eigieng.info
+afletedly.info
 africal.info
 ahn2phee3oh.info
 ahvawat.info
@@ -19818,6 +19850,7 @@ parding.info
 parserwords.info
 patiskcontentdelivery.info
 pectit.info
+pectors.info
 perfoormapp.info
 performancetrack.info
 data.permittingnorthlandseamen.info
@@ -20655,6 +20688,7 @@ autonewspron.me
 bgclck.me
 bigclick.me
 blckads.me
+clickly.me
 clnk.me
 contentexchange.me
 currentlyobsessed.me
@@ -21151,9 +21185,11 @@ cdnapi.net
 clicktalecdn.sslcs.cdngc.net
 cdnproviders.net
 cedexis-radar.net
+cegludse.net
 statstracker.celebrity-gossip.net
 centralnervous.net
 ceptavou.net
+chaghets.net
 chanished.net
 channelvn.net
 chartbeat.net
@@ -21969,6 +22005,7 @@ monkeybroker.net
 monkeyminer.net
 more427.net
 motosal.net
+mousheen.net
 movad.net
 mozcloud.net
 mpression.net
@@ -22921,6 +22958,7 @@ superlady.org
 surya4d.org
 swadvertising.org
 sxtut.org
+bn.take-profit.org
 theylike.org
 tlootas.org
 toplist100.org
@@ -23154,6 +23192,7 @@ steakafka.pro
 stimergeners.pro
 succumbertson.pro
 superwebs.pro
+surfe.pro
 terhimpa.pro
 tgsmtdata4.pro
 tiveriches.pro
@@ -23628,6 +23667,7 @@ cleen.ru
 clickbux.ru
 stat.clickfrog.ru
 clickhere.ru
+s.clicktex.ru
 clicktizer.ru
 clicktoclick.ru
 clickvip.ru
@@ -24463,6 +24503,7 @@ q1ilb0enze.ru
 lstats.qip.ru
 r.qip.ru
 qload.ru
+qoopler.ru
 qshare.ru
 quber.ru
 qvi0.ru
