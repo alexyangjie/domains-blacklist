@@ -27888,12 +27888,19 @@ minez.zone
 
 ########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_High.txt ##########
 
+bin1.kns1.al
 4w5wihkwyhsav2ha.dreamtest.at
 ojmekzw4mujvqeju.dreamtest.at
+grati.cf
+spotmarka.ap0x.com
+gyalkingerz.com
+hi-j.com
 pagaldaily.com
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
+weiye-0fc.com
 nlpqflkbvkdde.eu
 uuwflbmjmi.eu
+dzitech.net
 x5sbb5gesp6kzwsh.homewind.pl
 eppilxqwyqdhmpdsn.pw
 ibjgnqsthdyp.pw
@@ -27904,8 +27911,12 @@ qqtphtlhny.pw
 rqfsctpgpuani.pw
 wqxvsxppjivs.pw
 xvchcbeqxkd.pw
+l3d.pp.ru
+front.postmaster.services
+maminoleinc.tk
 aa12111.top
 honourableud.top
+jutrack.dp.ua
 i01001.dgn.vn
 
 
@@ -28245,6 +28256,7 @@ guansenff.cn
 gugulonger.cn
 gumgo.cn
 gunmi.cn
+gxklsftz.cn
 d.gz2010.cn
 my.gz2010.cn
 gzcl999.cn
