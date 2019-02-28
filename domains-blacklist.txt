@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 488
+# Ignored duplicates: 489
 
 # Ignored entries due to the whitelist: 37
 
@@ -585,6 +585,7 @@ lovacmar.click
 nompakru.click
 oneopenclose.click
 openclose.click
+paupepsu.click
 pheegoab.click
 poogriry.click
 psoapeez.click
@@ -2365,6 +2366,7 @@ aheadday.com
 ahjljmxfxuet.com
 ahkpdnrtjwat.com
 ahstrelgnh.com
+ahuivddkvrrebo.com
 ahuosyyqprt.com
 ahwjxktemuyz.com
 ahyuzjgukqyd.com
@@ -2399,6 +2401,7 @@ ajangiklangratis.com
 ajfziqehnwvz.com
 ajgffcat.com
 ajillionmax.com
+ajizjpjkrnh.com
 ajjhtetv87.com
 ajkelra.com
 ajkzd9h.com
@@ -4730,6 +4733,7 @@ cslxhmchzgbx.com
 csmqorveetie.com
 csouqeeviwo.com
 css-style-95.com
+cssrvsync.com
 cstdfxkxbqbc.com
 csxokexd.com
 csyngxtkifrh.com
@@ -4764,6 +4768,7 @@ cufcw.com
 cuguwxkasghy.com
 cuhicevdjsfey.com
 v.cuioj.com
+cujsutkdbz.com
 cukabtvyl.com
 cukwbpne.com
 culsauwou.com
@@ -5927,6 +5932,7 @@ estat.com
 estiques.com
 estorest.com
 esznfpbro.com
+eszpmsipks.com
 et-cod.com
 etacontent.com
 etahub.com
@@ -5943,6 +5949,7 @@ eth-pocket.com
 etherealhakai.com
 ethnio.com
 etizspyjmjhxo.com
+etkdximarcsq.com
 etkhujhmhjix.com
 etology.com
 etracker.com
@@ -6491,6 +6498,7 @@ fpbmjwoebzby.com
 fpcptdqmjlnlu.com
 fpctraffic2.com
 fpdsavexteno.com
+fpfivothg.com
 fpluhtibx.com
 fpmef.com
 fpnxicejwel.com
@@ -6676,6 +6684,7 @@ fwnlrejfedzy.com
 fwskchuk.com
 fwslcjmfdqyvmg.com
 fwutbizwevr.com
+fwwdmnkjg.com
 fwzlsugrflhh.com
 fwzqogrlgsdl.com
 fx-trend.com
@@ -7025,6 +7034,7 @@ gmqczpcyzjeen.com
 gmquualzdmqtxp.com
 gmutfgxdvwmtf.com
 gmwqmjkggg.com
+gmxetthnzmqo.com
 gmyvids.com
 gnadhzstittd.com
 gnaizrodp.com
@@ -7190,6 +7200,7 @@ sp.greenvilleonline.com
 greetzebra.com
 grenstia.com
 grepdata.com
+gresokie.com
 gretzalz.com
 greyinstrument.com
 greystripe.com
@@ -7659,6 +7670,7 @@ c.homestore.com
 hommunit.com
 honouncil.com
 hoomefodl.com
+hooraico.com
 hopafrmwpckj.com
 hopfeed.com
 hopinionse.com
@@ -8726,6 +8738,7 @@ jngxxwythaf.com
 jnhjvkapqf.com
 jnjbdvchvk.com
 jnnjnuyiic.com
+jnnswtdifjgx.com
 jnoaexgpdlnu.com
 jnwsojzuahwbeq.com
 jnxqlltlnezn.com
@@ -8905,6 +8918,7 @@ jzllgntkazui.com
 jzlzdnvvktcf.com
 jzqce.com
 jzqharwtwqei.com
+jzqvmpkppjlgc.com
 jzurzhjqrp.com
 k-analytix.com
 k0z09okc.com
@@ -8915,6 +8929,7 @@ kacfofrcndc.com
 kadjwdpzxdxd.com
 kaffnet.com
 kaidop.com
+kaktokualscgea.com
 kakywxgevuv.com
 kalfiydydtnhxk.com
 kalitereklam.com
@@ -9843,6 +9858,7 @@ lvrvufurxhgp.com
 lvshypqdjfvvkd.com
 lvuic.com
 lvulibji.com
+lwadm.com
 lwajqohv.com
 lwaqcpjegbwm.com
 lwasxldakmhx.com
@@ -10235,6 +10251,7 @@ mezihrnjuc.com
 mezima.com
 mezimedia.com
 mezzobit.com
+mfadsrvr.com
 mfatallp.com
 mfeoaesafo.com
 mffurrpzbum.com
@@ -11725,6 +11742,7 @@ owldata.com
 owlmjcogunzx.com
 ownlocal.com
 owodfrquhqui.com
+owoeaicjtds.com
 owqhtqryzggt.com
 owqobhxvaack.com
 owrqvyeyrzhy.com
@@ -12758,6 +12776,7 @@ qgiumuzmxj.com
 qgnakeddgtdw.com
 qgraprebabxo.com
 qgrycwxbn.com
+qgslgwfxar.com
 qgss8.com
 qgtbxtex.com
 qgxrmkbzpm.com
@@ -12963,6 +12982,7 @@ quisma.com
 qukqptxilr.com
 qulsqiqrev.com
 qumzxkpexf.com
+qunnvfhdgfm.com
 log.quora.com
 qupiinlyjuf.com
 quqyiobevrc.com
@@ -13325,6 +13345,7 @@ rfity.com
 rfksrv.com
 rfpnlsbbu.com
 rfr-69.com
+rfrsnqen.com
 rfvicvayyfsp.com
 rfvnhjnnkifyx.com
 rfyphhvcczyq.com
@@ -15043,6 +15064,7 @@ thisisacoolthing.com
 thisisanothercoolthing.com
 thisiswaldo.com
 thismetric.com
+thivsxubn.com
 thjlnyagmxrbt.com
 thjuvpgdmjj.com
 thnqemehtyfe.com
@@ -15504,6 +15526,7 @@ tswhwnkcjvxf.com
 tsyndicate.com
 ttdaxwrryiou.com
 ttdrlihuqgklvc.com
+ttdtuwbxgyveg.com
 tteasr.com
 ttegjzxzxyetf.com
 ttgwyqmuhfhx.com
@@ -15656,11 +15679,13 @@ uarating.com
 uavqdzorwish.com
 uaxdkesuxtvu.com
 ubazpxeafwjr.com
+ubdudsdfcll.com
 ubdwc.com
 ubercpm.com
 ubertags.com
 ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com
 adserver.ubiyoo.com
+ubjnuclsgxu.com
 ubktdzjnjkpon.com
 ubopxbdwtnlf.com
 ubpjjgso.com
@@ -15940,7 +15965,6 @@ uqyirvghv.com
 urahor9u.com
 uralap.com
 stats.urban-media.com
-urbanairship.com
 ureace.com
 urfdvrrg.com
 urhvlgfnbdhlf.com
@@ -16041,6 +16065,7 @@ uvjvnbitjmvzgk.com
 uvlyzxml.com
 uvmsfffedzzw.com
 uvniygdwmoojfm.com
+uvppdseel.com
 uvxaafcozjgh.com
 uvyfszshvgassp.com
 uvzfodimtska.com
@@ -16473,6 +16498,7 @@ vnufxjwndhsfbj.com
 vnw2gd68pb.com
 vnyginzinvmq.com
 vnzlgmfd.com
+voameque.com
 vodbordnhhemq.com
 vodhaqaujopg.com
 stats.vodpod.com
@@ -16706,6 +16732,7 @@ wbvwcyssssh.com
 wcabsbogwfxv.com
 wcgquaaknuha.com
 wcksovhmd.com
+wcobqyeqpckkzh.com
 wcoloqvrhhcf.com
 wcpanalytics.com
 wcqlebpges.com
@@ -17141,6 +17168,7 @@ wwgdpbvbrublvjfbeunqvkrnvggoeubcfxzdjrgcgbnvgcolbf.com
 wwgjtcge.com
 stats.wwitv.com
 wwkowjxms.com
+wwmcuhvqaf.com
 wwngdgldlsv.com
 wwnlyzbedeum.com
 wwv4ez0n.com
@@ -17638,6 +17666,7 @@ yellowbrix.com
 ad.yemeksepeti.com
 yemonisoni.com
 yengo.com
+yennwmfmbnfz.com
 yeo1tfjz5f.com
 yeouakimhubraf.com
 yepiafsrxffl.com
@@ -17685,7 +17714,7 @@ yicainjezma.com
 yidop.com
 yieldads.com
 yieldadvert.com
-jscdn.yieldbird.com
+yieldbird.com
 yieldbot.com
 yieldbuild.com
 yieldify.com
@@ -17837,6 +17866,7 @@ youtube2top.com
 youwatchtools.com
 yovqbcixogwc.com
 yoxlrphhmphq.com
+yoxrhwtvyqt.com
 yoywgmzjgtfl.com
 ypbfrhlgquaj.com
 ypecrrktyo.com
@@ -17905,6 +17935,7 @@ yvbrgzeu.com
 yvfsfoctkls.com
 yvlhxqxw.com
 yvlmcehqt.com
+yvlrhnzid.com
 yvmosixxo.com
 yvoria.com
 yvvafcqddpmd.com
@@ -19442,6 +19473,7 @@ amountinue.info
 anothing.info
 anti-cheat.info
 antotu.info
+arkinhechershedt.info
 armame.info
 arpelog.info
 arrassley.info
@@ -21300,6 +21332,7 @@ d23pi6hvdpcc5i.cloudfront.net
 d240937yockcdo.cloudfront.net
 d24afgsm39csxt.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
+d24rtvkqjwgutp.cloudfront.net
 d258hxk86e2ixw.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d269y12mnftu9c.cloudfront.net
@@ -21781,6 +21814,7 @@ imageadvantage.net
 imcht.net
 img-giganto.net
 ww2.imgdrive.net
+imimtord.net
 impressionsme.net
 imrk.net
 bestbestgirlz.in.net
@@ -23098,6 +23132,7 @@ approp.pro
 aution.pro
 axzsd.pro
 azxsd.pro
+balks.pro
 bellissimome.pro
 besguses.pro
 ad.bilgin.pro
@@ -24563,6 +24598,7 @@ track.revolvermarketing.ru
 reytata.ru
 rb.rfn.ru
 rg-be.ru
+rholi.ru
 a.ria.ru
 lnews.riafan.ru
 counter.rian.ru
@@ -25605,7 +25641,6 @@ mambo.kiev.ua
 one.lg.ua
 sex4u.lg.ua
 counter.star.lg.ua
-orbit.lun.ua
 mabila.ua
 piwik.matrix.ua
 context.meta.ua
@@ -25862,6 +25897,7 @@ hemnes.win
 hostingcloud.win
 jshosting.win
 lindon-pool.win
+m3haw43xxuiai.win
 mutuza.win
 najsiejfnc.win
 ogamon.win
