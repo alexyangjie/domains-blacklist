@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 489
+# Ignored duplicates: 490
 
 # Ignored entries due to the whitelist: 37
 
@@ -2420,6 +2420,7 @@ akamhd.com
 akanoo.com
 akavita.com
 akbiokbinnzh.com
+akcdinzvcenhjh.com
 akdzimverrss.com
 akgustnmy.com
 akmihtdbbz.com
@@ -2823,6 +2824,7 @@ aseadnet.com
 asecxggulyrf.com
 ashwlrtiazee.com
 asidecasev.com
+askfuelads.com
 askhilltop.com
 asklots.com
 askywtrk.com
@@ -3185,6 +3187,7 @@ bcgcvepi.com
 bckwfsvdgfjw.com
 bcloudhost.com
 bcnhnekodmdniu.com
+bcobmmozfan.com
 bcqrmuwbvxi.com
 bcxronvqkwe.com
 bczvulovuap.com
@@ -4082,8 +4085,10 @@ cgaemihcbvr.com
 cgbqzfjf.com
 cgjyesqhxzzm.com
 cgkpwhkgjxo.com
+cglpmszvpzzxj.com
 cglqqjxaaowb.com
 cgmkpdqjnedb.com
+cgnfyfer.com
 cgociipdf.com
 cgrvnpkwuytts.com
 cgtqfbnviajcx.com
@@ -4156,6 +4161,7 @@ chukalorqa.com
 chvjfriqlvnt.com
 chvwtxtzmzbggo.com
 chxfeymgmwbo.com
+chxwlqtvgrw.com
 chytrrvwvabg.com
 chzashakbgds.com
 ci3ixee8.com
@@ -4989,6 +4995,7 @@ dcplayf.com
 dcyeufoq.com
 dcznhkojghrl.com
 ddaac98f67e384d8a9.com
+ddbnikwub.com
 dddevki4u.com
 ddomb.com
 ddprxzxnhzbq.com
@@ -5214,6 +5221,7 @@ dklvewbgjksyy.com
 dkrhsftochvzqryurlptloayhlpftkogvzptcmjlwjgymcfrmv.com
 dktaqipmquo.com
 dkvzpqcqan.com
+dkxeorhjmua.com
 dl-rms.com
 dlahijuwjsv.com
 dlemeyrkjy.com
@@ -6616,6 +6624,7 @@ ftgfmbxqkjda.com
 ftjcfx.com
 ftjrekbpjkwe.com
 ftodxdoolvdm.com
+ftqgkcmbkptohh.com
 fttsgimpiagrwa.com
 ftttziizhuplfj.com
 ftuisdlnbp.com
@@ -8007,6 +8016,7 @@ secure.ifbyphone.com
 ifddigital.com
 ifdmdfqysaacqa.com
 ifecuwzjajkiq.com
+iffzxqnhd.com
 ifgnsrtjcz.com
 iflndvke.com
 ifmobkrjonnm.com
@@ -8539,6 +8549,7 @@ jabcdkwmwnek.com
 analytics.jabong.com
 jackettrain.com
 sp.jacksonsun.com
+jacmnkcusf.com
 jacquarter.com
 jadcenter.com
 jadizayo.com
@@ -8585,6 +8596,7 @@ jcmdvfrn.com
 jcnoeyqsdfrc.com
 jcomusic.com
 sp.jconline.com
+jcrqhscfqqbgby.com
 jcsisvtb.com
 jdbovkzjtuup.com
 jdcwnccdx.com
@@ -9338,6 +9350,7 @@ kxujlopfsmttyc.com
 kxwkbkfespyh.com
 kxzmmtdx.com
 kyad88.com
+kycsebgx.com
 kyelvsyayysa.com
 kygozmlrr.com
 kyhkyreweusn.com
@@ -9770,6 +9783,7 @@ loxtk.com
 lp3tdqle.com
 lpbeta.com
 lpbhbwpbpnl.com
+lpbuaqfgwkzrep.com
 lpiqwtsuduhh.com
 lplqyocxmify.com
 lpohfjht.com
@@ -11130,6 +11144,7 @@ nngfrvcf.com
 nnhuvmftitju.com
 nnigsvoorscmgnyobwuhrgnbcgtiicyflrtpwxsekldubasizg.com
 nnjiluslnwli.com
+nnoxqfmbdv.com
 nnroeulsnslk.com
 nntvphjayapz.com
 nnulezwhvbrzwu.com
@@ -11325,6 +11340,7 @@ o333o.com
 o4uxrk33.com
 oaadkiypttok.com
 oadz.com
+oaibzaqh.com
 oainternetservices.com
 oalicqudnfhf.com
 oamhzvwle.com
@@ -12660,7 +12676,9 @@ pykexoeeibq.com
 pyksf.com
 pymx5.com
 pypozeqi.com
+pyqwtxicjodcij.com
 pyraming.com
+pyubjvvdsrja.com
 pzaasocba.com
 pzcpotzdkfyn.com
 pzfittkdqrrsa.com
@@ -12987,6 +13005,7 @@ log.quora.com
 qupiinlyjuf.com
 quqyiobevrc.com
 qveuxmbhbhmg.com
+qvgjqhfnbdeur.com
 qvilmdus.com
 qvivzreleolawc.com
 qvrfxlskqr.com
@@ -13228,6 +13247,7 @@ regisg.com
 regpole.com
 regqrfuvncqcm.com
 regurgical.com
+reiqwxxd.com
 reiseeget.com
 rejbqhagczm.com
 rekl1.com
@@ -15586,6 +15606,7 @@ tvammzkprvuv.com
 tvesvlvse.com
 tvevyrrrnbcbyk.com
 tvhyilwkn.com
+tvjkilgfanpt.com
 tvlubtrxcold.com
 ping.tvmaze.com
 stats.tvmaze.com
@@ -16044,6 +16065,7 @@ utraff.com
 utrehter.com
 utubeconverter.com
 utuqrzwg.com
+utvxgpmcnaq.com
 utxatnjs.com
 utyrqbgrmoxs.com
 utyynepwwnl.com
@@ -16578,6 +16600,7 @@ vsesumki.com
 vsgherxdcfon.com
 vshsjxfjehju.com
 vsicchyqydlwb.com
+vsmqqjwwnoshrj.com
 vsrpztnxdejo.com
 vsrsviytlb.com
 vsstaewjpqcymx.com
@@ -17769,6 +17792,7 @@ ykdmtvowoinv.com
 p-log.ykimg.com
 ykixjehac.com
 yklotwpbrybfl.com
+ykombouoo.com
 ykqpbuqpfjsh.com
 yktkodofnikf.com
 ykuoujjvngtu.com
@@ -17933,6 +17957,7 @@ yupwqyocvvnw.com
 yuywwcizs.com
 yvbrgzeu.com
 yvfsfoctkls.com
+yvisvreih.com
 yvlhxqxw.com
 yvlmcehqt.com
 yvlrhnzid.com
@@ -18041,6 +18066,7 @@ zccebnzdujjw.com
 zcchnqgq.com
 zcczlrtbbx.com
 zcczvunkmmcg.com
+zcfbwlgydxo.com
 zcinaovb.com
 zcjxeitlmnuq.com
 zcl-js.com
@@ -18145,6 +18171,7 @@ zjgygpdfudfu.com
 zjhnmbfqylme.com
 zjk24.com
 zjkdrqtjowihn.com
+zjncvhnkh.com
 zjnmgmidmx.com
 zjo0tjqpm1.com
 zjsbdjkdtjzoxh.com
@@ -18236,6 +18263,7 @@ zprlpkabqlth.com
 zprrfpczfpnh.com
 zpsgqvvzcbni.com
 zptncsir.com
+zpwtylxpfeje.com
 zpxbdukjmcft.com
 zpxlmtujszhixe.com
 zpznbracwdai.com
@@ -32271,6 +32299,7 @@ afreeca-tag.ad-mapps.com
 app.adjust.com
 admitad.com
 adywind.com
+appmetr.com
 brahe.apptimize.com
 atdmt.com
 west.bidtellect.com
@@ -32301,5 +32330,6 @@ aftonbladetnya.sc.omtrdc.net
 carfax.sc.omtrdc.net
 dsg.sc.omtrdc.net
 online-metrix.net
+pixapi.net
 zdbb.net
 adj.st
