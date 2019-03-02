@@ -2702,6 +2702,7 @@ applovin.com
 a.applvn.com
 d.applvn.com
 rt.applvn.com
+appmetr.com
 appnext.com
 appodeal.com
 appodealx.com
@@ -5493,6 +5494,7 @@ dxtveuux.com
 dxurtngzawwe.com
 dxyafwkhrnycjp.com
 dxzgoyzo.com
+dxzkrtpnwpp.com
 dyazeqpeoykf.com
 dydxtkvmktumjp.com
 dyerbegytfkj.com
@@ -5653,6 +5655,7 @@ edwywpsufuda.com
 edxvyyywsxqh.com
 edyjiqxeppjkj.com
 ee6a35c1eeee.com
+eeamatyc.com
 eebcbdca7331314.com
 eebrojmn.com
 eecd179r3b.com
@@ -5872,6 +5875,7 @@ epsiulpa.com
 eptord.com
 eptum.com
 eptwulil.com
+epxokmckjkj.com
 epzxtposabej.com
 eqads.com
 eqdlypxvit.com
@@ -6945,6 +6949,7 @@ ggzvlwrf.com
 ghaszdguvrtnb.com
 ghjlhnbc.com
 ghjwogfexch.com
+ghkajgexob.com
 cmp-cdn.ghostery.com
 ghtroafchzrt.com
 ghxadv.com
@@ -7338,6 +7343,7 @@ gygdmy.com
 gyhujxbptum.com
 gyinmxpztbgf.com
 gynax.com
+gynzvwhup.com
 gyojplgn.com
 gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
 gyycgkchjtimu.com
@@ -8145,6 +8151,7 @@ imanginatium.com
 imanisfan.com
 imazicusez.com
 imbbjywwahev.com
+imbpmlyhkk.com
 imediaaudiences.com
 imediarevenue.com
 imevdywafhro.com
@@ -8378,6 +8385,7 @@ ipfrom.com
 ipinfodb.com
 ipllxfcftp.com
 iplocationtools.com
+ipluhckk.com
 ipncblpgxlhjpc.com
 ipntpfokhkrh.com
 wat.ipowerapps.com
@@ -8971,6 +8979,7 @@ xtag.kbb.com
 kbdstwnruc.com
 kbgyxsoskilli.com
 kbjddmnkallz.com
+kbkvptlxijafb.com
 kbnhoiax.com
 kbqebfcubeiaa.com
 kbrnfzgglehh.com
@@ -9697,6 +9706,7 @@ llrblpesvjc.com
 llrmbabwjlzutw.com
 llvidwpt.com
 llwemrshzovw.com
+lmccawemcuqma.com
 lmcoiiwpguaorp.com
 lmejuamdbtwc.com
 lmheosvft.com
@@ -9823,6 +9833,7 @@ lstkfdmmxbmv.com
 ltaporjivped.com
 geo.ltassrv.com
 xmlconfig.ltassrv.com
+ltbnvsfzevox.com
 ltedbswmryh.com
 ltfroezjyyhv.com
 ltnfhltuksarpq.com
@@ -11254,6 +11265,7 @@ ntoyqqrwrmzr.com
 logger.ntracecloud.com
 ad.ntvmsnbc.com
 ntwhbuqmel.com
+nuaycqtaluwha.com
 nuayfpthqlkq.com
 nubtjnopbjup.com
 nuconomy.com
@@ -12318,6 +12330,7 @@ sp.postcrescent.com
 posternel.com
 postitial.com
 postrelease.com
+postrsyk.com
 analytics.posttv.com
 potcityzip.com
 potmbbqbaqxwp.com
@@ -12957,6 +12970,7 @@ qsstats.com
 qtahsbgdqbu.com
 qtavukgrtgk.com
 qtbvatpkwxq.com
+qtgarolvaigptk.com
 qth7n6akcr.com
 qtjafpcpmcri.com
 qtjxalkllc.com
@@ -13230,6 +13244,7 @@ pings.reembed.com
 telemetry.reembed.com
 reeviveglobal.com
 stats.ref2000.com
+refatxhcuu.com
 refban.com
 refbanners.com
 referback.com
@@ -16101,6 +16116,7 @@ uwrzafoopcyr.com
 uwsxz.com
 uxbewzrfyp.com
 uxibiysrllgnn.com
+uxkkltrrxlowzo.com
 uxlkeovekhbs.com
 uxnssjly.com
 uxrvjeyyj.com
@@ -17225,6 +17241,7 @@ wyuxy.com
 wywrettqmke.com
 wywy.com
 wywyuserservice.com
+wyycgfyum.com
 wyyrjymqewhulr.com
 wzadmmddcmml.com
 wzafekkdp.com
@@ -17425,6 +17442,7 @@ xlldzsgt.com
 xlmis.com
 xlnuj.com
 xlnwabndmqn.com
+xlqkpyimdep.com
 xlspkqpnnqj.com
 ads.xlxtra.com
 xmas-xmas-wow.com
@@ -17948,6 +17966,7 @@ yuarth.com
 yuazwfzvdzfc.com
 yucce.com
 yudexjr.com
+yuehosgcoq.com
 yuhuads.com
 yuituityula.com
 yukwxqnxwzghxb.com
@@ -21725,6 +21744,7 @@ fastclick.net
 clarium.global.ssl.fastly.net
 tapdaq-adverts.global.ssl.fastly.net
 fastnewsis.net
+feadrope.net
 feedcat.net
 maik.ff-bt.net
 fielerac.net
@@ -22210,6 +22230,7 @@ pipsol.net
 piratepc.net
 analytic.piri.net
 analyticapi.piri.net
+pixapi.net
 pixfuture.net
 platinumcode.net
 plexop.net
@@ -32293,7 +32314,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1140
+# Ignored duplicates: 1142
 
 # Ignored entries due to the whitelist: 16
 
@@ -32304,7 +32325,6 @@ afreeca-tag.ad-mapps.com
 app.adjust.com
 admitad.com
 adywind.com
-appmetr.com
 brahe.apptimize.com
 atdmt.com
 west.bidtellect.com
@@ -32335,6 +32355,5 @@ aftonbladetnya.sc.omtrdc.net
 carfax.sc.omtrdc.net
 dsg.sc.omtrdc.net
 online-metrix.net
-pixapi.net
 zdbb.net
 adj.st
