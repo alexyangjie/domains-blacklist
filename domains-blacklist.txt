@@ -28732,6 +28732,7 @@ bd1.flfgw.cn
 adv-sv-show.focus.cn
 bdu.focus.cn
 founseezb.cn
+frjxdv.cn
 fxtducb.cn
 fytza.cn
 gadhx.cn
@@ -28923,6 +28924,7 @@ puzwb.cn
 dm.pw0.cn
 pxyvb.cn
 df666.pzhttaax.cn
+pzvlnh.cn
 qaqact.cn
 qclcdn.cn
 qflwh.cn
@@ -32315,7 +32317,7 @@ gotourl.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1142
+# Ignored duplicates: 1141
 
 # Ignored entries due to the whitelist: 16
 
