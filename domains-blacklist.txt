@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 490
+# Ignored duplicates: 491
 
 # Ignored entries due to the whitelist: 37
 
@@ -1033,6 +1033,7 @@ log1.24liveplus.com
 2dpt.com
 2el-2el-fie.com
 2f5a1f1fab21a56.com
+2go7v1nes8.com
 2gok8g15p2.com
 2hanwriten.com
 2iiyrxk0.com
@@ -19597,6 +19598,7 @@ burnsoftware.info
 byktana.info
 cadlereducter.info
 camleyads.info
+carbian.info
 cashtrafic.info
 casterist.info
 catchvid.info
@@ -21885,6 +21887,7 @@ hermes-studio.net
 hilltopads.net
 ad-ettoday.cdn.hinet.net
 adv-ettoday.cdn.hinet.net
+osm-onead.cdn.hinet.net
 hit-counters.net
 hitmaze-counters.net
 holdingprice.net
@@ -23653,6 +23656,7 @@ amazy.ru
 amhixwqagiz.ru
 amigo-biz.ru
 counter.amik.ru
+andrectesit.ru
 anevod.ru
 animeyes.ru
 aniruyt.ru
@@ -24554,6 +24558,7 @@ oznibal.ru
 wstat.ozon.ru
 oztumte.ru
 pabhaco.ru
+paleseyi.ru
 pandre10.ru
 parabit.ru
 paradocs.ru
@@ -25612,6 +25617,7 @@ xzwdo.top
 y2rmo576.top
 yim3eyv5.top
 yjuqi.top
+ys3e965d.top
 ywadk.top
 ywhnh.top
 zhuyuanp.top
