@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 491
+# Ignored duplicates: 489
 
 # Ignored entries due to the whitelist: 37
 
@@ -2866,6 +2866,7 @@ atombid.com
 analytics.atomiconline.com
 atoshonetwork.com
 atraxio.com
+atrcoikdyagv.com
 atresadvertising.com
 atrinsic.com
 atryzvsn.com
@@ -9262,6 +9263,7 @@ krpdqnnb.com
 krs1v2sl.com
 krsdoqvsmgld.com
 krtdobasy.com
+krtpkaha.com
 krxexwfnghfu.com
 krxpudrzyvko.com
 krynjumnqlix.com
@@ -17556,6 +17558,7 @@ xrpcbukuwdvkc.com
 xrqkzdbnybod.com
 xseczkcysdvc.com
 xsgacudwlysw.com
+xsgcobwd.com
 xskbsyssik.com
 xswnrjbzmdof.com
 xswsrpeeyh.com
@@ -22112,6 +22115,7 @@ meetrics.net
 megabestnews.net
 megastat.net
 analytics.meituan.net
+mellodur.net
 reklam.memurlar.net
 mengheng.net
 metaprofit.net
@@ -23567,6 +23571,7 @@ adpos.ru
 adpremium.ru
 adreaction.ru
 adregain.ru
+adrek4.ru
 ad.adriver.ru
 content.adriver.ru
 adrock.ru
@@ -23684,6 +23689,7 @@ s.avforums.ru
 mamka.aviasales.ru
 metrics.aviasales.ru
 avpris.ru
+awreert.ru
 aymcsx.ru
 azsin.ru
 azvozac.ru
@@ -24692,6 +24698,7 @@ redsurf.ru
 refer.ru
 wm.rehdd.ru
 rekhatov.ru
+rekl2.ru
 reklama8.ru
 reklamaizer.ru
 reklamoman.ru
