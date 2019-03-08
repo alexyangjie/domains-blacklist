@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 489
+# Ignored duplicates: 488
 
 # Ignored entries due to the whitelist: 37
 
@@ -3614,6 +3614,7 @@ bptracking.com
 bpudfbrc.com
 bpyxg.com
 bqchqjmbkt.com
+bqcoenkrlqk.com
 bqgvtryyrhjmf.com
 bqptlqmtroto.com
 bqqjowpigdnx.com
@@ -4173,6 +4174,7 @@ chzashakbgds.com
 ci3ixee8.com
 cibleclick.com
 cifipkbu.com
+cifwsaufnalvh.com
 cihnrhqwbcsq.com
 cijwskfvye.com
 cijzoindd.com
@@ -4597,7 +4599,6 @@ coyhvotxgrnq.com
 cozclrlpsk.com
 cozjfzlng.com
 cpabeyond.com
-cpaclickoffers.com
 cpaclicks.com
 cpaclickz.com
 cpactions.com
@@ -5361,7 +5362,6 @@ downloadgot.com
 report.downloastar.com
 downloatransfer.com
 downsonglyrics.com
-doyan-99.com
 ping.dozuki.com
 dpallyihgtgu.com
 dpbviawkrumynm.com
@@ -6012,7 +6012,6 @@ eventoptimize.com
 tracker.everestnutrition.com
 evergage.com
 eversely.com
-everyday-carry.com
 show.everytell.com
 evfatcuv.com
 evfwfkwufbjtd.com
@@ -8105,7 +8104,6 @@ ikiif.com
 iklan-laris.com
 iklan-sukses.com
 iklanads.com
-iklanbarisgratispasang.com
 iklanbarismu.com
 iklanbisnispro.com
 iklanblogger.com
@@ -8417,6 +8415,7 @@ ipvvitntvja.com
 ipxdoldjsvnjvw.com
 ipzjwnbhgymuw.com
 iqfp1.com
+t7z.cupid.iqiyi.com
 iqmjedevvojm.com
 tracker.iqnomy.com
 iqopeoufjul.com
@@ -8598,7 +8597,6 @@ jauftivogtho.com
 javaiklan.com
 javblow.com
 jaxmbkhyr.com
-jayapokr.com
 jaymedianetwork.com
 jbbgczjipjvb.com
 jbcadlpdfsxsfe.com
@@ -9121,8 +9119,6 @@ kitabanget.com
 kitnmedia.com
 kitopr.com
 sp.kitsapsun.com
-kiuhoki.com
-kiumaster.com
 ad.kixer.com
 kjaay.com
 kjbfpptjlhxh.com
@@ -9209,6 +9205,7 @@ koddi.com
 tracking.koego.com
 kofeereb.com
 kofpag.com
+koindut.com
 koiper.com
 kokilopi.com
 online.koko-ko.com
@@ -11336,6 +11333,7 @@ nwmum.com
 nwrgqhjtullyjs.com
 metric.nwsource.com
 nwwuhiukrq.com
+nwxwaxhfg.com
 nwzexkxx.com
 nxcount.com
 nxcxithvcoeh.com
@@ -11906,7 +11904,6 @@ parumal.com
 parwrite.com
 pas-rahav.com
 pasangiklan.com
-pasangiklangratisbaris.com
 pasariklanbaris.com
 pass-1234.com
 passionfruitads.com
@@ -14659,6 +14656,7 @@ stormyachiever.com
 stormyshock.com
 stormysponge.com
 storystack.com
+stovoudu.com
 str1kee.com
 straightnest.com
 straightschool.com
@@ -14988,7 +14986,6 @@ teipgupp.com
 tek-tek-trek.com
 tektbzadrceqje.com
 tel-tel-fie.com
-download.televisionfanatic.com
 teliad.com
 telize.com
 tellapart.com
@@ -15284,6 +15281,7 @@ tnpbbdrvwwip.com
 pa.tns-ua.com
 tntqrmqfst.com
 tnvghrlg.com
+tnwjldvivhgr.com
 tnznswilqtni.com
 to330.com
 toalhjpw.com
@@ -19723,7 +19721,6 @@ flurryconakrychamfer.info
 fmebili.info
 focre.info
 focusego.info
-fonderreaders.info
 fonderredd.info
 fphnwvkp.info
 fridrici.info
@@ -19757,7 +19754,6 @@ googlerank.info
 govbusi.info
 governobylgot.info
 gramovi.info
-greatwork.info
 grey-eyes.info
 grobido.info
 gsasd.info
@@ -19814,7 +19810,6 @@ irboga.info
 itdehod.info
 itdise.info
 itsibdi.info
-itudewa.info
 ixtuseq.info
 izbarin.info
 izmyatin.info
@@ -20833,9 +20828,7 @@ freestats.me
 gear5.me
 infotor.me
 istanaimpian2.me
-jokermerah.me
 api.kiip.me
-king4d.me
 eg.light2gr0w.me
 loopme.me
 lqw.me
@@ -21085,6 +21078,7 @@ admedias.net
 admedit.net
 admission.net
 admixer.net
+adnamo.net
 adnegah.net
 adnet-media.net
 adnited.net
@@ -21909,7 +21903,6 @@ ibpxl.net
 comet.ibsrv.net
 idt.id-news.net
 i-stats.ieurop.net
-iklanbarisgratispasang.net
 iklaninter.net
 iklantop.net
 im-apps.net
@@ -21976,6 +21969,7 @@ keymetric.net
 kilonefast.net
 kingads.net
 ad.kinogo-kinopoisk.net
+kistutch.net
 kitbit.net
 kitcode.net
 kiwihk.net
@@ -21983,7 +21977,6 @@ klikabadi.net
 klikmoney.net
 km-sea.net
 knowledgevine.net
-kodealam2.net
 komplads.net
 kontagent.net
 korenizsemi.net
@@ -22271,7 +22264,6 @@ parabolla.net
 partners.parimatch.net
 parkingcrew.net
 partnerearn.net
-pasangiklangratisbaris.net
 pasangnomor2.net
 paxmedia.net
 pdbu.net
@@ -22379,6 +22371,7 @@ reinvigorate.net
 reklambanner.net
 renewnewss.net
 reporo.net
+rereegny.net
 respecific.net
 tracking.retailrocket.net
 retraffic.net
@@ -22880,7 +22873,6 @@ goldoffer.online
 hallaert.online
 afbanner.kinobomber3.online
 markboil.online
-mobalert.online
 moneromining.online
 murkymouse.online
 obliv.online
@@ -22950,7 +22942,6 @@ devaxi.org
 devkiforyou.org
 dignow.org
 directlnk.org
-divisix.org
 do-not-tracker.org
 doomail.org
 analytics.ecosia.org
@@ -22990,7 +22981,6 @@ hsdn.org
 httpsecurity.org
 hypeads.org
 igrid.org
-iklan-indo.org
 indirads.org
 indirdirek.org
 inethoster.org
@@ -23070,7 +23060,6 @@ putanki.org
 pwnz.org
 track.qcri.org
 raja12shio.org
-rajanusantara.org
 rbnt.org
 analytics.rechtslupe.org
 referer.org
@@ -23097,7 +23086,6 @@ vse.srazu.org
 staticmedia.org
 summerlove4u.org
 superlady.org
-surya4d.org
 swadvertising.org
 sxtut.org
 bn.take-profit.org
@@ -23394,6 +23382,7 @@ infomir.pw
 interestingz.pw
 interfax.pw
 kbllskkwvp.pw
+magrie.pw
 marketnews.pw
 mighbest.pw
 minero.pw
@@ -25266,7 +25255,6 @@ duck.wings-dark.services
 blogtraffic.sg
 srx.com.sg
 infox.sg
-epu.sh
 nativepu.sh
 party-vqgdyvoycc.now.sh
 propu.sh
@@ -25469,7 +25457,6 @@ freestats.tk
 hhb123.tk
 hydesolo.tk
 javacript.tk
-jayabola.tk
 leon08.tk
 letsgoshopping.tk
 lyrisor.tk
@@ -25624,7 +25611,6 @@ xzwdo.top
 y2rmo576.top
 yim3eyv5.top
 yjuqi.top
-ys3e965d.top
 ywadk.top
 ywhnh.top
 zhuyuanp.top
@@ -26145,6 +26131,7 @@ lamiflor.xyz
 ldnxy.xyz
 lolxm.xyz
 lpmde.xyz
+magdove.xyz
 manchina.xyz
 maschina.xyz
 mataharirama.xyz
@@ -32409,7 +32396,7 @@ yajiuwz.xyz
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/11.txt ##########
 
-# Ignored duplicates: 1141
+# Ignored duplicates: 1142
 
 # Ignored entries due to the whitelist: 16
 
@@ -32427,7 +32414,6 @@ googleadservices.com
 imasdk.googleapis.com
 csi.gstatic.com
 newad.ifeng.com
-t7z.cupid.iqiyi.com
 decide.mixpanel.com
 mobimagic.com
 api-a.op-mobile.opera.com
