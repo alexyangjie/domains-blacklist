@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 488
+# Ignored duplicates: 489
 
 # Ignored entries due to the whitelist: 37
 
@@ -2155,7 +2155,7 @@ advertlane.com
 advertlets.com
 advertmarketing.com
 advertmedias.com
-click.advertnative.com
+advertnative.com
 advertnetworks.com
 advertoly.com
 advertrev.com
@@ -4348,6 +4348,7 @@ cloudiiv.com
 cloudtracer101.com
 clouxtnxsmxdva.com
 clsvugmivpf.com
+clsyxddpbt.com
 clubcollector.com
 phxwwaznm.clupsvdblzcgnjj.com
 clustrmaps.com
@@ -4802,6 +4803,7 @@ customerdiscoverytrack.com
 t.custora.com
 track.custora.com
 cutecushion.com
+cvarxvlbnphcjq.com
 cvdow.com
 cvdvexais.com
 cvffhevoebnz.com
@@ -7302,6 +7304,7 @@ guitaralliance.com
 guitarbelieve.com
 geoip.gulflive.com
 mms.gulflive.com
+gumdeqjzclc.com
 gumgum.com
 ad.gunosy.com
 adapi.gunosy.com
@@ -7337,6 +7340,7 @@ gxeoadmo.com
 gxfzlnwlizmur.com
 gxgnvickedxpuiavkgpisnlsphrcyyvkgtordatszlrspkgppe.com
 gxgtmttcaofiq.com
+gxklbrtpqqyvy.com
 gxkwwbqzsg.com
 gxleeixyzlaaab.com
 gxordgtvjr.com
@@ -8526,6 +8530,7 @@ ixlsylapsdtr.com
 ixnp.com
 ixnsmcpdauof.com
 ixsgoqeklwsjw.com
+ixskusmnsb.com
 ixsogpaexhgzn.com
 ixsxgaegvplo.com
 ixtkiofaoudis.com
@@ -8888,6 +8893,7 @@ jumptap.com
 jumptime.com
 junbi-tracker.com
 track.juno.com
+juqakqgv.com
 juqmlmoclnhe.com
 jursp.com
 juruiklan.com
@@ -9704,6 +9710,7 @@ lkksbzcslmeefw.com
 lkktkgcpqzwd.com
 lknxarjfidm.com
 lkohqfilvpked.com
+lkojwhiwcsum.com
 lkp7jo3s.com
 lkrcapch.com
 lkzvhtetshbu.com
@@ -9929,6 +9936,7 @@ lxnimmyikuekn.com
 lxpgdkskkt.com
 lxqcgj.com
 lxtrack.com
+lxwtezlcp.com
 lxyadcffdpaytd.com
 lxymfyptdrast.com
 lxzwknybfvycxr.com
@@ -10113,6 +10121,7 @@ mbfvfdkawpoi.com
 mbgvhfotcqsj.com
 mbixofultnnd.com
 mbmjqinvsil.com
+mbmwfufkaxll.com
 mbotvisit.com
 mbrxgolis.com
 mbtalhkebpbpwb.com
@@ -10925,6 +10934,7 @@ ncbqi.com
 ncdxfwxijazn.com
 ncitwacpa.com
 ncjjybttngffe.com
+ncoibhdzttozh.com
 ncouqiwjjaot.com
 ncqlobobtqc.com
 ncrjsserver.com
@@ -11391,6 +11401,7 @@ oaxwtgfhsxod.com
 oazojnwqtsaj.com
 oazznjmbchmpdg.com
 obczphph.com
+obeeifroxtivh.com
 obeisantcloddishprocrustes.com
 obesw.com
 obeus.com
@@ -11727,6 +11738,7 @@ otewxlcmkih.com
 othersonline.com
 otinekocin.com
 otm-r.com
+otnolabttmup.com
 otoshiana.com
 otpckmnnfm.com
 otpyldlrygga.com
@@ -12690,6 +12702,7 @@ pvptwhhkfmog.com
 pvranking.com
 pvtcntdlcdsb.com
 pvuqahjiburadw.com
+pwaqmmquztyne.com
 pwdmtyzyq.com
 pweaatek.com
 pwgwqtgpx.com
@@ -12779,6 +12792,7 @@ qbsrhrhnybwox.com
 qbttelbrupkss.com
 qbwjddqa.com
 qcaejiouuvgk.com
+qceixjlqe.com
 qcexplnqbrral.com
 qcjphhqwl.com
 qclnagolz.com
@@ -13179,6 +13193,7 @@ rbrxg.com
 rbrxrcikro.com
 rbsfglbipyfs.com
 rbtpsbtzh.com
+rbtqofrkiixz.com
 rbuowrinsjsx.com
 rbvfibdsouqz.com
 rbyjirwjbibz.com
@@ -15778,6 +15793,7 @@ uchmuk.com
 uciservice.com
 uckxjsiy.com
 uclylhzwg.com
+ucozssymgw.com
 ucptqdmerltn.com
 ucvrtwfh.com
 adn.insight.ucweb.com
@@ -16178,6 +16194,7 @@ uzbboiydfzog.com
 uzbciwrwzzhs.com
 uzekrs.com
 uzesptwcwwmt.com
+uzlleehrsmibli.com
 uzmanreklam.com
 uzmmpskwon.com
 uzmsexugrqz.com
@@ -17615,6 +17632,7 @@ xwmbaxufcdxb.com
 xwrmlohlri.com
 xwufohrjmvjy.com
 xwvksizcphhc.com
+xwvofxgqilhy.com
 xwwkuacmqblu.com
 xwwsojvluzsb.com
 xwwvcsquuhbd.com
@@ -21781,7 +21799,6 @@ everestjs.net
 everesttech.net
 evewrite.net
 eviltracker.net
-evyy.net
 excluzive.net
 explater.net
 extfiles.net
@@ -30216,6 +30233,7 @@ ganjituiguang.ganji.com
 gg.gao7.com
 gaoguai.com
 gaoxiaocup.com
+gasxf.com
 gaykes.com
 gbeik.com
 gbieg.com
