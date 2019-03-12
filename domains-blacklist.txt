@@ -26280,7 +26280,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 14545
+# Ignored duplicates: 14623
 
 bittrex.academy
 miner.ad
@@ -27657,6 +27657,7 @@ moonify.io
 nidscom.io
 p2pool.io
 pandapool.io
+phoneum.io
 rainpool.io
 uax.io
 ubiqpool.io
@@ -27972,6 +27973,7 @@ luckpool.org
 maxhash.org
 minertopia.org
 minexmr.org
+miningocean.org
 mixpools.org
 monero.org
 multimining.org
@@ -28022,6 +28024,7 @@ poolmining.org
 posthash.org
 thepiratebay.org
 usa.tompool.org
+uberminer.org
 weipool.org
 wpconnect.org
 wpserve.org
