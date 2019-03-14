@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 489
+# Ignored duplicates: 492
 
 # Ignored entries due to the whitelist: 37
 
@@ -1581,6 +1581,7 @@ acuityplatform.com
 acvxsptoqh.com
 traffic.acwebconnecting.com
 acwswfbyhtsf.com
+acwyoynw.com
 acxiom-online.com
 acxiomapac.com
 acxujxzdluum.com
@@ -2097,7 +2098,7 @@ adtoox.com
 adtpix.com
 adtraction.com
 adtrgt.com
-d.adtriba.com
+adtriba.com
 adtrieval.com
 adtrix.com
 adtrovert.com
@@ -2760,6 +2761,7 @@ aqlvpnfxrkyf.com
 aqocbcnfxkuw.com
 aqodwthjaq.com
 aqornnfwxmua.com
+aqotbmnzra.com
 aqrglffxw.com
 aqryyhyzjveh.com
 aqtracker.com
@@ -7771,6 +7773,7 @@ hqqyesittgihp.com
 hqsgnzvjkyog.com
 hqsjc.com
 hqsxomhxwhpq.com
+hqtlbsglscrju.com
 hqtrxzcjjjj.com
 hqtvvfqmfykcrs.com
 hquijlndtd.com
@@ -9965,6 +9968,7 @@ lycodz.com
 beacon.lycos.com
 lycosu.com
 lydiz.com
+lyghoxyxohkrdk.com
 lygshgj.com
 lyifwfhdizcc.com
 lyjcpycaufud.com
@@ -11656,6 +11660,7 @@ oodode.com
 ooecgdeq.com
 ooecyaauiz.com
 oofophdrkjoh.com
+oofpjjtc.com
 oofte.com
 ookdapjylpvq.com
 ads.ookla.com
@@ -13100,6 +13105,7 @@ qunnvfhdgfm.com
 log.quora.com
 qupiinlyjuf.com
 quqyiobevrc.com
+qurhdjkms.com
 qveuxmbhbhmg.com
 qvgjqhfnbdeur.com
 qvilmdus.com
@@ -15821,6 +15827,7 @@ ububilecif.com
 ubudigital.com
 ubusbjjd.com
 ubvscbxtal.com
+ubvyjgbdiq.com
 ubxtoqsqusyx.com
 ucaluco.com
 uccgdtmmxota.com
@@ -17396,6 +17403,7 @@ xboamxtcnfcwyf.com
 click.engage.xbox.com
 xbynkkqi.com
 xbyvexekkrnt.com
+xbzakxofyhdy.com
 xbzbeffqls.com
 xbzmworkoyrx.com
 xbzwwsagli.com
@@ -17620,6 +17628,7 @@ xrnmuqmpcsx.com
 xroonucyaoqljf.com
 xrpcbukuwdvkc.com
 xrqkzdbnybod.com
+xruuohzpxmmw.com
 xseczkcysdvc.com
 xsgacudwlysw.com
 xsgcobwd.com
@@ -20272,10 +20281,12 @@ adexchange.io
 app.adjust.io
 adless.io
 adlive.io
+admetric.io
 admp.io
 adnami.io
 adplus.io
 adtr.io
+adverti.io
 aidata.io
 airbrake.io
 akstat.io
@@ -22365,7 +22376,7 @@ popadscdn.net
 popcash.net
 popclck.net
 popmode.net
-xml.popmonetizer.net
+popmonetizer.net
 poprev.net
 poprevenue.net
 popularmedia.net
@@ -22448,7 +22459,7 @@ retraffic.net
 revdn.net
 revenuewire.net
 revfusion.net
-xml.revrtb.net
+revrtb.net
 revsci.net
 revsw.net
 analytics.reyrey.net
@@ -24410,6 +24421,7 @@ madnet.ru
 madyna.ru
 magicintim.ru
 magna.ru
+mahaphanin.ru
 1l-hit.mail.ru
 ad.mail.ru
 stepan-fe.go.mail.ru
