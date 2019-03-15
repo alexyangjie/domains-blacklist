@@ -177,7 +177,7 @@ pv.ltn.com.tw
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 492
+# Ignored duplicates: 491
 
 # Ignored entries due to the whitelist: 37
 
@@ -2814,6 +2814,7 @@ arwlvjqzxxnftz.com
 seo.arxua.com
 aryufuxbmwnb.com
 as-farm.com
+as07d698u9.com
 as5000.com
 asadzntx.com
 asafesite.com
@@ -4040,6 +4041,7 @@ cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
 cdveeechegws.com
 cdyiipzo.com
 cdyygbzihdh.com
+cdzifdzftkmfof.com
 ce62e0d222bc5aca.com
 ce69817852420b7fea.com
 ce9c00f41ae8cdd.com
@@ -4973,6 +4975,7 @@ datumreact.com
 datvantage.com
 keyword.daumdn.com
 davarello.com
+davthnojr.com
 daxnfpzmnfdr.com
 daxzupqivdoj.com
 daylife-analytics.com
@@ -10049,6 +10052,7 @@ majosita.com
 makemyvids.com
 jizvehd.makeuseof.com
 makhhvgdkhwn.com
+makumuvgxfogq.com
 malictuiar.com
 mallsponsor.com
 mamydirect.com
@@ -10958,6 +10962,7 @@ ncbqi.com
 ncdxfwxijazn.com
 ncitwacpa.com
 ncjjybttngffe.com
+nclfwbnmcrci.com
 ncoibhdzttozh.com
 ncouqiwjjaot.com
 ncqlobobtqc.com
@@ -11548,6 +11553,7 @@ oinqqbzs.com
 oiokewfkjnvq.com
 oipsyfnmrwir.com
 oiramtfxzqfc.com
+oiumoqzo.com
 oix.com
 oixafvoxnmceol.com
 oixisqtlbhygp.com
@@ -11887,6 +11893,7 @@ p-td.com
 p071qmn.com
 p2ads.com
 p2poolmining.com
+p2r14.com
 p5genexs.com
 p7hwvdb4p.com
 pa-oa.com
@@ -12120,6 +12127,7 @@ pharmcash.com
 phastoag.com
 pheedo.com
 pheergar.com
+phenver.com
 phhigelii.com
 philbardre.com
 philosophere.com
@@ -12265,6 +12273,7 @@ plenomedia.com
 plexop.com
 plgalhmhkhzy.com
 plgdhrvzsvxp.com
+insights.plista.com
 pllblrapagrvn.com
 pllddc.com
 pllregftgbgmdi.com
@@ -13697,6 +13706,7 @@ rs-stripe.com
 rsbblrpnjxgsk.com
 rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com
 rscqizsukecevh.com
+rsguboxyb.com
 rsiyppewvonkc.com
 rsjpgfugttlh.com
 rsnuhrxz.com
@@ -16149,7 +16159,6 @@ userlook.com
 useronlinecounter.com
 userreport.com
 users-api.com
-userzoom.com
 usfmwydo.com
 ushqvpdtwoecis.com
 usoqghurirvz.com
@@ -16211,6 +16220,7 @@ uvzfodimtska.com
 uwfvuohbac.com
 uwidtpjwh.com
 uwjczdkytwyhzh.com
+uwkwhedvie.com
 uwnklfxurped.com
 uwpmwpjlxblb.com
 uwqrwgxxkaoydo.com
@@ -17324,6 +17334,7 @@ wwnlyzbedeum.com
 wwv4ez0n.com
 www-path.com
 wwwadcntr.com
+wwwmurgd.com
 wwwpromoter.com
 wwyblltamlcr.com
 wwzchzpluwuon.com
@@ -17593,6 +17604,7 @@ xoalt.com
 xojwkixxdkx.com
 xoliter.com
 ep.xone.com
+xoqkhbtpnzblh.com
 xoqwirroygxv.com
 xoredi.com
 xovq5nemr.com
@@ -19210,6 +19222,7 @@ zieltracker.de
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
 monu.delivery
 neads.delivery
+experianmarketingservices.digital
 adservicemedia.dk
 andersenit.dk
 chart.dk
@@ -19988,6 +20001,7 @@ mystighty.info
 mytraf.info
 nadwork.info
 naenticle.info
+nalizerostants.info
 natsety.info
 negomes.info
 nekopod.info
@@ -22669,6 +22683,7 @@ trackedlink.net
 trackedweb.net
 trackingoffer.net
 trackmyweb.net
+trackonomics.net
 trackpromotion.net
 trackstarsengland.net
 tracktrk.net
@@ -23265,6 +23280,7 @@ p.gazeta.pl
 gemius.pl
 gostats.pl
 analytics.greensender.pl
+pixel.homebook.pl
 hudb.pl
 fab.interia.pl
 hit.interia.pl
