@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 417
+# Ignored duplicates: 418
 
 # Ignored entries due to the whitelist: 156
 
@@ -425,6 +425,7 @@ tmpopenclose.click
 vicegnem.click
 wct.click
 wildotds1.click
+matomo.cloud
 nighter.club
 registry.cw.cm
 fluidsurveys-com.fs.cm
@@ -479,6 +480,7 @@ lockview.cn
 lwnne.cn
 maizhenai.cn
 mastertraffic.cn
+olc0.cn
 p0y.cn
 patriot.cs.pp.cn
 prazpf.cn
@@ -512,6 +514,7 @@ h5.wannaplay.cn
 wxktv.cn
 sa.xalongli.cn
 m78.xhydrs.cn
+xk0x.cn
 yeshoutuan.cn
 yunpifu.cn
 yxtwx.cn
@@ -4840,6 +4843,7 @@ dcmhpbpdcsy.com
 dcmn.com
 dcneohtx.com
 dcplayf.com
+dcqhbqwlcukxu.com
 dcyeufoq.com
 dcznhkojghrl.com
 ddaac98f67e384d8a9.com
@@ -5256,6 +5260,7 @@ dsultra.com
 dswwghrlwwcm.com
 dsyxresmht.com
 dtc-v6t.com
+dtgwjxeymdlri.com
 dthmzwzsgjibw.com
 dti-ranker.com
 dtjhwypfsayh.com
@@ -5687,6 +5692,7 @@ counter.entertainmentwise.com
 enticelabs.com
 entimee.com
 sa.entireweb.com
+entlydazhcmlgx.com
 entrecard.com
 play.entretenimientolz.com
 enynwkvdb.com
@@ -7718,6 +7724,7 @@ hvfolkwvgjgc.com
 hvfzacisynoq.com
 hvfzshrpfueb.com
 hvgytlbdnuqunp.com
+hvitcycze.com
 hvmimwpe.com
 hvpcxythnjl.com
 hvukouhckryjudrawwylpboxdsonxhacpodmxvbonqipalsprb.com
@@ -7880,6 +7887,7 @@ ie8eamus.com
 ieajwbir.com
 ieavcqhxtpak.com
 iectshrhpgsl.com
+iedijlgkbqc.com
 ieeawxjool.com
 iendoo.com
 ieoexdjxrwtq.com
@@ -8339,6 +8347,7 @@ itevcsjvtcmb.com
 iteye.com
 itgfqliqge.com
 sp.ithacajournal.com
+ithoahie.com
 itlmnxlauah.com
 stat.itp-nyc.com
 itracker360.com
@@ -8664,6 +8673,7 @@ joheeptaicat.com
 johonmtpyv.com
 counter.joins.com
 jojilabola.com
+jokoshep.com
 jolic2.com
 jomznuefrw.com
 tracker.joost.com
@@ -8712,6 +8722,7 @@ jqueryserve.com
 jqueryserver.com
 jqvlsavxawfr.com
 jqzzqsm.com
+jractwjn.com
 jrarnqfvjijaa.com
 jrcpoxuskv.com
 jrlsithadutpm.com
@@ -10802,6 +10813,7 @@ nbvbblmksiahf.com
 nbxfvfeanq.com
 nbylhvbswplcj.com
 nbzionsmbgrt.com
+sanalytics.ncaa.com
 ncbqi.com
 ncdxfwxijazn.com
 ncitwacpa.com
@@ -11871,6 +11883,7 @@ peakclick.com
 pearno.com
 pebadu.com
 pecaning.com
+peehotim.com
 peelawaymaker.com
 peemee.com
 peer39.com
@@ -12585,6 +12598,7 @@ pvpqgjkgvszq.com
 pvptwhhkfmog.com
 pvranking.com
 pvtcntdlcdsb.com
+pvumxwnriy.com
 pvuqahjiburadw.com
 pwaqmmquztyne.com
 pwdmtyzyq.com
@@ -13680,6 +13694,7 @@ rzjhxwfbxp.com
 rzmrzylebgq.com
 rztrkr.com
 rzuwelgm.com
+rzviy.com
 rzwzstbiqk.com
 s-manager.com
 s-onetag.com
@@ -15619,6 +15634,7 @@ txwdabikzvw.com
 txwnwvhkbtzb.com
 txwzdalmamma.com
 txyxoktogdcy.com
+txyylwegpdfsda.com
 tyavjmvuvygs.com
 tyccaweownne.com
 tylzbdkjsjig.com
@@ -16167,6 +16183,7 @@ vbanalytics.com
 vbdrzplqtgk.com
 vbehjwhcbhtg.com
 vbguaqweaif.com
+vbiudrdieouauc.com
 vbjpddtj.com
 vbjvbjertwov.com
 vblunqrovanf.com
@@ -20540,6 +20557,7 @@ ad.nicovideo.jp
 ads.nicovideo.jp
 ad.dic.nicovideo.jp
 uad-api.nicovideo.jp
+log.nordot.jp
 ogt.jp
 servedby.openxmarket.jp
 ad.oret.jp
@@ -20550,7 +20568,7 @@ recommender.jp
 rentracks.jp
 ad.response.jp
 rssad.jp
-match.seesaa.jp
+seesaa.jp
 m.shanbara.jp
 adf.shinobi.jp
 adm.shinobi.jp
@@ -22430,6 +22448,7 @@ stats4u.net
 statsadvance-01.net
 statsy.net
 cdn.steambets.net
+steptaik.net
 sticoats.net
 stilanzeigen.net
 stopphoulplay.net
