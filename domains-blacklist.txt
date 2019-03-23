@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 418
+# Ignored duplicates: 419
 
 # Ignored entries due to the whitelist: 156
 
@@ -5528,6 +5528,7 @@ eepuawuevovi.com
 eeqabqioietkquydwxfgvtvpxpzkuilfcpzkplhcckoghwgacb.com
 eeqlxzpqqaii.com
 eerdckbwujcx.com
+eernnfbfby.com
 eexnoxqcmrja.com
 ef47038bbe7b894d7.com
 ef5ahgoo.com
@@ -5885,6 +5886,7 @@ evtfjieqjhvf.com
 ewbejjirdygik.com
 ewebanalytics.com
 ewebcounter.com
+ewgnexykqnyoun.com
 ewgtanybkkch.com
 ewlnukukkca.com
 ewopxadcn.com
@@ -6534,6 +6536,7 @@ futureus.com
 futuristicfairies.com
 fuurqgbfhvqx.com
 fuwgbbkktwbu.com
+fuymatqqiyz.com
 fuzzyflavor.com
 fvbaffiliate.com
 fvbeyduylvgy.com
@@ -6787,6 +6790,7 @@ gettopup.com
 gettraff.com
 gezinti.com
 gf108.com
+gfamqlcmymxbeu.com
 gfbnr.com
 gfchcxin.com
 llsp.gfd80.com
@@ -8838,6 +8842,7 @@ jzekquhmaxrk.com
 jzfzgkepkjcf.com
 jzgtnetghdc.com
 jzjhcpdf.com
+jzkznpleaqshdj.com
 jzllgntkazui.com
 jzlzdnvvktcf.com
 jzqce.com
@@ -9134,6 +9139,7 @@ kprkrbatuob.com
 kpsdnlprwclz.com
 kpzvcvclybfa.com
 kqcflzvunhew.com
+kqflgvrwqpzwue.com
 kqgfcumsbtyy.com
 kqlvuutpgdnude.com
 kqmjmrzjhmdn.com
@@ -9421,6 +9427,7 @@ lepubs.com
 lerester.com
 les-experts.com
 lesmyjzc.com
+lessonis.com
 letadnew.com
 letilyadothejob.com
 letitsoft.com
@@ -9696,6 +9703,7 @@ stats.lotlinx.com
 lotteryaffiliates.com
 loudloss.com
 love-banner.com
+lovnxkrszlsb.com
 lovvznyhujf.com
 loxmetwdjrmh.com
 loxtk.com
@@ -10634,6 +10642,7 @@ mvqinxgp.com
 mvrmyxkw.com
 mvtracker.com
 mvumhltl.com
+mvunstblutptj.com
 mvvecbfomk.com
 mvxhbajzn.com
 mvyctyji.com
@@ -12820,6 +12829,7 @@ qkyzjwhyeh.com
 qlatsfeyg.com
 qlitics.com
 qljczwei.com
+qlmgmgvmiepsb.com
 qlqscuseoyrdv.com
 qlqvzzcaxto.com
 qlugrmjsncbe.com
@@ -14913,6 +14923,7 @@ tedpasit.com
 tedverspar.com
 teefpagayhb.com
 teen-porn-portal.com
+teensexgfs.com
 analytics.teespring.com
 tehkvecryl.com
 teipgupp.com
@@ -17484,6 +17495,7 @@ tin.xpornoset.com
 xpostx.com
 xprurfeoarxz.com
 xptvk.com
+xpywzbxjwbxafv.com
 xqhgisklvxrh.com
 xqiqnxxy.com
 xqjhszpussoeur.com
@@ -20041,9 +20053,11 @@ sumano.info
 superstat.info
 svyksa.info
 swallsix.info
+sweeterge.info
 talysu.info
 targeterra.info
 tercabilis.info
+thdragate.info
 thebflix.info
 theequalground.info
 theiphaeraer.info
@@ -21621,6 +21635,7 @@ cya1t.net
 cya2.net
 d-agency.net
 d-markets.net
+dalseeds.net
 danitabedtick.net
 dapper.net
 dashboardad.net
@@ -21798,6 +21813,7 @@ ggxt.net
 top.gigmir.net
 givirsou.net
 glamurka.net
+gleersoo.net
 global-success-club.net
 globaladmedia.net
 globaladv.net
@@ -22599,6 +22615,7 @@ urlcash.net
 x0r.urlgalleries.net
 usa-media.net
 userreplay.net
+vaivafie.net
 valueaffiliate.net
 valueclick.net
 valuecontent.net
@@ -22634,6 +22651,7 @@ vizisense.net
 vkmessage01.net
 vmblock.net
 vmweb.net
+voaroawo.net
 voastauz.net
 voipnewswire.net
 vpath.net
