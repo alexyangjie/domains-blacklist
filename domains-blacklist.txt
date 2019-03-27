@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 419
+# Ignored duplicates: 420
 
 # Ignored entries due to the whitelist: 156
 
@@ -4565,6 +4565,7 @@ crvtrk.com
 crvvrxfgsvohiy.com
 crxhbchbd.com
 ben.crxmouse.com
+crykaxliilz.com
 crypto-coins.com
 crypto-coins-now.com
 crypto-loot.com
@@ -5585,6 +5586,7 @@ eiwrwjc.com
 ejdkqclkzq.com
 ejevika.com
 ejfuh.com
+ejgdixiddmruql.com
 ejgxyfzciwyi.com
 ejjgrmutgrdwxg.com
 ejjrckrhigez.com
@@ -6822,6 +6824,7 @@ ggscparljuz.com
 ggtujtuyvcci.com
 gguvdsglzjyca.com
 ggwbgnmahqyclg.com
+ggxvxrmrjitg.com
 ggyrnhdbqxufh.com
 ggzuksudqktn.com
 ggzvlwrf.com
@@ -6990,6 +6993,7 @@ gomakemerich.com
 gomakemerich1.com
 gomakemerich2.com
 goneviral.com
+gonuuudpdcu.com
 goo2anywhere.com
 logging.goodgamestudios.com
 tracking.goodgamestudios.com
@@ -8298,6 +8302,7 @@ ipsowrite.com
 ipstat.com
 iptrkboffhf.com
 ipvvitntvja.com
+ipwwqitqsh.com
 ipxdoldjsvnjvw.com
 ipzjwnbhgymuw.com
 iqfp1.com
@@ -12466,6 +12471,7 @@ psmlgjalddqu.com
 psrbrytujuxv.com
 pstats.com
 psughooy.com
+psurdoak.com
 psvdblzcgnjj.com
 t.pswec.com
 trk.pswec.com
@@ -13680,6 +13686,7 @@ rwalomjwgyljqj.com
 rwcdoeigzraeu.com
 rwdkcusan.com
 rweqvydtzyre.com
+rwkxvess.com
 rwlzbswwmmh.com
 rwpads.com
 rwphwhdoktfq.com
@@ -15638,6 +15645,7 @@ twdksbsyipqa.com
 twdsaqqrzbowom.com
 tweard.com
 twfcqnqggx.com
+twfilnym.com
 twfzouvm.com
 twiago.com
 twinpinenetwork.com
@@ -17596,6 +17604,7 @@ xvxcpdcnfgte.com
 xwagalbvfkb.com
 xwavfvpzg.com
 xwavjdqttkum.com
+xwcqrzkle.com
 xwesxrxyopqyc.com
 xwhfvjlqfy.com
 xwmbaxufcdxb.com
@@ -18015,6 +18024,7 @@ yvlmcehqt.com
 yvlrhnzid.com
 yvmosixxo.com
 yvoria.com
+yvsymvjzk.com
 yvsystem.com
 yvvafcqddpmd.com
 yvzgazds6d.com
@@ -20138,6 +20148,7 @@ utilistom.info
 uytestion.info
 varielcontentdelivery.info
 vatname.info
+vernehepet.info
 vetermsu.info
 video1404.info
 vinterrals.info
@@ -20277,7 +20288,7 @@ honeybadger.io
 hubvisor.io
 geoinfo.i2w.io
 tracking.i2w.io
-jsc.idealmedia.io
+idealmedia.io
 instana.io
 iol.io
 ironbeast.io
@@ -21863,12 +21874,14 @@ grainsox.net
 graphli.net
 graucoay.net
 grmtech.net
+groogloo.net
 gscontxt.net
 gsimedia.net
 gsmtop.net
 gtags.net
 beacon.gu-web.net
 guanoo.net
+guckawoh.net
 guruquicks.net
 beacon.gutefrage.net
 happyunicorns.gutefrage.net
