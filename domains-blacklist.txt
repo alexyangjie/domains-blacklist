@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 420
+# Ignored duplicates: 417
 
 # Ignored entries due to the whitelist: 156
 
@@ -1912,7 +1912,9 @@ adsurve.com
 adsvcs.com
 adsvert.com
 adsvids.com
-adswizz.com
+deliveryengine.adswizz.com
+pixelg.adswizz.com
+tunein.adswizz.com
 adswm.com
 adsxgm.com
 adsxyz.com
