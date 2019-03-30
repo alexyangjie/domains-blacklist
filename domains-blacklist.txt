@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 417
+# Ignored duplicates: 418
 
 # Ignored entries due to the whitelist: 156
 
@@ -529,6 +529,7 @@ adku.co
 adnz.co
 adright.co
 adro.co
+advise.co
 affiliategateways.co
 afriflatry.co
 afrigale.co
@@ -6793,6 +6794,7 @@ getgscfree.com
 banners.getiton.com
 getmyfreetraffic.com
 getmygeo.com
+getoptad360.com
 getpopunder.com
 getrockerbox.com
 getscorecash.com
@@ -12587,6 +12589,7 @@ pushdusk.com
 pusheify.com
 pusherism.com
 pushfeeds.com
+pushgaga.com
 pushimer.com
 pushlommy.com
 pushmenews.com
