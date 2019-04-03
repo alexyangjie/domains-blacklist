@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 418
+# Ignored duplicates: 419
 
 # Ignored entries due to the whitelist: 156
 
@@ -8968,6 +8968,7 @@ kensyii.com
 keqi7dh3df.com
 keqnebfovnhl.com
 kerebro.com
+kerumal.com
 kesllcmdcsbd.com
 ketads.com
 ketoo.com
@@ -20983,6 +20984,7 @@ ulosmuynstes.ml
 veerebbs.ml
 wafum.ml
 webstatistic.ml
+wpfc.ml
 1mp.mobi
 9ads.mobi
 adeko.mobi
@@ -22355,6 +22357,7 @@ poolmining.net
 popads.net
 popadscdn.net
 popcash.net
+popcent.net
 popclck.net
 popmode.net
 popmonetizer.net
@@ -25742,6 +25745,7 @@ log-player.arte.tv
 bitfalcon.tv
 bitx.tv
 ping.buto.tv
+video.cars247.tv
 l.coincident.tv
 dawin.tv
 hit.dogannet.tv
