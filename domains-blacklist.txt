@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 419
+# Ignored duplicates: 420
 
 # Ignored entries due to the whitelist: 156
 
@@ -18937,6 +18937,7 @@ levelads.de
 liferd.de
 ligatus.de
 lilaelefant.de
+tracking.linda.de
 link-empfehlen24.de
 linkads.de
 linkedads.de
