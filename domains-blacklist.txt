@@ -981,6 +981,7 @@ download.350.com
 4141d006e4f4dd17ab9.com
 41ef19c0f0794e058c.com
 4256b23b681.com
+42632zfylf.com
 42a5d530ec972d8994.com
 42eed1a0d9c129.com
 43137c93a82b0e81da.com
@@ -1064,6 +1065,7 @@ img.56gmz.com
 5gl1x9qc.com
 5iclx7wa4q.com
 5licosy.com
+5nt1gx7o57.com
 5qg9ibt1a6.com
 serve.5visions.com
 5yfi7sy.com
@@ -2725,6 +2727,7 @@ audienceprofiler.com
 audiencerate.com
 audiencesquare.com
 audiens.com
+analytics.audioeye.com
 auditude.com
 audrte.com
 audsp.com
@@ -3977,6 +3980,7 @@ cheezburger-analytics.com
 barium.cheezdev.com
 chengyuplaza.com
 cherrythread.com
+chersoat.com
 cherytso.com
 chickenkiller.com
 chickensaladandads.com
@@ -4511,6 +4515,7 @@ cqjnxsbuplcqri.com
 cqlupb.com
 cqoyvpldkmqt.com
 cquotient.com
+cqwqxapujf.com
 cqyfjodshwuici.com
 cqzqdoqsgxyf.com
 cr-nielsen.com
@@ -5349,6 +5354,7 @@ dvzyppnmfgtr.com
 dwabissw.com
 dwbqmlvjpvv.com
 dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
+dwhvkier.com
 dwin1.com
 dwin2.com
 dwopbruzifg.com
@@ -6151,6 +6157,7 @@ ff52e77ba517.com
 ff5bd8d9f8df.com
 ff76khyn6c.com
 ffanszicnoqs.com
+ffaspwzfq.com
 ffcqkvdaklrqkg.com
 ffdkffnj.com
 fffzquckf.com
@@ -6252,6 +6259,7 @@ fkvjntfj.com
 fkwwhndzjlqrm.com
 fl-ads.com
 flagcounter.com
+flaghit.com
 flakyfeast.com
 flare-analytics.com
 flash-counter.com
@@ -7188,6 +7196,7 @@ gubdadtxwqow.com
 gubisowidb.com
 gudangbanner.com
 gudlhvxz.com
+guhpyglt.com
 guhtjoqtobac.com
 guitaralliance.com
 guitarbelieve.com
@@ -9272,6 +9281,7 @@ kuqlhzmdek.com
 kuqonhmcwaiot.com
 kurkizraka.com
 kurlikburlik.com
+kurlipush.com
 kurtgcwrdakv.com
 kuad.kusogi.com
 kutlvuitevgw.com
@@ -10973,6 +10983,7 @@ neudesicmediagroup.com
 new-new-years.com
 new17write.com
 sp.newarkadvocate.com
+newaugads.com
 newcustomads.com
 pf.newegg.com
 newgentraffic.com
@@ -11374,6 +11385,7 @@ obvbubmzdvom.com
 obwvmzdb.com
 obxwnnheaixf.com
 oceanwebcraft.com
+oceuwezutqfcbx.com
 ocfsmefzzarkmo.com
 ochze.com
 ocipbbphfszy.com
@@ -11833,6 +11845,7 @@ analytics.paddle.com
 padsdelivery.com
 padstm.com
 paecbeeavmopbl.com
+paegcsvchsdlbj.com
 pagaynrbee.com
 pagefair.com
 pagerankfree.com
@@ -15770,6 +15783,7 @@ u39chju32a.com
 u4ghzfb.com
 u5c93.com
 u5e.com
+u8vysb7s2v.com
 u9oxdnxk8b.com
 ua-baner.com
 uaadi.com
@@ -16113,6 +16127,7 @@ uscvlpjeaggyq.com
 usdlgonjnzpu.com
 useads.com
 api.usebutton.com
+useinsider.com
 useitbetter.com
 usekahuna.com
 uselayer.com
@@ -16322,6 +16337,7 @@ vcwdjbbughuy.com
 vcwrigdrnh.com
 vcxoizuwy.com
 vcxqcjov.com
+vcyxvhxysl.com
 vczprcezg.com
 vdbasihbxwea.com
 vdbhe7ti.com
@@ -17453,6 +17469,7 @@ xfwwhapm.com
 xfwwyoxut.com
 xfxjdoot.com
 xgaethsnmbzi.com
+xghfi97mk6.com
 xghretunapafes.com
 xgmlmmulciz.com
 xgpijbqair.com
@@ -17987,7 +18004,6 @@ yoqvnnkdmqfk.com
 yoredi.com
 yorilada.com
 sp.yorkdispatch.com
-yospace.com
 p.yotpo.com
 yottacash.com
 yottos.com
@@ -18053,10 +18069,12 @@ yrsfs.com
 yrtyflmurngv.com
 yruwnpnam.com
 yrxhmallcirx.com
+ysaloykchjyxg.com
 ysdxcrighudjmw.com
 ysgjivctf.com
 yshsoycsac.com
 ysljgoytuyfbg.com
+ysmbdnavqsbcl.com
 ysosfhyrbyre.com
 ysowy.com
 ysqdjkermxyt.com
@@ -20352,6 +20370,7 @@ bab.frb.io
 freestar.io
 stats-dc1.frz.io
 getbeacon.io
+event.getblue.io
 gez.io
 giraff.io
 pixel.glimr.io
@@ -20380,6 +20399,7 @@ links.io
 livesession.io
 cdns.lodeo.io
 logmatic.io
+logrocket.io
 lp4.io
 tracking.lqm.io
 lytics.io
