@@ -1078,6 +1078,7 @@ serve.5visions.com
 620c663bca9a4.com
 625c9289e60793.com
 62b70ac32d4614b.com
+630e51faf9a53693.com
 640f94e47dc41c.com
 641198810fae7.com
 641c79559b7c7c8.com
@@ -8620,6 +8621,7 @@ jhrmgusalkdu.com
 jhrwekjrowegm.com
 jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 jhwj88.com
+jhwkypuhrw.com
 jhxpbihkucrq.com
 jhybwydghelnd.com
 js.jianbaimei.com
@@ -11738,6 +11740,7 @@ amplifypixel.outbrain.com
 eventlog.outbrain.com
 hpr.outbrain.com
 log.outbrain.com
+log-ird.outbrain.com
 odb.outbrain.com
 rva.outbrain.com
 tr.outbrain.com
@@ -19697,6 +19700,7 @@ besstahete.info
 bhzejltg.info
 bitrix.info
 bizx.info
+bludoistores.info
 bobi-bobi.info
 bobi-mobi.info
 booklandonline.info
@@ -20138,6 +20142,7 @@ retainguaninefluorite.info
 tracker.revip.info
 robotext.info
 rovarti.info
+rpeonetedronsitren.info
 rtbads.info
 russian-cuties.info
 ruunews.info
@@ -20209,6 +20214,7 @@ titranco.info
 tizerka.info
 tonsterandhantan.info
 tonstiparro.info
+tontwiredat.info
 topacity.info
 tower-colocation.info
 trackbar.info
@@ -20228,6 +20234,7 @@ tsygari.info
 appshelf.ttpsdk.info
 houseads.ttpsdk.info
 tupho.info
+tuscrity.info
 tusolyut.info
 u-ad.info
 ubertracking.info
@@ -23492,6 +23499,7 @@ a4to4.pw
 adblockerkillswebsites.pw
 adcamel.pw
 aenan.pw
+aepetor.pw
 anybest.pw
 arana.pw
 us.b3018.pw
@@ -26366,6 +26374,7 @@ valkrana.xyz
 veracdn.xyz
 verata.xyz
 videoplayer2.xyz
+virsalor.xyz
 virtl.xyz
 whatsapp-chat.xyz
 winvideo.xyz
