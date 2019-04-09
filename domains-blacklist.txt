@@ -2,9 +2,9 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 448
+# Ignored duplicates: 424
 
-# Ignored entries due to the whitelist: 132
+# Ignored entries due to the whitelist: 156
 
 js.cdn.ac
 dxracers.accountant
@@ -26410,7 +26410,7 @@ adz.co.zw
 
 # Ignored duplicates: 16088
 
-# Ignored entries due to the whitelist: 5
+# Ignored entries due to the whitelist: 3
 
 bittrex.academy
 miner.ad
