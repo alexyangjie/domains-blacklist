@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 424
+# Ignored duplicates: 426
 
 # Ignored entries due to the whitelist: 156
 
@@ -1334,6 +1334,7 @@ a9d7c19f0282.com
 aabmxezph.com
 aacgeuvaoqbw.com
 aadbobwqgmzi.com
+aaddcount.com
 aaddzz.com
 aadserving.com
 aagmbroxruno.com
@@ -2400,6 +2401,7 @@ amplitude.com
 ampxchange.com
 amqcdbles.com
 amqtbshegbqg.com
+amrfscxvdvfvpa.com
 amwupsihqfewgr.com
 amxdt.com
 amzbr.com
@@ -2624,6 +2626,7 @@ argyresthia.com
 arianelab.com
 ariseboundary.com
 ariyayin.com
+arjgnqlsdo.com
 arkayne.com
 arkhamxojvr.com
 ad.arklm.com
@@ -3001,6 +3004,7 @@ sp.battlecreekenquirer.com
 tracking.battleon.com
 bauernative.com
 bauffnmtou.com
+bavftcgoapga.com
 bawdybeast.com
 sp.baxterbulletin.com
 bayctrk.com
@@ -5303,6 +5307,7 @@ dtqcjtkytuqn.com
 dtrwlquawlp.com
 t.dtscdn.com
 dtscout.com
+dtuhvgjyrp.com
 dtxngr.com
 dtzads.com
 noxagile.duapp.com
@@ -5888,6 +5893,7 @@ tracking.ws.eurosport.com
 eutdrjvsrmav.com
 eutklhuazxlt.com
 euuikdao.com
+euwyhbib.com
 euxisszoyader.com
 evaff.com
 evanetpro.com
@@ -5917,6 +5923,7 @@ evovasalup.com
 evsembu.com
 evszxlad.com
 evtfjieqjhvf.com
+evvpibrfqzjn.com
 ewbejjirdygik.com
 ewebanalytics.com
 ewebcounter.com
@@ -6234,6 +6241,7 @@ fisari.com
 fishhoo.com
 fitanalytics.com
 fiuazbmlycese.com
+fiv2yl8dct.com
 fivecdm.com
 fivzzu1vyo.com
 fixcounter.com
@@ -6904,6 +6912,7 @@ giyupoeynkfx.com
 gjbgesaromnb.com
 gjeyqtunbnap.com
 5568.gjghy.com
+gjijrevdp.com
 gjikkwtrstaku.com
 gjliurjvfnkymq.com
 gjmlseezqjy.com
@@ -7464,6 +7473,7 @@ hgfsdzfs.com
 hghit.com
 hghm4u7b61.com
 hgjywrorlbn.com
+hgowmgat.com
 hgub2polye.com
 hgzopbyhidre.com
 hgztvnjbsrki.com
@@ -7592,6 +7602,7 @@ hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
 hnivikwwypcv.com
 hnixr.com
 hnkbivnten.com
+hnnp4ixxkl.com
 hnntopkvrsivwc.com
 hnoajsaivjsg.com
 hnopgrab.com
@@ -7941,6 +7952,7 @@ idpukwmp.com
 idqzpnea.com
 idrdmyixk.com
 idreammedia.com
+idszrbmjvkdodt.com
 idtargeting.com
 idvuakamkzmx.com
 idwrx.com
@@ -8353,6 +8365,7 @@ ipvvitntvja.com
 ipwwqitqsh.com
 ipxdoldjsvnjvw.com
 ipzjwnbhgymuw.com
+iqagrsach.com
 iqfp1.com
 t7z.cupid.iqiyi.com
 iqmjedevvojm.com
@@ -8718,6 +8731,7 @@ jmzaqwcmcbui.com
 jnchbwtzbrrf.com
 jncjzdohkgic.com
 jndclagxkvpn.com
+jndnkgjqlxr.com
 jnercechoqjb.com
 jngnaymz.com
 jngxxwythaf.com
@@ -9053,6 +9067,7 @@ khvfg.com
 khzbeucrltin.com
 log.kibboko.com
 kieden.com
+kiejztfpkfayak.com
 kihhgldtpuho.com
 kiinvgntnnw.com
 kiixmhyrlawz.com
@@ -9822,6 +9837,7 @@ lshwezesshks.com
 lskzcjgerhzn.com
 lsmxicydlj.com
 lsslotuojpud.com
+lstkchbeoey.com
 lstkfdmmxbmv.com
 ltaporjivped.com
 geo.ltassrv.com
@@ -11330,6 +11346,7 @@ nxcount.com
 nxcxithvcoeh.com
 nxewruvxprbd.com
 nxjlnchylgsw.com
+nxnjpslufglmvp.com
 nxrxt.com
 nxtck.com
 nyacampwk.com
@@ -11704,6 +11721,7 @@ org-dot-com.com
 orgvevacxlinrr.com
 ormeadobess.com
 ormnduxoewtl.com
+ornament-i.com
 orsimqadmhpb.com
 orszajhynaqr.com
 ortonch.com
@@ -13100,6 +13118,7 @@ qvivzreleolawc.com
 qvrfxlskqr.com
 qvsbroqoaggw.com
 qvsogqqd.com
+qvsshkcr.com
 qwbnzilogwdc.com
 qweewmtey.com
 qwertize.com
@@ -13973,6 +13992,7 @@ sdmfzlswxgzl.com
 sdqoi2d.com
 sdqspuyipbof.com
 mts.sdtieta.com
+sdtqotoe.com
 sea-nov-1.com
 seafox26.com
 search2000s.com
@@ -14318,6 +14338,7 @@ slopeaota.com
 slurolen.com
 slwclrwmruuxav.com
 sm534z1jpx.com
+smac-ssp.com
 smaclick.com
 smadex.com
 smallseotools.com
@@ -15004,6 +15025,7 @@ tchqwqspwjeei.com
 tcimg.com
 tckofxwcaqts.com
 tclarcrzfbceoo.com
+tcovxxenhjke.com
 sp.tcpalm.com
 track.tcppu.com
 tcrinrvfejjh.com
@@ -15673,6 +15695,7 @@ ttdrlihuqgklvc.com
 ttdtuwbxgyveg.com
 tteasr.com
 ttegjzxzxyetf.com
+ttgvmqdpomt.com
 ttgwyqmuhfhx.com
 tthvomis.com
 tthxqtogskzp.com
@@ -16024,6 +16047,7 @@ undergiveto54.com
 undertone.com
 undousun.com
 undoxiraqm.com
+unequalbrake.com
 unfdjwel.com
 unffpgtoorpz.com
 unhardward.com
@@ -16604,6 +16628,7 @@ vivcdctagoij.com
 vivetivcuggz.com
 vivistats.com
 vivocha.com
+viwsqbbvfknp.com
 vixnixxer.com
 vixqjiypv.com
 vizsvhgfkcli.com
@@ -16611,6 +16636,7 @@ vizu.com
 vizury.com
 vjcbm.com
 vjcewkcjqu.com
+vjgyxegvfrhthq.com
 vjoytzia.com
 vjrpdagpjwyt.com
 vjyzfgwkzp.com
@@ -18020,8 +18046,10 @@ ynhonjqahrh.com
 ynkakgknfljv.com
 ynlrfiwj.com
 ynlvwynnsstalh.com
+ynoiezey.com
 ynopkisq.com
 ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
+yntwcepykkts.com
 ynuyzeqtswtd.com
 ynwia.com
 ynxrrzgfkuih.com
@@ -18457,6 +18485,7 @@ zprlpkabqlth.com
 zprrfpczfpnh.com
 zpsgqvvzcbni.com
 zptncsir.com
+zpwqnicvzi.com
 zpwtylxpfeje.com
 zpxbdukjmcft.com
 zpxlmtujszhixe.com
@@ -20146,6 +20175,7 @@ prequire.info
 presidery.info
 print3.info
 provalist.info
+psonstrentie.info
 pzoifaum.info
 quaves.info
 qued9yae1ai.info
@@ -23392,6 +23422,7 @@ adstock.pro
 adszx.pro
 adtags.pro
 altpool.pro
+aphookkensidah.pro
 approp.pro
 aution.pro
 axzsd.pro
