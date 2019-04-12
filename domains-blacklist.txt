@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 426
+# Ignored duplicates: 427
 
 # Ignored entries due to the whitelist: 155
 
@@ -357,6 +357,7 @@ c2.xsu.cc
 yuebofa.cc
 appn.center
 mmc.center
+newdomain.center
 adzjzewsma.cf
 cfasync.cf
 coinpirate.cf
@@ -1066,7 +1067,7 @@ img.56gmz.com
 5licosy.com
 5nt1gx7o57.com
 5qg9ibt1a6.com
-serve.5visions.com
+5visions.com
 5yfi7sy.com
 600z.com
 602d76e204c032.com
@@ -3217,6 +3218,7 @@ bigmobileads.com
 bigpulpit.com
 bigtracker.com
 bihzqdflxeelc.com
+biijdpauyvf.com
 bijfzvbtwhvf.com
 bijscode.com
 bikepasture.com
@@ -4152,6 +4154,7 @@ stats.clickforknowledge.com
 clickfuse.com
 clickinc.com
 clickintext.com
+clickiocdn.com
 clickkydsp.com
 clickmanage.com
 clickmerkez.com
@@ -6409,6 +6412,7 @@ fortpush.com
 fortuka.com
 fortvision.com
 forumiklan.com
+fosclhrsdhhn.com
 ads.fotoable.com
 fotrento.com
 foundayu.com
@@ -9179,6 +9183,7 @@ kmuxsbdjxsjqe.com
 kmveerigfvyy.com
 kmvupiadkzdn.com
 kmylvwo5.com
+knepsiwviviwed.com
 knewy.com
 knimmqli.com
 knkxnwscphdk.com
@@ -9468,6 +9473,7 @@ ldigvkkjquvyn.com
 ldkyzudgbksh.com
 sp.ldnews.com
 ldt1duixoe.com
+ldvmpopwd.com
 ldyiuvdoahxz.com
 lead-123.com
 lead-converter.com
@@ -11092,6 +11098,7 @@ ngads.com
 ngaln.com
 ngastatic.com
 ngecity.com
+ngfsciiu.com
 ngkqlfcm.com
 nglmedia.com
 ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com
@@ -15943,6 +15950,7 @@ ufmnicckqyru.com
 ufnozeotbqsn.com
 ufnzapqvrbyx.com
 ufpcdn.com
+ufptmejous.com
 ufqfnecblo.com
 ufraton.com
 ufrzvzpympib.com
@@ -17697,6 +17705,7 @@ xpywzbxjwbxafv.com
 xqhgisklvxrh.com
 xqiqnxxy.com
 xqjhszpussoeur.com
+xqkqkfszveqvm.com
 xqkzsifxgv.com
 xqopbyfjdqfs.com
 xqrjfouxkrs.com
@@ -18278,6 +18287,7 @@ zapunited.com
 zapvzwydgiwz.com
 zarazazapolaza.com
 zarget.com
+zarlomgog.com
 zatexta.com
 zatrlsov.com
 zavfvuooiqvepj.com
@@ -18318,6 +18328,7 @@ zdjkzqwpqvwcmc.com
 zdolhnqbtnbcx.com
 zdqsrdamdgmn.com
 zdtag.com
+zdydvjzexmp.com
 zeads.com
 zebestof.com
 zedo.com
@@ -20019,6 +20030,7 @@ l3op.info
 ladnova.info
 lalagop.info
 langtzet.info
+lapatiya.info
 lazynerd.info
 leadadvert.info
 lecnet.info
@@ -20049,6 +20061,7 @@ mattempte.info
 md-ia.info
 mediaunder.info
 medlero.info
+mega-bc.info
 megabc.info
 meinooriut3.info
 menemier.info
@@ -20089,6 +20102,7 @@ muzotur.info
 my-stats.info
 myemailbox.info
 mypictures-onlinegood.info
+mypictures-onlinemaxpark.info
 mystighty.info
 mytraf.info
 nadwork.info
@@ -21393,6 +21407,10 @@ apicit.net
 emediate.apmmedia.net
 tracker2.apollo-mail.net
 appclick.net
+adsaccount.appcpi.net
+adtrack.appcpi.net
+gameanalisys.appcpi.net
+remain.appcpi.net
 appier.net
 applicationgrabb.net
 apserver.net
@@ -21653,7 +21671,6 @@ d2nn3xyicdpsrf.cloudfront.net
 d2nrdy2pg3k168.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2nzjxafm0iowq.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pc0q32fod0ha.cloudfront.net
@@ -23506,6 +23523,7 @@ ledsitling.pro
 legistrike.pro
 litthecho.pro
 marial.pro
+mytrack.pro
 myvpn.pro
 nastoverewess.pro
 nessubsets.pro
@@ -23618,6 +23636,7 @@ kbllskkwvp.pw
 keaven.pw
 kelris.pw
 liacyne.pw
+logger.pw
 magrie.pw
 marketnews.pw
 miakalyn.pw
@@ -24133,6 +24152,7 @@ dgulden.ru
 daast.digitalbox.ru
 digitaltarget.ru
 dinthorop.ru
+dintronferow.ru
 dintsupnejec.ru
 directadvert.ru
 directcrm.ru
@@ -25415,6 +25435,7 @@ xarisma.ru
 xdgeph.ru
 xlounge.ru
 xmemory.ru
+xoor.ru
 xts-pay.ru
 xuculit.ru
 viokan.xvhod.ru
@@ -26374,6 +26395,7 @@ frfgn.xyz
 fsdwd.xyz
 fsfrz.xyz
 ogbwqq.gkwtk.xyz
+goldawm.xyz
 gomtdatacom.xyz
 hdat.xyz
 tcoxndk.hfgjdcbrv.xyz
