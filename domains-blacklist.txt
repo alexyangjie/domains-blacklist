@@ -26496,7 +26496,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 16088
+# Ignored duplicates: 16134
 
 # Ignored entries due to the whitelist: 3
 
@@ -27193,6 +27193,10 @@ bitbackoffice.com
 bitcoin.com
 bitcoinwallet.com
 bitconnectxpool.com
+assets.bitdeer.com
+oss.bitdeer.com
+pay.bitdeer.com
+www.bitdeer.com
 ndc.bitember.com
 bitgrail.com
 bithumb.com
@@ -27936,6 +27940,7 @@ bitcoin.inc.hk
 pocketgolf.host
 stratum.sye.host
 systemlog.host
+miner.hosting
 mmfb2.ht
 dmdamedia.hu
 tutikutyu.hu
@@ -27960,6 +27965,7 @@ a46.bulehero.in
 a88.bulehero.in
 pool.bulehero.in
 moonbit.co.in
+p2pool.co.in
 coinsecure.in
 cuev.in
 freebitco.in
@@ -28153,6 +28159,7 @@ jmqapf3nflatei35.onion.link
 poloniex.link
 binance.live
 coinone.live
+hostcontent.live
 minepool.live
 poloniex.live
 webchain.live
@@ -28416,6 +28423,7 @@ proxyindia.net
 punchsub.net
 shitcoinmining.net
 shscrypto.net
+simplemining.net
 simplypool.net
 smartmining.net
 sweetbook.net
@@ -28708,6 +28716,7 @@ coinmine.pl
 etcpool.pl
 fastlink.pl
 havio.pl
+p2pool.hostv.pl
 2coin.htw.pl
 mineflowpool.pl
 berserkpl.net.pl
