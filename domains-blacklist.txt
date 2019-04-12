@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 426
 
-# Ignored entries due to the whitelist: 156
+# Ignored entries due to the whitelist: 155
 
 js.cdn.ac
 dxracers.accountant
@@ -2683,6 +2683,7 @@ associeta.com
 assoctrac.com
 asterpix.com
 asto-exo.com
+astpvgpwbewx.com
 affiliate.astraweb.com
 astro-way.com
 aszdmbftkccdkj.com
@@ -3685,6 +3686,7 @@ byuwgtzpawzzd.com
 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 byxlivaqzo.com
 bzbaizntfrhl.com
+bzeitvxguf.com
 bzfguipyjops.com
 adg.bzgint.com
 bzgwkxnjqjdz.com
@@ -4196,6 +4198,7 @@ clixpy.com
 clixsense.com
 clixtrac.com
 clkfeed.com
+clkkcokl.com
 clkoffers.com
 clkrev.com
 clksite.com
@@ -5258,6 +5261,7 @@ dpwsvrkmfxrt.com
 dqdnwhyxeblt.com
 dqekudhbwprx.com
 dqfhklmwj.com
+dqiokxyebdc.com
 dqlcgelw.com
 dqpamcouthqv.com
 dqpywdubbxih.com
@@ -7755,6 +7759,7 @@ b-aws.huffingtonpost.com
 link.huffingtonpost.com
 entry-stats.huffpost.com
 vertical-stats.huffpost.com
+hugjupzdpvuzdr.com
 huhrxmgiofzna.com
 huigyetqu.com
 a1.huiqituan.com
@@ -7811,6 +7816,7 @@ hwsbehjaxebh.com
 hwvwuoxsosfp.com
 hxbvbmxv.com
 hxcoxdyzzd.com
+hxhxjcffzp.com
 hxhyejtblmu.com
 hxkanryhktub.com
 hxlojjtpqtlk.com
@@ -8693,6 +8699,7 @@ jkamuwyswgk.com
 jkawfxvh.com
 jkciacmcnya.com
 jkcvevwvgfopog.com
+jkhad.com
 jkiicqewzn.com
 jkiwvfgrsythrw.com
 jkjcoyeeglunz.com
@@ -8998,6 +9005,7 @@ kdiunbsaw.com
 kdkzvfzmgvm.com
 kdmilqoiaucqto.com
 kdoraraq.com
+kdpqydaxbxztnh.com
 kdtictjmofbl.com
 kdtrdexby.com
 kdtstmiptmvk.com
@@ -9303,6 +9311,7 @@ kulkerbolda.com
 kulkulta.com
 kullalabulla.com
 kumekqeccmob.com
+kumjidmumktzq.com
 kumpulblogger.com
 kumtwckyq.com
 kuplohinctdwk.com
@@ -9557,6 +9566,7 @@ lgthvsytzwtc.com
 lgtnwgfqkyyf.com
 lhaqzqjbafcu.com
 lhbkkztxg.com
+lhdndgmsy.com
 lhekiqlzatfv.com
 lhhrhdlankdftk.com
 lhinsights.com
@@ -9835,6 +9845,7 @@ lsfinteractive.com
 lshwezesshks.com
 lskzcjgerhzn.com
 lsmxicydlj.com
+lsooyivois.com
 lsslotuojpud.com
 lstkchbeoey.com
 lstkfdmmxbmv.com
@@ -11658,6 +11669,7 @@ opaalopaa.com
 opawiftgis.com
 opbandit.com
 opbneuozwyuvpk.com
+opcyvbwkbiaqyt.com
 tagger.opecloud.com
 openadserving.com
 opencdb84507.com
@@ -12424,6 +12436,7 @@ pprcfwhlmtagay.com
 pptxpeqqcr.com
 ppuuwencqopa.com
 ppvlj.com
+ppvlukah.com
 ppxoxkdpxtu.com
 ppxrlfhsouac.com
 ppzfvypsurty.com
@@ -12773,6 +12786,7 @@ pzbqocjaphp.com
 pzcpotzdkfyn.com
 pzfittkdqrrsa.com
 pzgchrjikhfyueumavkqiccvsdqhdjpljgwhbcobsnjrjfidpq.com
+pzjdrhrlzdli.com
 pzkpyzgqvofi.com
 pzkqiwezugsucg.com
 pzlzv.com
@@ -13070,6 +13084,7 @@ qtpfm.com
 qtsmzrnccnwz.com
 qttmjwno.com
 qtvnesozf.com
+qtxihhkvln.com
 qtymi.com
 qtywrdgxid.com
 quaintcan.com
@@ -15953,6 +15968,7 @@ uhicnlmab.com
 uhpdodqzxewhcv.com
 uhvbjjse.com
 uhygtf1.com
+uhyyacioq.com
 uiadserver.com
 uicybyysyllad.com
 uigruwtql.com
@@ -16588,6 +16604,7 @@ viral782.com
 viralcpm.com
 viralmediatech.com
 viralninjas.com
+virgbmkmear.com
 virgul.com
 viriepak.com
 virool.com
@@ -16699,6 +16716,7 @@ vnufxjwndhsfbj.com
 vnw2gd68pb.com
 vnyginzinvmq.com
 vnzlgmfd.com
+voaalhaobdl.com
 voameque.com
 vodbordnhhemq.com
 vodhaqaujopg.com
@@ -16733,6 +16751,7 @@ vpbyl.com
 vpfiiojohjch.com
 vpico.com
 vpklpmvzbogn.com
+vplvywqxsm.com
 vpndcpxavg.com
 tw.api.vpon.com
 vppabbakjzxmz.com
