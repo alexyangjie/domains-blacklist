@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 427
+# Ignored duplicates: 428
 
 # Ignored entries due to the whitelist: 155
 
@@ -1596,6 +1596,7 @@ adfeedstrk.com
 adflake.com
 ad.adflazz.com
 www.adflazz.com
+adfoitjumerzge.com
 adfootprints.com
 adforgames.com
 adforgeinc.com
@@ -2785,6 +2786,7 @@ avkigyhrazah.com
 avmws.com
 ads.avocarrot.com
 sdklogs.avocarrot.com
+avonnfckdeqeyr.com
 avpgdzdesjnt.com
 avrdpbiwvwyt.com
 avrdrpwt.com
@@ -3076,6 +3078,7 @@ bedowntoft.com
 bedsbreath.com
 bee7.com
 beeftransmission.com
+beelzgkdjr.com
 beemray.com
 beemrdwn.com
 beencounter.com
@@ -3461,6 +3464,7 @@ counter.webmasters.bpath.com
 bpbwwasthwtp.com
 bpglbuxwx.com
 bplzgzpqp.com
+bpmskwgodi.com
 bpniszadiuc.com
 bpnjigwalqjho.com
 bpprksdgogtw.com
@@ -3684,6 +3688,7 @@ bygigguvflpv.com
 byqmzodcdhhu.com
 webcare.byside.com
 byspot.com
+bysziktift.com
 bytde.com
 bytemgdd.com
 byufpbvjpedvpx.com
@@ -3868,6 +3873,7 @@ ccyttdkwntyhx.com
 cd490573c64f3f.com
 cd828.com
 cd87c85eb2890d048d2.com
+cdbhmahnjb.com
 cdbkxcnfmehf.com
 cdbxuzzlgfhh.com
 cdegnloptetj.com
@@ -6019,6 +6025,7 @@ ezhkfxskimqnqk.com
 ezjepifcz.com
 ezjrnbpjthir.com
 ezknqsblzmsl.com
+ezlxnyhbjtqr.com
 ezmob.com
 ezqldmevi.com
 ezuosstmbcle.com
@@ -6638,6 +6645,7 @@ fxdglnldbnyq.com
 fxhoog.com
 fxjgprpozntk.com
 fxjyultd.com
+fxlmstfrxtqp.com
 fxlyhuluw.com
 fxoryjxrnuoo.com
 fxpqoyxlas.com
@@ -6891,6 +6899,7 @@ ghaszdguvrtnb.com
 ghjlhnbc.com
 ghjwogfexch.com
 ghkajgexob.com
+ghkhvajwsiy.com
 ghomifuzhobtoo.com
 cmp-cdn.ghostery.com
 ghtroafchzrt.com
@@ -8046,6 +8055,7 @@ iibcejrrfhxh.com
 iicheewi.com
 iihwyqhxajtn.com
 iijmodcvlwfk.com
+iilrgkor.com
 iipivevueme.com
 iisfpzkkxkz.com
 iitfqholnpud.com
@@ -8475,6 +8485,7 @@ ivkasohqerzl.com
 ivktdwmjhkqy.com
 ivldzqidbv.com
 ivnpbikks.com
+ivowhzku.com
 ivqoqtozlmjp.com
 ivqvzkwedcjo.com
 ivsqnmridfxn.com
@@ -9092,6 +9103,7 @@ khvfg.com
 khzbeucrltin.com
 log.kibboko.com
 kieden.com
+kieecarfftwf.com
 kiejztfpkfayak.com
 kihhgldtpuho.com
 kiinvgntnnw.com
@@ -10715,6 +10727,7 @@ mspnlttfp.com
 msrwoxdkffcl.com
 mstmrspnqqevsu.com
 mstrlytcs.com
+msxmfyhwgkos.com
 msypr.com
 mszfmpseoqbu.com
 mtagmonetizationa.com
@@ -11297,6 +11310,7 @@ nrtapaiums.com
 nryvxfosuiju.com
 nrzhlsvqxbgpbn.com
 nsazelqlavtc.com
+nscjgmhyeov.com
 nscontext.com
 nsdfsfi1q8asdasdzz.com
 nsdsvc.com
@@ -11684,6 +11698,7 @@ oos4l.com
 oosdjdhqayjm.com
 ootqfqjhzfrtn.com
 oouggjayokzx.com
+oounzfsyxiuj.com
 ooutqfslr.com
 ooxxsearch.com
 analytics.ooyala.com
@@ -12248,6 +12263,7 @@ pjtycinmerhb.com
 pjyuftrh.com
 pjzabhzetdmt.com
 pketred.com
+pkitdifnkz.com
 pkklpazhqqda.com
 pkmzxzfazpst.com
 pkougirndckw.com
@@ -12800,6 +12816,7 @@ pyfmxzhrnivq.com
 pyhtclpgzbe.com
 pykexoeeibq.com
 pyksf.com
+pyllxjfkjhpjbq.com
 pymx5.com
 pypozeqi.com
 pyqwtxicjodcij.com
@@ -13279,6 +13296,7 @@ rbmjeyiyazcpe.com
 rbnjngtbpwbk.com
 rbppnzuxoatx.com
 rbrbvedkazkr.com
+rbrpamcygqplm.com
 rbrxg.com
 rbrxrcikro.com
 rbsfglbipyfs.com
@@ -14342,6 +14360,7 @@ sjpexaylsfjnopulpgkbqtkzieizcdtslnofpkafsqweztufpa.com
 sjqpctsz.com
 sjqskcctmv.com
 sjtevvoviqhe.com
+sjwdbzsa.com
 skcyigichh.com
 skencituer.com
 skgnompyiusim.com
@@ -15903,6 +15922,7 @@ ubercpm.com
 ubertags.com
 ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com
 adserver.ubiyoo.com
+ubjapvhzffdreq.com
 ubjnuclsgxu.com
 ubktdzjnjkpon.com
 ubopxbdwtnlf.com
@@ -17148,6 +17168,7 @@ whjibbprhng.com
 whjxqqdhfp.com
 whkwbllcctfm.com
 whlugpfcuvryx.com
+whlvjuprdpkg.com
 whoaremyfriends.com
 whoisvisiting.com
 whosclickingwho.com
@@ -17492,6 +17513,7 @@ xa-counter.com
 xacexccntjbrht.com
 xad.com
 xadcentral.com
+xafkdsxnwinmj.com
 xaftihkjg.com
 xairgknb.com
 xakmsoaozjgm.com
@@ -17709,6 +17731,7 @@ xnuuzwthzaol.com
 xnvsheyceyjv.com
 xnwqhydt.com
 xoalt.com
+xocecytufu.com
 xojwkixxdkx.com
 xoliter.com
 ep.xone.com
@@ -18557,6 +18580,7 @@ zqjfpxcgivkv.com
 zqlkekbqp.com
 zqouofoilmqfje.com
 zqqyhcqf.com
+zqswmyzlkcvrtu.com
 zramisxvxmkf.com
 zrav2wkbrs.com
 zrbhmhzzdj.com
