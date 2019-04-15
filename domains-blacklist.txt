@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 428
 
-# Ignored entries due to the whitelist: 155
+# Ignored entries due to the whitelist: 154
 
 js.cdn.ac
 dxracers.accountant
@@ -3389,6 +3389,7 @@ bnspx.com
 bnstero.com
 bnstnhto.com
 bnutuin.com
+boaawvdg.com
 boacheeb.com
 bob-bob-bobble.com
 bobarilla.com
@@ -5648,6 +5649,7 @@ ejwmxjttljbe.com
 ejyymghi.com
 ek8k5dst5c.com
 ekansovi.com
+ekbiwwngwig.com
 ekeide.com
 ekggptrw.com
 ekgmjxjyfzzd.com
@@ -6153,6 +6155,7 @@ sp.fdlreporter.com
 fdogfuqpgeub.com
 fdplttrk.com
 fdrkesvb.com
+fdrqokusnwpq.com
 fdsur.com
 fdvmskmentjob.com
 fdxdjkswppg.com
@@ -6173,6 +6176,7 @@ metrics.feedroom.com
 feesocrald.com
 fefzohgedqp.com
 fegyacmbobil.com
+fejbkpidkkwts.com
 feljack.com
 ivw.fem.com
 fembsflungod.com
@@ -6568,7 +6572,9 @@ ftttziizhuplfj.com
 ftuisdlnbp.com
 ftuohzeijbkm.com
 ftvkgkkmthed.com
+ftvwoljibdwd.com
 ftwdbhsztw.com
+ftxekufylzqis.com
 ftymjfywuyv.com
 ftymzxmic.com
 ftytssqazcqx.com
@@ -8429,6 +8435,7 @@ sal.isanook.com
 isbzjaedbdjr.com
 iscaebizkzyd.com
 isdlyvhegxxz.com
+isfxsiooyjad.com
 isggimkjabpa.com
 ishahguv.com
 ishdyglxfckw.com
@@ -8493,6 +8500,7 @@ ivvoooxuyjfuo.com
 ivyfsbbwsf.com
 ivykiosk.com
 iwantuonly.com
+iwapwcqg.com
 iwbwvowdidkuo.com
 iweacndqhiht.com
 iwebtrack.com
@@ -8662,6 +8670,7 @@ jfribvstvcqy.com
 jfvadxjr.com
 jfxjpswhcwwq.com
 jgchq.com
+jgerrmaktdzyh.com
 jgjpicgy.com
 jgophcykrckik.com
 jgqcraids.com
@@ -8714,6 +8723,7 @@ jjekiezbshyo.com
 jjhnnzef.com
 jjipgxjf.com
 jjokekbfoxwip.com
+jjokvprdxwf.com
 jjpnveujkk.com
 jjpoxurorlsb.com
 jjqoosuum.com
@@ -8803,6 +8813,7 @@ joribobo.com
 jorjodika.com
 jorndvyzchaq.com
 ad.jorte.com
+josxzdszqaivb.com
 events.jotform.com
 tracking.jotform.com
 jotpybmcjvg.com
@@ -8822,6 +8833,7 @@ jpncpftyxliq.com
 jpqmviofsf.com
 jprtqxwhtrjejx.com
 jpuiucicqwan.com
+jpvmwnnwuzo.com
 jpwvdpvsmhow.com
 jpxevzab.com
 jqanygfhqne.com
@@ -9435,6 +9447,7 @@ ladsp.com
 ladyzxxyz.com
 lajpmujdntg.com
 lakequincy.com
+lamwiadakwa.com
 sp.lancastereaglegazette.com
 landelcut.com
 landingpg.com
@@ -9848,6 +9861,7 @@ lplqyocxmify.com
 lpohfjht.com
 lporirxe.com
 lppoblhorbrf.com
+lprkphlgaybvtn.com
 pw.lpsxssm.com
 lptggobhuuxcdw.com
 lpwvdgfo.com
@@ -10718,6 +10732,7 @@ msgapp.com
 heals.msgfocus.com
 msgtag.com
 msiegurhgfyl.com
+msigpurubzkm.com
 msisvvxmnpm.com
 msmaijsxlo.com
 msoiqafieh.com
@@ -11327,6 +11342,7 @@ ntduattgboduk.com
 ntent.com
 ntetguxoeuvevp.com
 ntgqcnferh.com
+nticqzrucdg.com
 ntjcrsfvszoen.com
 ntkuokicthbxc.com
 ntlhrttump.com
@@ -11505,6 +11521,7 @@ oebdarcqsqcdk.com
 oeevatisopdl.com
 oehjxqhiasrk.com
 oehposan.com
+oeidusggzj.com
 oeppesfmzlbpa.com
 oertmxfsryji.com
 oetwplgu.com
@@ -13221,6 +13238,7 @@ qzbnokxxvvpwf.com
 qzcpotzdkfyn.com
 gog9.qzdfc.com
 qzhaqsxb.com
+qzismxssqf.com
 qzizjjyvsa.com
 qzlog.com
 qzpxhebrm.com
@@ -13234,6 +13252,7 @@ a.raasnet.com
 p.raasnet.com
 p0.raasnet.com
 rabilitan.com
+rabjkklvegagrn.com
 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 radarstats.com
 radarurl.com
@@ -13896,6 +13915,7 @@ rzfldcrlwe.com
 rzgiiioqfpny.com
 rzgqfvhfj.com
 rzhujam.com
+rzizcnhoobxw.com
 rzjhxwfbxp.com
 rzmrzylebgq.com
 rztrkr.com
@@ -15314,6 +15334,7 @@ thzaiqqwsbpps.com
 ti583.com
 counter.tianjimedia.com
 tiankongzudui.com
+tibzpgmogjqa.com
 tic-tic-bam.com
 tic-tic-toc.com
 ticklesign.com
@@ -17394,6 +17415,7 @@ wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
 wsrjplhhhfmfsx.com
 wsscyuyclild.com
 wssdoo.com
+wssejwluqthda.com
 wstatslive.com
 wstvcgfkvc.com
 wsucuzkmnd.com
@@ -17886,6 +17908,7 @@ yaboshadi.com
 yabuka.com
 yadomedia.com
 yafsixmo.com
+yahbdmyvvmjh.com
 analyze.yahooapis.com
 yaifxxudxyns.com
 yaikleyabl.com
@@ -18356,6 +18379,7 @@ zbqblhqlrm.com
 zbrkywjutuxu.com
 zbsqhxyjlh.com
 zbtqpkimkjcr.com
+zbvrqrjecs.com
 zbwp6ghm.com
 zbwttofskjnc.com
 zbxzcrldzzgv.com
