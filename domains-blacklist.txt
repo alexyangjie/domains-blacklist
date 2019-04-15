@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 428
+# Ignored duplicates: 420
 
 # Ignored entries due to the whitelist: 154
 
@@ -1594,8 +1594,7 @@ adeyujimmmh.com
 adfactory88.com
 adfeedstrk.com
 adflake.com
-ad.adflazz.com
-www.adflazz.com
+adflazz.com
 adfoitjumerzge.com
 adfootprints.com
 adforgames.com
@@ -2118,6 +2117,7 @@ afcyhf.com
 afdads.com
 afdyfxfrwbfy.com
 afedispdljgb.com
+afeeknuueaztxt.com
 afeuvqrsswz.com
 aff-online.com
 affasi.com
@@ -4988,6 +4988,7 @@ developermedia.com
 device9.com
 t.devnet.com
 dewltdgzgtt.com
+dexessee.com
 deximedia.com
 dexplatform.com
 dexxxrggi.com
@@ -9595,6 +9596,7 @@ lfdydk.com
 lffyoomtjjhvc.com
 lfg5jnbi.com
 lfirckcbkh.com
+lfjmmgorkjoaw.com
 lfjvaaswkxqj.com
 lflplmckcncj.com
 lfqocbhv.com
@@ -13057,6 +13059,7 @@ qnsr.com
 qnugsbuo.com
 qnzelsgj.com
 qoapuppy.com
+qoayrejue.com
 qofzhmbqa.com
 qogsjvkaoe.com
 qoheo.com
@@ -13367,6 +13370,7 @@ ready4win.com
 tracker.realclearpolitics.com
 realcounters.com
 events.realgravity.com
+realizerecess.com
 realmatch.com
 realmedia.com
 realnetwrk.com
@@ -13606,6 +13610,7 @@ rigoczly.com
 rihzsedipaqq.com
 riibl.com
 rijadpczqbdsvb.com
+riluaneth.com
 rimvtigoyajas.com
 rineventrec.com
 track.ringcentral.com
@@ -13727,6 +13732,7 @@ romance-net.com
 rometroit.com
 ronrmbrrhqdwh.com
 rontar.com
+roojouma.com
 rookads.com
 roosterfirework.com
 ropkrhilt.com
