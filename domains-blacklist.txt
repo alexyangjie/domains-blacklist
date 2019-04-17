@@ -2294,6 +2294,7 @@ akrazappi.com
 akrzgxzjynpi.com
 akstat.com
 akviqfqbwqqj.com
+akyscwwwttk.com
 akzvxmjnubq.com
 geoip.al.com
 mms.al.com
@@ -4887,6 +4888,7 @@ dc63bfb069ea522f.com
 dccstsamnyrjk.com
 dcdalkgtbmip.com
 dcgbswcvywyl.com
+dckyimoylozbby.com
 dclmmbjyshy.com
 dcmatjqifoim.com
 dcmhpbpdcsy.com
@@ -7007,6 +7009,7 @@ glzaaewyvdkae.com
 gm99.com
 gmeomlvmqlmu.com
 gmfestfc.com
+gmowaloqmhtd.com
 gmpdixdh.com
 gmpmuqniggyz.com
 gmqczpcyzjeen.com
@@ -7176,6 +7179,7 @@ sp.greenbaypressgazette.com
 greenlabelppc.com
 sp.greenvilleonline.com
 greetzebra.com
+gregnobs.com
 grenstia.com
 grepdata.com
 gresokie.com
@@ -8086,6 +8090,7 @@ ijmzezsaxxomr.com
 ijnghdmfrb.com
 ijowsfraldsnb.com
 ijquery11.com
+ijriehir.com
 ijvolcqtnxohl.com
 ikcwcxhgibmumf.com
 ikdhuhcigpoc.com
@@ -8539,6 +8544,7 @@ ixznwuxokydz.com
 iybkbyciv.com
 iydghotpzofn.com
 iydppfwjgcjs.com
+iyfrmewyned.com
 iygac.com
 iygdvith.com
 iygke.com
@@ -8617,6 +8623,7 @@ jbwunmehf.com
 jbyksmjmbmku.com
 jccszmkabdean.com
 jcctggmdccmt.com
+jcjrcmaunbqxg.com
 jcllysqtvlro.com
 jcmdvfrn.com
 jcnoeyqsdfrc.com
@@ -10001,6 +10008,7 @@ lybmmxah.com
 lycodz.com
 beacon.lycos.com
 lycosu.com
+lydgyhthfb.com
 lydiz.com
 lyghoxyxohkrdk.com
 lygshgj.com
@@ -11545,6 +11553,7 @@ oezto.com
 ofajzowbwzzi.com
 ofapes.com
 ofbqjpaamioq.com
+ofdfinqurwpi.com
 offerenced.com
 offerforge.com
 offermatica.com
@@ -12368,6 +12377,7 @@ pmjwztzpuhb.com
 pmkvqmtjniwtyl.com
 pmlcuxqbngrl.com
 pmohsibnim.com
+pmoucikneuxcxy.com
 pmpubs.com
 pmsrvr.com
 pmwlvixdyts.com
@@ -12519,6 +12529,7 @@ pqgslqshlj.com
 pqkorfrurnn.com
 pqoznetbeeza.com
 pqsfmcuzmoh.com
+pquuiokltzjpeg.com
 pqwaaocbzrob.com
 pr-chart.com
 miner.pr0gramm.com
@@ -13022,6 +13033,7 @@ qjskosdsxanp.com
 qjttowndvet.com
 qjuzjpkihvya.com
 qjvullwjz.com
+qjvzbfym.com
 qjwanedlhedm.com
 qjwkyhlxa.com
 qkarmotdhhgeuy.com
@@ -13158,8 +13170,10 @@ qtkluwmebrtbrt.com
 idigger.qtmojo.com
 qtpfm.com
 qtsmzrnccnwz.com
+qtsyxyakun.com
 qttmjwno.com
 qtvnesozf.com
+qtwadryxicx.com
 qtxihhkvln.com
 qtymi.com
 qtywrdgxid.com
@@ -14236,6 +14250,7 @@ sgpbbfdchy.com
 sgqmhpqrstwzwd.com
 sgxaqysyilwkiu.com
 sgzsviqlvcxc.com
+shacupwelhehqc.com
 shakamech.com
 shakesea.com
 shakytaste.com
@@ -16771,6 +16786,7 @@ vletnguozhvm.com
 vlgqpikka.com
 vlhdmywfi.com
 vlkdntgqqfjusm.com
+vllwccvw.com
 vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
 vlpufjkwpmjhbn.com
 vlrzhoueyoxw.com
@@ -18561,6 +18577,7 @@ znbokxhkwx.com
 znckkjdguw.com
 znfnwozd.com
 znjwkwha.com
+znmdscnynybx.com
 znmrgzozlohe.com
 znnabrxnotlm.com
 znnmt.com
@@ -22155,6 +22172,7 @@ top.gamesby.net
 game.gamingnonstop.net
 gatewey.net
 gay-hotvideo.net
+geebicom.net
 geek2us.net
 geesopso.net
 geld-internet-verdienen.net
@@ -26048,6 +26066,7 @@ geoloc.arte.tv
 log-player.arte.tv
 bitfalcon.tv
 bitx.tv
+blueseed.tv
 ping.buto.tv
 video.cars247.tv
 l.coincident.tv
@@ -26576,6 +26595,7 @@ mqmh.uihdlx.xyz
 wofri.uihdlx.xyz
 uplvcx.xyz
 upxip.xyz
+uriqirelle.xyz
 valkrana.xyz
 veracdn.xyz
 verata.xyz
@@ -26623,7 +26643,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17022
+# Ignored duplicates: 17021
 
 # Ignored entries due to the whitelist: 3
 
