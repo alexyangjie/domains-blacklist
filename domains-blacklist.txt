@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 420
+# Ignored duplicates: 419
 
 # Ignored entries due to the whitelist: 154
 
@@ -102,6 +102,7 @@ logger.tv.telstra.com.au
 tiser.com.au
 zoomdirect.com.au
 counter.theconversation.edu.au
+banners.haqqin.az
 ilk10.az
 mobilink.az
 mytop.az
@@ -6558,6 +6559,7 @@ fshka.com
 fsiadjbirgobi.com
 fsjvhkobubai.com
 fskheghrote.com
+fsnhesxsw.com
 fsoft4down.com
 fsqknqvlngde.com
 fstredirr.com
@@ -7187,6 +7189,7 @@ gretzalz.com
 greyinstrument.com
 greystripe.com
 grfqrhqlzvjl.com
+grgxptjsgl.com
 gri98.com
 gridiogrid.com
 track.gridlockparadise.com
@@ -7888,6 +7891,7 @@ hypoot.com
 live.hyprmx.com
 hyprshr.com
 hyrnujewyatvd.com
+hysnqwbokyuvsm.com
 hystq.com
 hysyqgbls.com
 hytkatubjuln.com
@@ -7901,6 +7905,7 @@ hzskbnafzwsu.com
 hztjenzlrrwinq.com
 hztkbjdkaiwt.com
 hzulgipdcbgwad.com
+hzwmcqlmxpdrlp.com
 hzwxkqnqrdfv.com
 i-stats.com
 i-vengo.com
@@ -8070,6 +8075,7 @@ ji.ihualun.com
 ihvmcqojoj.com
 iialqejeka.com
 iibcejrrfhxh.com
+iiccrpwaxmxkqm.com
 iicheewi.com
 iihwyqhxajtn.com
 iijmodcvlwfk.com
@@ -8692,6 +8698,7 @@ jgophcykrckik.com
 jgqcraids.com
 jgqkrvjtuapt.com
 jgrcggutsilp.com
+jgrsqcqdfwzu.com
 jgsoloqaqp.com
 jguczdjzvfp.com
 jguhktakkykrsb.com
@@ -9794,6 +9801,7 @@ lmheosvft.com
 lmjjenhdubpu.com
 lmjxrhph.com
 lmsxuo.com
+lmsycyfh.com
 lmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com
 lndata.com
 lndjj.com
@@ -11179,7 +11187,7 @@ nhkhxvnhfdkn.com
 nhqmomir.com
 niaqaltky.com
 cnt.nicemix.com
-nicequest.com
+mpc.nicequest.com
 nicesearches.com
 nicewii.com
 nich1eox.com
@@ -11618,6 +11626,7 @@ oixafvoxnmceol.com
 oixisqtlbhygp.com
 oiycak.com
 ojbevkqot.com
+ojeergoy.com
 ojiffvsutzrx.com
 ojjsoozoerpt.com
 ojmkcnuur.com
@@ -12291,6 +12300,7 @@ pixxur.com
 pizzaandads.com
 publish.pizzazzemail.com
 pjatr.com
+pjbifjjtir.com
 pjeledftjxfnd.com
 pjffrqroudcp.com
 pjhwhxmzefjgn.com
@@ -13233,6 +13243,7 @@ qwittqgogiip.com
 qwqqliynxufj.com
 qwrkigqtgygc.com
 qwuejlmct.com
+qwuexgqmua.com
 qwufihkhgxphq.com
 qwuxwxdr.com
 qwzhaqtbiygid.com
@@ -13574,6 +13585,7 @@ reztrack.com
 rezync.com
 rfbmtfebfcwlgo.com
 rfcsmdodviqhn.com
+rfcxwidka.com
 rfdujczogfnc.com
 rffjopgiuhsx.com
 rffqzbqqmuhaomjpwatukocrykmesssfdhpjuoptovsthbsswd.com
@@ -15106,6 +15118,7 @@ clk.taptica.com
 taqesyqne.com
 taqyljgaqsaz.com
 tardangro.com
+targaubs.com
 tracking.target2sell.com
 targetadverts.com
 targetan.com
@@ -15152,6 +15165,7 @@ tcrinrvfejjh.com
 tcwcsaddht.com
 tcxygxdrv.com
 tcyeyccspxod.com
+tczvikamowfjte.com
 td-tracker.com
 track.td3x.com
 td553.com
@@ -16609,6 +16623,7 @@ vglpukrekfij.com
 vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 vgogzrukn.com
 vgtnbvzkepbm.com
+vgyakiejafjjj.com
 vhatpbmitwcn.com
 vhbyakilp.com
 vhctcywajcwv.com
@@ -16623,6 +16638,7 @@ vhscigqpwe.com
 vhuhrhowm.com
 vhuveukirbuz.com
 vhwuphctrfil.com
+vhzgmzakn.com
 vi-serve.com
 vi012.com
 geoip.viamichelin.com
@@ -18498,6 +18514,7 @@ zgxlwlffm.com
 zhabyesrdnvn.com
 zhdjvlfszokew.com
 zhdmplptugiu.com
+zhfosenghtr.com
 zhkziiaajuad.com
 zhkzt.com
 zhmbxvmyk.com
@@ -18613,6 +18630,7 @@ zowary.com
 zowhxkwzjpta.com
 zoyxbjmmlsrc.com
 zozolilla.com
+zpaimilpqx.com
 zpctncydojjh.com
 zpcxpdpqllyrb.com
 zperfcaskqrxug.com
@@ -21193,6 +21211,7 @@ rtb-media.me
 a.ruporn.me
 scrap.me
 sapere.seed4.me
+mtp.spcs.me
 sponsoredby.me
 streamingcastle.me
 adback.tango.me
@@ -22487,6 +22506,7 @@ mozcloud.net
 mpression.net
 mptri.net
 mpwe.net
+mradx.net
 msads.net
 az416426.vo.msecnd.net
 az708531.vo.msecnd.net
@@ -23279,6 +23299,7 @@ benisoncanorous.org
 besucherzaehler.org
 betticket.org
 binaryoptionssystems.org
+an.blogis.org
 browser-update.org
 buxp.org
 byzoo.org
@@ -23618,6 +23639,7 @@ emented.pro
 analytics.ettoredelnegro.pro
 europerty.pro
 exponderle.pro
+ezcore.pro
 fineg.pro
 fortedrow.pro
 fortsould.pro
