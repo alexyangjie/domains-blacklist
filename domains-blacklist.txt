@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 419
+# Ignored duplicates: 420
 
 # Ignored entries due to the whitelist: 154
 
@@ -577,6 +577,7 @@ cxmedia.co
 d-1.co
 d41.co
 darersan.co
+datadome.co
 declaredthoughtfulness.co
 despearingle.co
 difyt-m-tlb.co
@@ -585,6 +586,7 @@ explanse.co
 fabrativellic.co
 fcrgzqkbtgu.co
 feathr.co
+finized.co
 fluidads.co
 fresh8.co
 geo.go2s.co
@@ -652,6 +654,7 @@ replainy.co
 tools.runetki.co
 trk.sele.co
 shmential.co
+shoppanda.co
 collector.shopstream.co
 silverpush.co
 skyligh.co
@@ -2960,6 +2963,7 @@ usp1.baidu.com
 baiduccdn1.com
 dup.baidustatic.com
 baifendian.com
+baipagid.com
 bajofdblygev.com
 bakaratonline.com
 bakdsoarxjab.com
@@ -3316,6 +3320,7 @@ blastnotificationx.com
 blatungo.com
 blcmacswwmqv.com
 blessdi.com
+blgrwhaww.com
 blinkadr.com
 t.blinkist.com
 blisldgsqk.com
@@ -3530,6 +3535,7 @@ bridgevine.com
 metrics.brightcove.com
 brightedge.com
 brighteroption.com
+brightfunnel.com
 bia.brightinfo.com
 brightonclick.com
 brightshare.com
@@ -4293,7 +4299,7 @@ cnxweb.com
 cnzz.com
 coadvertise.com
 cobalten.com
-traffic.prod.cobaltgroup.com
+cobaltgroup.com
 cdn-qc.coccoc.com
 qc.coccoc.com
 codeadnetwork.com
@@ -5458,6 +5464,8 @@ dywqwrtnhegyz.com
 dyzha.com
 dyzstwcqbgjk.com
 dz4ad.com
+dzacosgvnz.com
+dzaqzgjsot.com
 dzdfmwaztrrm.com
 dzkmbajm.com
 dzlaodil.com
@@ -6577,6 +6585,7 @@ frosmo.com
 frqmnrlqk.com
 frtfwlvwuw.com
 t.frtyi.com
+frtyo.com
 fruitflan.com
 fruitkings.com
 frvfrv.com
@@ -7681,6 +7690,7 @@ hmwsaxnhc.com
 hmypgdhzd.com
 hmzwcomigpqia.com
 hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
+hnhsvlswqtoxgn.com
 hnivikwwypcv.com
 hnixr.com
 hnkbivnten.com
@@ -7817,6 +7827,7 @@ htamaster.com
 htegogwj.com
 htlbid.com
 htllanmhrnjrbestmyabzhyweaccazvuslvadtvutfiqnjyavg.com
+htlvvqlcqvq.com
 counter.htmlvalidator.com
 htmonster.com
 htonrwegnifw.com
@@ -8849,6 +8860,7 @@ jngxxwythaf.com
 jnhjvkapqf.com
 jnhmeywrl.com
 jnjbdvchvk.com
+jnljkbkiaqcmb.com
 jnnjnuyiic.com
 jnnswtdifjgx.com
 jnoaexgpdlnu.com
@@ -9342,6 +9354,7 @@ kpnuqvpevotn.com
 kpoplhjnhlagy.com
 kprkrbatuob.com
 kpsdnlprwclz.com
+kpwjtpgvowifq.com
 kpzvcvclybfa.com
 kqcflzvunhew.com
 kqflgvrwqpzwue.com
@@ -10019,6 +10032,7 @@ lvctzafuvn.com
 lvcxvjetzvt.com
 lvdtftxgbsiu.com
 lvehrzkgzanurn.com
+lvesmhsex.com
 lvgliqkumatjv.com
 lvgvax82bp.com
 lvhxebdxz.com
@@ -10877,6 +10891,7 @@ mutaticial.com
 mutinyhq.com
 mutrik.com
 mutualvehemence.com
+muwjxxvovtb.com
 muxtpvixahawy.com
 mvdnsrgolwgru.com
 mvilivestats.com
@@ -13253,6 +13268,7 @@ qtpfm.com
 qtsmzrnccnwz.com
 qtsyxyakun.com
 qttmjwno.com
+qtuckpvttvikd.com
 qtvnesozf.com
 qtwadryxicx.com
 qtxihhkvln.com
@@ -14801,10 +14817,12 @@ spuriousstranger.com
 comet.sputniknews.com
 spwssohsyqgq.com
 spylog.com
+spyoff.com
 spywords.com
 sq2trk2.com
 sqnezuqjdbhe.com
 sqnkkpba.com
+sqsdyfgyjdjbx.com
 sqtsuzrfefwy.com
 harvester.ext.square-enix-europe.com
 squarterun.com
@@ -15006,6 +15024,7 @@ summerhamster.com
 summitemarketinganalytics.com
 sumokoin.com
 load.sumome.com
+sumsmoxssy.com
 sumvztfze.com
 sundaysky.com
 sunucu7.com
@@ -16333,6 +16352,7 @@ uod2quk646.com
 event.allnews.uodoo.com
 uohpnvpynvsz.com
 uoicsyuiof.com
+uoifloesog.com
 uoottsfgy.com
 uopayiycy.com
 uorhedemxtni.com
@@ -16482,6 +16502,7 @@ uvjvnbitjmvzgk.com
 uvlyzxml.com
 uvmsfffedzzw.com
 uvniygdwmoojfm.com
+uvomthuqsqx.com
 uvppdseel.com
 uvxaafcozjgh.com
 uvyfszshvgassp.com
@@ -16495,6 +16516,7 @@ uwpmwpjlxblb.com
 uwqrwgxxkaoydo.com
 uwrzafoopcyr.com
 uwsxz.com
+uwxldrvqyk.com
 uxbewzrfyp.com
 uxibiysrllgnn.com
 uxkkltrrxlowzo.com
@@ -17342,6 +17364,7 @@ whitepixel.com
 whitwise.com
 whizstats.com
 whjibbprhng.com
+whjwcghg.com
 whjxqqdhfp.com
 whkwbllcctfm.com
 whlugpfcuvryx.com
@@ -17431,6 +17454,7 @@ wjkwjcmeymu.com
 wjmckfsdcxpj.com
 wjnkvhlgvixx.com
 wjpdgueqasdgeq.com
+wjuowevxibmg.com
 wjvwxcnavjodj.com
 wjwontqlqchq.com
 wjzvx.com
@@ -17525,6 +17549,7 @@ wpbhnyjej.com
 wpdstat.com
 wpjljadiq.com
 wpkbwrkejd.com
+wpkcfajkeytrro.com
 wpktjtwsidcz.com
 wplqgfpj.com
 wpswyoyev.com
@@ -17965,6 +17990,7 @@ xseczkcysdvc.com
 xsgacudwlysw.com
 xsgcobwd.com
 xskbsyssik.com
+xsqylzml.com
 xswnrjbzmdof.com
 xswsrpeeyh.com
 xswutjmmznesinsltpkefkjifvchyqiinnorwikatwbqzjelnp.com
@@ -18677,6 +18703,7 @@ zkennongwozs.com
 zkezpfdfnthb.com
 zkfhdpogauqb.com
 zkfjgzonjvg.com
+zkmyaizgc.com
 zkowrpcb.com
 zkqpoamv.com
 zksdztizohcfy.com
@@ -18693,6 +18720,7 @@ zlxfpawyyoq.com
 zlxwasugtn.com
 zm232.com
 stats.zmags.com
+statsd.zmags.com
 zmbrweqglexv.com
 zmkihizd.com
 zmkkiqghh.com
@@ -18870,6 +18898,7 @@ zxqudunt.com
 zxreyuxvrjzxa.com
 zxrtn.com
 zxwiejfbyr.com
+zxwnolwaump.com
 zxxfoccanf.com
 zxxzqiqbchqkaw.com
 zy16eoat1w.com
@@ -20617,6 +20646,7 @@ webest.info
 webpushcloud.info
 weline.info
 wellturnedpenne.info
+westatess.info
 wheelches.info
 whistorica.info
 windgetbook.info
@@ -21344,6 +21374,7 @@ traceless.me
 track2.me
 tracker.u-link.me
 analytics.wetpaint.me
+analytics-cms.whitebeard.me
 stc.oa.zalo.me
 adimage.media
 adplex.media
@@ -22360,6 +22391,7 @@ brend.hdkinoshka.net
 hdvid-codecs-dl.net
 hb.headbidder.net
 hermes-studio.net
+heyhelga.net
 hilltopads.net
 ad-ettoday.cdn.hinet.net
 adv-ettoday.cdn.hinet.net
@@ -22752,6 +22784,7 @@ peer39.net
 ad.pentabox.net
 pereval.net
 perfecttds.net
+perfops.net
 performanceanalyser.net
 perimeterx.net
 personalki.net
@@ -25442,6 +25475,7 @@ telvanil.ru
 terethat.ru
 static.terrhq.ru
 territoria-remonta.ru
+tertmateruse.ru
 nya.tessko.ru
 test-studio.ru
 testiada.ru
