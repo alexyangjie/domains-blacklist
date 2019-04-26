@@ -26821,9 +26821,9 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17021
+# Ignored duplicates: 17059
 
-# Ignored entries due to the whitelist: 3
+# Ignored entries due to the whitelist: 4
 
 bittrex.academy
 miner.ad
@@ -26872,6 +26872,7 @@ poloniex.agency
 airproxybay.ar
 aeon.pools.e-scavo.net.ar
 xmr.pools.e-scavo.net.ar
+habd.as
 play.assets.shentaiesp.asia
 binance.associates
 bittrex.associates
@@ -28495,6 +28496,7 @@ p2pool.io
 pandapool.io
 phoneum.io
 rainpool.io
+socket.io
 uax.io
 ubiqpool.io
 ultimatepool.io
@@ -28891,6 +28893,7 @@ seed-7.nimiq.network
 seed-8.nimiq.network
 seed-9.nimiq.network
 webchain.network
+a-o.ni
 lewd.ninja
 0629.123unlock.nl
 1607.123unlock.nl
@@ -28900,8 +28903,7 @@ moneropool.nl
 nlpool.nl
 pandapool.nl
 ratchetcoins.nl
-play.estream.nu
-video.estream.nu
+estream.nu
 cryptopia.co.nz
 a37ubfu6nmjxzcff.onion
 bcwfga5ssxh3jrlp.onion
