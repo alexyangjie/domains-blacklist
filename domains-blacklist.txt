@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 420
+# Ignored duplicates: 417
 
 # Ignored entries due to the whitelist: 154
 
@@ -625,6 +625,9 @@ npdbklojsvn.co
 oads.co
 ad.ohmyad.co
 omkt.co
+adanalytics.openload.co
+logdev.openload.co
+stats.openload.co
 opt8.co
 overreare.co
 panection.co
@@ -26888,7 +26891,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17059
+# Ignored duplicates: 17169
 
 # Ignored entries due to the whitelist: 4
 
@@ -27265,12 +27268,10 @@ minether.co
 mmsubtitles.co
 monitoringservice.co
 miner.oozing.co
-openload.co
 p2pool.co
 pandaminer.co
 ufocoin.co
 xmr.co
-nomoreransom.coin
 halacostminer.000webhostapp.com
 julrina.000webhostapp.com
 spiky-inclinations.000webhostapp.com
@@ -27579,7 +27580,6 @@ lp.beahh.com
 beatingbytes.com
 beetoken.com
 bellsyscdn.com
-bestetnpool.com
 bestmobiworld.com
 bestxmrpool.com
 betandwinornot.com
@@ -27746,6 +27746,7 @@ security.fblaster.com
 www.fblaster.com
 xsecurity.fblaster.com
 stafftest.firewall-gateway.com
+fiverr.com
 flashplayerd-4.com
 flashplayerdownloadvip.com
 flypool.com
@@ -27910,7 +27911,6 @@ multipool.com
 multipooler.com
 my-rigs.com
 myadstats.com
-stratum.mybtccoin.com
 mycelium.com
 mychainpools.com
 myeherwalliet.com
@@ -28007,7 +28007,6 @@ ppxxmr.com
 app.pr0gramm.com
 avatar.pr0gramm.com
 escobar.pr0gramm.com
-m.pr0gramm.com
 ww.pr0gramm.com
 www-tb7c.pr0gramm.com
 prbitcoin.com
@@ -28499,7 +28498,6 @@ xn--blockchn-p0a.info
 xn--blockclin-hdb.info
 xn--blokhain-28ab.info
 xxx.info
-cookiescript.infos
 poloniex.international
 poloniex.investments
 rockwall.investments
@@ -28563,7 +28561,6 @@ p2pool.io
 pandapool.io
 phoneum.io
 rainpool.io
-socket.io
 uax.io
 ubiqpool.io
 ultimatepool.io
@@ -28877,7 +28874,6 @@ teracycle.net
 p2pool.thedimi.net
 miningpool.thruhere.net
 theminingpool.thruhere.net
-pop.pools.triplehexxx.net
 ucrypto.net
 unimining.net
 universalpool.net
@@ -28972,14 +28968,6 @@ pandapool.nl
 ratchetcoins.nl
 estream.nu
 cryptopia.co.nz
-a37ubfu6nmjxzcff.onion
-bcwfga5ssxh3jrlp.onion
-jcmi5n4c3mvgtyt5.onion
-lockerrwhuaf2jjx.onion
-mqnvhg6lht7lc3nc.onion
-phkttm64gbquasaq.onion
-youronionlink.onion
-yowl2ugopitfzzwb.onion
 besocial.online
 bezoglasa.online
 binancie.online
@@ -29508,7 +29496,6 @@ freecontent.st
 www.hostingcloud.st
 www.jshosting.st
 minexmr.st
-oload.st
 play.play.tainiesonline.st
 webassembly.st
 zndaowjdnf.st
@@ -29650,7 +29637,6 @@ fili.tv
 s1.hqq.tv
 s2.hqq.tv
 justintvizletir.tv
-oload.tv
 vidzi.tv
 tpb.tw
 nord.adr.com.ua
