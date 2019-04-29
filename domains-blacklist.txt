@@ -6092,6 +6092,7 @@ ezlxnyhbjtqr.com
 ezmob.com
 ezqldmevi.com
 ezrutveckpuly.com
+ezuereisgj.com
 ezuosstmbcle.com
 ezytrack.com
 f-4560.com
@@ -16435,6 +16436,7 @@ uorhedemxtni.com
 up-rank.com
 upalytics.com
 upasiansex.com
+upckrtagwpwk.com
 metrics.upcload.com
 upliftsearch.com
 upnorma.com
@@ -17919,6 +17921,7 @@ xhit.com
 xhlrlyygx.com
 xhojlvfznietogsusdiflwvxpkfhixbgdxcnsdshxwdlnhtlih.com
 xhqilhfrfkoecllmthusrpycaogrfivehyymyqkpmxbtomexwl.com
+xhstxnpemardz.com
 xhvhisywkvha.com
 xhwqginopocs.com
 xhwtilplkmvbxumaxwmpaqexnwxypcyndhjokwqkxcwbbsclqh.com
@@ -26164,7 +26167,6 @@ ad.land.to
 okt.to
 popad.to
 publisher.to
-streamplay.to
 tracking.to
 uff5.to
 warezlayer.to
@@ -26918,7 +26920,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17169
+# Ignored duplicates: 17168
 
 # Ignored entries due to the whitelist: 4
 
@@ -29624,6 +29626,7 @@ estream.to
 foxx.to
 miningpool.to
 piratebay.to
+streamplay.to
 template-download.to
 monero.us.to
 binance.tools
