@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 417
 
-# Ignored entries due to the whitelist: 154
+# Ignored entries due to the whitelist: 152
 
 js.cdn.ac
 dxracers.accountant
@@ -1965,6 +1965,7 @@ adtology3.com
 adtoma.com
 adtomafusion.com
 adtoox.com
+adtorio.com
 adtpix.com
 adtraction.com
 adtrgt.com
@@ -2102,6 +2103,7 @@ aec40f9e073ba6.com
 aeckcjy.com
 aeeefzfuk.com
 aefqdgklyu.com
+aefvxtue.com
 aeghae5y.com
 aeizbvtknp.com
 aemxvcqi.com
@@ -2803,6 +2805,7 @@ avkigyhrazah.com
 avmws.com
 ads.avocarrot.com
 sdklogs.avocarrot.com
+avoljljeif.com
 avonnfckdeqeyr.com
 avpgdzdesjnt.com
 avrdpbiwvwyt.com
@@ -3043,6 +3046,7 @@ bb1acb0ea5ddb1fed8.com
 bb475d71fa0b1b2.com
 bb47d806f644cb2.com
 bbelements.com
+bbfasycx.com
 bbheuxcancwj.com
 bbillwowlfur.com
 bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com
@@ -3078,6 +3082,7 @@ bdozkocgkljj.com
 bdros.com
 bdtmbiezv.com
 bdtwxreri.com
+bdyhvguiq.com
 bdyzewccsqpw.com
 be2anywhere.com
 be4anywhere.com
@@ -3188,6 +3193,7 @@ bfmrffluuazwn.com
 bfoleyinteractive.com
 bfrhqyaxtxbq.com
 bfsssvkowvh.com
+bftmphbwpwnnt.com
 bfxachbubcki.com
 bfzuuuuhvexxs.com
 bg6s0.com
@@ -3257,6 +3263,7 @@ bijscode.com
 bikepasture.com
 bikuetrh.com
 bilgibahis.com
+biliqpvehf.com
 billypub.com
 bimlocal.com
 t.bimvid.com
@@ -5260,6 +5267,7 @@ dohhehsgnxfl.com
 dohillright.com
 dojmlztmbrvp.com
 dokaboka.com
+doksfyhdtqmipa.com
 dollarade.com
 dollarsponsor.com
 dolohen.com
@@ -6714,6 +6722,7 @@ fvsdvxjpxi.com
 fvtwyjev.com
 fvwcwbdrprdt.com
 fvzompquocgdsu.com
+fvzusqdf.com
 fwbhvrpiunlzyh.com
 fwbntw.com
 fwcrhzvfxoyi.com
@@ -7373,6 +7382,7 @@ gvisit.com
 gvoraoonpi.com
 gvoszbzfzmtl.com
 gvrqquiotcyr.com
+gvwyxnyq.com
 gvxobjcxcbkb.com
 gwaatiev.com
 gwallet.com
@@ -7416,6 +7426,7 @@ gyycgkchjtimu.com
 gzakmhhwrkagg.com
 gziedzbliamx.com
 gzkoehgbpozz.com
+gzmknnasowdtop.com
 gzmofmqddajr.com
 gzoprhvqhie.com
 gzozvhryjcf.com
@@ -7585,6 +7596,7 @@ hf18yg8q.com
 hfc195b.com
 hfedqcww.com
 hfedxxuvtjtqs.com
+hffgptqfpewjz.com
 hffmxndinqyo.com
 hffmzplu.com
 hfgevdzcoocs.com
@@ -7756,6 +7768,7 @@ hntxitqhto.com
 hobjzsymztzk.com
 hobtkxap.com
 ts2.hockey-talks.com
+hoghqjddg.com
 hogylomirfc.com
 hohfiknuk.com
 hohosearch.com
@@ -9371,6 +9384,7 @@ knepsiwviviwed.com
 knewy.com
 knimmqli.com
 knkxnwscphdk.com
+knndhcnwv.com
 knnvmkbemftwgj.com
 knowd.com
 sp.knoxnews.com
@@ -11777,6 +11791,7 @@ oiffrtkdgoef.com
 oihbs34.com
 oijjptnwrg.com
 oilfeswka.com
+oimpkumntje.com
 oinqqbzs.com
 oiokewfkjnvq.com
 oipsyfnmrwir.com
@@ -12525,6 +12540,7 @@ plenomedia.com
 plexop.com
 plgalhmhkhzy.com
 plgdhrvzsvxp.com
+plhvzqkkirw.com
 insights.plista.com
 pllblrapagrvn.com
 pllddc.com
@@ -13450,6 +13466,7 @@ qyfunsvmtudozq.com
 qyh7u6wo0c8vz0szdhnvbn.com
 qyifxakawscsyd.com
 qyiiudex.com
+qyillxuyjdlmh.com
 qykxbnflqvjxvk.com
 qyqbslpprlph.com
 qyqvfjvbzosz.com
@@ -14381,6 +14398,7 @@ sensible-ads.com
 sentemanactri.com
 sentifi.com
 sentrapromosi.com
+seoaelrfdy.com
 webstats.seoinc.com
 seoparts.com
 seosape.com
@@ -15605,6 +15623,7 @@ ticrite.com
 tracking.tidalhifi.com
 tidaltv.com
 tidytrail.com
+tielsdhblnmiv.com
 tienribwjswv.com
 tifzusomh.com
 tigzuaivmtgo.com
@@ -16170,6 +16189,7 @@ tyxznbghnfkvb.com
 tyyrigtlkny.com
 tyzfzrjaxxcg.com
 tz284.com
+tzbdudhsip.com
 tzcgpmqij.com
 tzelsvxtjvy.com
 tzfywuot.com
@@ -17226,6 +17246,7 @@ vxijqpsxpdlztm.com
 vxkupxpf.com
 vxlpefsjnmws.com
 vxncdkrggd.com
+vxneczkffmaxkf.com
 vxqhchlyijwu.com
 vxrpmslex.com
 vxuhavco.com
@@ -17781,6 +17802,7 @@ wwkowjxms.com
 wwmcuhvqaf.com
 wwngdgldlsv.com
 wwnlyzbedeum.com
+wwnuowyww.com
 wwohikwhl.com
 wwv4ez0n.com
 www-path.com
@@ -18178,6 +18200,7 @@ xwvofxgqilhy.com
 xwwkuacmqblu.com
 xwwsojvluzsb.com
 xwwvcsquuhbd.com
+xwxbiywlavgpm.com
 xwzhazcuyf.com
 xxamqnqeygbk.com
 xxdjmuekj.com
@@ -18431,6 +18454,7 @@ ykyryixcwn.com
 ylbaaods.com
 ylbslipwhfdwr.com
 yldbt.com
+yleztmobykox.com
 ylhjsrwqtqqb.com
 yljiaoluo.com
 yljjlvywdpn.com
@@ -18459,6 +18483,7 @@ ymgjtzciu.com
 ymhqeelitngcr.com
 ymlbuooxppzt.com
 ymmoeffaosvdua.com
+ympkaxpaf.com
 ymtracking.com
 ymuhybbrk.com
 ymvkirvjqgha.com
@@ -18468,6 +18493,7 @@ ynhetcoypgnl.com
 ynhhgr2zen.com
 ynhonjqahrh.com
 ynkakgknfljv.com
+ynkbueizwqu.com
 ynlrfiwj.com
 ynlvwynnsstalh.com
 ynoiezey.com
@@ -18797,6 +18823,7 @@ zhmbxvmyk.com
 zhpdtoott.com
 zhqbimjc.com
 zhqzqupvgczom.com
+zhrmtsxcdkjj.com
 zhxpnywjnltskd.com
 ziaxamkssw.com
 zidae.com
@@ -20647,6 +20674,7 @@ realer.info
 reate.info
 recallen.info
 referralargumentationnetwork.info
+reftedlettiny.info
 regdfh.info
 rensovetors.info
 requiredcollectfilm.info
@@ -20730,6 +20758,7 @@ tonsterandhantan.info
 tonstiparro.info
 tontwiredat.info
 topacity.info
+torshatencalsi.info
 tower-colocation.info
 trackbar.info
 trackingoffer.info
@@ -21126,6 +21155,7 @@ adserving.jp
 advg.jp
 agilemedia.jp
 aid-ad.jp
+app.airtrack.jp
 adstatic.ameba.jp
 imgstat.ameba.jp
 appollo.jp
@@ -23558,6 +23588,7 @@ siteverification.online
 smiinformer.online
 track.special-offers.online
 ucretsiz-indirin.online
+vestlitt.online
 wz7a23kicq.online
 o-oo.ooo
 128cash.org
