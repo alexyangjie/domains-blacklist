@@ -26999,7 +26999,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17167
+# Ignored duplicates: 17212
 
 # Ignored entries due to the whitelist: 4
 
@@ -27347,6 +27347,7 @@ wittyoffers.club
 alimabi.cn
 chinaenter.cn
 btgirl.com.cn
+luckypool.cn
 pool.minexmr.cn
 uupool.cn
 wilf.cn
@@ -27774,6 +27775,7 @@ cmmmine.com
 codpool.com
 coihive.com
 coin-blocker.com
+coin-mine.com
 ltc.coinat.com
 coinbase.com
 coinblockers.com
@@ -27806,6 +27808,7 @@ cryptity.com
 cryptmonero.com
 crypto-mining-pool.com
 cryptoactivo.com
+cryptobullionpools.com
 cryptocoinabout.com
 cryptocoinsclub.com
 cryptokittydex.com
@@ -27818,6 +27821,9 @@ cryptopros.com
 cryptoserb.com
 cryptoxpool.com
 csgoports.com
+1.curecoinmirror.com
+2.curecoinmirror.com
+3.curecoinmirror.com
 currency-pool.com
 dgnfd564sdf.com
 diggerhash.com
@@ -28378,6 +28384,7 @@ dasan.deutschland-zahlung.eu
 y.fd6fq54s6df541q23sdxfg.eu
 gcpool.eu
 hashgate.eu
+hashpool.eu
 134.ip-51-254-219.eu
 kippo.eu
 magnetbay.eu
@@ -28654,6 +28661,7 @@ ghash.io
 hashcoin.io
 hashflare.io
 hexamining.io
+innovamine.io
 iotaseed.io
 ipbc.io
 ltcminer.io
