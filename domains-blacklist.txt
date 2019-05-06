@@ -27079,7 +27079,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17212
+# Ignored duplicates: 17211
 
 # Ignored entries due to the whitelist: 4
 
@@ -27355,7 +27355,6 @@ thevideo.ch
 adcash.cl
 allminer.cl
 antex.cl
-audioknigi.cl
 autobit.cl
 pool.chaucha.cl
 chileminers.cl
@@ -27385,7 +27384,6 @@ flymining.cloud
 hushpool.cloud
 zdash.cloud
 altcoinpool.club
-audioknigi.club
 beagamer.club
 bitcoingenerator.club
 bittank.club
