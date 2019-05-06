@@ -27079,7 +27079,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 17211
+# Ignored duplicates: 17469
 
 # Ignored entries due to the whitelist: 4
 
@@ -27279,6 +27279,7 @@ z.cash
 amerty.cc
 apextop.cc
 awsmining.cc
+cnpool.cc
 coinminer.co.cc
 cryptoknight.cc
 coinspool.cu.cc
@@ -27337,6 +27338,7 @@ sunnimiq3.cf
 sunnimiq4.cf
 sunnimiq5.cf
 sunnimiq6.cf
+tortugamor.cf
 upgraderservices.cf
 us.cf
 wmasters.cf
@@ -27420,6 +27422,7 @@ reservedoffers.club
 seasonaloffers.club
 smartmine.club
 thenewgamer.club
+turtleminers.club
 whysoserius.club
 wittyoffers.club
 alimabi.cn
@@ -27886,6 +27889,7 @@ cryptity.com
 cryptmonero.com
 crypto-mining-pool.com
 cryptoactivo.com
+cryptoasiapool.com
 cryptobullionpools.com
 cryptocoinabout.com
 cryptocoinsclub.com
@@ -28061,8 +28065,10 @@ mibpool.com
 minanagency.com
 minandoando.com
 minanmedia.com
+mine2gether.com
 minecraftpool.com
 minepool.com
+minercartel.com
 minercircle.com
 minereasy.com
 minergate.com
@@ -28101,6 +28107,7 @@ mtred.com
 multiminerapp.com
 multipool.com
 multipooler.com
+muxdux.com
 my-rigs.com
 myadstats.com
 mycelium.com
@@ -28379,6 +28386,7 @@ xzpool.com
 ybcoin.com
 yourloganalytics.com
 yuyyio.com
+z-pool.com
 zcash4u.com
 zergpool.com
 dns.zuoerbusi.com
@@ -28529,6 +28537,7 @@ wmasters.ga
 yrtumngfdsdgf.ga
 zinterect.ga
 zinterest.ga
+mining.garden
 cfcdist.gd
 cloudcdn.gd
 dogepool.rf.gd
@@ -28717,6 +28726,7 @@ bitcore.io
 bitminer.io
 bitnex.io
 bitnodes.io
+challengecoin.io
 classicpool.io
 pool.sfo.coinbucks.io
 coinfirm.io
@@ -28738,6 +28748,7 @@ geteth.io
 ghash.io
 hashcoin.io
 hashflare.io
+hashparty.io
 hexamining.io
 innovamine.io
 iotaseed.io
@@ -28844,6 +28855,7 @@ zgdfz6h7po.me
 binance.media
 coinone.media
 cecked.men
+imhard4.men
 theshoppingoffers.men
 advanced-options.ml
 aliexpress103.ml
@@ -28926,6 +28938,7 @@ cocozuma.net
 coinhive.net
 cool-pool.net
 crypto-coins.net
+cryptohispano.net
 cryptominer.net
 cryptonight.net
 cryptotab.net
@@ -29150,8 +29163,8 @@ seed-7.nimiq.network
 seed-8.nimiq.network
 seed-9.nimiq.network
 webchain.network
-a-o.ni
 lewd.ninja
+trtl.ninja
 0629.123unlock.nl
 1607.123unlock.nl
 minexpool.nl
@@ -29162,6 +29175,7 @@ pandapool.nl
 ratchetcoins.nl
 estream.nu
 cryptopia.co.nz
+heigh-ho.funkypenguin.co.nz
 besocial.online
 bezoglasa.online
 binancie.online
@@ -29344,6 +29358,7 @@ www.hostingcloud.pa
 www.jshosting.pa
 zymerget.pa
 poloniex.partners
+atpool.party
 cryptopool.party
 myoffers.party
 pool.pink
@@ -29670,8 +29685,10 @@ p2pool.site
 hwid.ruhacktester.site
 whchsvlxch.site
 pool.ski
+cryptonote.social
 3389.space
 8282.space
+cryptopool.space
 devappgrant.space
 electroneum.space
 extensionsapiversion.space
@@ -29680,6 +29697,7 @@ hashing.space
 http.httpspace.space
 update.httpspace.space
 kano.space
+turtlepool.space
 ukkey3.space
 anenberg.st
 mine.cc.st
@@ -29880,6 +29898,7 @@ ethergrab.us
 gridcoin.us
 lolkekss.us
 mine-for.us
+minetrtl.us
 multipool.us
 sopool.us
 webcoin.us
