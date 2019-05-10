@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 417
+# Ignored duplicates: 418
 
 # Ignored entries due to the whitelist: 152
 
@@ -1670,6 +1670,7 @@ adit-media.com
 adition.com
 aditize.com
 adjal.com
+bms.adjarabet.com
 adjector.com
 adjourne.com
 adjug.com
@@ -2054,6 +2055,7 @@ advoly.com
 advpoints.com
 advrtice.com
 advrush.com
+advsmedia.com
 advvideo.com
 adways.com
 adwebster.com
@@ -8345,6 +8347,7 @@ imisagsrbci.com
 imitrk.com
 analytic.imlive.com
 immanalytics.com
+immscjnenl.com
 imnsmvmjrdiwwr.com
 imonomy.com
 impactradius.com
@@ -13038,6 +13041,7 @@ pushimer.com
 pushlommy.com
 pushmenews.com
 pushmobilenews.com
+pushmono.com
 trc.pushnami.com
 pushnative.com
 pushnest.com
@@ -13150,6 +13154,7 @@ pzopzjlhqbkgnp.com
 pzowsxuko.com
 pzpdxayohfdc.com
 pzpwjawqbmei.com
+pzszpntjlz.com
 pzuwqncdai.com
 pzzmqjrp.com
 q-counter.com
@@ -18124,6 +18129,7 @@ xjjjohojeeozv.com
 xjompsubsozc.com
 xjqha.com
 xjsqhlfscjxo.com
+xjtiqdylurgima.com
 xjwtyrklinni.com
 xjzqmgyr.com
 xkawgrrrpszb.com
@@ -22656,6 +22662,7 @@ google-pagerank.net
 grainsox.net
 graphli.net
 graucoay.net
+greetham.net
 grmtech.net
 groogloo.net
 gscontxt.net
@@ -22732,6 +22739,7 @@ intellecthosting.net
 intelligencehost.net
 intentmedia.net
 interactivespot.net
+interadv.net
 tr.interlake.net
 intermarkets.net
 intextad.net
@@ -22761,7 +22769,7 @@ kadam.net
 karisimbi.net
 kaukoafa.net
 kaunairu.net
-t.kctag.net
+kctag.net
 kerg.net
 keydot.net
 keymetric.net
@@ -23272,6 +23280,7 @@ collector.snplow.net
 soagitet.net
 sochetat.net
 socialtrack.net
+socketviking.net
 ivoxua.socratos.net
 softonic-analytics.net
 sonnerie.net
