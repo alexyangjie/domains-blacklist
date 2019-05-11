@@ -4396,6 +4396,7 @@ colliersads.com
 collserve.com
 sp.coloradoan.com
 pixel.colorupmedia.com
+colossusssp.com
 adlog.com.com
 combotag.com
 comclick.com
@@ -9357,6 +9358,7 @@ kitnmedia.com
 kitopr.com
 sp.kitsapsun.com
 ad.kixer.com
+kj2hy.com
 kjaay.com
 kjbfpptjlhxh.com
 kjbqzbiteubt.com
@@ -19880,6 +19882,7 @@ zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
 monu.delivery
 neads.delivery
 experianmarketingservices.digital
+fsd2.digital
 adservicemedia.dk
 andersenit.dk
 chart.dk
@@ -23578,7 +23581,6 @@ external-promo-metrics.yandex.net
 analytics.mobile.yandex.net
 banners.mobile.yandex.net
 banners-slb.mobile.yandex.net
-startup.mobile.yandex.net
 yandexadexchange.net
 yatab.net
 yceml.net
@@ -24260,6 +24262,7 @@ promoworld.pw
 prxio.pw
 qutreinr.pw
 ralozorwyn.pw
+ravalynn.pw
 reasedoper.pw
 sarjor.pw
 servinator.pw
