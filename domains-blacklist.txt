@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 418
+# Ignored duplicates: 419
 
 # Ignored entries due to the whitelist: 152
 
@@ -2364,6 +2364,7 @@ allabc.com
 allcuteboys.com
 alleliteads.com
 allmt.com
+allmyverygreatlife.com
 allnvbtrtpku.com
 allowac.com
 alloydigital.com
@@ -4279,6 +4280,8 @@ clixgalore.com
 clixpy.com
 clixsense.com
 clixtrac.com
+clk-can.com
+clk-sec.com
 clkfeed.com
 clkkcokl.com
 clkoffers.com
@@ -5087,6 +5090,7 @@ dfrekewe.com
 dfskgmrepts.com
 dfujqyjifvoe.com
 dggcgurqynie.com
+dghgutalvz.com
 dgkvriccq.com
 dglfkgmhahilp.com
 t.dgm-au.com
@@ -6364,6 +6368,7 @@ fimserve.com
 finalid.com
 tracker.financialcontent.com
 find-abc.com
+find-my-great-life.com
 findbetterresults.com
 findepended.com
 finderlocator.com
@@ -7826,6 +7831,7 @@ geo.homepage-web.com
 c.homestore.com
 hommunit.com
 honouncil.com
+hoo1luha.com
 hoohavoa.com
 hoomefodl.com
 hooraico.com
@@ -9852,6 +9858,7 @@ liakiadlbs.com
 libertycdn.com
 libertystmedia.com
 metrics-api.librato.com
+eventapi.libring.com
 libstat.com
 flashstats.libsyn.com
 licantrum.com
@@ -15340,6 +15347,7 @@ symbiosting.com
 symydvmqjjp.com
 synconnector.com
 syndicatedsearchresults.com
+syndopop.com
 synergy-e.com
 synergy-sync.com
 synerise.com
@@ -22931,6 +22939,7 @@ missrich.net
 mkt51.net
 mm7.net
 mmngte.net
+mntzrlt.net
 moba8.net
 mobalert.net
 mobalyzer.net
@@ -26139,6 +26148,7 @@ duck.wings-dark.services
 blogtraffic.sg
 srx.com.sg
 infox.sg
+epu.sh
 nativepu.sh
 party-vqgdyvoycc.now.sh
 propu.sh
@@ -27002,6 +27012,7 @@ flac2flac.xyz
 frfgn.xyz
 fsdwd.xyz
 fsfrz.xyz
+fyredet.xyz
 ogbwqq.gkwtk.xyz
 goldawm.xyz
 gomtdatacom.xyz
