@@ -305,6 +305,7 @@ rdstation.com.br
 app.shoptarget.com.br
 zlx.com.br
 ivcbrasil.org.br
+zap.buzz
 openads.ab-daily.by
 adl.kinogo.by
 ad.onliner.by
@@ -2072,6 +2073,8 @@ adworkmedia.com
 adworldmedia.com
 adwstats.com
 adx1.com
+adxadtracker.com
+adxat.com
 adxchg.com
 adxcore.com
 adxgeeks.com
@@ -4841,6 +4844,7 @@ czppmlbidjdx.com
 czpspyovtiqn.com
 czqrilwnayq.com
 czrtrfoin.com
+czsnzyykqzcreu.com
 czzzwuvvc.com
 d-stats.com
 d03x2011.com
@@ -6340,6 +6344,7 @@ fgmucsiirrsq.com
 fgnzizhe.com
 fgsjjpjhdlfthp.com
 fgsmmpazsuqak.com
+fgtdzvlydqcpus.com
 fgvjjulaegidb.com
 fgwsjwiaqtjc.com
 fgyeepfitnvkzz.com
@@ -10756,6 +10761,7 @@ mlclick.com
 mldsiekmhy.com
 mletracker.com
 mlgrrqymdsyk.com
+mlgtlxyicweqn.com
 geoip.mlive.com
 mms.mlive.com
 mljhpoy.com
@@ -10790,6 +10796,7 @@ mmondi.com
 mmoptional.com
 click.mmosite.com
 mmotraffic.com
+mmpcqstnkcelx.com
 mmsdewfvxhw.com
 mmshbwtpx.com
 mmstat.com
@@ -11058,6 +11065,7 @@ mvilivestats.com
 mvjuhdjuwqtk.com
 mvotvznetuvfb.com
 mvqinxgp.com
+mvqzskrnrsy.com
 mvrmyxkw.com
 mvtracker.com
 mvumhltl.com
@@ -12995,6 +13003,7 @@ ptyezfyxcaeu.com
 ptzbgvqpwnxg.com
 ptzljkufu.com
 pub-fit.com
+pub2srv.com
 pubdirecte.com
 pubgears.com
 c.pubguard.com
@@ -14638,6 +14647,7 @@ shopzyapp.com
 shorlakmedia.com
 shotyfy.com
 shoveac.com
+showcasead.com
 showheroes.com
 showroomlogic.com
 showyoursite.com
@@ -15355,6 +15365,7 @@ syicirtpxosk.com
 symbiosting.com
 symydvmqjjp.com
 synconnector.com
+syndapop.com
 syndicatedsearchresults.com
 syndopop.com
 synergy-e.com
@@ -17589,6 +17600,7 @@ wggmaxxawkxu.com
 wggnmbmedlmo.com
 wgkurvzvd.com
 wglbionuopeh.com
+wglbucuhxxxj.com
 wgrbdqucfoieha.com
 wgreatdream.com
 wgroobsxrnijg.com
@@ -19404,6 +19416,7 @@ biallo2.de
 biallo3.de
 pixel.bild.de
 bin-layer.de
+binarybusiness.de
 binlayer.de
 bitcoinpara.de
 blog-o-rama.de
@@ -20661,6 +20674,7 @@ stats.miarroba.info
 milaly.info
 milyeda.info
 minescripts.info
+minessetion.info
 minimumpay.info
 ministedik.info
 mlenisi.info
@@ -21009,6 +21023,7 @@ admetric.io
 admp.io
 adnami.io
 adplus.io
+adport.io
 adsrvr.io
 adtr.io
 adverti.io
@@ -21975,6 +21990,7 @@ afy11.net
 agencytradingdesk.net
 aicontents.net
 aifoosty.net
+ailtumty.net
 air360tracker.net
 airserve.net
 ads.aitype.net
@@ -23569,6 +23585,7 @@ whatsappsohbetim.net
 whoads.net
 whoaremyfriends.net
 whoisonline.net
+whukroal.net
 why-outsource.net
 widgetlead.net
 widgetvalue.net
@@ -24191,6 +24208,7 @@ terhimpa.pro
 tgsmtdata4.pro
 tiveriches.pro
 torstytons.pro
+trackingpro.pro
 traviously.pro
 trepit.pro
 trevoltas.pro
