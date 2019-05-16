@@ -102,6 +102,7 @@ logger.tv.telstra.com.au
 tiser.com.au
 zoomdirect.com.au
 counter.theconversation.edu.au
+loopa.net.au
 banners.haqqin.az
 ilk10.az
 mobilink.az
@@ -11526,6 +11527,7 @@ nnvkh.com
 nnvqabkpa.com
 nnycrypto.com
 nnztrsuu.com
+noakauhe.com
 noblemagnition.com
 nobleppc.com
 nobpgppgbucy.com
@@ -17503,6 +17505,7 @@ d899.webazilla.com
 webclicktracker.com
 counter.webcom.com
 webcompteur.com
+webcontentassessor.com
 webdissector.com
 webeatyouradblocker.com
 tru.webelapp.com
@@ -17621,6 +17624,7 @@ whatsappsohbetet.com
 whbfgaspmycyve.com
 whdulnhnrscfqx.com
 whegadry.com
+whehilru.com
 where.com
 whgsyczcofwf.com
 whgvyswets.com
@@ -23540,6 +23544,7 @@ visto1.net
 visualsteel.net
 vitalads.net
 vivamob.net
+vizaiced.net
 vizisense.net
 vkmessage01.net
 vmblock.net
