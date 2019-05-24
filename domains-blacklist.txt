@@ -11395,6 +11395,7 @@ newgentraffic.com
 newideasdaily.com
 inner.newinform.com
 news.newinform.com
+newjunads.com
 newnyqfgkkjht.com
 beacon-1.newrelic.com
 js-agent.newrelic.com
@@ -18196,6 +18197,7 @@ xihwtdncwtxc.com
 xijgedjgg5f55.com
 xijgqrrhyfa.com
 xikrik.com
+xilbalar.com
 xilfqkxezy.com
 xilnalycptredw.com
 ximad.com
@@ -21147,6 +21149,7 @@ firstimpression.io
 bab.frb.io
 freestar.io
 stats-dc1.frz.io
+galaks.io
 getbeacon.io
 event.getblue.io
 gez.io
@@ -21995,6 +21998,7 @@ adru.net
 ads-codes.net
 ads-elsevier.net
 ads-link.net
+ads-pixiv.net
 ads2ads.net
 adsafety.net
 adscampaign.net
