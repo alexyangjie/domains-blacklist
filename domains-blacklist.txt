@@ -1024,6 +1024,7 @@ statsrv.451.com
 49863d99e314a.com
 49feqdpw.com
 4a9747b7bfb3.com
+4b6994dfa47cee4.com
 4bb6jls06l.com
 4c935d6a244f.com
 4dsbanner.com
@@ -3221,6 +3222,7 @@ bfe4e6d364be199.com
 bfhavmgufvhn.com
 bfhlxjwc.com
 bfidvcsuazwy.com
+bfkpzjqpawfu.com
 bfmio.com
 bfmrffluuazwn.com
 bfoleyinteractive.com
@@ -3735,6 +3737,7 @@ buzzparadise.com
 buzzreklam.com
 bvcddoyb.com
 bvezznurwekr.com
+bvnmmdelarn.com
 bvobtmbziccr.com
 bvrkzhtxlgono.com
 bvwzffbinbou.com
@@ -4527,6 +4530,7 @@ coolerads.com
 coollcloud.com
 coolmirage.com
 coomosha.com
+coordinatedcub.com
 coostuni.com
 copacet.com
 copperchickens.com
@@ -5502,6 +5506,7 @@ dvdyicsndqbqo.com
 dvgvwatnnqsmll.com
 dvhznawcuacblo.com
 dviavwhykcdp.com
+dvokgydenwaksi.com
 dvpgijdm.com
 dvsrlrnpyxwv.com
 dvzyppnmfgtr.com
@@ -7152,6 +7157,7 @@ gleaminist.com
 gleechood.com
 glfiivzom.com
 glical.com
+gliese-682c.com
 ads.glispa.com
 exp.glispa.com
 rtb.platform.glispa.com
@@ -8038,6 +8044,7 @@ huntmad.com
 hurra.com
 hushodo.com
 hutkuzwropgf.com
+hutrcksp.com
 huvzwmithltjia.com
 huynrscfbulr.com
 huzmweoxlwanzvstlgygbrnfrmodaodqaczzibeplcezmyjnlv.com
@@ -8271,6 +8278,7 @@ igsxvpghnamnsz.com
 igupodzh.com
 igvuw.com
 igwzuwwtvnywx.com
+igycquuoypdiqx.com
 igyzmhqbihoi.com
 ihcamesgexiv.com
 ihcbfiqkp.com
@@ -10379,6 +10387,7 @@ manuelu.com
 maokdata.com
 maploco.com
 mapmyuser.com
+marfeelcache.com
 alexandria.marfeelcdn.com
 margadoncat.com
 marginalwoodfernrounddance.com
@@ -10474,6 +10483,7 @@ mcdomainalot.com
 mcdstorage.com
 mcfdnvewqws.com
 mcgndenytmy.com
+mcirxbajhw.com
 mcnklvsodqqa.com
 mcsnhbdil.com
 mctqu.com
@@ -10852,6 +10862,7 @@ mnnanyddolwf.com
 mnusvlgl.com
 mnvjibhehv.com
 mnyavixcddgx.com
+mnyawkpabrsv.com
 mnzimonbovqs.com
 moadlbgojatn.com
 moatads.com
@@ -11396,6 +11407,7 @@ newideasdaily.com
 inner.newinform.com
 news.newinform.com
 newjunads.com
+newmonads.com
 newnyqfgkkjht.com
 beacon-1.newrelic.com
 js-agent.newrelic.com
@@ -11919,6 +11931,7 @@ oiahzjhwpsokt.com
 oicssiq.com
 oidah.com
 oieeezzld.com
+oiehcvpxfbnur.com
 oiffrtkdgoef.com
 oihbs34.com
 oijjptnwrg.com
@@ -13003,6 +13016,7 @@ psma02.com
 psma03.com
 psmardr.com
 psmlgjalddqu.com
+psoomeeg.com
 psrbrytujuxv.com
 pstats.com
 psughooy.com
@@ -14225,6 +14239,7 @@ rtctxxxvdq.com
 rtdogcdkovndho.com
 rtgngrwtngms.com
 rtgpaohds.com
+rtpdn10.com
 rtpibuckwnp.com
 rtqlmwfywl.com
 rtrk.com
@@ -16042,6 +16057,7 @@ tracking202.com
 trackinglabs.com
 trackjs.com
 trackkas.com
+trackmethod.com
 trackmytarget.com
 trackmyusers.com
 trackocean.com
@@ -16485,6 +16501,7 @@ ughus.com
 ugkppchlelde.com
 uglactons.com
 uglyst.com
+ugobgzeiel.com
 ugoptxnm.com
 ugvdjzysvfivy.com
 ugwkyqdbmpwbbi.com
@@ -17293,6 +17310,7 @@ analytics.volvocars.com
 voodoo.com
 voodooalerts.com
 analytics.vooxe.com
+voqdswwgrheo.com
 votistics.com
 vouekcjmiu.com
 vovhiwr.com
@@ -21142,6 +21160,7 @@ districtm.io
 easyhash.io
 pipe-collect.ebu.io
 ebz.io
+escalated.io
 ew3.io
 extole.io
 l.ffx.io
@@ -21217,6 +21236,7 @@ owlanalytics.io
 pc1.io
 presage.io
 proper.io
+pubgenius.io
 pubstack.io
 pubwise.io
 pxf.io
@@ -23472,6 +23492,7 @@ textad.net
 js.textshift.net
 tg2016.net
 theclickers.net
+theersoa.net
 tracking.thehut.net
 thepiratereactor.net
 thesearchagency.net
