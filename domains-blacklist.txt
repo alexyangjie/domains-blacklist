@@ -10765,6 +10765,11 @@ miszwaojrn.com
 mitotach.com
 stats.mituyu.com
 r.browser.miui.com
+huangye.miui.com
+activity.browser.intl.miui.com
+api.brs.intl.miui.com
+api.newsfeed.intl.miui.com
+adv.sec.intl.miui.com
 tracking.intl.miui.com
 adv.sec.miui.com
 api.sec.miui.com
@@ -18210,6 +18215,7 @@ sdkconfig.ad.intl.xiaomi.com
 zeus.ad.intl.xiaomi.com
 abtest.mistat.intl.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
+file.market.xiaomi.com
 abtest.mistat.xiaomi.com
 data.mistat.xiaomi.com
 api.miui.security.xiaomi.com
@@ -22465,6 +22471,7 @@ d3rhktq8uy839j.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
+d3t5ngjixpjdho.cloudfront.net
 d3t9nyds4ufoqz.cloudfront.net
 d3td6g0k30g56f.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
@@ -24293,6 +24300,7 @@ readvasturked.pro
 reddleops.pro
 redewdit.pro
 relity.pro
+resorsedroblet.pro
 collector.retailcrm.pro
 rosemand.pro
 salaure.pro
