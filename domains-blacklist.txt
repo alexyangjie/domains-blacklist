@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 419
+# Ignored duplicates: 418
 
 # Ignored entries due to the whitelist: 152
 
@@ -32,7 +32,6 @@ powerad.ai
 soko.ai
 gooo.al
 msg.71.am
-admail.am
 cache.am
 circle.am
 s.infogr.am
@@ -1049,7 +1048,6 @@ statsrv.451.com
 4wnet.com
 500969adcf7ae838.com
 50258bd2b243b24df.com
-50tlyearabakazan.com
 512226d4c3039765.com
 51network.com
 51yes.com
@@ -1380,7 +1378,6 @@ aariczayhpo.com
 aarwxotc.com
 analytics.aasaam.com
 aasopqgmzywa.com
-aastob.com
 reporting.aatkit.com
 tracking.aatkit.com
 aatmytrykqhi.com
@@ -1819,7 +1816,6 @@ adprofit2share.com
 adprofy.com
 adprotected.com
 adprotraffic.com
-adproxy2.com
 adpstatic.com
 adpushup.com
 adqic.com
@@ -1862,7 +1858,6 @@ adsagony.com
 adsalvo.com
 adsame.com
 adsb4trk.com
-adsbetkoy.com
 adsbingo.com
 adsblok.com
 adsbookie.com
@@ -4374,6 +4369,7 @@ cntrafficpro.com
 cnxweb.com
 cnzz.com
 coadvertise.com
+coaincltxhw.com
 cobalten.com
 cobaltgroup.com
 cdn-qc.coccoc.com
@@ -7846,6 +7842,7 @@ hmgozryqbc.com
 hmjkyzdmoxp.com
 hmjtutipevtmg.com
 hmlghvujrve.com
+hmmmcjgho.com
 hmongcash.com
 hmwsaxnhc.com
 hmypgdhzd.com
@@ -11091,6 +11088,7 @@ mtysahmkqqdo.com
 muasoctv.com
 mucocutaneousmyrmecophaga.com
 mueqzsdabscd.com
+muhexvakuawzo.com
 mujap.com
 mujilora.com
 mukipol.com
@@ -12825,6 +12823,7 @@ poratav.com
 poredii.com
 porkypool.com
 delivery.porn.com
+pci.pornclipsxxx.com
 adn.porndig.com
 tracking.porndoelabs.com
 porngraph.com
@@ -14497,6 +14496,7 @@ sp.sctimes.com
 echo.scund.com
 scupio.com
 scuwbelujeeu.com
+scvdxxgbvoz.com
 scxxbyqjslyp.com
 sczcxmaizy.com
 sd5doozry8.com
@@ -19141,6 +19141,7 @@ znoumvve.com
 znsqykdmcjh.com
 znvctmolksaj.com
 znztvqgtaivf.com
+zobsibzczd.com
 zogzogolla.com
 zohaqnxwkvyt.com
 zoileyozfexv.com
@@ -20413,7 +20414,6 @@ x-ads.in
 4e43ac9c.info
 5362367e.info
 69m.info
-7window7.info
 aalbbh84.info
 absential.info
 acinster.info
@@ -20432,7 +20432,6 @@ adm-vids.info
 adne.info
 adplans.info
 adproper.info
-adrichmedia.info
 advertisingvalue.info
 advetvy.info
 adwalte.info
@@ -21917,7 +21916,6 @@ live.ec2.cxo.name
 live.cxo.name
 personage.name
 varsloqt.name
-1001noch.net
 stat.ws.126.net
 afflow.18-plus.net
 jdd01.198game.net
@@ -21939,7 +21937,6 @@ cnt.3dmy.net
 4affiliate.net
 4dsbanner.net
 54kefu.net
-555fff555f.net
 56fff.net
 7eer.net
 8020solutions.net
@@ -21961,7 +21958,6 @@ magicplayer-s.acestream.net
 mstat.acestream.net
 acf-webmaster.net
 acint.net
-activepop.net
 ad-back.net
 ad-balancer.net
 ad-delivery.net
@@ -23873,7 +23869,6 @@ pl.263gmail.org
 2manygirlzhere.org
 50bang.org
 info4.a7.org
-abcfilm.org
 abs-cdn.org
 abs-static.org
 access-analyze.org
@@ -24488,12 +24483,10 @@ wtdtjs.rocks
 00bloggers.ru
 0816bvh.ru
 0916video.ru
-1000zakazov.ru
 10cd.ru
 counter.1gb.ru
 af.1gdz.ru
 zarabotay.1gif.ru
-1invite.ru
 b.1istochnik.ru
 1pop.ru
 1sputnik.ru
@@ -24506,13 +24499,11 @@ ads.211.ru
 24log.ru
 24new.ru
 2da2.ru
-2firefox.ru
 2under.ru
 2xclick.ru
 33portala.ru
 34bogatirya.ru
 ad.3dnews.ru
-3lx.ru
 3mtr.ru
 3under.ru
 3wnp9.ru
@@ -24539,15 +24530,12 @@ a24help.ru
 pi.a42.ru
 aa-ds.ru
 abdmi.ru
-abrolog.ru
 acales.ru
-actexhk6fehxiun.ru
 actionads.ru
 actionpay.ru
 actionteaser.ru
 activepr.ru
 ad-ck.ru
-ad-click.ru
 click.ad1.ru
 office.ad1.ru
 r.ad1.ru
@@ -24562,8 +24550,7 @@ adbomb.ru
 adcamp.ru
 adcast.ru
 adddpc01.ru
-addflow.ru
-addtraf.ru
+ams.addflow.ru
 addweb.ru
 server.adeasy.ru
 adforce.ru
@@ -24576,7 +24563,6 @@ adkraft.ru
 adlabs.ru
 adland.ru
 adlift.ru
-adliner.ru
 admaxer.ru
 admelon.ru
 admeo.ru
@@ -24588,7 +24574,6 @@ adnova.ru
 adone.ru
 adoneast.ru
 adonweb.ru
-adpos.ru
 adpremium.ru
 adreaction.ru
 adregain.ru
@@ -25901,6 +25886,7 @@ sysdiag.ru
 syznate.ru
 t-fb-w-sv-bn-7j.ru
 top.t-sk.ru
+tantheretrec.ru
 tapstat.ru
 targetman.ru
 stat-counter.tass-online.ru
@@ -26317,6 +26303,7 @@ gctwh9xc.site
 gitcdn.site
 gitload.site
 gocdn.site
+hesftig.site
 itempana.site
 jfx61qca.site
 less-css.site
@@ -26782,7 +26769,6 @@ context.hotline.ua
 add.in.ua
 newsnet.in.ua
 exchange.informer.ua
-987654321.kiev.ua
 a-counter.kiev.ua
 banner.kiev.ua
 exo.kiev.ua
@@ -26932,7 +26918,6 @@ ugrastes.uk
 ukp2pool.uk
 204st.us
 abtracker.us
-adbutler.us
 adsfac.us
 adsrv.us
 advertbox.us
@@ -27169,6 +27154,7 @@ hhit.xyz
 hivps.xyz
 honestlypopularvary.xyz
 htmlhubing.xyz
+ian.xyz
 iiutq.xyz
 ilinan.xyz
 imzhv.xyz
