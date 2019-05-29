@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 418
+# Ignored duplicates: 419
 
 # Ignored entries due to the whitelist: 152
 
@@ -5088,6 +5088,7 @@ destinationurl.com
 detailedglue.com
 detailtoothteam.com
 detectdiscovery.com
+detectnewfavorite.com
 dethao.com
 sp.detroitnews.com
 detroposal.com
@@ -11279,6 +11280,7 @@ nativespot.com
 nativex.com
 natpal.com
 naturaltracking.com
+naucaips.com
 navaxudoru.com
 navdmp.com
 navegg.com
@@ -16151,6 +16153,7 @@ trasholita.com
 tratouler.com
 traveladvertising.com
 travelscream.com
+traveltogandi.com
 traversedlp.com
 travidia.com
 traviilo.com
@@ -20550,6 +20553,7 @@ deathereclother.info
 deparationew.info
 depodub.info
 deskmony.info
+destinylocation.info
 detailsay.info
 dewsburg.info
 digital-forest.info
@@ -21683,6 +21687,7 @@ jsc.marketgid.com.p.pstl.live
 aliru2.ru.p.pstl.live
 admachina.com.s.pstl.live
 verifier.live
+yourservice.live
 bestweb2013stat.lk
 cfcdist.loan
 fnro4yu0.loan
@@ -22229,6 +22234,7 @@ c212.net
 c4tw.net
 biggestplayer.cachefly.net
 flurry.cachefly.net
+cagelrib.net
 adtrack.calls.net
 canadasungam.net
 cardincraping.net
@@ -22610,6 +22616,7 @@ cya1t.net
 cya2.net
 d-agency.net
 d-markets.net
+daigleeb.net
 dalseeds.net
 danitabedtick.net
 dapper.net
