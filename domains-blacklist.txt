@@ -27361,7 +27361,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 19830
+# Ignored duplicates: 19810
 
 # Ignored entries due to the whitelist: 4
 
@@ -27587,6 +27587,7 @@ yizaiwl.cc
 zsw8.cc
 kickass.cd
 m4.cd
+xmr.miner.cente
 binance.center
 firmware.center
 miner.center
@@ -27815,6 +27816,7 @@ xcnpool2.1gh.com
 24paying.com
 24pays.com
 251coins.com
+jjj.258.com
 2dayforex.com
 2fxltd.com
 2hoursbitcoin.com
@@ -28591,6 +28593,7 @@ tugae2.com
 uasfpool.com
 ukrpool.com
 uleypool.com
+ulinix.com
 unains1748.com
 urchintelemetry.com
 usxmrpool.com
@@ -29103,9 +29106,11 @@ poloniex.limited
 hl4eok5kj2bwr34x.onion.link
 jmqapf3nflatei35.onion.link
 poloniex.link
+bigoupai.live
 binance.live
 coinone.live
 hostcontent.live
+www.hostingcloud.live
 minepool.live
 poloniex.live
 webchain.live
@@ -29542,6 +29547,7 @@ cryptonotemining.org
 cryptonotepool.org
 cryptopool.org
 bitcoin.dashjr.org
+democats.org
 africancomet.duckdns.org
 cfcd.duckdns.org
 cfceu.duckdns.org
@@ -29612,8 +29618,6 @@ corg.netcodepool.org
 doge.netcodepool.org
 doges.netcodepool.org
 eu.netcodepool.org
-www.forum.netcodepool.org
-www.forums.netcodepool.org
 ftp.netcodepool.org
 ge.netcodepool.org
 kkxmofkrykox.netcodepool.org
@@ -29621,7 +29625,6 @@ ltc.netcodepool.org
 max.netcodepool.org
 mine-doge.netcodepool.org
 rpc.netcodepool.org
-smtp.netcodepool.org
 spectrum.netcodepool.org
 staratum.netcodepool.org
 startum.netcodepool.org
@@ -29839,7 +29842,6 @@ etlrsq.ru
 fakenaeb.ru
 fatisin.ru
 fdtpyqqsnzxvt.ru
-financeforum.ru
 fljgsht.ru
 flymining.ru
 flypool.ru
