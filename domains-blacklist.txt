@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 419
+# Ignored duplicates: 420
 
 # Ignored entries due to the whitelist: 152
 
@@ -2899,6 +2899,7 @@ ayhdwulehfdwn.com
 ayjebauqdrys.com
 aykgxavgrooa.com
 ayozhcgcsyun.com
+ayyslqwrmoygf.com
 ayyvsbbbav.com
 ayyxveilslz.com
 az7t8.com
@@ -3243,6 +3244,7 @@ bgiiubagsuvv.com
 bgitczbd.com
 bgmgyuzcfrujc.com
 bgpxrwjrbsjb.com
+bgqddlvq.com
 bgrndi.com
 bgrojtcdymmcdr.com
 bgtmceqoipodkv.com
@@ -3425,6 +3427,7 @@ bm324.com
 bmanpn.com
 bmayhacntxax.com
 bmbnpxxwxdt.com
+bmbvnmgucbk.com
 in.bmgan.com
 bmhvaoxr.com
 bmichkohfqtnvq.com
@@ -6658,6 +6661,7 @@ fqsecure.com
 fqtag.com
 fqtpulizvvjcf.com
 fqufpknrarn.com
+fqwgi.com
 frailoffer.com
 frameptp.com
 frbhjvazapgo.com
@@ -7067,6 +7071,7 @@ gfbnr.com
 gfchcxin.com
 llsp.gfd80.com
 gfdfhdh5t5453.com
+gfeaegaepsgp.com
 gffupsrgds.com
 gfrlmvxfsvl.com
 gfstrck.com
@@ -10224,6 +10229,7 @@ xmlconfig.ltassrv.com
 ltbnvsfzevox.com
 ltedbswmryh.com
 ltfroezjyyhv.com
+ltjvgpxg.com
 ltnfhltuksarpq.com
 lttsvesujmry.com
 ltvrdftgr.com
@@ -15989,6 +15995,7 @@ pa.tns-ua.com
 tntqrmqfst.com
 tnvghrlg.com
 tnwjldvivhgr.com
+tnxiuvjtplhhdy.com
 tnznswilqtni.com
 to330.com
 toalhjpw.com
@@ -21326,7 +21333,7 @@ pubgenius.io
 pubstack.io
 pubwise.io
 pxf.io
-ad.pxlad.io
+pxlad.io
 realytics.io
 realzeit.io
 relap.io
