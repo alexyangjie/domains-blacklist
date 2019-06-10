@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 420
+# Ignored duplicates: 421
 
 # Ignored entries due to the whitelist: 152
 
@@ -1414,6 +1414,7 @@ abtrcking.com
 abusieux.com
 abxlmhllf.com
 abyvhqmfnvih.com
+acacexjsh.com
 academand.com
 acbrupozabmdc.com
 accelacomm.com
@@ -1824,6 +1825,7 @@ adqic.com
 adquantix.com
 adquest3d.com
 adquota.com
+adqvauwe.com
 adqy6rzwcs.com
 adrazzi.com
 adrcdn.com
@@ -1893,7 +1895,6 @@ adsgid.com
 adshack.com
 adshexa.com
 adshopping.com
-adshost1.com
 adshost2.com
 adshuffle.com
 adsiduous.com
@@ -1901,7 +1902,6 @@ adsignals.com
 adsimilis.com
 adsinimages.com
 adsister.com
-adsjudo.com
 adskom.com
 adslala.com
 adslidango.com
@@ -2436,6 +2436,7 @@ amgkkjgjktml.com
 amhpbhyxfgvd.com
 amikay.com
 amilliamilli.com
+amjrfmhtmoyan.com
 amlcscfr.com
 amnpmitevuxx.com
 amnrbviujof.com
@@ -2748,7 +2749,7 @@ atczxgxuxloqf.com
 atemda.com
 audience.atex.com
 track.atgstores.com
-recs.atgsvcs.com
+atgsvcs.com
 ationsity.com
 atlassolutions.com
 atmalinks.com
@@ -3356,6 +3357,7 @@ bjofqnbtokzz.com
 bjpktmjdxqpl.com
 bjpwv.com
 bjshimgqbc.com
+bjxrjybjnh.com
 bjzcyqezwksznxxhscsfcogugkyiupgjhikadadgoiruasxpxo.com
 bjzegkfv.com
 bkgesylgvrgf.com
@@ -5095,6 +5097,7 @@ descapita.com
 descrepush.com
 sp.desertsun.com
 desipearl.com
+desiredirt.com
 sp.desmoinesregister.com
 destinationurl.com
 detailedglue.com
@@ -5417,6 +5420,7 @@ dqolgbehhzvo.com
 dqpamcouthqv.com
 dqpywdubbxih.com
 dqyczunj.com
+dqzuy.com
 dragolosa.com
 dragzebra.com
 drbwugautcgh.com
@@ -5904,6 +5908,7 @@ eniaypwywduf.com
 enlarget.com
 enlnks.com
 enloe6qtkd.com
+enmbg.com
 enokjulejktukh.com
 enquisite.com
 ensighten.com
@@ -6019,6 +6024,7 @@ espnrlezwzvd.com
 esqjuilubnaoey.com
 essayads.com
 essaycoupons.com
+essjetuhfuo.com
 estadisticasgratis.com
 estantiale.com
 estara.com
@@ -6755,6 +6761,7 @@ fsvxxllfpfhk.com
 stats.ft.com
 track.ft.com
 ftbpro.com
+ftcjcmcovx.com
 ftfnchzmnyl.com
 ftgfmbxqkjda.com
 ftjcfx.com
@@ -7222,6 +7229,7 @@ gmutfgxdvwmtf.com
 gmwqmjkggg.com
 gmxetthnzmqo.com
 gmyvids.com
+gmzaaeenp.com
 gnadhzstittd.com
 gnaizrodp.com
 gncfttutoiwwq.com
@@ -7857,6 +7865,7 @@ hljiofrtqenc.com
 hlotiwnz.com
 hloyloppqpvnmd.com
 hlqnhatfxtclut.com
+hlrziwaldlui.com
 hlserve.com
 hlsqjrgeuw.com
 hlvvlouaeicp.com
@@ -8760,6 +8769,7 @@ iuhojiqev.com
 iuhpbpzwpldqbj.com
 iuncajvw.com
 iuooczzbi.com
+iuowwbrqblweoa.com
 iupqelechcmj.com
 iuumkigdfcz.com
 iuymaolvzery.com
@@ -9032,6 +9042,7 @@ jkamuwyswgk.com
 jkawfxvh.com
 jkciacmcnya.com
 jkcvevwvgfopog.com
+jkcyrdigvx.com
 jkhad.com
 jkiicqewzn.com
 jkiwvfgrsythrw.com
@@ -9156,6 +9167,7 @@ jqzzqsm.com
 jractwjn.com
 jrarnqfvjijaa.com
 jrcpoxuskv.com
+jrecvuklrjpli.com
 jrlsithadutpm.com
 jrmyhchnfawh.com
 jrrekpskc.com
@@ -9246,6 +9258,7 @@ jxanmrdurjhw.com
 jxexqemgbxvv.com
 jxfplvnrg.com
 jxhmvjrpkdyn.com
+jxkelzfrk.com
 jxmhgmkuw.com
 jxnwpeqkhtkrw.com
 jxseoruuv.com
@@ -9405,6 +9418,7 @@ kgobpqziy.com
 kgqlrcjlrx.com
 kgvgtudoridc.com
 kgxemdznctlmya.com
+kgzcentyfo.com
 kgzuerzjysxw.com
 khaicoojypokng.com
 khaklikrt.com
@@ -9726,6 +9740,7 @@ kxjzvfrhyf.com
 kxkeuums.com
 kxldvncqrkv.com
 kxounmvfkmvv.com
+kxpkadaivbm.com
 cycy.kxrxh.com
 kxtepdregiuo.com
 kxujlopfsmttyc.com
@@ -9832,6 +9847,7 @@ ldgateway.com
 ldigvkkjquvyn.com
 ldkyzudgbksh.com
 sp.ldnews.com
+ldqxdxtkepveg.com
 ldt1duixoe.com
 ldvmpopwd.com
 ldxdpitoeox.com
@@ -9933,6 +9949,7 @@ lgnjcntegeqf.com
 lgse.com
 lgthvsytzwtc.com
 lgtnwgfqkyyf.com
+lgzjsauvfv.com
 lhaqzqjbafcu.com
 lhbkkztxg.com
 lhdndgmsy.com
@@ -9940,6 +9957,7 @@ lhekiqlzatfv.com
 lhhrhdlankdftk.com
 lhinsights.com
 lhjisbsegvxf.com
+lhltebxyuzjt.com
 lhqojeofvo.com
 lhtekmhy.com
 lhttyvdxvgjrdp.com
@@ -11181,6 +11199,7 @@ mwbhjpjscy.com
 mwcvu.com
 mwfzoumik.com
 mwggummxeygq.com
+mwhtoxix.com
 mwlucuvbyrff.com
 mwnhdnkevthkz.com
 mwqkpxsrlrus.com
@@ -11571,6 +11590,7 @@ nirqmbrzplvtjr.com
 nitigoly.com
 nitmus.com
 niviemwsmiaq.com
+nivsrtqdurhjz.com
 stc.nas.nixcdn.com
 trackingdev.nixxie.com
 nization.com
@@ -11952,6 +11972,7 @@ ofjampfenbwv.com
 ofjpzeoygigtlq.com
 ofmuojegzbxo.com
 ofrducrisy.com
+ofslaskeujwn.com
 ofswhkkqpfm.com
 oftatsit.com
 ofuqmgatoli.com
@@ -12039,6 +12060,7 @@ olizyr.com
 olpvmzxadjwgk.com
 olrznxrgkym.com
 olthlikechgq.com
+olvqbwxucv.com
 olwopczjfkng.com
 tracking.olx-st.com
 olxeziuke.com
@@ -13292,6 +13314,7 @@ pypozeqi.com
 pyqwtxicjodcij.com
 pyraming.com
 pyubjvvdsrja.com
+pyzkbxspoon.com
 myjj.pyzkk.com
 pzaasocba.com
 pzbqocjaphp.com
@@ -13710,6 +13733,7 @@ qytuwxcozbk.com
 qyvebeos.com
 qyvpgddwqynp.com
 qyzoejyqbqyd.com
+qzaahtgpnb.com
 qzbnokxxvvpwf.com
 qzcpotzdkfyn.com
 gog9.qzdfc.com
@@ -14120,6 +14144,7 @@ riverhit.com
 rivrai.com
 riwdydttgbczku.com
 rixaka.com
+rixpjpjl.com
 rixxvqexdlgrl.com
 rjeksrigwzm.com
 rjeysspqsslf.com
@@ -14836,7 +14861,6 @@ silvermob.com
 silverpop.com
 similarsabine.com
 analytics.similarweb.com
-simility.com
 simonsignal.com
 simpio.com
 simpleheatmaps.com
@@ -15512,6 +15536,7 @@ sydnkqqscbxc.com
 syhjnolp.com
 syicirtpxosk.com
 symbiosting.com
+symbolizebeast.com
 symydvmqjjp.com
 synconnector.com
 syndapop.com
@@ -16700,6 +16725,7 @@ undertone.com
 undousun.com
 undoxiraqm.com
 unequalbrake.com
+unexqnotmzyf.com
 unfdjwel.com
 unffpgtoorpz.com
 unhardward.com
@@ -16792,6 +16818,7 @@ uptrendsdata.com
 analytics.upworthy.com
 upzpyrsvvxpoey.com
 uqbxjdeeq.com
+uqbxznftv.com
 uqemcyylvcdrgs.com
 uqfot.com
 uqgloylf.com
@@ -17506,6 +17533,7 @@ vuvcwrxn.com
 vuwdqproq.com
 vuwojxgklca.com
 vuysooqimdbt.com
+vvaqbhmahjb.com
 vvgttgprssiy.com
 vvjlrhuzmhzlws.com
 vvkvlqubnge.com
@@ -17637,6 +17665,7 @@ wbufuclb.com
 wbvltyeqcu.com
 wbvsgqtwyvjb.com
 wbvwcyssssh.com
+wbxzrxarmzyx.com
 wcabsbogwfxv.com
 wcgquaaknuha.com
 wcksovhmd.com
@@ -18347,6 +18376,7 @@ xkjlcqbufdlwrq.com
 xklrckmslshvq.com
 xkotbziugfturl.com
 xkoyfyaqk.com
+xkrbwsae.com
 xkssqonbadgs.com
 xkwnadxakuqc.com
 xkwnmbqef.com
@@ -18955,6 +18985,7 @@ ywegbjiv.com
 ywlaafzvnn.com
 ywolsukpto.com
 ywrfqzdvd.com
+ywsjtstwevknlc.com
 ywsugrjvusc.com
 ywtjdckysve.com
 ywuyrhkaiat.com
@@ -19073,9 +19104,11 @@ zdfyowkafur.com
 zdhnepeadrwetg.com
 zdjkzqwpqvwcmc.com
 zdolhnqbtnbcx.com
+zdplhparvrd.com
 zdqsrdamdgmn.com
 zdtag.com
 zdydvjzexmp.com
+zdyfbhfmdtpm.com
 zeads.com
 zebestof.com
 zedo.com
