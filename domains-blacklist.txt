@@ -30419,28 +30419,5 @@ hitbtc.zone
 minez.zone
 
 
-########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_High.txt ##########
-
-4w5wihkwyhsav2ha.dreamtest.at
-ojmekzw4mujvqeju.dreamtest.at
-pagaldaily.com
-g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
-nlpqflkbvkdde.eu
-uuwflbmjmi.eu
-x5sbb5gesp6kzwsh.homewind.pl
-eppilxqwyqdhmpdsn.pw
-ibjgnqsthdyp.pw
-lvanwwbyabcfevyi.pw
-lyrnvane.pw
-ohpbdikmrrhr.pw
-qqtphtlhny.pw
-rqfsctpgpuani.pw
-wqxvsxppjivs.pw
-xvchcbeqxkd.pw
-aa12111.top
-honourableud.top
-i01001.dgn.vn
-
-
 ########## Blacklist from file:domains-blacklist-local-additions.txt ##########
 
