@@ -27469,7 +27469,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 19810
+# Ignored duplicates: 19964
 
 # Ignored entries due to the whitelist: 4
 
@@ -28095,6 +28095,7 @@ arcpool.com
 arcticrise.com
 ardexfunds.com
 argobyte.com
+arqma.com
 arrabett.com
 arriels.com
 arrowbtc.com
@@ -28373,6 +28374,7 @@ gigarho.com
 give-me-coins.com
 globefx24.com
 goldennoncepool.com
+pool.golix.com
 gonspool.com
 goxmrminer.com
 grcpool.com
@@ -28577,6 +28579,7 @@ nnyetlherwallet.com
 nocroom.com
 nosekefik.com
 nullrefexcep.com
+odpool.com
 openkatalog.com
 optimusblue.com
 osdsoft.com
