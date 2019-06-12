@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 421
+# Ignored duplicates: 420
 
 # Ignored entries due to the whitelist: 152
 
@@ -899,6 +899,7 @@ log1.24liveplus.com
 2cbisyjaae.com
 2cuknh50ef.com
 2d5072d5732ab.com
+2d7bd9e6eb370143.com
 2delllwrite.com
 2dpt.com
 2el-2el-fie.com
@@ -1022,6 +1023,7 @@ statsrv.451.com
 46b77243fb11e8b5.com
 4702fb341ddf276d.com
 473863a8ef28.com
+47f624b2e6c6072e.com
 48331375c351e.com
 48423894b2a24481.com
 48dc47c7234e5258.com
@@ -1063,6 +1065,7 @@ statsrv.451.com
 55ad5a0546d9.com
 55labs.com
 x.55peixun.com
+564d28256cddaeba.com
 565an8qpws.com
 56bc7e3668e952c.com
 56bfc388bf12.com
@@ -2126,6 +2129,7 @@ adzposter.com
 adzpower.com
 adzyou.com
 ae1a1e258b8b016.com
+ae25079147984d4d.com
 ae3482c74b1a99f.com
 ae7c783736eb2ff.com
 aec40f9e073ba6.com
@@ -2947,6 +2951,7 @@ b014381c95cb.com
 b06518c81a3b7fe75.com
 b07f916388fc6e06847.com
 b0d3ea12ec1b93f7af9.com
+b13481647cf775c5.com
 b142d1440666173b0.com
 b18a21ab3c9cb53.com
 b18ed7d00817.com
@@ -2960,6 +2965,7 @@ b24f74fdcf29851d.com
 b29f325f9383.com
 b2c.com
 b3ff2cfeb6f49e.com
+b3z29k1uxb.com
 b400393baba7cd476a3.com
 b45a0da7c44600e69.com
 b59812ee54afcabd.com
@@ -5028,6 +5034,7 @@ dcznhkojghrl.com
 ddaac98f67e384d8a9.com
 ddbnikwub.com
 dddevki4u.com
+dddgndcqajr.com
 ddmlzfwsb.com
 ddomb.com
 ddprxzxnhzbq.com
@@ -5599,6 +5606,7 @@ dzdfmwaztrrm.com
 dzkmbajm.com
 dzlaodil.com
 track.dzloans.com
+dzloxwupyxw.com
 dzlpvqbyk.com
 dzqoubtxsaskdl.com
 dzyqqwixizp.com
@@ -5623,6 +5631,7 @@ e347bb14dc71778.com
 e350570881272e.com
 e521d17fa185a2.com
 e5mbjzv.com
+e6081b73afec581f.com
 e65ew88.com
 e68aa3c8f17.com
 e6916adeb7e46a883.com
@@ -6009,6 +6018,7 @@ erqqhfsu.com
 beacon.errorception.com
 erszwzaidmlc.com
 geo.ertya.com
+erucjvsest.com
 ervinguewty.com
 ervpgpxr.com
 esc-team.com
@@ -6059,6 +6069,7 @@ etglnloj.com
 eth-pocket.com
 etherealhakai.com
 ethnio.com
+etihenbteb.com
 etizspyjmjhxo.com
 etkdximarcsq.com
 etkhujhmhjix.com
@@ -6331,6 +6342,7 @@ fcpispplqq.com
 fcveilhtok.com
 fcwpxsmiyy.com
 fd84e9a464aec4387a.com
+fd9523b31ff93b5c.com
 fdbqwtqdgcsceh.com
 fdbrwxtm.com
 fddbdlolkxgc.com
@@ -6599,6 +6611,7 @@ footnote.com
 footprintdns.com
 footprintlive.com
 foovyagf.com
+foqzposfvmk.com
 forcedolphin.com
 forcepprofile.com
 forcetraf.com
@@ -7573,6 +7586,7 @@ gzpqlbqyerpb.com
 gzqoxmkuhl.com
 gzrlatbooqmt.com
 gzumjmvqjkki.com
+gzuvyhqb.com
 gzxjfkhwvhwfzr.com
 gzzctcekf.com
 h-bid.com
@@ -8819,6 +8833,7 @@ iwztirze.com
 ixbuuqymufxas.com
 ixeq490u20.com
 ixiaa.com
+ixkbavqbpsm.com
 ixlsylapsdtr.com
 ixnp.com
 ixnsmcpdauof.com
@@ -9715,6 +9730,7 @@ kuad.kusogi.com
 kutlvuitevgw.com
 kuveres.com
 kuvlikgekekwp.com
+kuwlmrggxrznky.com
 kuwogsiplp.com
 kuwzhgbnygarx.com
 kuzalooza.com
@@ -10590,6 +10606,7 @@ mdn2015x4.com
 mdn2015x5.com
 mdotlabs.com
 mdotm.com
+mdpmgoitzaotk.com
 mdrkqbsirbry.com
 bidder.mdspinc.com
 mdulmrphzsnvw.com
@@ -11633,6 +11650,7 @@ nkkreqvurtoh.com
 nklivofyjkbt.com
 nkredir.com
 nkxdyorwbt.com
+nkyafqufx.com
 nkyngrtleloc.com
 nlcfowfz.com
 nlfqbfwbfovt.com
@@ -12023,6 +12041,7 @@ ohmystats.com
 ohnohaijfq.com
 ohprlushvz.com
 ohrdpvkzhzbg.com
+ohrkrzvndwitaa.com
 ohv1tie2.com
 oiahzjhwpsokt.com
 oicssiq.com
@@ -13021,6 +13040,7 @@ prexista.com
 log.prezi.com
 analytics.prezly.com
 track.prezna.com
+prfxrfkrvzroz.com
 prggbqxuj.com
 prggimadscvm.com
 prgmh.com
@@ -14164,6 +14184,7 @@ riverbanksand.com
 riverhit.com
 rivrai.com
 riwdydttgbczku.com
+riwjpbpvkl.com
 rixaka.com
 rixpjpjl.com
 rixxvqexdlgrl.com
@@ -15407,6 +15428,7 @@ stormyachiever.com
 stormyshock.com
 stormysponge.com
 storystack.com
+stoshoos.com
 stovoudu.com
 str1kee.com
 straightnest.com
@@ -16550,6 +16572,7 @@ ubdudsdfcll.com
 ubdwc.com
 ubercpm.com
 ubertags.com
+ubgzicuglk.com
 ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com
 adserver.ubiyoo.com
 ubjapvhzffdreq.com
@@ -17124,6 +17147,7 @@ vdoing.com
 vdopia.com
 vdpyueivvsuc.com
 vdqarbfqauec.com
+vdrpwkycbla.com
 vdtaajlfocecy.com
 vdumpcunfa.com
 vduswjwfcexa.com
@@ -17677,6 +17701,7 @@ wawyxzfkab.com
 way2traffic.com
 t.wayfair.com
 waymp.com
+wbbzegmupyl.com
 wbdds.com
 wbfwyzatvqjbnf.com
 wblkmmxi.com
@@ -18203,6 +18228,7 @@ wzadmmddcmml.com
 wzafekkdp.com
 wzdrtzvp.com
 wzdzht7am5.com
+wzfoygianhe.com
 wzfxaqhiapptsz.com
 wzghuwvuyxknpv.com
 wziftlp.com
@@ -21417,7 +21443,7 @@ pubgenius.io
 pubstack.io
 pubwise.io
 pxf.io
-pxlad.io
+ad.pxlad.io
 realytics.io
 realzeit.io
 relap.io
@@ -21655,6 +21681,7 @@ i2ad.jp
 i2i.jp
 iid-network.jp
 itgear.jp
+beacon.itmedia.jp
 j-a-net.jp
 japanmetrix.jp
 ads.jlisting.jp
@@ -21678,6 +21705,7 @@ microad.jp
 ads.mixi.jp
 mobylog.jp
 mopo.jp
+msgs.jp
 mtburn.jp
 n8s.jp
 nakanohito.jp
@@ -22549,6 +22577,7 @@ d2ghscazvn398x.cloudfront.net
 d2hluuq2g8gwrv.cloudfront.net
 d2ho1n52p59mwv.cloudfront.net
 d2i54aseqwhx68.cloudfront.net
+d2ibu2ug0mt5qp.cloudfront.net
 d2j3te7y7s8xxp.cloudfront.net
 d2jn12r3o7an7z.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
@@ -25071,6 +25100,7 @@ desert.ru
 dewife.ru
 ads.dfiles.ru
 dgulden.ru
+didnrep.ru
 daast.digitalbox.ru
 digitaltarget.ru
 dinthorop.ru
