@@ -27725,7 +27725,6 @@ yizaiwl.cc
 zsw8.cc
 kickass.cd
 m4.cd
-xmr.miner.cente
 binance.center
 firmware.center
 miner.center
