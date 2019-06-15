@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 420
+# Ignored duplicates: 422
 
 # Ignored entries due to the whitelist: 152
 
@@ -3021,6 +3021,7 @@ dup.baidustatic.com
 baifendian.com
 baipagid.com
 bajofdblygev.com
+bakaqddxhhsid.com
 bakaratonline.com
 bakdsoarxjab.com
 bakkels.com
@@ -4760,6 +4761,7 @@ csgocpu.com
 cshzkkihjnweb.com
 csi-tracking.com
 csionjbak.com
+csjayzqifekaq.com
 csjuq.com
 cskwckhyhriyk.com
 cslxhmchzgbx.com
@@ -4978,6 +4980,7 @@ das5ku9q.com
 dashbida.com
 data-data-vac.com
 data-slimspots.com
+tracker.data-vp.com
 databrain.com
 datacaciques.com
 datacoral.com
@@ -5351,6 +5354,7 @@ dntrck.com
 dnudg.com
 dnxpseduuehm.com
 dnzevkqpk.com
+doathair.com
 dobgfkflsnmpaeetycphmcloiijxbvxeyfxgjdlczcuuaxmdzz.com
 dobjgpqzygow.com
 dochase.com
@@ -6469,6 +6473,7 @@ findbetterresults.com
 findepended.com
 finderlocator.com
 findsthat.com
+findswiftresults.com
 finimbratedle.com
 firaxtech.com
 stats.firedrive.com
@@ -7258,6 +7263,7 @@ gm99.com
 gmcyfkrtw.com
 gmeomlvmqlmu.com
 gmfestfc.com
+gmjhwyby.com
 gmowaloqmhtd.com
 gmpdixdh.com
 gmpmuqniggyz.com
@@ -7536,6 +7542,7 @@ ad-specs.guoshipartners.com
 guoyhfjrpt.com
 gurrfwsscwda.com
 gururevenue.com
+gusxyrtlnyv.com
 gutccaxnwso.com
 gvahzhgblkkyr.com
 gverjfuapaag.com
@@ -7548,6 +7555,7 @@ gvoszbzfzmtl.com
 gvrqquiotcyr.com
 gvwyxnyq.com
 gvxobjcxcbkb.com
+gvzphwswtv.com
 gwaatiev.com
 gwallet.com
 gwcujaprdsen.com
@@ -9543,6 +9551,7 @@ kkkiski4u.com
 kknvwhcmqoet.com
 kknwvfdzyqzj.com
 kksoyysmpp.com
+kkxrizpdh.com
 klakcdiqmgxq.com
 magnetrack.klangoo.com
 evt.klarna.com
@@ -9761,6 +9770,7 @@ kvdguzclhatdul.com
 kvdjcnerhxzb.com
 kvflzevaaco.com
 kvhxckkd.com
+kvjbqtwgrfnmt.com
 kvkoqywl.com
 kvnldhrlw.com
 kvpofpkxmlpb.com
@@ -12283,6 +12293,7 @@ geoip.oregonlive.com
 mms.oregonlive.com
 analytics.orenshmu.com
 org-dot-com.com
+organicfruitapps.com
 orgvevacxlinrr.com
 ormeadobess.com
 ormnduxoewtl.com
@@ -15058,6 +15069,7 @@ smartdevicemedia.com
 p.smartertravel.com
 smartlook.com
 smartnews-ads.com
+smartocto.com
 smartsuppchat.com
 smarttargetting.com
 smartyads.com
@@ -16107,6 +16119,7 @@ tmtuohxkv.com
 tmvtp.com
 tmwhazsjnhip.com
 tmwmigsb.com
+tmxmckanu.com
 tnacywet.com
 tncexvzu.com
 tnctrx.com
@@ -17181,6 +17194,7 @@ vczprcezg.com
 vdbasihbxwea.com
 vdbhe7ti.com
 vddhkbxeutjr.com
+vdfoejtqimcgog.com
 vdhmatjdoyqt.com
 vdldsjqxppi.com
 vdlvaqsbaiok.com
@@ -18517,6 +18531,7 @@ xmlqerwrehfqo.com
 xmlwizard.com
 xmmnwyxkfcavuqhsoxfrjplodnhzaafbpsojnqjeoofyqallmf.com
 xmmsyipahbq.com
+xmnnurmdrjmd.com
 xmoyoxsx.com
 xmrchaqjwqyvz.com
 xmsgobwy.com
@@ -18929,6 +18944,7 @@ ylziomazxhbj.com
 ymads.com
 stats.yme.com
 ymejzynrw.com
+ymerjqsynqoxdm.com
 ymetrica.com
 ymetrica1.com
 ymgjtzciu.com
@@ -23720,6 +23736,7 @@ statok.net
 stats4u.net
 statsadvance-01.net
 statsy.net
+stazumik.net
 cdn.steambets.net
 steptaik.net
 sticoats.net
@@ -25874,8 +25891,7 @@ picsspell.ru
 pidorg.ru
 pitomcydoma.ru
 placeoff.ru
-partner.pladform.ru
-stat.pladform.ru
+pladform.ru
 widgets.planeta.ru
 planetapozitiva.ru
 cdn.pljs.ru
@@ -27348,6 +27364,7 @@ nile.works
 320147982.world
 320157981.world
 420147981.world
+greedseed.world
 acount.alley.ws
 bestdeals.ws
 freestat.ws
