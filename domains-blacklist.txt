@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 422
+# Ignored duplicates: 419
 
 # Ignored entries due to the whitelist: 152
 
@@ -308,6 +308,7 @@ zlx.com.br
 ivcbrasil.org.br
 zap.buzz
 openads.ab-daily.by
+call-tracking.by
 adl.kinogo.by
 ad.onliner.by
 bugaga.tut.by
@@ -1005,6 +1006,7 @@ download.350.com
 40ceexln7929.com
 40nuggets.com
 4141d006e4f4dd17ab9.com
+41df76c67812005c.com
 41ef19c0f0794e058c.com
 4256b23b681.com
 42632zfylf.com
@@ -1128,6 +1130,7 @@ shared.65twenty.com
 66ce98158e4f402.com
 67126e4413a.com
 67s6gxv28kin.com
+6868bbe42af8e518.com
 688de7b3822de.com
 690179b5160e450.com
 691123f5be2a669b.com
@@ -1372,6 +1375,7 @@ a8c37822e110e3.com
 a911a1ed6c0.com
 a940db0846408b2.com
 a9d7c19f0282.com
+aa53df329975c325.com
 aabmxezph.com
 aacgeuvaoqbw.com
 aadbobwqgmzi.com
@@ -7295,7 +7299,6 @@ gnrdomimplementation.com
 gnreqzzts.com
 analytics.go.com
 clog.go.com
-w88.m.espn.go.com
 log.go.com
 w88.go.com
 api.ads.watchabc.go.com
@@ -15204,6 +15207,7 @@ p.aty.sohu.com
 imp.go.sohu.com
 pv.hd.sohu.com
 pv.sohu.com
+track.sohu.com
 soibuuqqhuyo.com
 soiegibhwvti.com
 soirqzccdtyk.com
@@ -21234,6 +21238,7 @@ rpeonetedronsitren.info
 rtbads.info
 russian-cuties.info
 ruunews.info
+rydresa.info
 sahraex7vah.info
 salarity.info
 samvinva.info
@@ -23098,6 +23103,7 @@ get-click.net
 getcontent.net
 getconversion.net
 ggxt.net
+pw.gigazine.net
 top.gigmir.net
 givirsou.net
 glamurka.net
@@ -23796,6 +23802,7 @@ synthasite.net
 sysfiles.net
 tacoda.net
 taggify.net
+taiphaib.net
 taiwhups.net
 tangankanan.net
 nrc.tapas.net
@@ -24499,6 +24506,7 @@ kropka.onet.pl
 stats.media.onet.pl
 js.krutor.org.pl
 smpl.hit.ppdb.pl
+quartic.pl
 codes.royalad.pl
 salesmanago.pl
 smectapop12.pl
