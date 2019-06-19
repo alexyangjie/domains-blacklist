@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 419
+# Ignored duplicates: 425
 
 # Ignored entries due to the whitelist: 152
 
@@ -942,6 +942,7 @@ analytics.30m.com
 34c2f22e9503ace.com
 download.350.com
 350media.com
+3585656d9351553f.com
 35d59588f15966.com
 360ads.com
 360adshost.com
@@ -1185,6 +1186,7 @@ xsell.6waves.com
 757a51ce62f.com
 758c824671f4fc0.com
 75b64c9763a13418e.com
+7667bab1751ff777.com
 767c937c5c4e0a6282c.com
 76bae64469159dfa58.com
 77153ccfd0549f191.com
@@ -2979,6 +2981,7 @@ b400393baba7cd476a3.com
 b45a0da7c44600e69.com
 b59812ee54afcabd.com
 b5ae848728034caddca.com
+b60228e270e363f6.com
 b6aa6257a22451c.com
 b6roqgi.com
 b76adf2b602.com
@@ -6093,6 +6096,7 @@ etargetnet.com
 etbmvqjnfxtk.com
 etbrjgpsadke.com
 etcodes.com
+etekxogwxx.com
 banners.etermax.com
 etgdta.com
 etggealva.com
@@ -6940,6 +6944,7 @@ fzbnuyjgyexs.com
 fzbyrntsjxhcmb.com
 fzccvcrsbtb.com
 fzcyyqvrbrpk.com
+fzmogmfqh.com
 fznpq.com
 fzpseyhkanhopd.com
 fzqxefkbjzwiqa.com
@@ -7162,6 +7167,7 @@ ggjsegnbriqhnz.com
 ggnabmvnwphu.com
 ggncpm.com
 ggngbgccubvf.com
+ggntadmnwwm.com
 ggprfmbbl.com
 ggsaffiliates.com
 ggscparljuz.com
@@ -7221,6 +7227,8 @@ gjliurjvfnkymq.com
 gjmlseezqjy.com
 gjnusfiby.com
 gjriyqsfrnvuv.com
+gjrstyulnbf.com
+gjrzirxxkbw.com
 gjslm.com
 gjxdibyzvczd.com
 gjyfmlrqssyj.com
@@ -7387,7 +7395,6 @@ gostats.com
 gosvhpsc.com
 gotagy.com
 gotoredr.com
-gottimuch.com
 gouowkjmewn.com
 goupandhigher.com
 gourmetads.com
@@ -7514,6 +7521,7 @@ gsiqerorqkxu.com
 gsjhehtqvin.com
 gsqwxrtcabdftt.com
 gsueoeigaq.com
+gswaelxxh.com
 gsxehyapoafiwe.com
 gsxewjrbrbtldy.com
 gsxvgomvbfrj.com
@@ -7978,11 +7986,9 @@ hohrnldconk.com
 tm1.hoiplay.com
 hokaybo.com
 hola-shopping.com
-holysts.com
 homechader.com
 geo.homepage-web.com
 c.homestore.com
-hommunit.com
 honouncil.com
 hoo1luha.com
 hoohavoa.com
@@ -8399,7 +8405,6 @@ ihgkmgwfhjam.com
 ihookupdaily.com
 ihosetch.com
 stats.surfaid.ihost.com
-ihqht.com
 ihqxhokndcfq.com
 ads-chunks.prod.ihrhls.com
 ihriduffgkel.com
@@ -8484,7 +8489,6 @@ ilsivrexvpyv.com
 ilugfyhlfv.com
 ilupcgzhagwb.com
 iluwjbuwm.com
-iluzur.com
 ilvibsabwuza.com
 ilxwlsnzhzukj.com
 im6-tub.com
@@ -8871,6 +8875,7 @@ iwebtrack.com
 iwfzluau.com
 iwgdguuz.com
 iwmonrwpeeku.com
+iwqsvntvdry.com
 iwquafxm.com
 iwqugvxozbkd.com
 iwrjczthkkla.com
@@ -9209,6 +9214,7 @@ jotpybmcjvg.com
 jovepjufhmmw.com
 jovzikimk.com
 joycasino.com
+joynxonnxfnvqr.com
 joytocash.com
 jozfwcmrxkwva.com
 jpabviwck.com
@@ -9422,6 +9428,7 @@ kbgyxsoskilli.com
 kbjddmnkallz.com
 kbkvptlxijafb.com
 kbnhoiax.com
+kbpijqva.com
 kbqebfcubeiaa.com
 kbrnfzgglehh.com
 kbrwlgzazfnv.com
@@ -9579,6 +9586,7 @@ kkawxvjeluwc.com
 kkkiski4u.com
 kknvwhcmqoet.com
 kknwvfdzyqzj.com
+kkscoephxrum.com
 kksoyysmpp.com
 kkxrizpdh.com
 klakcdiqmgxq.com
@@ -9746,6 +9754,7 @@ ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
 ktdthraxzxt.com
 ktexnnvlvhxa.com
 ktfjyexcacujjg.com
+ktgndscphrtxi.com
 kthdreplfmil.com
 kthztsgfuygcw.com
 ktjcrhdppesdd.com
@@ -10820,6 +10829,7 @@ mezimedia.com
 mezzobit.com
 mfadsrvr.com
 mfatallp.com
+mfdhvdwkdg.com
 mfeoaesafo.com
 mffurrpzbum.com
 mfgyyqqjpp.com
@@ -11484,6 +11494,7 @@ nbzionsmbgrt.com
 sanalytics.ncaa.com
 ncbqi.com
 ncdxfwxijazn.com
+nchxvxvy.com
 ncitwacpa.com
 ncjjybttngffe.com
 nclfwbnmcrci.com
@@ -13553,6 +13564,7 @@ qfqtufbrfdpbw.com
 qfrhhvbfofbt.com
 qfrpehkvqtyj.com
 qfsutura.com
+qfubwupddefjw.com
 qfypbqbumu.com
 qgawivqfotfyrw.com
 qgbjchbl.com
@@ -14436,6 +14448,7 @@ rs-stripe.com
 rsbblrpnjxgsk.com
 rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com
 rscqizsukecevh.com
+rsgazdyuycbm.com
 rsguboxyb.com
 rsiyppewvonkc.com
 rsjpgfugttlh.com
@@ -17562,6 +17575,7 @@ vndrcewnard.com
 vnfdwoljzoaer.com
 vnhcxditnodg.com
 vnkydhnyjed.com
+vnlqgiuul.com
 vnoeiemdhqf.com
 vntcxqxuqki.com
 vntsm.com
@@ -17854,9 +17868,11 @@ wddtrsuqmqhw.com
 wdjbxcdriyjoeu.com
 wdkbcvnh.com
 wdnflsjig.com
+wdquizratrntwr.com
 wduygininqbu.com
 wdwczzyhzra.com
 wdzeuxkfvyv.com
+we-stats.com
 weadrevenue.com
 web-adservice.com
 web-centr.com
@@ -18609,6 +18625,7 @@ xnvsheyceyjv.com
 xnwqhydt.com
 xoalt.com
 xocecytufu.com
+xoekgcscpnipb.com
 xojwkixxdkx.com
 xoliter.com
 ep.xone.com
@@ -18637,6 +18654,7 @@ xqopbyfjdqfs.com
 xqrjfouxkrs.com
 xqrupeccbfpzdl.com
 xqtymopje.com
+xquhrikrq.com
 xqzkpmrgcpsw.com
 xr-tds.com
 ax.xrea.com
@@ -18899,6 +18917,7 @@ ygngaqihz.com
 ygrtbssc.com
 ygsgfzydhdgd.com
 ygsm.com
+ygvuinirwqnl.com
 ygyymhfstzuen.com
 yhasbgva.com
 yhaztdufgmw.com
@@ -19013,6 +19032,7 @@ ymhqeelitngcr.com
 ymlbuooxppzt.com
 ymmoeffaosvdua.com
 ympkaxpaf.com
+ymsutnllwwcm.com
 ymtracking.com
 ymuhybbrk.com
 ymvkirvjqgha.com
@@ -19438,6 +19458,7 @@ zmkkiqghh.com
 zmnqoymznwng.com
 zmogtyau.com
 zmujsnyzujuy.com
+zmutugjqvia.com
 zmuyirmzujgk.com
 zmxcefuntbgf.com
 zmytwgfd.com
@@ -19459,6 +19480,7 @@ znztvqgtaivf.com
 zobsibzczd.com
 zogzogolla.com
 zohaqnxwkvyt.com
+zoijpllqnm.com
 zoileyozfexv.com
 zoktycom.com
 zompmedia.com
@@ -20975,7 +20997,6 @@ googlerank.info
 govbusi.info
 governobylgot.info
 gramovi.info
-grey-eyes.info
 grobido.info
 gsasd.info
 guardwork.info
@@ -22610,6 +22631,7 @@ static.clickscloud.net
 clicksor.net
 clicktale.net
 clickterra.net
+d10g3hyu3zeg91.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d10lumateci472.cloudfront.net
 d10vy5gom1ed53.cloudfront.net
@@ -24612,6 +24634,7 @@ hahedttont.pro
 hashvault.pro
 hedthertsu.pro
 iclbodnew.pro
+infloots.pro
 ingeliteral.pro
 ininmacerad.pro
 jacopiler.pro
@@ -25141,6 +25164,7 @@ busyprice.ru
 buytraf.ru
 bvcpedy6dyjgkkl.ru
 bw95vpjda.ru
+bwbw2kje848hsmla.ru
 bwjtldk6flxispz.ru
 byrgin.ru
 byzgoso.ru
@@ -25184,6 +25208,7 @@ cleen.ru
 clickbux.ru
 stat.clickfrog.ru
 clickhere.ru
+clicks-cloud.ru
 s.clicktex.ru
 clicktoclick.ru
 clickvip.ru
@@ -25493,11 +25518,8 @@ igoistochka.ru
 igrayvmeste.ru
 ihdvilappuxpgiv.ru
 iholot.ru
-ijdenha.ru
 ijnocom.ru
-ijtozat.ru
 pr.ikovrov.ru
-ikritis.ru
 ilysa.ru
 imarker.ru
 statistic.imgpay.ru
@@ -26774,7 +26796,6 @@ alfainternet.su
 binmedia.su
 freshnews.su
 gigamega.su
-gotarget.su
 idvd.su
 kazmedia.su
 leads.su
@@ -27485,6 +27506,7 @@ bigsyst.xyz
 bilink.xyz
 bnbir.xyz
 butterideareligious.xyz
+caraphene.xyz
 fas.catholicgreatestinterpret.xyz
 cdcwn.xyz
 cdnanalytics.xyz
