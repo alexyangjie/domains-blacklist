@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 425
+# Ignored duplicates: 424
 
 # Ignored entries due to the whitelist: 152
 
@@ -231,6 +231,7 @@ offeradvertising.biz
 olivka.biz
 optimizeadvert.biz
 stats.ozwebsites.biz
+parnuxi.biz
 paymonsters.biz
 pifvfovy.biz
 play2.biz
@@ -3964,6 +3965,7 @@ cbchvrgqb.com
 cbclickbank.com
 cbclicks.com
 cbdjzemui.com
+cbgujxjlp.com
 cbhpiuopomc.com
 cbiapaofuviswf.com
 cbleads.com
@@ -4028,6 +4030,7 @@ pixel.cdnwidget.com
 cdobneyuq.com
 cdookjqkri.com
 cdqmeyhqrwinofutpcepbahedusocxqyfokvehqlqpusttfwve.com
+cdqweuwvagrbd.com
 cdrjblrhsuxljwesjholugzxwukkerpobmonocjygnautvzjjm.com
 cdveeechegws.com
 cdvoqspgdp.com
@@ -4242,6 +4245,7 @@ ckqpusmxvilv.com
 ckryzlnafwyd.com
 ckwpsghi.com
 ckxhoidrflu.com
+ckxqtppyzqbll.com
 ckxyvauhqfuoin.com
 clarifyingquack.com
 sp.clarionledger.com
@@ -5330,6 +5334,7 @@ dmdcpvgu.com
 dmg-mobile.com
 dmgcxznqmmiek.com
 dmgexalrtsqrvx.com
+dmiqfxlnf.com
 dmjcabavsraf.com
 dmkadnohjoqh.com
 affili.dmm.com
@@ -6122,6 +6127,7 @@ ettamscqyvocxz.com
 etuihxnhuxrofl.com
 etvtabeas.com
 etyper.com
+etyxitxlvqp.com
 eu-survey.com
 euadw.com
 euarbohjj.com
@@ -6879,6 +6885,7 @@ fuzzyflavor.com
 fvbaffiliate.com
 fvbeyduylvgy.com
 fvbtqaijuo.com
+fveegvyfe.com
 fvenxjtzuaxu.com
 fveugxikrgrbsh.com
 fvffhcyxc.com
@@ -8894,6 +8901,7 @@ ixsogpaexhgzn.com
 ixsxgaegvplo.com
 ixtkiofaoudis.com
 ixtmbdajhvimtv.com
+ixuytaxnu.com
 ixvsxjiw.com
 ixvzraajuiniwg.com
 ixwbgjnjf.com
@@ -9365,6 +9373,7 @@ jyccdcavzpqt.com
 jydbctzvbqrh.com
 jyezgitcx.com
 jynbcpfwvazazd.com
+jynhztwrsl.com
 jynp9m209p.com
 jypmcknqvnfd.com
 jyttehhwlm.com
@@ -9497,6 +9506,7 @@ kfdwywhuissy.com
 look.kfiopkln.com
 kflimllvanjv.com
 kfpwayrztgjj.com
+kfritiigmqk.com
 kftbvzlrqkakfo.com
 kfwhcwoc.com
 kfwpyyctzmpk.com
@@ -10637,6 +10647,7 @@ mb38.com
 mb4a.com
 mb57.com
 mbajaazbqdzc.com
+mbbjrwsl.com
 mbfvfdkawpoi.com
 mbgvhfotcqsj.com
 mbixofultnnd.com
@@ -11836,6 +11847,7 @@ nqbhezlm.com
 nqcqwnvazq.com
 nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
+nqmwfddfwogbhw.com
 nqtxbweqb.com
 nqtyrwyklcmh.com
 nquchhfyex.com
@@ -12016,6 +12028,7 @@ obnyujeibv.com
 oboxads.com
 obpzuctfozram.com
 obqtccxcfjmd.com
+obrayxknu.com
 observerapp.com
 obthqxbm.com
 obufquwiwy.com
@@ -13552,6 +13565,7 @@ qeyps.com
 qezcdxxskinzi.com
 qfcsljgckvpz.com
 qfedsccxccfzut.com
+qfeorrrf.com
 qfhjthejwvgm.com
 qfijmgalopofbj.com
 qfkvnnzcyanwqo.com
@@ -13738,6 +13752,7 @@ qregqtqtuisj.com
 qrirkdzdxtxc.com
 qrkiykgbk.com
 qrksjrjppkam.com
+qrlmvqlxh.com
 qrlsx.com
 qrozsnmc.com
 qrstes.com
@@ -13835,6 +13850,7 @@ qwuejlmct.com
 qwuexgqmua.com
 qwufihkhgxphq.com
 qwuxwxdr.com
+qwyzzghouu.com
 qwzhaqtbiygid.com
 qwzmje9w.com
 qxamtnrwxjyy.com
@@ -16187,6 +16203,7 @@ tncexvzu.com
 tnctrx.com
 tnjjkxhyai.com
 tnkfactory.com
+tnkqfatbtlaw.com
 tnlfupvrlr.com
 tnlshxmc.com
 tnpbbdrvwwip.com
@@ -17436,6 +17453,7 @@ viewrtb.com
 logcollector.viewster.com
 tracking.viewster.com
 vifog.com
+vigdxlpecmv.com
 viille2.com
 vijune.com
 dagda.vilynx.com
@@ -17768,6 +17786,7 @@ vzkyivowceqcsd.com
 vzlyapss.com
 vzmnvqiqgxqk.com
 vzozsebg.com
+vzreguys.com
 vztfc.com
 vzvbhxydn.com
 vzyclgqffpojk.com
@@ -18313,6 +18332,7 @@ wvrntfonizbxn.com
 wvvftburvtyz.com
 wvzhj.com
 wwbn.com
+wwbzfppvhiebl.com
 wwclickgo.com
 stats.wwd.com
 wwgdpbvbrublvjfbeunqvkrnvggoeubcfxzdjrgcgbnvgcolbf.com
@@ -19348,6 +19368,7 @@ zeropark.com
 zeroredirect12.com
 zesep.com
 zeti.com
+zeujqjoifd.com
 zevszinklxyf.com
 zewkj.com
 zezowfisdfyn.com
@@ -20669,6 +20690,7 @@ stat.segitek.hu
 adbsys.icu
 dinorslick.icu
 oxload.icu
+ts-ads.icu
 ugabuga.icu
 accesstrade.co.id
 adplus.co.id
@@ -25838,6 +25860,7 @@ moviead.ru
 moviead55.ru
 moviecash.ru
 mpuls.ru
+mrakosy.ru
 news.nest.msk.ru
 mstop.ru
 mt-data.ru
