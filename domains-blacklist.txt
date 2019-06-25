@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 424
+# Ignored duplicates: 423
 
 # Ignored entries due to the whitelist: 152
 
@@ -1221,6 +1221,7 @@ j.77power.com
 7f011d5e07db.com
 7f19b1713b43f7db.com
 7f8e91975bdc9c5f1c.com
+7hu8e1u001.com
 7insight.com
 7mu36somt5.com
 7pud.com
@@ -4101,6 +4102,7 @@ cfsdtzggpcmr.com
 cfskcqrwbog.com
 cftervwhu.com
 cftrack.com
+cfts1tifqr.com
 cfvfjsobudwrsn.com
 cfyvrgvopaejx.com
 cfzskkkmjg.com
@@ -11277,9 +11279,7 @@ mstrlytcs.com
 msxmfyhwgkos.com
 msypr.com
 mszfmpseoqbu.com
-mtagmonetizationa.com
-mtagmonetizationb.com
-mtagmonetizationc.com
+t.mtagmonetizationb.com
 mtbnqoixmb.com
 mtbsdhzpikjt.com
 mtburn.com
@@ -12647,6 +12647,7 @@ pbzmmqakvzhm.com
 pc-ads.com
 pc1ads.com
 pc2ads.com
+pc3ads.com
 pcbfhotfyuyg.com
 pcdzsowmktz.com
 pcebrrqydcox.com
@@ -20638,6 +20639,7 @@ wbdx.fr
 weborama.fr
 1q2w3.fun
 ukdtx.31202.fun
+emkarto.fun
 tejia.gaibang.fun
 wer.glib-cough.fun
 mordi.fun
@@ -20667,7 +20669,6 @@ stats.rutracker.ga
 scriptall.ga
 ssl4go.ga
 techdomain01.ga
-tokyodrift.ga
 window-close.ga
 wordc.ga
 counter.gd
@@ -20884,6 +20885,7 @@ asinole.info
 askarer.info
 asmosi.info
 aaa.at4.info
+attacketslovern.info
 authorne.info
 awcompe.info
 awdigit.info
@@ -23128,6 +23130,7 @@ effectivemeasure.net
 tracking.ehavior.net
 eijwpxc.net
 e.ejiakm.net
+ejoonsoo.net
 metrics.el-mundo.net
 elasticad.net
 elastx.net
@@ -27753,7 +27756,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 19964
+# Ignored duplicates: 19963
 
 # Ignored entries due to the whitelist: 4
 
@@ -29230,6 +29233,7 @@ mlcros0ft.ga
 selverrytony.ga
 sinussoda.ga
 theslots.ga
+tokyodrift.ga
 versusafteberr.ga
 webchainpool.ga
 wmasters.ga
