@@ -27738,7 +27738,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 19963
+# Ignored duplicates: 20369
 
 # Ignored entries due to the whitelist: 4
 
@@ -28984,6 +28984,7 @@ viciousminer.com
 viewyng.com
 dnsseed.vinumeris.com
 virtuallakshmi.com
+vstcrack.com
 vtm-integrated.com
 wafflepool.com
 wallet-ethereum.com
@@ -29031,6 +29032,7 @@ xminingpool.com
 xmrget.com
 xmrig.com
 xmrigcc.com
+xmrlab.com
 xmrminerpro.com
 xmrminingpro.com
 xmrminingproxy.com
@@ -29128,6 +29130,8 @@ deliveryclub-6589.download
 gamestoredownload.download
 ullnot.download
 lib.rus.ec
+ls-scs-xmr-to-unlv.scsv.nevada.edu
+rs-scs-xmr-to-unlv.scsv.nevada.edu
 hashcoins.ee
 binance.enterprises
 atlanticgam.es
@@ -29260,6 +29264,7 @@ xinchao13.gq
 zpool.guru
 bitcoin.inc.hk
 llama.horse
+d-d.host
 pocketgolf.host
 stratum.sye.host
 systemlog.host
@@ -29267,6 +29272,7 @@ miner.hosting
 mmfb2.ht
 dmdamedia.hu
 tutikutyu.hu
+m-m.icu
 interbanx.co.id
 monero.riefly.id
 xmr.riefly.id
@@ -29367,6 +29373,7 @@ sighash.info
 xmr.sosoeazy.info
 stat0808.info
 sunhd.info
+system-update.info
 mykings.top.info
 trackerbuzz.info
 trackerfastblog.info
@@ -29463,6 +29470,7 @@ zmine.io
 gpumining.ir
 internetresearch.is
 kano.is
+system-update.is
 thepiratebay.is
 minecoin.it
 shrink-service.it
@@ -29489,6 +29497,7 @@ poloniex.link
 bigoupai.live
 binance.live
 coinone.live
+d-d.live
 hostcontent.live
 www.hostingcloud.live
 minepool.live
@@ -29875,6 +29884,7 @@ estream.nu
 turtle.mine.nu
 cryptopia.co.nz
 heigh-ho.funkypenguin.co.nz
+xmrbackb.one
 besocial.online
 bezoglasa.online
 binancie.online
@@ -29960,6 +29970,7 @@ geekcash.org
 getmonero.org
 globalpool.org
 hashcity.org
+aly001.hopto.org
 guanyu2017.hopto.org
 kokahacker.hopto.org
 lgjfdjlgjlvaf.hopto.org
@@ -30337,6 +30348,7 @@ thepiratebay-proxylist.se
 playe.vidto.se
 carrel.services
 cody.services
+system-check.services
 trtl.services
 pool.sexy
 youporn.sexy
@@ -30393,6 +30405,7 @@ cryptonote.social
 8282.space
 cryptocoins-digging.space
 cryptopool.space
+d-d.space
 devappgrant.space
 electroneum.space
 extensionsapiversion.space
@@ -30516,6 +30529,7 @@ piratebay.to
 streamplay.to
 template-download.to
 monero.us.to
+xmr.to
 binance.tools
 bittrex.tools
 poloniex.tools
