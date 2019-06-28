@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 423
+# Ignored duplicates: 424
 
 # Ignored entries due to the whitelist: 152
 
@@ -665,6 +665,7 @@ quilithly.co
 recusticks.co
 redemotoructs.co
 reimburs.co
+repixel.co
 replainy.co
 tools.runetki.co
 trk.sele.co
@@ -2964,6 +2965,7 @@ b014381c95cb.com
 b06518c81a3b7fe75.com
 b07f916388fc6e06847.com
 b0d3ea12ec1b93f7af9.com
+b0e8.com
 b13481647cf775c5.com
 b142d1440666173b0.com
 b18a21ab3c9cb53.com
@@ -3297,6 +3299,7 @@ bhmqoolzgxnp.com
 bhmzjxrf.com
 bhpxcsmvkqgd.com
 bhs4.com
+bhwpdezzduthrp.com
 bhyqllgtzjee.com
 bhyyevhmha.com
 echo.biasdo.com
@@ -3450,6 +3453,7 @@ blu5fdclr.com
 blueadvertise.com
 stats.bluebillywig.com
 bluecava.com
+bluecore.com
 bluedawning.com
 bluekai.com
 ads.bluelithium.com
@@ -3911,6 +3915,7 @@ caperning.com
 caphyon-analytics.com
 capitatmarket.com
 capliman.com
+capquqhuiazl.com
 caprofitx.com
 captainad.com
 captifymedia.com
@@ -4595,6 +4600,7 @@ coolerads.com
 coollcloud.com
 coolmirage.com
 coomosha.com
+cooowbno.com
 coordinatedcub.com
 coostuni.com
 cootewie.com
@@ -4833,6 +4839,7 @@ ctyzd.com
 ctzvtevpcssx.com
 cubics.com
 cuchpagh.com
+cudjntck.com
 in.cuebiq.com
 cuecxgwkjtan.com
 cuelinks.com
@@ -5331,6 +5338,7 @@ dkxeorhjmua.com
 dl-rms.com
 dlahijuwjsv.com
 dlemeyrkjy.com
+dlfdvyfn.com
 go-stats.dlinkddns.com
 dlntzbuskygwj.com
 dlotljikswmvq.com
@@ -5385,6 +5393,7 @@ dnpehliwdvjkp.com
 dnqejgrbtlxe.com
 dnr51y6xj4.com
 dnrtjavop.com
+dnrywryy.com
 dnrzajdjq.com
 projop.dnsalias.com
 dnsapimzlvmcis.com
@@ -5750,6 +5759,7 @@ ebfjbrlcvjlv.com
 ebfkifnjs.com
 ebfoxoedfyi.com
 ebgaxsjgdsnr.com
+ebhytolzhum.com
 ebicjwvxmygdqr.com
 ebifuaad.com
 eblastengine.com
@@ -5836,6 +5846,7 @@ efebafmqn.com
 efekvyyynwd.com
 mastertag.effiliation.com
 track.effiliation.com
+efhseqgqgl.com
 collector-analytics.efigence.com
 efjucmgdzexeab.com
 efluqmlyzi.com
@@ -6177,6 +6188,7 @@ evengparme.com
 eventcapture03.com
 isi-tracking.eventim.com
 eventoptimize.com
+evepcynlxks.com
 tracker.everestnutrition.com
 evergage.com
 eversely.com
@@ -6402,6 +6414,7 @@ fcihwhsiukz.com
 fcjhxlybaiab.com
 fcjnqpkrdglw.com
 fcjodgfpjiswa.com
+fclfmfjykupjdk.com
 fcpispplqq.com
 fcveilhtok.com
 fcwpxsmiyy.com
@@ -6463,6 +6476,7 @@ ff5bd8d9f8df.com
 ff76khyn6c.com
 ffanszicnoqs.com
 ffaspwzfq.com
+ffbqnbdcrx.com
 ffcqkvdaklrqkg.com
 ffdkffnj.com
 fffzquckf.com
@@ -7605,6 +7619,7 @@ gurrfwsscwda.com
 gururevenue.com
 gusxyrtlnyv.com
 gutccaxnwso.com
+guzqqzsv.com
 gvahzhgblkkyr.com
 gverjfuapaag.com
 gvfubsvgdodrj.com
@@ -8392,6 +8407,7 @@ iendoo.com
 ieoexdjxrwtq.com
 ieqbsnteuyn.com
 ieqprskfariw.com
+ierhqysqwrziez.com
 ieuezabolxphga.com
 ieuhd.com
 iewsaprgerkjny.com
@@ -9970,6 +9986,7 @@ lbbfzsjmgm.com
 lbbgjozyrgy.com
 events.lbesecapi.com
 lbfryfttoihl.com
+lbgmmsubsxn.com
 lbjgdskmgsmowy.com
 lbkprcoosfgk.com
 lbm1.com
@@ -11428,6 +11445,7 @@ myomnistar.com
 myonionsoup.com
 myonlineanalytics.com
 tag.myplay.com
+myqnpgfgjo.com
 myqvhpjyd.com
 myrcrypto.com
 myreferer.com
@@ -11932,6 +11950,7 @@ ntlhrttump.com
 ntndubuzxyfz.com
 ntnjaxoov.com
 ntnlawgchgds.com
+ntnmliatmtk.com
 ntosarang.com
 ntoyqqrwrmzr.com
 logger.ntracecloud.com
@@ -11987,6 +12006,7 @@ nwfdrxktftep.com
 nwfhalifax.com
 nwirvhxxcsft.com
 nwmum.com
+nwqgyaxazz.com
 nwrgqhjtullyjs.com
 nwsderzo.com
 metric.nwsource.com
@@ -12163,6 +12183,7 @@ ogqewglysfc.com
 oguiftmya.com
 ogulzxfxrmow.com
 oguorftbvegb.com
+ogvrdxjcgzst.com
 ogxatekkyzr.com
 ogyhsyuhczvjg.com
 ogzivkwjhrs.com
@@ -12825,6 +12846,7 @@ prm-ext.phorm.com
 phormlabs.com
 photographpan.com
 stat.php-d.com
+phpjtafdqsa.com
 phpstat.com
 phragnmpo.com
 phskaieua.com
@@ -13269,6 +13291,7 @@ abs.proxistore.com
 prpkhpjxghhn.com
 prpops.com
 prqivgpcjxpp.com
+prrpfmrz.com
 prsmglob.com
 prtjzzyfi.com
 prtracker.com
@@ -13591,6 +13614,7 @@ qdmpxonl.com
 qdpxpnmh.com
 qdtracking.com
 qduijsyonrmfke.com
+qdykmiarpuph.com
 qeembhyfvjtq.com
 qefyaspzyhcb.com
 qegndwekwc.com
@@ -13696,6 +13720,7 @@ qkfhfuua.com
 qkfqyqczawyb.com
 qkjltxihv.com
 qklhtphiphni.com
+qklkjqllykqost.com
 qkmvpyujof.com
 qknfsqxxm.com
 qknuubmfneib.com
@@ -14556,6 +14581,7 @@ rtufxsncbegz.com
 rtusxaoxemxy.com
 rtwvnrgn.com
 rtxunghyiwiq.com
+rtypxhlfvmez.com
 ru-novocti.com
 ru4.com
 rubfwmlm.com
@@ -15501,6 +15527,7 @@ sssjohomoapt.com
 ssvim.com
 ssvolkkihcyp.com
 ssyhlymwyzou.com
+rbck.st3pst3p.com
 sta-ads.com
 stack-sonar.com
 stackadapt.com
@@ -15640,6 +15667,7 @@ suddensidewalk.com
 sudolljkjzxdfc.com
 sudvzfgrmt.com
 sueolwxxosqch.com
+suewgrsq.com
 sufzmohljbgw.com
 sugarcurtain.com
 snowplow-collector.sugarops.com
@@ -16179,6 +16207,7 @@ titag.com
 titanpoker.com
 tiutietur.com
 tivbpmwvqyyrjc.com
+tivioyfstcdlce.com
 tivlvdeuokwy.com
 tixzeybm.com
 tizbmrknb.com
@@ -16383,6 +16412,7 @@ traceadmanager.com
 tracedesire.com
 tracelytics.com
 traceworks.com
+track-re01.com
 track-server-100.com
 trackaffpix.com
 trackalyzer.com
@@ -16599,6 +16629,7 @@ tthvomis.com
 tthxqtogskzp.com
 webtraffic.ttinet.com
 ttomktasfnqlg.com
+ttskmaaf.com
 ttulyfbkatyzp.com
 ttzmedia.com
 tubberlo.com
@@ -17225,6 +17256,7 @@ uyrmpnojgzi.com
 uytabzmvei.com
 uyusewjlkadj.com
 uyxjfkgudefv.com
+uyxjnuqbti.com
 uyznjuyfyjc.com
 uzagahwfnt.com
 uzbboiydfzog.com
@@ -17809,6 +17841,7 @@ vvbmvooy.com
 vvgttgprssiy.com
 vvjlrhuzmhzlws.com
 vvkvlqubnge.com
+vvoczokfayxwu.com
 vvoowcdnogp.com
 vvqeavcir.com
 vvqpavyfkr.com
@@ -17928,6 +17961,7 @@ wbbzegmupyl.com
 wbdds.com
 wbfwyzatvqjbnf.com
 wblkmmxi.com
+wbnykwffygwjwr.com
 wbpal.com
 wbptqzmv.com
 wbqliddtojkf.com
@@ -19330,6 +19364,7 @@ yz740.com
 yzesxnzfhyy.com
 yzlwuuzzehjh.com
 yzoyfmwr.com
+yzpesotyxwvpd.com
 yzreywobobmw.com
 yzrnur.com
 yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
@@ -19580,6 +19615,7 @@ znnmzggbw.com
 znoumvve.com
 znpyqdfphny.com
 znsqykdmcjh.com
+zntqjdvonxm.com
 znvctmolksaj.com
 znztvqgtaivf.com
 zobsibzczd.com
@@ -19688,6 +19724,7 @@ ztslmijniaoqip.com
 ztsrv.com
 zttlnqce.com
 ztxohhagymj.com
+ztylfmoxqnafl.com
 ztyrgxdelngf.com
 zu4l167j77.com
 zualhpolssus.com
@@ -19711,6 +19748,7 @@ zuxanrebeceko.com
 zuybvpprdoo.com
 zuzodoad.com
 zvdacnjhetcrq.com
+zvhwebvc.com
 zvmprcnihkk.com
 zvovdtomwa.com
 zvqjjurhikku.com
@@ -24179,6 +24217,7 @@ widgetvalue.net
 wifly.net
 wiflyad.net
 wisetrack.net
+wishabi.net
 analytics.witglobal.net
 tracking.wlscripts.net
 wmrok.net
@@ -24577,6 +24616,7 @@ x-busty.org
 x4x4x.org
 code.xidx.org
 xxx-babes.org
+xxxc2c.org
 yawnedgtuis.org
 youcanoptin.org
 youcanoptout.org
