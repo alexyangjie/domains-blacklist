@@ -27876,7 +27876,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 20369
+# Ignored duplicates: 22073
 
 # Ignored entries due to the whitelist: 4
 
@@ -29492,6 +29492,7 @@ myeytherwallet.info
 down.mys2016.info
 js.mys2016.info
 mytlnerwalilet.info
+namecoin.info
 ough.info
 p2pool.info
 passportinfo.info
