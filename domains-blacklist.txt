@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 424
 
-# Ignored entries due to the whitelist: 152
+# Ignored entries due to the whitelist: 151
 
 js.cdn.ac
 dxracers.accountant
@@ -1094,6 +1094,7 @@ img.56gmz.com
 5e1fcb75b6d662d.com
 5e8bba5e95ec.com
 5edb123fa3329.com
+5edeb195868e2195.com
 5f8fbbfc2244adc9.com
 5ff794f4b80.com
 5g9quwq.com
@@ -3690,6 +3691,7 @@ bskijhtct.com
 bsmryjou.com
 bsnbfufjgxrb.com
 bspjagxietut.com
+bsqbdbtftyu.com
 bsrmcmvdoeyzib.com
 bstn-14-ma.com
 bstrtb.com
@@ -4906,6 +4908,7 @@ cwxblalyyvbj.com
 cwxkywbndfue.com
 cwxmevdteoxqi.com
 cwxqufxcqopi.com
+cwyvnvukvkxqv.com
 cxgwwsapihlo.com
 cxhfzipv.com
 cxmolk.com
@@ -6110,6 +6113,7 @@ geo.ertya.com
 erucjvsest.com
 ervinguewty.com
 ervpgpxr.com
+erxvdkrivto.com
 esc-team.com
 escalatenetwork.com
 escokuro.com
@@ -7663,6 +7667,7 @@ gwaatiev.com
 gwallet.com
 gwcujaprdsen.com
 gweini.com
+gwohimtyhbthg.com
 gwovohvkzay.com
 gwquuagkjxbq.com
 gwsomeiyywaz.com
@@ -8462,6 +8467,7 @@ pbid.iforex.com
 ifqzzgwrra.com
 iframepay.com
 iftvlrkyvubnn.com
+ifuvjvbyjir.com
 ifvetqzfiawg.com
 ifyngpctovtv.com
 ig0nr8hhhb.com
@@ -9203,6 +9209,7 @@ jimqcqsyhser.com
 jimxaqrpqbxldt.com
 jinchaoyu.com
 jingavot.com
+jipzvmzzycg.com
 jirafe.com
 jirmbsgr.com
 jiruygrsl.com
@@ -10182,6 +10189,7 @@ lgzjsauvfv.com
 lhaqzqjbafcu.com
 lhbkkztxg.com
 lhdndgmsy.com
+lheanhxv.com
 lhekiqlzatfv.com
 lheqossp.com
 lhhrhdlankdftk.com
@@ -10191,6 +10199,7 @@ lhltebxyuzjt.com
 lhqojeofvo.com
 lhtekmhy.com
 lhttyvdxvgjrdp.com
+lhtvkhelii.com
 lhuetsviudr.com
 lhuqalcxjmtq.com
 lhytmylpwfzuzm.com
@@ -11097,6 +11106,7 @@ mkfzovhrfrre.com
 mkhoj.com
 mkjcjqcn.com
 mkkappfdehkwf.com
+mkkosxvmn.com
 mkkxiztluu.com
 mkmxovjaijti.com
 mkpdquuxcnhl.com
@@ -11797,6 +11807,7 @@ nglmedia.com
 nglrbsnu.com
 ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com
 ngmhnamtzgzabg.com
+ngmpuognxgs.com
 ngnofhussaao.com
 ngptxgpbdnutvi.com
 nguooqblyjrz.com
@@ -12526,6 +12537,7 @@ otoshiana.com
 otoxkqlivsqr.com
 otpckmnnfm.com
 otpyldlrygga.com
+otqzpgagsstvth.com
 otracking.com
 otrfmbluvrde.com
 otruzjgxof.com
@@ -14387,6 +14399,7 @@ sp.rgj.com
 rgmgocplioed.com
 rgttoipdr.com
 rgvrddwoccsgn.com
+rgwaskums.com
 rgzpseubgxho.com
 rgztepyoefvm.com
 analytics-rhwg.rhcloud.com
@@ -17323,10 +17336,12 @@ uvcwj.com
 uvffdmlqwmha.com
 uvjvnbitjmvzgk.com
 uvlyzxml.com
+uvmfrryhmaww.com
 uvmsfffedzzw.com
 uvniygdwmoojfm.com
 uvomthuqsqx.com
 uvppdseel.com
+uvsxjyokgfz.com
 uvxaafcozjgh.com
 uvyfszshvgassp.com
 uvzfodimtska.com
@@ -18664,6 +18679,7 @@ xbzmworkoyrx.com
 xbzwwsagli.com
 xcajbqjdcguybf.com
 xcakezoqgkmj.com
+xcbteuhokmcj.com
 xcelltech.com
 xcelsiusadserver.com
 xcgebfplttrdg.com
@@ -19875,6 +19891,7 @@ zuxanrebeceko.com
 zuybvpprdoo.com
 zuzodoad.com
 zvdacnjhetcrq.com
+zvfrfoxima.com
 zvhwebvc.com
 zvmprcnihkk.com
 zvovdtomwa.com
