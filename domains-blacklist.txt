@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 424
+# Ignored duplicates: 423
 
 # Ignored entries due to the whitelist: 151
 
@@ -395,6 +395,7 @@ countit.ch
 emediate.ch
 getback.ch
 hung.ch
+localpoint.ch
 netzstat.ch
 mas.nth.ch
 tamedia.ch
@@ -2529,6 +2530,7 @@ ankbmqtt.com
 ankcnflupb.com
 anleqthwxxns.com
 anluecyopslm.com
+anmvuuhgo.com
 anobufefig.com
 anogjkubvdfe.com
 anonymousads.com
@@ -4912,6 +4914,7 @@ cvffhevoebnz.com
 cvhcrbbbfaa.com
 cvjzauehxjsy.com
 cvnmmeux.com
+cvofpjhscrj.com
 cvzixxiesyjkha.com
 cwbbqhgtjbvtzi.com
 cwdnbhhmdnm.com
@@ -5110,6 +5113,7 @@ dc63bfb069ea522f.com
 dccstsamnyrjk.com
 dcdalkgtbmip.com
 dcgbswcvywyl.com
+dcjhpaexcwtc.com
 dckyimoylozbby.com
 dclmmbjyshy.com
 dcmatjqifoim.com
@@ -6021,6 +6025,7 @@ emzxewhgjt.com
 en25.com
 enamadugib.com
 encruses.com
+endcgwkclhtnk.com
 endloseporno.com
 enecto.com
 enectoanalytics.com
@@ -6684,6 +6689,7 @@ flodonas.com
 flomigo.com
 floodprincipal.com
 sp.floridatoday.com
+flrqdjglshsbi.com
 fluctuo.com
 fluencymedia.com
 fluentmobile.com
@@ -8167,6 +8173,7 @@ hpwsosviqyjem.com
 hpxbifcd.com
 hpxxzfzdocinivvulcujuhypyrniicjfauortalmjerubjgaja.com
 hpyue.com
+hpyxckmwle.com
 hqaajpaedpux.com
 hqbphxpavrxry.com
 hqgenotbptcu.com
@@ -8942,6 +8949,7 @@ sal.isanook.com
 isbzjaedbdjr.com
 iscaebizkzyd.com
 isdlyvhegxxz.com
+isfmvohloskgw.com
 isfxsiooyjad.com
 isggimkjabpa.com
 ishahguv.com
@@ -10356,6 +10364,7 @@ livetrafficfeed.com
 liveuniversenetwork.com
 pixels.livingsocial.com
 tracking.livingsocial.com
+livvckublf.com
 livwrite.com
 lixzmpxjilqp.com
 lizardslaugh.com
@@ -10723,6 +10732,7 @@ maidlytsnrn.com
 banner.maido3.com
 statistics.mailerlite.com
 track.mailerlite.com
+mailhxubk.com
 mailmarketingmachine.com
 tr1.mailperformance.com
 mainadd.com
@@ -11153,6 +11163,7 @@ xlmc.sec.miui.com
 metok.sys.miui.com
 tracking.miui.com
 mivrpcxlo.com
+miwhonjam.com
 mixadvert.com
 mixedreading.com
 mixpo.com
@@ -11316,6 +11327,7 @@ mojigaga.com
 mojiva.com
 mojoaffiliates.com
 mokonocdn.com
+moleagmeq.com
 mollnia.com
 molqvpnnlmnb.com
 momently.com
@@ -11467,6 +11479,7 @@ mtysahmkqqdo.com
 muasoctv.com
 mucocutaneousmyrmecophaga.com
 mueqzsdabscd.com
+mueyqvzw.com
 muhexvakuawzo.com
 mujap.com
 mujilora.com
@@ -11483,6 +11496,7 @@ munically.com
 munpprwlhric.com
 muoiuxfj.com
 muposa.com
+muqson0kgr.com
 murdoog.com
 music-desktop.com
 musighkm.com
@@ -12227,6 +12241,7 @@ oaxwtgfhsxod.com
 oazojnwqtsaj.com
 oazznjmbchmpdg.com
 obczphph.com
+obdzedcpwxk.com
 obeeifroxtivh.com
 obeisantcloddishprocrustes.com
 obesw.com
@@ -13976,6 +13991,7 @@ mi.gdt.qq.com
 pingma.qq.com
 trace.qq.com
 btrace.video.qq.com
+qqablora.com
 qqapezviufsh.com
 qqatllrijx.com
 qqbwymba.com
@@ -15023,6 +15039,7 @@ sddan.com
 sdeadbqsjam.com
 sdemctwaiazt.com
 sdgvzdksjbl.com
+sdillrnslaiyb.com
 metrics.sdkbox.com
 sdmfzlswxgzl.com
 sdqoi2d.com
@@ -17255,6 +17272,7 @@ unknowntray.com
 unkrokwhwn.com
 unlockr.com
 unmdrnuzgel.com
+unmhxfutdmxcdw.com
 unrbpcqmiybu.com
 tracking.unrealengine.com
 unrulymedia.com
@@ -23062,6 +23080,7 @@ d19182vyfoustz.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d19uh5b0umbjrr.cloudfront.net
 d1af165twk0zgn.cloudfront.net
+d1b0fk9ns6n0w9.cloudfront.net
 d1bevsqehy4npt.cloudfront.net
 d1byvlfiet2h9q.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
@@ -24017,6 +24036,7 @@ performanceanalyser.net
 perimeterx.net
 personalki.net
 phaihoaw.net
+phauwooz.net
 pheedroh.net
 phudrour.net
 pictela.net
@@ -25909,6 +25929,7 @@ hay-borsa.ru
 hdtracker.ru
 for.health-net-lady.ru
 healthynews03.ru
+hedtronverhan.ru
 helpls.ru
 henharat.ru
 hephedronwa.ru
@@ -26938,6 +26959,7 @@ ya.vteplom.ru
 vuryua.ru
 vvmblock.ru
 vyalkata.ru
+vyborexperta.ru
 adv.vz.ru
 vzzexalcirfgrf.ru
 wapstart.ru
