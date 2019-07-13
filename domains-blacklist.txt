@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 423
+# Ignored duplicates: 425
 
 # Ignored entries due to the whitelist: 151
 
@@ -2117,7 +2117,7 @@ adxpansion.com
 adxpddpc.com
 adxpose.com
 adxpower.com
-ssp.adxpremium.com
+adxpremium.com
 adxprts.com
 adxprtz.com
 adxscope.com
@@ -2947,6 +2947,7 @@ ayclinical.com
 aycwvgrra.com
 ayhdwulehfdwn.com
 ayjebauqdrys.com
+ayjfodxqmykn.com
 aykgxavgrooa.com
 ayozhcgcsyun.com
 ayyslqwrmoygf.com
@@ -5004,6 +5005,7 @@ d03x2011.com
 d04b7831b4690.com
 d0eda50bf4f7d172c06.com
 d0efb7d9aeb478d.com
+d0f85db8ee56f5c6.com
 d0p21g2fep.com
 d14emrg9.com
 d194f913ee63.com
@@ -6496,6 +6498,7 @@ fclfmfjykupjdk.com
 fcpispplqq.com
 fcveilhtok.com
 fcwpxsmiyy.com
+fd7qz88ckd.com
 fd84e9a464aec4387a.com
 fd9523b31ff93b5c.com
 fdbqwtqdgcsceh.com
@@ -6903,6 +6906,7 @@ freeusersonline.com
 freeweblogger.com
 counters.freewebs.com
 frefxzrmcdxdmi.com
+frereadayobq.com
 frescoerspica.com
 fresh-video.com
 freshcounter.com
@@ -6999,6 +7003,7 @@ furocmay.com
 fuse-data.com
 api.fusepowered.com
 fusestats.com
+futsoksu.com
 futureresiduals.com
 futureus.com
 futuristicfairies.com
@@ -7065,6 +7070,7 @@ fxvxgwqcddvm.com
 fxwkhwcmsqne.com
 fxwpmfdapcalu.com
 fxyc0dwa.com
+fyaxvmnnfk.com
 fyber.com
 fyblldnlr.com
 fybrwdikdsvzt.com
@@ -8836,6 +8842,7 @@ installtracker.com
 instantbannercreator.com
 instantclk.com
 instantdollarz.com
+instantresp.com
 insticator.com
 instinctiveads.com
 instivate.com
@@ -8916,6 +8923,7 @@ ipdlsrwctdjb.com
 ipehunxxyir.com
 iperceptions.com
 ipesdpqmq.com
+ipesuojab.com
 ipfcvsxisyz.com
 ipfingerprint.com
 ipfrom.com
@@ -9993,6 +10001,7 @@ ktoloto.com
 ktrackdata.com
 ktrgcpceilj.com
 ktrmzzrlkbet.com
+ktteklov.com
 kttjowlrr.com
 ktxtr.com
 ktyawzg.com
@@ -10066,6 +10075,7 @@ kwsmqtposrub.com
 kwspcwwjju.com
 kwuewixsnttz.com
 kwygntce.com
+kwykvodkvg.com
 kwystoaqjvml.com
 kxareafqwjop.com
 kxdprqrrfhhn.com
@@ -11145,7 +11155,7 @@ micro-win.com
 microadinc.com
 mictxtwtjigs.com
 midas-i.com
-cdn.midas-network.com
+midas-network.com
 client.midosoo.com
 analytics.midwesternmac.com
 miegpokitjxm.com
@@ -11434,6 +11444,7 @@ mpay69.com
 mpfzgidlxsqtyt.com
 mpgflvbe.com
 mpifsodagy.com
+mpjitqgyr.com
 mpk01.com
 mplxbmgukmc.com
 mplxtms.com
@@ -12025,6 +12036,7 @@ nmnzukxervpdnx.com
 campaign.nmobs.com
 nmouzlbragpyp.com
 nmpmgmldzvrmra.com
+nmqgjoytd.com
 nmrcieuvb.com
 nmtikqygo.com
 nmuwmfgdwpwb.com
@@ -12117,6 +12129,7 @@ nqtyrwyklcmh.com
 nquchhfyex.com
 nqvlw.com
 nqxdnmsp.com
+nqzmtrwend.com
 nqzmumesrbiy.com
 nrcrbfqa.com
 nrdlj2ru.com
@@ -12129,6 +12142,7 @@ nrllvmtosawfm.com
 nrmcznhlqnx.com
 nrnma.com
 nrtapaiums.com
+nrubehhd.com
 nryvxfosuiju.com
 nrzhlsvqxbgpbn.com
 nsazelqlavtc.com
@@ -12161,6 +12175,7 @@ ntnlawgchgds.com
 ntnmliatmtk.com
 ntosarang.com
 ntoyqqrwrmzr.com
+ntpawkfea.com
 logger.ntracecloud.com
 ad.ntvmsnbc.com
 ntwhbuqmel.com
@@ -13036,6 +13051,7 @@ pfxlive.com
 pgfxwbgema.com
 pgkdyhdhul.com
 pgmediaserve.com
+pgmqzpjoauoknj.com
 pgndlooirt.com
 pgnjgjiwomgdmn.com
 pgpartner.com
@@ -13379,6 +13395,7 @@ ppclinking.com
 ppcpsjihmydhr.com
 ppctrck.com
 ppcwebspy.com
+ppfpocea.com
 ppgzokht.com
 pphyjqna.com
 ppikspdz.com
@@ -13424,6 +13441,7 @@ preditates.com
 preferredain.com
 logging.prefixbox.com
 t.premii.com
+premium-members.com
 smd.premiumpromotions.com
 prenvifxzjuo.com
 preonesetro.com
@@ -15012,6 +15030,7 @@ saoboo.com
 saofjopps.com
 sapha.com
 sapvummffiay.com
+sarapbeh.com
 sardfereose.com
 sarevtop.com
 sas.com
@@ -18034,6 +18053,7 @@ voodoo.com
 voodooalerts.com
 analytics.vooxe.com
 voqdswwgrheo.com
+voqkuiowjtkwgc.com
 votistics.com
 vouekcjmiu.com
 vovhiwr.com
@@ -18661,6 +18681,7 @@ wpkbwrkejd.com
 wpkcfajkeytrro.com
 wpktjtwsidcz.com
 wplqgfpj.com
+wpnjs.com
 wpswyoyev.com
 wpsyjttctdnt.com
 wptdfllszzpczp.com
@@ -19443,6 +19464,7 @@ yjjtxuhfglxa.com
 yjlocznmvvvtp.com
 yjseeodbma.com
 yjsshralziws.com
+yjtdbdnhcu.com
 yjthoibc.com
 yjwtxskmswcjc.com
 yjwymbwcjyfed.com
@@ -20029,6 +20051,7 @@ zpxlmtujszhixe.com
 zpznbracwdai.com
 zpzsdmpvqudhsz.com
 zqaxaqqqutrx.com
+zqbnfjpewvnhjj.com
 zqdftafa.com
 zqdvdygz.com
 zqeskyeg.com
@@ -21707,6 +21730,7 @@ okvari.info
 okvedvo.info
 oligan.info
 olimpbanners.info
+olmsoneenh.info
 omatri.info
 omsama.info
 onagida.info
@@ -25207,6 +25231,7 @@ rasius.pro
 rationalan.pro
 rcdn.pro
 readvasturked.pro
+reberr.pro
 reddleops.pro
 redewdit.pro
 relity.pro
