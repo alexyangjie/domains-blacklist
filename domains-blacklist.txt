@@ -56,6 +56,7 @@ counted.at
 stat4.edev.at
 info.elba.at
 in24.at
+atlas1.krone.at
 tracking.kurier.at
 megast.at
 stats.nekapuzer.at
@@ -851,6 +852,7 @@ js.133u.com
 1phads.com
 1rankingad.com
 1sen-pit-fan.com
+ad.1serve-sys.com
 1traf.com
 1warie.com
 1xpers99.com
@@ -2253,6 +2255,7 @@ afqwfxkjmgwv.com
 analysis.afreecatv.com
 africawin.com
 afrikad.com
+afruetdxrbxz.com
 afsanalytics.com
 afterdownload.com
 afterdownloads.com
@@ -2297,6 +2300,7 @@ ahgekvzwjn.com
 ahjljmxfxuet.com
 ahjwkwugxvznxv.com
 ahkpdnrtjwat.com
+ahllgtevqrsh.com
 ahstrelgnh.com
 ahtkajcs.com
 ahuivddkvrrebo.com
@@ -4463,6 +4467,7 @@ cmfads.com
 cmhwwdwfiyx.com
 cmjjzwddw.com
 cmmeglobal.com
+cmncgeqivmjki.com
 cmnhwzdsvr.com
 cmpkynhhmkni.com
 cmpsuzvr.com
@@ -9223,6 +9228,7 @@ jcsisvtb.com
 jcxghdlrrmyy.com
 jdbovkzjtuup.com
 jdcwnccdx.com
+jddghmkf.com
 jdgilrlyqtrly.com
 jdhhehwkvl.com
 jdhnfbmrhwkn.com
@@ -11076,6 +11082,7 @@ mengchengbao.com
 mentad.com
 mepchnbjsrik.com
 mepirtedic.com
+meqxh.com
 mercadoclics.com
 mercent.com
 chanalytics.merchantadvantage.com
@@ -12144,6 +12151,7 @@ npujhntk.com
 npvos.com
 nqbhezlm.com
 nqcqwnvazq.com
+nqiabjxpcsea.com
 nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
 nqmwfddfwogbhw.com
@@ -12851,6 +12859,7 @@ w1jesu6.package12.com
 paclitor.com
 metrics.pacsun.com
 analytics.paddle.com
+paddsup.com
 padsdelivery.com
 padstm.com
 paecbeeavmopbl.com
@@ -14803,6 +14812,7 @@ rpcncuzsmpni.com
 rpczohkv.com
 rpdtrk.com
 rpnhxhzcejyiym.com
+rprgsptwx.com
 rpspeqqiddjm.com
 rpulxcwmnuxi.com
 rpzcwgrpbkltp.com
@@ -16202,6 +16212,7 @@ tns.simba.taobao.com
 taoclfxgf.com
 taodggarfrmd.com
 tapad.com
+tapffdskgjr.com
 tapfiliate.com
 tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com
 tapinfluence.com
@@ -18842,6 +18853,7 @@ wwyblltamlcr.com
 wwzchzpluwuon.com
 wwznjjvkfqnyvy.com
 wxbdfm.com
+wxbrdppfpr.com
 wxdtvssnezam.com
 wxhpszslw.com
 wxjqyqvagefw.com
@@ -20417,6 +20429,7 @@ biallo1.de
 biallo2.de
 biallo3.de
 pixel.bild.de
+spr.bild.de
 bin-layer.de
 binarybusiness.de
 binlayer.de
@@ -23731,6 +23744,7 @@ pw.gigazine.net
 top.gigmir.net
 givirsou.net
 glamurka.net
+gleechie.net
 gleersoo.net
 global-success-club.net
 globaladmedia.net
@@ -27514,6 +27528,7 @@ ad.land.to
 okt.to
 popad.to
 publisher.to
+candy.smv.to
 tracking.to
 uff5.to
 warezlayer.to
@@ -28161,6 +28176,7 @@ htmlhubing.xyz
 ian.xyz
 iiutq.xyz
 ilinan.xyz
+imzahrwl.xyz
 imzhv.xyz
 inspiringsweater.xyz
 janrain.xyz
