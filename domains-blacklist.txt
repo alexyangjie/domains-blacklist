@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 440
+# Ignored duplicates: 439
 
 # Ignored entries due to the whitelist: 151
 
@@ -1014,6 +1014,7 @@ download.350.com
 3redlightfix.com
 3t7euflv.com
 3wt4c.com
+404tracker.com
 407433bfc441.com
 40ceexln7929.com
 40nuggets.com
@@ -2425,6 +2426,7 @@ dmtracking2.alibaba.com
 stat.alibaba.com
 tracelog.www.alibaba.com
 atanx.alicdn.com
+tce.alicdn.com
 alikelys.com
 alikuvxxwy.com
 alimama.com
@@ -2635,6 +2637,7 @@ iad.appboy.com
 sdk-orion.appboy.com
 appboycdn.com
 bannerwall.s3.appcnt.com
+fast.appcues.com
 appelamule.com
 appendad.com
 api.appfireworks.com
@@ -3436,6 +3439,7 @@ bizua.com
 bizzclick.com
 bjcathay.com
 bjceodmwesmbth.com
+bjcpcnhssg.com
 bjcunwelpd.com
 bjcvibh.com
 bjjingda.com
@@ -3688,6 +3692,7 @@ breadpro.com
 stats.break.com
 breakingfeedz.com
 brealtime.com
+bred4tula.com
 edge.bredg.com
 breedac.com
 breeffnet.com
@@ -5532,6 +5537,7 @@ ad.doganburda.com
 dogrose18.com
 ads.dogusdigital.com
 dogwrite.com
+dogwuyrspt.com
 dohhehsgnxfl.com
 dohillright.com
 dojmlztmbrvp.com
@@ -5650,6 +5656,7 @@ dsnjsdrbqwdu.com
 dsnr-affiliates.com
 dsparking.com
 dsply.com
+dstillery.com
 dsultra.com
 dswwghrlwwcm.com
 dsyxresmht.com
@@ -6429,6 +6436,7 @@ ezjrnbpjthir.com
 ezknqsblzmsl.com
 ezlxnyhbjtqr.com
 ezmob.com
+ezojs.com
 ezqldmevi.com
 ezrutveckpuly.com
 eztfsnnttpqfs.com
@@ -6709,6 +6717,7 @@ fivzzu1vyo.com
 fixcounter.com
 fixionmedia.com
 fjcvncxrmmru.com
+fjczvutpucr.com
 fjeqkpblfb.com
 fjfxpykp.com
 fjjuo.com
@@ -7048,6 +7057,7 @@ fubhyuveurmlz.com
 fuckbookvietnam.com
 cookie.fuel451.com
 fueldeck.com
+fuelx.com
 fugetech.com
 fuialqqq.com
 js4386.fujianryt.com
@@ -7318,6 +7328,7 @@ geobytes.com
 visit.geocities.com
 geocompteur.com
 geocontatore.com
+geoip-db.com
 geoipads.com
 click.geopaysys.com
 geophrenia.com
@@ -8200,6 +8211,7 @@ hmjtutipevtmg.com
 hmlghvujrve.com
 hmmmcjgho.com
 hmongcash.com
+hmstats.com
 hmwsaxnhc.com
 hmypgdhzd.com
 hmzwcomigpqia.com
@@ -8246,6 +8258,7 @@ hoqqzlvwukpo.com
 horheloopo.com
 horsered.com
 hortestoz.com
+horvmygebyg.com
 horyzon-media.com
 hosiioyx.com
 hospitality-optimizer.com
@@ -8308,6 +8321,7 @@ hqtrxzcjjjj.com
 hqtvvfqmfykcrs.com
 hquijlndtd.com
 hqupjfmq.com
+hqvdkbap.com
 hqwlpexoywbc.com
 hqxtsqwpvort.com
 hqyenmzgxk.com
@@ -8994,6 +9008,7 @@ ioighavxylne.com
 ioiylgyf.com
 ionbpysfukdh.com
 ionmvdpifz.com
+ioppxhhtgbydsj.com
 ioujbpldicfgm.com
 ioupfmge.com
 ioyixcprbghm.com
@@ -10227,6 +10242,7 @@ lanktydm.com
 sp.lansingstatejournal.com
 lansrv030.com
 laojiayoufang.com
+lapdqegtp.com
 larentisol.com
 lareson.com
 largestable.com
@@ -10479,6 +10495,7 @@ linkworth.com
 linkxchanger.com
 linkybank.com
 linoleictanzaniatitanic.com
+liod1ours.com
 lionsads.com
 liosawitskzd.com
 liqbipkfbafq.com
@@ -10720,6 +10737,7 @@ lttsvesujmry.com
 ltvrdftgr.com
 ltwlxoedrydz.com
 ltzjkjxx.com
+luagrcmjnovjp.com
 lucidel.com
 lucidmedia.com
 lucky88.com
@@ -10874,9 +10892,11 @@ magicanfy.com
 magifirst.com
 magiq.com
 magma-analytics.com
+magnetairport.com
 magnetisemedia.com
 magnify360.com
 magnomita.com
+magnuum.com
 magwfymjhils.com
 mahimeta.com
 maidlytsnrn.com
@@ -12492,6 +12512,7 @@ odukhsymyua.com
 odwymewlu.com
 oebdarcqsqcdk.com
 oeevatisopdl.com
+oehivgounhm.com
 oehjxqhiasrk.com
 oehposan.com
 oeidusggzj.com
@@ -12687,6 +12708,7 @@ onvertise.com
 onvhilwrqdgd.com
 ooaihyyrvflmz.com
 ooakwpvbxym.com
+oobywbdeveuodd.com
 oocoeevre.com
 ooczhygehw.com
 oodode.com
@@ -14398,6 +14420,7 @@ rahvoujjgmtvft.com
 raiggy.com
 rainbowtgx.com
 rainwealth.com
+tag.rmp.rakuten.com
 rampanel.com
 rampmetrics.com
 rank-hits.com
@@ -14456,6 +14479,7 @@ rbyjirwjbibz.com
 rcappkszvgwxx.com
 rcemsoiyil.com
 rcjthosmxldl.com
+rckpwmhqz.com
 rckxwyowygef.com
 rcnkflgtxspr.com
 rcscaxhjmm.com
@@ -15345,6 +15369,7 @@ sensible-ads.com
 sentemanactri.com
 sentifi.com
 sentrapromosi.com
+browser.sentry-cdn.com
 delivery.senvangvn.com
 seoaelrfdy.com
 webstats.seoinc.com
@@ -16187,6 +16212,7 @@ suvvihvbskvnii.com
 suwadesdshrg.com
 suywlxzbjtbib.com
 svapqzplbwjx.com
+svbfcmumrj.com
 svbsvbwci.com
 svdmxetbyfyg.com
 svdnqszxgucgd.com
@@ -16402,6 +16428,7 @@ tcwcsaddht.com
 tcxygxdrv.com
 tcyeyccspxod.com
 tczvikamowfjte.com
+tczzzlwpss.com
 td-tracker.com
 track.td3x.com
 td553.com
@@ -16465,6 +16492,7 @@ tendatta.com
 tenlokif.com
 tennerlist.com
 sp.tennessean.com
+tentekuzi.com
 teosredic.com
 tepazmynhvo.com
 teqceeivmpvv.com
@@ -16769,6 +16797,7 @@ tnxiuvjtplhhdy.com
 tnznswilqtni.com
 to330.com
 toalhjpw.com
+toarqsglo.com
 toboads.com
 toenwwsmam.com
 toflvbkpwxcr.com
@@ -20206,6 +20235,7 @@ zonhpljclov.com
 zonolali.com
 zonplug.com
 zontera.com
+zonvid.com
 zoomflow.com
 zoomino.com
 vdc.zoomph.com
@@ -23539,6 +23569,7 @@ d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d37s9vd5t6mov7.cloudfront.net
+d38nbbai6u794i.cloudfront.net
 d396ihyrqc81w.cloudfront.net
 d39hdzmeufnl50.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
@@ -23800,6 +23831,7 @@ analytics.edgesuite.net
 edomz.net
 edt02.net
 eetseemp.net
+eetsooso.net
 effectfree.net
 effectivemeasure.net
 tracking.ehavior.net
@@ -23874,6 +23906,7 @@ novunu.football-plyus.net
 forex-affiliate.net
 cdn.ads.fotoable.net
 geoip.fotoable.net
+statsp.fpop.net
 franecki.net
 free-counters.net
 free-domain.net
@@ -24139,6 +24172,7 @@ code.lockbot.net
 locotrack.net
 lognormal.net
 ptp.lolco.net
+loodoost.net
 lookfornews.net
 loopfuse.net
 luckyorange.net
@@ -24232,6 +24266,7 @@ mxcdn.net
 adv.mxmcdn.net
 mxptint.net
 my-layer.net
+mybluemix.net
 myconst.net
 mycooliframe.net
 bauersagtnein.myeffect.net
@@ -24983,6 +25018,7 @@ appliere.online
 code.barrior.online
 bj1110.online
 clks003-glaze.online
+cutescale.online
 dashgreen.online
 deletemer.online
 dramatical.online
@@ -25336,7 +25372,6 @@ clk.onet.pl
 csr.onet.pl
 kropka.onet.pl
 stats.media.onet.pl
-js.krutor.org.pl
 smpl.hit.ppdb.pl
 rec.quartic.pl
 codes.royalad.pl
@@ -26275,6 +26310,7 @@ gsmonitor.ru
 guktuti.ru
 gvapp.ru
 haphiterton.ru
+hapket.ru
 harolmo.ru
 hay-borsa.ru
 hdtracker.ru
@@ -26376,6 +26412,7 @@ ixvenhgwukn.ru
 izdagda.ru
 izdatra.ru
 izitizi.ru
+izrelo.ru
 i.j2j.ru
 jazg97clb.ru
 jeculdfores.ru
@@ -28205,6 +28242,7 @@ track.icheck.com.vn
 logging.phunuonline.com.vn
 viam.com.vn
 eclick.vn
+analytics.explus.vn
 trackingapi.foody.vn
 logging.galaxypub.vn
 polyad.galaxypub.vn
@@ -28512,6 +28550,7 @@ serverbest.xyz
 smrtbnr.xyz
 sohbetpaneli.xyz
 stabilityappointdaily.xyz
+stygg.xyz
 tabzz.xyz
 tchhelpdmn.xyz
 tidafors.xyz
