@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 439
+# Ignored duplicates: 429
 
 # Ignored entries due to the whitelist: 151
 
@@ -1441,6 +1441,7 @@ clk.about.com
 abruptroad.com
 abscontal.com
 abserv123.com
+ariane.abtasty.com
 try.abtasty.com
 abtrcking.com
 abtshield.com
@@ -2421,6 +2422,7 @@ alexrid.com
 alfynetwork.com
 algkebjdgafa.com
 algnnojsdr.com
+algopine.com
 algovid.com
 algrizej.com
 alhpqmefnwkxtn.com
@@ -3355,6 +3357,7 @@ bhlusdvadp.com
 bhmqoolzgxnp.com
 bhmzjxrf.com
 bhpxcsmvkqgd.com
+bhrebiicmcj.com
 bhs4.com
 bhwpdezzduthrp.com
 bhyqllgtzjee.com
@@ -3567,6 +3570,7 @@ bnqgubwpq.com
 bnrdom.com
 bnrslks.com
 bnserving.com
+bnsowzvglhu.com
 bnspx.com
 bnstero.com
 bnstnhto.com
@@ -4146,6 +4150,7 @@ ceetoaho.com
 cef9c80977e050.com
 ceidxneoogpuh.com
 cekptlucf.com
+cekzdbewgnzu.com
 celebros-analytics.com
 celebrus.com
 celeritascdn.com
@@ -4612,6 +4617,7 @@ commissionmonster.com
 commoncannon.com
 platform.communicatorcorp.com
 company-target.com
+i.compendium.com
 c.compete.com
 analytics.competitoor.com
 completecarrd.com
@@ -5010,6 +5016,7 @@ cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com
 cxqmzfcfcwbwv.com
 cxrmgoybhyrk.com
 cxunpvor.com
+cxxhkmuxdjsmw.com
 cxxqchjb.com
 cxxsegmhltakq.com
 cxzisvjhpt.com
@@ -5489,6 +5496,7 @@ dmnangpsbpm.com
 dmojscqlwewu.com
 dmpcounter.com
 dmpxs.com
+dmrecvpflqb.com
 dmrqnwtyttd.com
 dmsvdderirwbu.com
 dmtracker.com
@@ -5614,6 +5622,7 @@ dpstack.com
 dpwmloknxtuw.com
 dpwrhdzeqw.com
 dpwsvrkmfxrt.com
+dpypzvjarj.com
 dqdnwhyxeblt.com
 dqdwvmpez.com
 dqekudhbwprx.com
@@ -5745,6 +5754,7 @@ dwgfwxiecp.com
 dwhvkier.com
 dwin1.com
 dwin2.com
+dwmegismbq.com
 dwopbruzifg.com
 dwuvmraztukg.com
 dwvfccxbj.com
@@ -9016,6 +9026,7 @@ ioiylgyf.com
 ionbpysfukdh.com
 ionmvdpifz.com
 ioppxhhtgbydsj.com
+iotechnologies.com
 ioujbpldicfgm.com
 ioupfmge.com
 ioyixcprbghm.com
@@ -10719,6 +10730,7 @@ lrbllelemsx.com
 lrcrobshelr.com
 lrgtkljakwfw.com
 lrjltdosshhd.com
+lrlkdlpksqveje.com
 lrmjvytlhho.com
 lroywnhohfrj.com
 lruyzrlcef.com
@@ -11013,6 +11025,7 @@ maxpark.com
 reports.maxperview.com
 maxserving.com
 dcs.maxthon.com
+maxtraffic.com
 maxymiser.com
 maysrqdev.com
 mayvbm.com
@@ -11097,6 +11110,7 @@ media-vip.com
 media303.com
 media6degrees.com
 media970.com
+mediaalpha.com
 mediaarmor.com
 mediaclick.com
 mediacot.com
@@ -11733,6 +11747,7 @@ mwnhdnkevthkz.com
 mwqkpxsrlrus.com
 mwuiykzqwaic.com
 mwzutiypqyyx.com
+mxapis.com
 mxcount.com
 mxctsflkxs.com
 mxpnl.com
@@ -12632,6 +12647,7 @@ okkytnaadhsqnb.com
 okmuxdbq.com
 oknmanswftcd.com
 okoufwmfzujsf.com
+oktkuwjry.com
 oktopost.com
 okvmsjyrremu.com
 okwljypglchl.com
@@ -12847,6 +12863,7 @@ otfquqgqvsjof.com
 othepbuttit.com
 othersonline.com
 otinekocin.com
+otiqknmqyibci.com
 otm-r.com
 otnolabttmup.com
 otnolatrnup.com
@@ -14123,6 +14140,7 @@ qiremmtynkae.com
 qirkwipiamqsi.com
 qirnhdcywjnd.com
 qitumxisyt.com
+qitwoxzibesak.com
 qiurgfxexsmp.com
 qixlpaaeaspr.com
 qiyou.com
@@ -14701,6 +14719,7 @@ revnuehub.com
 revokinets.com
 revolvermaps.com
 revotas.com
+revqwsjtu.com
 revresda.com
 revresponse.com
 revrtb.com
@@ -15217,6 +15236,7 @@ sapha.com
 sapvummffiay.com
 sarapbeh.com
 sardfereose.com
+sare25.com
 sarevtop.com
 sas.com
 sas15k01.com
@@ -15238,6 +15258,7 @@ sbdedksgqu.com
 sbdtds.com
 sbealpvjpzzs.com
 sbftffngpzwt.com
+sbgftsoe.com
 sbhmn-miner.com
 sbhnftwdlpbo.com
 sbifdctojpisuw.com
@@ -15768,6 +15789,7 @@ snjhhcnr.com
 snoobi.com
 snowsignal.com
 snpevihwaepwxapnevcpiqxrsewuuonzuslrzrcxqwltupzbwu.com
+snrbox.com
 snrmqtnnlxdgdh.com
 snsfjpes.com
 snsgsqyv.com
@@ -15899,6 +15921,7 @@ logs.spilgames.com
 spillvacation.com
 loggingapi.spingo.com
 spiralstab.com
+spjvuubtewq.com
 spklw.com
 splicky.com
 splinky.com
@@ -16283,6 +16306,7 @@ sxzffgjzaohtf.com
 sy123888.com
 sydhbmlmdxzd.com
 sydnkqqscbxc.com
+syhganutwnp.com
 syhjnolp.com
 syicirtpxosk.com
 symbiosting.com
@@ -17749,6 +17773,7 @@ uubxhbwnwmfqp.com
 uuiqhzpvfql.com
 uujzywpxxrroh.com
 uukqjcucva.com
+uunriutbi.com
 uupqrsjbxrstncicwcdlzrcgoycrgurvfbuiraklyimzzyimrq.com
 uuproxhcbcsl.com
 uutfeuxmqdvdp.com
@@ -18406,6 +18431,7 @@ vvrygjuozwps.com
 vvscrhqok.com
 vvvnbqnhxgs.com
 vvygnzor.com
+vvyimltzbnu.com
 vwbnexnwpmangv.com
 vwcsl.com
 vwdjipcvcph.com
@@ -18964,6 +18990,7 @@ wsaijhlcnsqu.com
 wscrsmuagezg.com
 wscvmnvhanbr.com
 wsfqmxdljrknkalwskqmefnonnyoqjmeapkmzqwghehedukmuj.com
+wsowkqnxs.com
 wsrjplhhhfmfsx.com
 wsrkpjfs.com
 wsscyuyclild.com
@@ -19852,6 +19879,7 @@ ypyarwgh.com
 yqhgbmyfiomx.com
 yqjoqncxmufi.com
 yqkpt.com
+yqkxutfjzbdbml.com
 yqmjmbmxzfz.com
 yqmmjmjxdigdak.com
 yqqxrfhtgcbxz.com
@@ -20454,6 +20482,7 @@ laferia.cr
 affiliate.cx
 tw.cx
 adocean.cz
+affilbox.cz
 bnr.alza.cz
 stat.cncenter.cz
 counter.cnw.cz
@@ -21222,6 +21251,7 @@ omniture.eaeurope.eu
 emediate.eu
 eth-pocket.eu
 ethereum-pocket.eu
+etrust.eu
 euro-pr.eu
 europuls.eu
 finative.eu
@@ -21260,6 +21290,7 @@ toplist.eu
 trmads.eu
 trmget.eu
 tubeadvertising.eu
+txt.eu
 u-on.eu
 ultrapromo.eu
 videohube.eu
@@ -22310,6 +22341,7 @@ dashad.io
 dashboard.io
 datacoral.io
 put.qostore.daumkakao.io
+dcmn.io
 ddm.io
 dimml.io
 clktrk.display.io
@@ -23750,6 +23782,7 @@ contextads.net
 convergator.net
 conversionlogic.net
 convertmarketing.net
+coothupu.net
 copacast.net
 counter-kostenlos.net
 countercity.net
@@ -23992,6 +24025,7 @@ guruquicks.net
 beacon.gutefrage.net
 happyunicorns.gutefrage.net
 h-images.net
+hackesie.net
 reporting.handll.net
 happilyswitching.net
 haupsoti.net
@@ -24045,6 +24079,7 @@ individuad.net
 infinity-tracking.net
 informz.net
 cnt.inforotor.net
+inistrack.net
 inmobi.net
 inmobicdn.net
 innity.net
@@ -25372,7 +25407,9 @@ clickad.pl
 clickmatic.pl
 clickonometrics.pl
 hub.com.pl
+conversion.pl
 hit.darmoweliczniki.pl
+dmdi.pl
 p.gazeta.pl
 gemius.pl
 gostats.pl
@@ -25384,6 +25421,7 @@ hit.interia.pl
 longertail.pl
 mad.mobisky.pl
 js.rutor.net.pl
+marketing.tr.netsalesmedia.pl
 nextclick.pl
 novem.pl
 nsaudience.pl
@@ -25392,7 +25430,9 @@ clk.onet.pl
 csr.onet.pl
 kropka.onet.pl
 stats.media.onet.pl
-smpl.hit.ppdb.pl
+ppdb.pl
+qai.quartic.pl
+qai-ir.quartic.pl
 rec.quartic.pl
 codes.royalad.pl
 salesmanago.pl
@@ -25406,6 +25446,7 @@ stats.ulixes.pl
 vendimob.pl
 dot.wp.pl
 pixel.wp.pl
+px.wp.pl
 adserwer.xwords.pl
 rnet.plus
 ad.4ertik.porn
@@ -25662,6 +25703,7 @@ tpm.pw
 tvas-a.pw
 tvas-c.pw
 urifiel.pw
+vagwyn.pw
 vennala.pw
 verkolasti.pw
 vxqpomwum.pw
@@ -25803,6 +25845,7 @@ admaxer.ru
 admediator.ru
 admelon.ru
 admeo.ru
+admile.ru
 admilk.ru
 admitlead.ru
 adname.ru
@@ -27896,6 +27939,7 @@ ys3e965d.top
 ywadk.top
 ywhnh.top
 zhuyuanp.top
+zouzun.top
 adbuzz.com.tr
 admatic.com.tr
 adsp.ciner.com.tr
@@ -28266,6 +28310,7 @@ analytics.explus.vn
 trackingapi.foody.vn
 logging.galaxypub.vn
 polyad.galaxypub.vn
+tvnotice.kg.garena.vn
 gostats.vn
 ads.home.vn
 ads.ictnews.vn
