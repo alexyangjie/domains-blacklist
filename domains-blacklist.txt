@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 429
+# Ignored duplicates: 428
 
 # Ignored entries due to the whitelist: 151
 
@@ -2811,6 +2811,7 @@ associeta.com
 assoctrac.com
 asterpix.com
 asto-exo.com
+astoapsu.com
 astpvgpwbewx.com
 affiliate.astraweb.com
 astro-way.com
@@ -4241,6 +4242,7 @@ chartbeat.com
 chartboost.com
 chartboosts.com
 chautcho.com
+chdaismlykqep.com
 loggly.cheatsheet.com
 checkabil.com
 checkhit.com
@@ -4725,6 +4727,7 @@ coremotives.com
 cormce.com
 cornflip.com
 m.corocksi.com
+coroheyjses.com
 stats.coronalabs.com
 corruptcy.com
 cortxphssdvc.com
@@ -5634,6 +5637,7 @@ dqfhklmwj.com
 dqfpksnabgagc.com
 dqiokxyebdc.com
 dqlcgelw.com
+dqldmtpu.com
 dqmfeimedqswbr.com
 dqolgbehhzvo.com
 dqpamcouthqv.com
@@ -6355,6 +6359,7 @@ evimfftxa.com
 evisitanalyst.com
 evisitcs.com
 evisitcs2.com
+evlpfjro.com
 evlvaulglzpu.com
 evnksnocq.com
 evolvemediallc.com
@@ -7385,6 +7390,7 @@ getsmartlook.com
 icu.getstorybox.com
 gettopup.com
 gettraff.com
+getzwnrgsrz.com
 gezinti.com
 gf108.com
 gfamqlcmymxbeu.com
@@ -7526,6 +7532,7 @@ globase.com
 globetrackr.com
 glodrips.com
 player-feedback-v1.glomex.com
+gloorajo.com
 glordd.com
 glowdot.com
 glpyiiahtdmaan.com
@@ -9791,6 +9798,7 @@ kbdstwnruc.com
 kbgyxsoskilli.com
 kbjddmnkallz.com
 kbkvptlxijafb.com
+kbmwlbwwwp.com
 kbnhoiax.com
 kbpijqva.com
 kbqebfcubeiaa.com
@@ -9801,6 +9809,7 @@ kbsceyleonkq.com
 kbtoiwayyezse.com
 kbwortdqjbns.com
 kbx1sth37s.com
+kbymnqiomnegs.com
 kbzmhlsg.com
 kbzrszspknla.com
 kcarnzeaipjssg.com
@@ -10029,6 +10038,7 @@ knwfmpvtj.com
 koamxmikmuhahc.com
 kochava.com
 koddi.com
+kodnkhqvbxpc.com
 tracking.koego.com
 kofeereb.com
 kofpag.com
@@ -10328,6 +10338,7 @@ ld82ydd.com
 ldaiuhkayqtu.com
 ldgananrrtx.com
 ldgateway.com
+ldgozccnwgtuya.com
 ldigvkkjquvyn.com
 ldkyzudgbksh.com
 sp.ldnews.com
@@ -10729,6 +10740,7 @@ lqlksxbltzxw.com
 lqlycogmpxhd.com
 lqpkjasgqjve.com
 lqqcbomqqomtme.com
+lqqpabnu.com
 lqrlhmdwy.com
 lqrrkjodhq.com
 lquodkeqws.com
@@ -10777,6 +10789,7 @@ luhqeqaypvmc.com
 luisardo.com
 lujkgrvheh.com
 lulpolopolo.com
+lulrtvfcy.com
 lumberamount.com
 luminate.com
 lumpyleaf.com
@@ -13050,6 +13063,7 @@ paotmlonx.com
 paperclipservice.com
 paperg.com
 papoto.com
+paqtnspb.com
 paradoxtraffic.com
 paramedjo.com
 parasino7.com
@@ -13948,6 +13962,7 @@ pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
 pxbugrgwy.com
 pxcveedcuzy.com
 pxcwdyasdsumdsxjnn.com
+pxgfvpwkukl.com
 pxgkuwybzuqz.com
 pxhtltatsxarl.com
 pxiqcfkbxof.com
@@ -18012,6 +18027,7 @@ ventite.com
 ventivmedia.com
 venturead.com
 venusbux.com
+veodxsimctsgs.com
 veoujrnenng.com
 veoxa.com
 vepatyei.com
@@ -18471,6 +18487,7 @@ vxkupxpf.com
 vxlpefsjnmws.com
 vxncdkrggd.com
 vxneczkffmaxkf.com
+vxnejgcewmbuk.com
 vxqhchlyijwu.com
 vxrpmslex.com
 vxuhavco.com
@@ -19488,6 +19505,7 @@ xvapnjwhofiv.com
 xvgfmbrifa.com
 xvijskugh.com
 xvika.com
+xvlkfkjl.com
 xvlohcsc.com
 xvqaz.com
 xvtbumnuj.com
@@ -19636,6 +19654,7 @@ ydutvhtw.com
 ydwjfuhuiesrhp.com
 ydxeryetxyij.com
 ydxzdniz.com
+ydzakntxe.com
 yeabble.com
 yeagdfyw.com
 yeahmobi.com
@@ -19896,6 +19915,7 @@ yprnopqzs.com
 yptwqjdgikmcqc.com
 ypummbggdjex.com
 ypyarwgh.com
+yqccpziiuak.com
 yqhgbmyfiomx.com
 yqjoqncxmufi.com
 yqkpt.com
@@ -20110,6 +20130,7 @@ zckpaeifoq.com
 zcl-js.com
 zcltracker.com
 zclxwzegqslr.com
+zcovfcongwmn.com
 zcwjasfrog.com
 zdafkehcmdcphi.com
 zddxlih.com
@@ -20319,6 +20340,7 @@ zoszujvvlu.com
 stats.zotabox.com
 zoteromedia.com
 zotjktpk.com
+zounhlyqz.com
 zowary.com
 zowhxkwzjpta.com
 zoyxbjmmlsrc.com
@@ -21327,6 +21349,7 @@ hodling.faith
 hostingcloud.faith
 jshosting.faith
 zymerget.faith
+wpad.farm
 insight.fonecta.fi
 gallupnet.fi
 kavijaseuranta.fi
@@ -23839,6 +23862,7 @@ dating-service.net
 ad.daum.net
 track.tiara.daum.net
 statistics.videofarm.daum.net
+daurifek.net
 dbvault.net
 gustaver.ddns.net
 decdna.net
@@ -23870,6 +23894,7 @@ dm-event.net
 dmpcloud.net
 do09.net
 docols.net
+doghoust.net
 ya.domain-vip.net
 dominocounter.net
 dompegho.net
@@ -24528,6 +24553,7 @@ proxad.net
 prugskh.net
 pseelrou.net
 psoaghie.net
+psoaptou.net
 psulsobi.net
 ptefautu.net
 loglady.publicbroadcasting.net
@@ -26909,6 +26935,7 @@ cdn.pljs.ru
 pluralismus.ru
 plus10sm.ru
 plusadv.ru
+plyfoni.ru
 pngme.ru
 pochasos.ru
 pokrutim.ru
