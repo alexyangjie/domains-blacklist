@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 428
+# Ignored duplicates: 429
 
 # Ignored entries due to the whitelist: 151
 
@@ -24,7 +24,7 @@ advg.agency
 accio.ai
 ascend.ai
 captivate.ai
-dm.hybrid.ai
+hybrid.ai
 m2.ai
 native.ai
 nrich.ai
@@ -333,7 +333,6 @@ assoc-amazon.ca
 contemporaryceremonies.ca
 districtm.ca
 eventbeacon.ca
-flyertown.ca
 mediative.ca
 geo.metronews.ca
 tcadops.ca
@@ -2745,6 +2744,7 @@ areasins.com
 areasnap.com
 arfttojxv.com
 arganostrella.com
+argggultrji.com
 sp.argusleader.com
 argyresthia.com
 arianelab.com
@@ -4015,6 +4015,7 @@ beacon.carfax.com
 caringzinc.com
 tracking.carprices.com
 count.carrierzone.com
+carscannon.com
 carsxardivaf.com
 cartorkins.com
 tracker.cartprotector.com
@@ -4968,6 +4969,7 @@ cukwbpne.com
 culsauwou.com
 culturedcrayon.com
 cuntador.com
+cuntwars.com
 stat.ed.cupidplc.com
 stat.to.cupidplc.com
 cupzwcxgx.com
@@ -5138,6 +5140,7 @@ dante2007.com
 danunnpvy.com
 danzhallfes.com
 dapxl.com
+daqijjpjow.com
 dartimyl.com
 darwarvid.com
 das5ku9q.com
@@ -5311,6 +5314,7 @@ devatics.com
 developermedia.com
 device9.com
 t.devnet.com
+devtodev.com
 dewltdgzgtt.com
 dexessee.com
 deximedia.com
@@ -5826,6 +5830,7 @@ dzqoubtxsaskdl.com
 dzyqqwixizp.com
 dzzawlkmtvug.com
 dzztjcbt.com
+e-contenta.com
 e-generator.com
 e-kaiseki.com
 e-n-t-e-r-n-e-x.com
@@ -6214,6 +6219,7 @@ eqezqqdpjmxbpb.com
 eqfgc.com
 eqfnhtthkog.com
 eqhawyidkdug.com
+eqrauafet.com
 eqrbfjwnmxpy.com
 eqszmuwnozvx.com
 eraeoggritjeo.com
@@ -6298,6 +6304,7 @@ etglnloj.com
 eth-pocket.com
 etherealhakai.com
 ethnio.com
+eti-code.com
 etihenbteb.com
 etizspyjmjhxo.com
 etkdximarcsq.com
@@ -6910,6 +6917,7 @@ fortpush.com
 fortuka.com
 fortvision.com
 forumiklan.com
+forwrdnow.com
 fosclhrsdhhn.com
 foswrohqoadp.com
 ads.fotoable.com
@@ -7057,6 +7065,7 @@ stats.ft.com
 track.ft.com
 ftbpro.com
 ftcjcmcovx.com
+ftdcseuvlmfp.com
 ftfnchzmnyl.com
 ftgfmbxqkjda.com
 ftjcfx.com
@@ -7251,6 +7260,7 @@ gamesbannerexchange.com
 affiliate.gamesdeal.com
 atax.gamespy.com
 gamesrevenue.com
+gamesrotator.com
 atax.gamestats.com
 sp.gametimepa.com
 gamigoads.com
@@ -8261,6 +8271,7 @@ hntxitqhto.com
 hobjzsymztzk.com
 hobtkxap.com
 ts2.hockey-talks.com
+hofraxopw.com
 hoghqjddg.com
 hogylomirfc.com
 hohfiknuk.com
@@ -8486,6 +8497,7 @@ hwoxt.com
 hwpub.com
 hwsbehjaxebh.com
 hwvwuoxsosfp.com
+hwyoikfrfdtjp.com
 hxbvbmxv.com
 hxcoxdyzzd.com
 hxhxjcffzp.com
@@ -10066,6 +10078,7 @@ korketople.com
 korkilazoopi.com
 kostenlose-counter.com
 kostprice.com
+koszzhucazsboe.com
 kovglrrlpqum.com
 koviovius.com
 kovla.com
@@ -12278,6 +12291,7 @@ ebay.northernhost.com
 sp.northjersey.com
 northmay.com
 northstartravelmedia.com
+nosdbwnd.com
 nothering.com
 notifyvisitors.com
 nottonic.com
@@ -13836,6 +13850,7 @@ pubnation.com
 pubrain.com
 carl.pubsvs.com
 pubted.com
+pucemara.com
 puffyloss.com
 pugklldkhrfg.com
 puhtml.com
@@ -16022,6 +16037,7 @@ sqyvhynwl.com
 srcip.com
 srcsmrtgs.com
 srfizvugkheq.com
+srgev.com
 srgszwexkpehb.com
 srhovuokux.com
 sriaqmzx.com
@@ -16258,6 +16274,7 @@ surfcounters.com
 surfearner.com
 surfertracker.com
 surgeprice.com
+surquvsx.com
 surveywall-api.survata.com
 survey-poll.com
 surveyscout.com
@@ -16735,6 +16752,7 @@ tijosnqojfmv.com
 tikjbfpd.com
 tikodala.com
 tikrailijorj.com
+tikuedobxa.com
 tikwglketskr.com
 tilosman.com
 timeophone.com
@@ -17377,6 +17395,7 @@ ubercpm.com
 ubertags.com
 ubgzicuglk.com
 ubhzahnzujqlvecihiyukradtnbmjyjsktsoeagcrbbsfzzrfi.com
+ubiquitousyard.com
 adserver.ubiyoo.com
 ubjapvhzffdreq.com
 ubjnuclsgxu.com
@@ -18949,6 +18968,7 @@ wonderfulproductives.com
 edgead.woomedya.com
 woopra.com
 woopra-ns.com
+wootric.com
 wordbankads.com
 wordego.com
 wordgetboo.com
@@ -19124,6 +19144,7 @@ wyjdunwcqnetus.com
 wykskkpplgfi.com
 wylnauxhkerp.com
 wynather.com
+wysasys.com
 wysistat.com
 wyuakcwxmiunqj.com
 wyueivwashc.com
@@ -19404,6 +19425,7 @@ xnrjtqmud.com
 xnuuzwthzaol.com
 xnvsheyceyjv.com
 xnwqhydt.com
+xnydasvpdqn.com
 xoalt.com
 xocecytufu.com
 xoekgcscpnipb.com
@@ -22867,6 +22889,7 @@ tt.biquge.la
 analytics.carambo.la
 logging.carambo.la
 pixel.carambo.la
+hentaifap.land
 backlinks.li
 hdplayer.li
 ad.kau.li
@@ -27860,6 +27883,7 @@ publisher.to
 candy.smv.to
 tracking.to
 uff5.to
+up-dates.to
 warezlayer.to
 neon.today
 ocatdog.today
@@ -27873,9 +27897,11 @@ ad.outstream.today
 2pxg8bcf.top
 6f2tjr26.top
 6jvt2.top
+m.789657.top
 7vxlfstt.top
 89tmolir.top
 8dsd3.top
+m.91xiaodu.top
 9utwbj08.top
 aahvz.top
 ahial.top
@@ -27940,6 +27966,7 @@ lzwla.top
 m9in5.top
 mcbag.top
 mcljm.top
+montpti.top
 mybce.top
 nrzcj.top
 nxstx.top
