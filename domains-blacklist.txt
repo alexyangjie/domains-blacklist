@@ -264,9 +264,6 @@ surveywidget.biz
 td-everest.biz
 tgmygw.biz
 bb.tidopro.biz
-tizer-click.biz
-tizernet.biz
-tlr1.biz
 topeuro.biz
 torgdom.biz
 trackpath.biz
@@ -320,7 +317,6 @@ s1r.tut.by
 s2r.tut.by
 s3r.tut.by
 s4r.tut.by
-videoseed.by
 auth.bz
 carrier.bz
 native.cli.bz
@@ -3308,6 +3304,7 @@ betzeplinreklam.com
 bewaslac.com
 bewcmime.com
 bewovdhiubnk.com
+bewtqjkrfo.com
 bexbpzultczaa.com
 data.beyond.com
 bezcmsrzx.com
@@ -3629,6 +3626,7 @@ boostclic.com
 boostshow.com
 bootstrap-js.com
 bop-bop-bam.com
+boplhfqz.com
 boqdapoiv.com
 borazita.com
 boredcrown.com
@@ -3895,6 +3893,7 @@ bxkblkok.com
 bxknvtbmzsqc.com
 bxniyvvxufxyoy.com
 bxnvdau.com
+bxodbythc.com
 bxoixzbtllwx.com
 bxravgxfkubm.com
 bxrjiqoajbbh.com
@@ -5014,6 +5013,7 @@ cwkhyupiwzcjy.com
 cwkuki.com
 cwliihvsjckn.com
 cwmycjoddoq.com
+cwnrunnvatbfug.com
 cwofongvtbsi.com
 cwpumsjshnacl.com
 cwtekghutpaq.com
@@ -6467,6 +6467,7 @@ eylyitpslpqu.com
 eyqletzkhybsef.com
 eytoshab.com
 eytqtjpjnmeas.com
+eywirvfupvo.com
 ezbbxqocxnto.com
 ezbtpdjeimlv.com
 ezemyudhkzvx.com
@@ -6972,6 +6973,7 @@ fqanilbgne.com
 fqazjwxovxlu.com
 fqbrdnpf.com
 fqckdxjgle.com
+fqcqmjdn.com
 fqgqosvpodxn.com
 fqhpssdbenl.com
 fqjevuoat.com
@@ -9200,6 +9202,7 @@ itrackerpro.com
 itracmediav4.com
 itrengia.com
 itsyuvrlesq.com
+itxapggeqcu.com
 itxljhric.com
 itzgybxfrbodq.com
 iu16wmye.com
@@ -11508,6 +11511,7 @@ mmoptional.com
 click.mmosite.com
 mmotraffic.com
 mmpcqstnkcelx.com
+mmsbbbki.com
 mmsdewfvxhw.com
 mmshbwtpx.com
 mmstat.com
@@ -11859,6 +11863,7 @@ myinfotopia.com
 ad.myinstashot.com
 myjnlndnbhcih.com
 mykhtesikvuz.com
+mylevfpqmlt.com
 mylhebhwgim.com
 mylinkbox.com
 mylslrkbn.com
@@ -12614,6 +12619,7 @@ oertmxfsryji.com
 oetwplgu.com
 oevery.com
 oewscpwrvoca.com
+oexbdfnbentzd.com
 oezgivtasc.com
 oezto.com
 ofajzowbwzzi.com
@@ -14079,6 +14085,7 @@ qagnufdwht.com
 qahajvkyfjpg.com
 qaiqromd.com
 qairctxn.com
+qaizylhmcxv.com
 qajaohrcbpkd.com
 qajjyxsifzfe.com
 qanzlmrnxxne.com
@@ -14360,6 +14367,7 @@ qscefywopqfkm.com
 qsdqpvkuglq.com
 qservz.com
 qsfckfyv.com
+qsfgszjm.com
 qsfogpmciyl.com
 qsgiqllpfthg.com
 qsgsfnixw.com
@@ -15027,7 +15035,6 @@ roojouma.com
 rookads.com
 roosterfirework.com
 ropkrhilt.com
-ropsinde.com
 roqweslqqlyklb.com
 roritabo.com
 rotabetaffiliates.com
@@ -15037,7 +15044,6 @@ rotibald.com
 rotorads.com
 rotumal.com
 roughted.com
-roukel.com
 roulettebot-plus.com
 roupsouk.com
 rouvpebtazdlq.com
@@ -15265,9 +15271,7 @@ s7ven.com
 stats.sa-as.com
 sa2xskt.com
 ad.sacitaslan.com
-sadreno.com
 saenrwiqesp.com
-safari-lock.com
 safecllc.com
 api.safedk.com
 config.safedk.com
@@ -15432,7 +15436,6 @@ track.securedvisit.com
 securepaths.com
 securesmrt-dt.com
 securestudies.com
-securewebboard.com
 securewebsiteaccess.com
 securitain.com
 secursors.com
@@ -16588,11 +16591,7 @@ technoratimedia.com
 metrics.ted.com
 tedioustooth.com
 tedlrouwixqq.com
-tedobe.com
-tedpasit.com
-tedverspar.com
 teefpagayhb.com
-teen-porn-portal.com
 teensexgfs.com
 analytics.teespring.com
 tehkvecryl.com
@@ -16733,7 +16732,6 @@ analytics.thetab.com
 thetabdot.com
 sp.thetimesherald.com
 sp.thetowntalk.com
-thetraffic-translate.com
 thewebanswers.com
 thewebgemnetwork.com
 thewheelof.com
@@ -16827,13 +16825,11 @@ tivioyfstcdlce.com
 tivlvdeuokwy.com
 tixzeybm.com
 tizbmrknb.com
-tizer-bazar.com
 tizerbank.com
 tizerclik.com
 tizerlink.com
 tizermedias.com
 tizerstock.com
-tizertraf.com
 tizru.com
 tizzitextile.com
 tjaqsjnrvmt.com
@@ -16864,7 +16860,6 @@ tktyinaabq.com
 tl813.com
 tlagvdqrsarf.com
 tldadserv.com
-tldredenter.com
 tldxywgnezoh.com
 tlecwkrygjas.com
 tlfloruou.com
@@ -16922,7 +16917,6 @@ tnvghrlg.com
 tnwjldvivhgr.com
 tnxiuvjtplhhdy.com
 tnznswilqtni.com
-to330.com
 toalhjpw.com
 toarqsglo.com
 toboads.com
@@ -16943,7 +16937,6 @@ tomonline-inc.com
 tonefuse.com
 tongqing2015.com
 tonopole.com
-tonsunjo.com
 toodlepork.com
 tool-site.com
 track.tooplay.com
@@ -17225,7 +17218,6 @@ trustedform.com
 mevents.trusteer.com
 truthfulhead.com
 truthfulturn.com
-truvacdn.com
 trvtrk.com
 ppco.trwba.com
 trwbkkxk.com
@@ -17715,6 +17707,7 @@ event.allnews.uodoo.com
 uohpnvpynvsz.com
 uoicsyuiof.com
 uoifloesog.com
+uoommnucvua.com
 uoottsfgy.com
 uopayiycy.com
 uorhedemxtni.com
@@ -17737,6 +17730,7 @@ upravel.com
 uprbleorptdghy.com
 uprimp.com
 tracker.uprinting.com
+uprlyxksgcffgn.com
 upscore.com
 upsight.com
 upsight-api.com
@@ -17841,7 +17835,6 @@ utbclxmcv.com
 utfffrxmzuvy.com
 uthifuehb.com
 utiiamqdsku.com
-utilient.com
 utjznnqgd.com
 utlpwxdt.com
 utmcttmdaoqd.com
@@ -17907,6 +17900,7 @@ uxrvjeyyj.com
 uxxr80jwng.com
 uxxtokvw.com
 uxyofgcf.com
+uydeapvmmlvdp.com
 uyeluxauiq.com
 uyfsqkwhpihm.com
 uymkdz9s.com
@@ -18195,7 +18189,6 @@ videoplayerhub.com
 videoplaza.com
 videoprtl.com
 videorot.com
-videoselfer.com
 videosmor.com
 videostat.com
 videostrip.com
@@ -18206,14 +18199,11 @@ videovint.com
 videsjs.com
 vidgain.com
 snaps.vidiemi.com
-vidkoz.com
-vidmsc.com
 vidpay.com
 vidplah.com
 pings.vidpulse.com
 vids63.com
 vidsdelivery.com
-vidshm.com
 vidustal.com
 stats.vidyome.com
 vidyp.com
@@ -18368,6 +18358,7 @@ vnadjbcsxfyt.com
 vndfakned.com
 vndrcewnard.com
 vnfdwoljzoaer.com
+vngztuqon.com
 vnhcxditnodg.com
 vnkydhnyjed.com
 vnlqgiuul.com
@@ -19530,6 +19521,7 @@ xsgacudwlysw.com
 xsgcobwd.com
 xskbsyssik.com
 xsmafckigsdnij.com
+xsnfmaxicj.com
 xsnqhzbiqdmqw.com
 xsqylzml.com
 xswnrjbzmdof.com
@@ -20051,6 +20043,7 @@ yupcqrxdg.com
 yupwqyocvvnw.com
 yurttitxfyfh.com
 yuywwcizs.com
+yuzsvoanyw.com
 yvaovfrsu.com
 yvbrgzeu.com
 yvdzdkiov.com
@@ -20335,6 +20328,7 @@ zkfhdpogauqb.com
 zkfjgzonjvg.com
 zkgyibosyh.com
 zkmyaizgc.com
+zkoumvpngkubl.com
 zkowrpcb.com
 zkqpoamv.com
 zksdztizohcfy.com
@@ -21517,7 +21511,6 @@ replase.ga
 stats.rutracker.ga
 scriptall.ga
 ssl4go.ga
-techdomain01.ga
 window-close.ga
 wordc.ga
 counter.gd
@@ -22293,7 +22286,6 @@ thoughtsondance.info
 tiberowheddidn.info
 tighting.info
 titranco.info
-tizerka.info
 tonsterandhantan.info
 tonstiparro.info
 tontwiredat.info
@@ -24695,7 +24687,6 @@ rockyou.net
 roi-rocket.net
 roitracking.net
 rp-rep.net
-rpmstatic.net
 rtbclick.net
 rtbidder.net
 rtfn.net
@@ -24706,7 +24697,6 @@ ruad.net
 rufadses.net
 runtnc.net
 s3s-main.net
-sadecereklam.net
 safe-click.net
 safeadnetworkdata.net
 sageanalyst.net
@@ -24870,11 +24860,7 @@ tinb.net
 tizer6.net
 tizer7.net
 tizer8.net
-tizerda.net
-tizerelite.net
 tizerfly.net
-tizerget.net
-tizergo.net
 tizergun.net
 tizermine.net
 tizermy.net
@@ -25432,7 +25418,6 @@ superlady.org
 swadvertising.org
 sxtut.org
 bn.take-profit.org
-theylike.org
 tlootas.org
 toplist100.org
 magicplayer-api.torrentstream.org
@@ -27139,11 +27124,9 @@ risle.ru
 riverlead.ru
 news.rk345dno.ru
 rmbn.ru
-rnuhavi.ru
 robcalwith.ru
 rocli.ru
 rollad.ru
-roninex.ru
 server.roolim.ru
 rorer.ru
 da.rosrabota.ru
@@ -27152,8 +27135,6 @@ analytics.rotapost.ru
 rotation-context.ru
 roundfortred.ru
 rs-context.ru
-rss20.ru
-rt-image.ru
 rt-ns.ru
 rtb-media.ru
 rteneme.ru
@@ -27163,7 +27144,6 @@ ruschopi.ru
 rushkolnik.ru
 pr.rusmed.ru
 rot.rusoul.ru
-russervisbest.ru
 rustiz.ru
 rustrackers.ru
 rutarget.ru
@@ -27200,7 +27180,6 @@ seclick.ru
 securee.ru
 sedorobma.ru
 seedr.ru
-seedrug.ru
 seo-sport.ru
 seobloger.ru
 seogift.ru
@@ -27311,14 +27290,6 @@ teaserpro.ru
 teasers.ru
 teaserwin.ru
 teazzer.ru
-tech1515983.ru
-tech2648159.ru
-tech4215978.ru
-tech517283.ru
-tech547789.ru
-tech5877413.ru
-tech9638514.ru
-technical-rtl.ru
 telderi.ru
 telvanil.ru
 terethat.ru
@@ -27339,12 +27310,10 @@ themoneyes.ru
 thethi.ru
 thor-media.ru
 thrilling.ru
-tibrashadow.ru
 spytrack.tic.ru
 timedirect.ru
 neobasnet.timeout.ru
 tinnaveran.ru
-tivisla.ru
 tiz-et.ru
 tizer24.ru
 tizerads.ru
@@ -27352,11 +27321,7 @@ tizerbox.ru
 tizerlady.ru
 tizernaya-reklama.ru
 tizeroff.ru
-tizershop.ru
-tizersmaster.ru
 tizgo.ru
-tizinfo.ru
-tizka.ru
 tizsistems.ru
 tizy.ru
 tizzer.ru
@@ -27367,16 +27332,12 @@ tnevota.ru
 tns-counter.ru
 tnyzin.ru
 todaymix.ru
-todaytodo.ru
 todich.ru
-togru.ru
 tbe.tom.ru
 intimznaki.tomsk.ru
-tonsperning.ru
 toolcount.ru
 top-shop.ru
 st.top100.ru
-top4wap.ru
 topadvert.ru
 topcpa.ru
 topcto.ru
@@ -27386,9 +27347,7 @@ r.toplaygame.ru
 topli.ru
 toptizer.ru
 toptracker.ru
-toptrackers.ru
 ad.topwar.ru
-toraccept.ru
 torgnn.ru
 toroptotrab.ru
 reterafu.torplanet.ru
@@ -27415,8 +27374,6 @@ trekluck.ru
 trenews.ru
 trigub.ru
 trkleads.ru
-tromen.ru
-trunderka.ru
 tsinadol.ru
 tsitelur.ru
 tsitraty.ru
@@ -27464,7 +27421,6 @@ us6odtasve.ru
 utarget.ru
 widget.utinet.ru
 uwonderful.ru
-uytichas.ru
 v0hs81ev3vepjr.ru
 vam-nado.ru
 varinitconfique.ru
@@ -27482,19 +27438,15 @@ viboom.ru
 vicepiter.ru
 vidasys.ru
 vidaugust.ru
-viddirect.ru
 video-link.ru
 video-play.ru
-video103.ru
 videoclick.ru
 videofan.ru
-videojune.ru
 videoklass.ru
 error.videonow.ru
 video.videonow.ru
 videortb.ru
 vidigital.ru
-vidozex.ru
 vidroll.ru
 vidseed.ru
 vidtok.ru
@@ -27565,7 +27517,6 @@ wmeter.ru
 wmip.ru
 wmirk.ru
 wmlink.ru
-wmrlinks.ru
 wmwmwwfmkvucbln.ru
 wolist.ru
 wom8day.ru
@@ -28597,7 +28548,6 @@ hq-films.ws
 plugin.ws
 dl.qcash.ws
 toplist.raidrush.ws
-rootmedia.ws
 sarov.ws
 sparkads.ws
 statistiche.ws
