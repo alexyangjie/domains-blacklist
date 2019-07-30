@@ -22440,7 +22440,6 @@ bttn.io
 burt.io
 buzzad.io
 api.calq.io
-carrotquest.io
 center.io
 chainads.io
 clickigniter.io
@@ -26495,6 +26494,7 @@ group-ib.ru
 grovel.ru
 banshop.gruntovik.ru
 gsmonitor.ru
+up.gtorrent.ru
 guktuti.ru
 gvapp.ru
 haphiterton.ru
