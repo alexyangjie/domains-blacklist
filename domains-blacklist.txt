@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 429
+# Ignored duplicates: 430
 
 # Ignored entries due to the whitelist: 151
 
@@ -3966,6 +3966,7 @@ caanalytics.com
 caaqyzbpsbtk.com
 cabinsone.com
 cabirm.com
+analytics-scripts.cablelabs.com
 cacfbf85ad2005e4c31.com
 cadchbpsifb.com
 cadreon.com
@@ -9718,6 +9719,7 @@ jumpelead.com
 jumplead.com
 jumptap.com
 jumptime.com
+tr.junaroad.com
 junbi-tracker.com
 track.juno.com
 juqakqgv.com
@@ -15644,6 +15646,7 @@ shoogloonetwork.com
 track.shop2market.com
 trackpm.shop2market.com
 shopalyst.com
+tracker.shopclues.com
 speedtrap.shopdirect.com
 stats.shopify.com
 shoplenaro.com
@@ -19002,6 +19005,7 @@ wmtyrdrpjbhnj.com
 wmvcxgpdgdkz.com
 wmvnyunntuuz.com
 wmwkwubufart.com
+wmwloejxww.com
 wmxeexfle.com
 wmzona.com
 wnbdbmqyerfqs.com
@@ -20994,6 +20998,7 @@ irqs.ioam.de
 mqs.ioam.de
 ipcounter.de
 iqcontentplatform.de
+candac.iridion.de
 ivwbox.de
 eventlog.jackpot.de
 jink.de
@@ -21847,6 +21852,7 @@ dearerfonder.info
 deathereclother.info
 deparationew.info
 depodub.info
+deryjobmeetin.info
 deskmony.info
 destinylocation.info
 detailsay.info
@@ -23508,6 +23514,7 @@ bestevernews.net
 bestnewsworld.net
 bestwebdeal.net
 betarget.net
+beusable.net
 bf-ad.net
 bh3.net
 bidhead.net
@@ -23634,6 +23641,7 @@ d1i2v9a8xom2hy.cloudfront.net
 d1jl096lp4cce0.cloudfront.net
 d1k0glcmk0b5rb.cloudfront.net
 d1k29rhvz38kg5.cloudfront.net
+d1k3dpebxhgqjc.cloudfront.net
 d1ksyxj9xozc2j.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
@@ -24192,6 +24200,7 @@ hottraffic.net
 houchosi.net
 hs-analytics.net
 hsadspixel.net
+hscta.net
 mob.huimee.net
 hurterkranach.net
 hypemakers.net
@@ -25226,6 +25235,7 @@ globwo.online
 goldoffer.online
 grunkav.online
 hallaert.online
+kenvam.online
 afbanner.kinobomber3.online
 klubityd.online
 marapcana.online
@@ -25677,6 +25687,7 @@ mosstc.pro
 mowithlerendu.pro
 mytrack.pro
 myvpn.pro
+nameketathar.pro
 nastoverewess.pro
 nessubsets.pro
 noblock.pro
@@ -25832,6 +25843,7 @@ servinator.pw
 solipen.pw
 superseksi.pw
 swxhp.pw
+sylmyar.pw
 tainiesonline.pw
 thefaren.pw
 thenelis.pw
