@@ -87,7 +87,6 @@ inimbus.com.au
 ladbrokesaffiliates.com.au
 luxbetaffiliates.com.au
 mywebstats.com.au
-tags.news.com.au
 traktr.news.com.au
 newsanalytics.com.au
 pixel.newsdata.com.au
@@ -22695,6 +22694,7 @@ strossle.it
 stats.technopia.it
 tracc.it
 trackset.it
+sem.triboomedia.it
 tag.triboomedia.it
 trick17.it
 tracking.trovaprezzi.it
@@ -25755,6 +25755,7 @@ trk.10ru.pt
 marktest.pt
 minercry.pt
 webstats.sapo.pt
+maxim.pub
 pxi.pub
 tracking.redirect.pub
 2al.pw
@@ -28657,6 +28658,7 @@ tnd.ecefibwja.xyz
 elmenor.xyz
 elwraek.xyz
 erberos.xyz
+erxalim.xyz
 eatp.evztib.xyz
 fdxstats.xyz
 ficusoid.xyz
@@ -28733,6 +28735,7 @@ fovs.qkvipgloy.xyz
 quicktask.xyz
 racerchairs.xyz
 ad.reklam.xyz
+relapayssia.xyz
 retag.xyz
 reydi.xyz
 dyrxq.rfskbylbsf.xyz
