@@ -65,6 +65,7 @@ pix.news.at
 tracking.oe24.at
 oewabox.at
 smd.premiumpromotions.at
+rawr.at
 px.staticfiles.at
 adc.tripple.at
 trocado.at
@@ -2489,6 +2490,7 @@ amazon-cornerstone.com
 amazonily.com
 ambaab.com
 ambercrow.com
+ambienetics.com
 ambient-platform.com
 ambitiousagreement.com
 ambqphwf.com
@@ -6673,6 +6675,7 @@ ferreddo.com
 ferrellis.com
 fessoovy.com
 fetchback.com
+fethungi.com
 fevgukzwvjam.com
 fevrbniqa.com
 fexzuf.com
@@ -7500,6 +7503,7 @@ gisiwdcqte.com
 collector.githubapp.com
 gitoku.com
 gitpw.com
+givemeburg3r.com
 givingsol.com
 givmuvbacwui.com
 giyjhogjmfmc.com
@@ -7537,6 +7541,7 @@ gkzba.com
 gladiatorbugs.com
 glaimtug.com
 glanceguide.com
+glauvoob.com
 glbgkmvl.com
 glbsuoebquueky.com
 glbtracker.com
@@ -13965,6 +13970,7 @@ pushnest.com
 pushnevis.com
 pushnice.com
 pushno.com
+pushqwer.com
 pushwhy.com
 cp.pushwoosh.com
 ha-api.pushwoosh.com
@@ -15794,6 +15800,7 @@ skzpsnpp.com
 sl-ct5.com
 analytics.slashdotmedia.com
 stats.slashgear.com
+analytics.sleeknote.com
 sletqnksol.com
 slfpu.com
 slfsmf.com
@@ -15830,7 +15837,6 @@ p.smartertravel.com
 smartlook.com
 smartnews-ads.com
 smartocto.com
-smartsuppchat.com
 smarttargetting.com
 smartyads.com
 smartzonessva.com
@@ -17672,6 +17678,7 @@ unffpgtoorpz.com
 unhardward.com
 unicaondemand.com
 unicast.com
+uniconsent.com
 unicume.com
 unidati.com
 unikmmqybjy.com
@@ -21443,6 +21450,7 @@ hostingcloud.faith
 jshosting.faith
 zymerget.faith
 wpad.farm
+analysis.fi
 insight.fonecta.fi
 gallupnet.fi
 kavijaseuranta.fi
@@ -24737,6 +24745,7 @@ ruad.net
 rufadses.net
 runtnc.net
 s3s-main.net
+saboopiz.net
 safe-click.net
 safeadnetworkdata.net
 sageanalyst.net
@@ -26380,6 +26389,7 @@ efngeka8czukzyb.ru
 efpark.ru
 efresa.ru
 ehntqzv1apeizca.ru
+eihjefbbbbddeiacedb.ru
 ejdbebdeghajgdicadc.ru
 ejmovec.ru
 ekkhgwp5atpuxdq.ru
@@ -26849,6 +26859,7 @@ mestkom.ru
 metaliners.ru
 metertna.ru
 tiz.miladynews.ru
+milliardytv.ru
 mimizet.ru
 minidoc.ru
 v.mir-18.ru
