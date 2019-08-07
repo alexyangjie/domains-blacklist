@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 430
 
-# Ignored entries due to the whitelist: 151
+# Ignored entries due to the whitelist: 152
 
 js.cdn.ac
 dxracers.accountant
@@ -2334,6 +2334,7 @@ aijiboft.com
 aikdakxoc.com
 ailamtrieuphu.com
 ailanibah.com
+ailiyou1999.com
 aim4media.com
 aimatch.com
 aimediagroup.com
@@ -6182,7 +6183,7 @@ enmbg.com
 enokjulejktukh.com
 enquisite.com
 ensighten.com
-enter-system.com
+stat.enter-system.com
 enterads.com
 counter.entertainmentwise.com
 enticelabs.com
@@ -11197,7 +11198,6 @@ media-vip.com
 media303.com
 media6degrees.com
 media970.com
-mediaalpha.com
 mediaarmor.com
 mediaclick.com
 mediacot.com
@@ -15911,6 +15911,7 @@ snsgsqyv.com
 mcs.snssdk.com
 snxjlicc.com
 snxvrnhe.com
+snyowx29.com
 so-excited.com
 soadvr.com
 socadvnet.com
@@ -17303,6 +17304,7 @@ stats.tudou.com
 tudsxyhpn.com
 tufpmrcdc.com
 tuggbdzprgudk.com
+tuigang1999.com
 tujbidamlfrn.com
 tukuterus.com
 tuldmgwvimgowg.com
@@ -18202,6 +18204,7 @@ geoip-lookup.vice.com
 vickgdkdrwpdt.com
 vicofhozbuaf.com
 victorance.com
+victory1999.com
 vid7delivery.com
 vidalak.com
 analytics.tribeca.vidavee.com
@@ -21848,6 +21851,7 @@ countante.info
 counter-kostenlos.info
 counterfire.info
 countingbiz.info
+cpamedia.info
 cpvmarketplace.info
 croissed.info
 crypto-coins.info
@@ -22296,6 +22300,7 @@ sjustus.info
 skurki.info
 slinadu.info
 pfx.sma-clsystem.info
+smart-tds.info
 smigro.info
 smudgy.info
 sohjah-thahka.info
@@ -23640,7 +23645,6 @@ d19182vyfoustz.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d19uh5b0umbjrr.cloudfront.net
 d1af165twk0zgn.cloudfront.net
-d1aqhv4sn5kxtx.cloudfront.net
 d1b0fk9ns6n0w9.cloudfront.net
 d1bevsqehy4npt.cloudfront.net
 d1byvlfiet2h9q.cloudfront.net
