@@ -1942,6 +1942,7 @@ adsiduous.com
 adsignals.com
 adsimilis.com
 adsinimages.com
+adsinstant.com
 adsister.com
 adskom.com
 adslala.com
@@ -2207,6 +2208,7 @@ affbot3.com
 affbot7.com
 affbot8.com
 affbuzzads.com
+affclkr.com
 afficent.com
 affifix.com
 affilae.com
@@ -3916,6 +3918,7 @@ webcare.byside.com
 byspot.com
 bysziktift.com
 bytde.com
+bytedance.com
 bytemgdd.com
 maliva-mcs.byteoversea.com
 sgali-mcs.byteoversea.com
@@ -4478,6 +4481,7 @@ clickzs.com
 clickzxc.com
 trac.clicplan.com
 cliennes.com
+clientgear.com
 clifftopper.com
 t1.clipkit.com
 stats.clipprtv.com
@@ -8333,6 +8337,7 @@ hopinionse.com
 static.hoptopboy.com
 hoqqzlvwukpo.com
 horheloopo.com
+horsenectar.com
 horsered.com
 hortestoz.com
 horvmygebyg.com
@@ -17363,6 +17368,7 @@ tvwewigpqjj.com
 tvxpwhnrhsyfj.com
 twalm.com
 twcount.com
+twcouponcenter.com
 twdksbsyipqa.com
 twdsaqqrzbowom.com
 tweard.com
@@ -18047,6 +18053,7 @@ vbmer.com
 vbnvvzedvgx.com
 vbqcwfleda.com
 vbskcvjdabdp.com
+vbtrax.com
 vbuhzjnj.com
 vbupfouyymse.com
 vbuqjdyrsrvi.com
@@ -22556,6 +22563,7 @@ lytics.io
 m-t.io
 n.mailfire.io
 px.marchex.io
+uid.mavencoalition.io
 mbid.io
 mdxapi.io
 metrics.io
