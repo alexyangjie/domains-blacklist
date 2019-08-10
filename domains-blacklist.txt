@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 432
 
 # Ignored entries due to the whitelist: 152
 
@@ -3148,6 +3148,7 @@ baphruesqm.com
 baptisttop1000.com
 bara-banner.com
 bardogjvsa.com
+baremetrics.com
 bargainpricedude.com
 baronsoffers.com
 barraien.com
@@ -9852,6 +9853,7 @@ kaojrivmhys.com
 analytics.kapost.com
 karasutanu.com
 karcvrpwayal.com
+kargo.com
 karownxatpbd.com
 katurars.com
 katxkxcncwool.com
@@ -12030,6 +12032,7 @@ nbxpuziszhqz.com
 nbylhvbswplcj.com
 nbzionsmbgrt.com
 sanalytics.ncaa.com
+ncaudienceexchange.com
 ncbqi.com
 ncdxfwxijazn.com
 nchxvxvy.com
@@ -16205,7 +16208,7 @@ stathat.com
 stathound.com
 static-sb.com
 ttdetect.staticimgfarm.com
-analytics.staticiv.com
+staticiv.com
 statistiche-free.com
 statistiche-web.com
 statistiq.com
@@ -20710,6 +20713,8 @@ zymerget.date
 13p76nnir.de
 pixel.1und1.de
 24log.de
+lexip.4pcdn.de
+pixel.4pcdn.de
 lexip.4players.de
 pixel.4players.de
 subpixel.4players.de
@@ -21193,6 +21198,7 @@ reshin.de
 revenuemax.de
 revresrennab.de
 royalcount.de
+count.rtl.de
 notify-bugs-fra1.rtl.de
 tracking.rtl.de
 rubrikator.de
@@ -22512,6 +22518,7 @@ dafa.io
 dashad.io
 dashboard.io
 datacoral.io
+datasteam.io
 put.qostore.daumkakao.io
 dcmn.io
 ddm.io
@@ -24612,6 +24619,7 @@ ouloutso.net
 oultuwee.net
 ouptoobe.net
 ourbanners.net
+outhulem.net
 owneriq.net
 p2poolmining.net
 p2pvz.net
