@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 432
+# Ignored duplicates: 429
 
 # Ignored entries due to the whitelist: 152
 
@@ -6447,6 +6447,7 @@ exjthrzliajfd.com
 exkruwviyy.com
 exnyzdboihvi.com
 exoclick.com
+exoclsodaqs.com
 exogripper.com
 exoner.com
 exosrv.com
@@ -6548,6 +6549,7 @@ faeph6ax.com
 fafmybvsoj.com
 faftjhuu.com
 faggrim.com
+faidoud.com
 fairadsnetwork.com
 l.fairblocker.com
 fairnessels.com
@@ -13608,6 +13610,7 @@ statscol.pond5.com
 pondokiklan.com
 pontiflex.com
 pontypriddcrick.com
+poolgmsd.com
 pooxbpxm.com
 pop-rev.com
 popadon.com
@@ -21931,6 +21934,7 @@ emboba.info
 emlifok.info
 enclosely.info
 endile.info
+enmisindingat.info
 enoughts.info
 enousouz.info
 estocaf.info
@@ -25505,6 +25509,7 @@ superlady.org
 swadvertising.org
 sxtut.org
 bn.take-profit.org
+analytics.thethao247.org
 tlootas.org
 toplist100.org
 magicplayer-api.torrentstream.org
@@ -27148,7 +27153,9 @@ lstats.qip.ru
 r.qip.ru
 qload.ru
 qoopler.ru
+qqjar.ru
 qqmilk.ru
+qqshoe.ru
 qshare.ru
 quber.ru
 qvi0.ru
@@ -27207,6 +27214,7 @@ retsiti.ru
 rettik.ru
 track.revolvermarketing.ru
 reytata.ru
+rezhiv.ru
 rb.rfn.ru
 rg-be.ru
 rholi.ru
@@ -28463,6 +28471,7 @@ anthill.vn
 ants.vn
 adsv2.autodaily.vn
 ads.baodatviet.vn
+thongke.baotintuc.vn
 stats.bizweb.vn
 ads.careerbuilder.vn
 ads1.careerbuilder.vn
@@ -28499,6 +28508,7 @@ tvnotice.kg.garena.vn
 gostats.vn
 ads.home.vn
 ads.ictnews.vn
+log.infonet.vn
 itim.vn
 s.kenh14.vn
 klick.vn
@@ -28516,6 +28526,7 @@ apinas.nct.vn
 log.giaoduc.net.vn
 log.kienthuc.net.vn
 vads.net.vn
+log.vietnamdaily.net.vn
 novanet.vn
 novaon.vn
 ad.org.vn
@@ -28532,6 +28543,7 @@ s.soha.vn
 admin.sothuchi.vn
 log.thanhnien.vn
 quangcao.thanhnien.vn
+staticad.thethao247.vn
 log.tienphong.vn
 ads.tiki.vn
 affiliate.k4.tinhte.vn
@@ -28557,7 +28569,6 @@ log.vietnamplus.vn
 vinaads.vn
 analytics.vnreview.vn
 log.vov.vn
-appapicached.vtvgo.vn
 click.xdeal.vn
 s.baomoi.xdn.vn
 qc.yan.vn
