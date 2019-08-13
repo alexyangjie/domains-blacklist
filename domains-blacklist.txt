@@ -28900,7 +28900,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23071
+# Ignored duplicates: 23094
 
 # Ignored entries due to the whitelist: 4
 
@@ -28954,7 +28954,6 @@ poloniex.agency
 airproxybay.ar
 aeon.pools.e-scavo.net.ar
 xmr.pools.e-scavo.net.ar
-habd.as
 bloc-mining.asia
 play.assets.shentaiesp.asia
 binance.associates
@@ -29831,6 +29830,7 @@ fastandcoolest.com
 security.fblaster.com
 www.fblaster.com
 xsecurity.fblaster.com
+findblocks.com
 stafftest.firewall-gateway.com
 fiverr.com
 flashplayerd-4.com
@@ -29854,6 +29854,7 @@ gd-line-info.com
 gdaxbtc.com
 gdaxibtc.com
 bitpoppool.geekgalaxy.com
+pool.geertcoin.com
 gemioni.com
 genesis-mining.com
 geolocationsystem.com
@@ -30421,6 +30422,7 @@ hashpool.eu
 kippo.eu
 magnetbay.eu
 mastermine.eu
+mineblocks.eu
 mininglottery.eu
 multicoin.eu
 p2p-multipool.eu
@@ -30486,6 +30488,7 @@ tokyodrift.ga
 versusafteberr.ga
 webchainpool.ga
 wmasters.ga
+ypool.ga
 yrtumngfdsdgf.ga
 zinterect.ga
 zinterest.ga
@@ -31256,6 +31259,7 @@ arctic-anna.eosmainnet.roelandp.nl
 merged.stx.nl
 p2p.eos.bitspace.no
 estream.nu
+theminingpool.mine.nu
 turtle.mine.nu
 cryptopia.co.nz
 heigh-ho.funkypenguin.co.nz
@@ -31281,6 +31285,13 @@ live.4480.org
 abjcoin.org
 activity-club.org
 moneroseeds.ae.org
+pool.agrolifecoin.org
+relay.agrolifecoin.org
+seed.agrolifecoin.org
+seed2.agrolifecoin.org
+seed3.agrolifecoin.org
+seed4.agrolifecoin.org
+seed5.agrolifecoin.org
 aidswin.org
 airproxyunblocked.org
 mining.akroma.org
@@ -31354,6 +31365,7 @@ globalpool.org
 gpuhash.org
 hashcity.org
 aly001.hopto.org
+fasthash.hopto.org
 guanyu2017.hopto.org
 kokahacker.hopto.org
 lgjfdjlgjlvaf.hopto.org
@@ -31876,6 +31888,7 @@ bnm.tk
 casadocodigo.tk
 yk.cnxc.tk
 coinsforhash.tk
+cryptopool.tk
 darking01.tk
 darking02.tk
 darking03.tk
