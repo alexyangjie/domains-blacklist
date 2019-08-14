@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 428
 
 # Ignored entries due to the whitelist: 152
 
@@ -2174,6 +2174,7 @@ aeeefzfuk.com
 aefqdgklyu.com
 aefvxtue.com
 aeghae5y.com
+aegzjowko.com
 aeizbvtknp.com
 aemxvcqi.com
 aenrqpnfmdogf.com
@@ -2345,6 +2346,7 @@ aimgd.com
 beacon.aimtell.com
 log.aimtell.com
 ainterme.com
+aioemfxj.com
 aiokvzsq.com
 aionvpexcmm.com
 aiprvqqnhm.com
@@ -4133,6 +4135,7 @@ cdaywwdyicf.com
 cdbhmahnjb.com
 cdbkxcnfmehf.com
 cdbxuzzlgfhh.com
+cddjdjwatndgja.com
 cdegnloptetj.com
 cdhzxcwuibzk.com
 cdicyazp.com
@@ -5492,6 +5495,7 @@ djntmaplqzbi.com
 djqercix.com
 djuxmbjauluis.com
 djvpsxtkdmga.com
+djwdefnov.com
 djxvususwvso.com
 djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 dk4ywix.com
@@ -5849,6 +5853,7 @@ dynpaa.com
 dyntrk.com
 dyoyiydbwdcr.com
 dypmzetaj.com
+dytupr.com
 dyunhvev.com
 dywqwrtnhegyz.com
 dyzha.com
@@ -6087,6 +6092,7 @@ ejjgrmutgrdwxg.com
 ejjrckrhigez.com
 ejkoolhhepojeu.com
 ejlsbfqqxoc.com
+ejodwopthpg.com
 ejoyjumnsft.com
 ejwmxjttljbe.com
 ejwxbwzrhihtp.com
@@ -6297,6 +6303,7 @@ ervpgpxr.com
 erxvdkrivto.com
 esc-team.com
 escalatenetwork.com
+eschpaxxwy.com
 escokuro.com
 escottish.com
 esdykqhupjp.com
@@ -6561,6 +6568,7 @@ fafmybvsoj.com
 faftjhuu.com
 faggrim.com
 faidoud.com
+fail24h.com
 fairadsnetwork.com
 l.fairblocker.com
 fairnessels.com
@@ -6588,6 +6596,7 @@ stats.farfetch.com
 target.fark.com
 farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
 farvqaxaoid.com
+fast12g.com
 fast2earn.com
 fastanalytic.com
 fastly-analytics.com
@@ -7208,6 +7217,7 @@ fwutbizwevr.com
 fwuxrjzrkcjkop.com
 fwvdptvy.com
 fwwdmnkjg.com
+fwwzqxveuk.com
 fwyofqdypydo.com
 fwzlsugrflhh.com
 fwzqogrlgsdl.com
@@ -7922,6 +7932,7 @@ gvnqfiwzronbq.com
 gvoraoonpi.com
 gvoszbzfzmtl.com
 gvrqquiotcyr.com
+gvtawzpydsujep.com
 gvwyxnyq.com
 gvxobjcxcbkb.com
 gvzphwswtv.com
@@ -8522,6 +8533,7 @@ hunkal.com
 hunktnva.com
 img.hunlimishu.com
 hunt-leads.com
+hunterdelivery.com
 cdn.hunteryvely.com
 huntmad.com
 hurra.com
@@ -8649,6 +8661,7 @@ iaxxhqwaig.com
 ib-ibi.com
 ib1oyteqqn.com
 ibannerexchange.com
+ibaqfspkktxfj.com
 ibatom.com
 ibbyu85u.com
 ibclxtlh.com
@@ -9399,6 +9412,7 @@ javaiklan.com
 javblow.com
 jaxmbkhyr.com
 jaymedianetwork.com
+jbbfphnd.com
 jbbgczjipjvb.com
 jbcadlpdfsxsfe.com
 jbdddxgjn.com
@@ -10052,6 +10066,7 @@ kjizuuuvqbcd.com
 kjjlucebvxtu.com
 kjkwrmwdyhi.com
 kjltrjvjfran.com
+kjlvutytm.com
 kjmddlhlejeh.com
 kjnkmidieyrb.com
 kjplmlvtdoaf.com
@@ -10538,6 +10553,7 @@ lfjmmgorkjoaw.com
 lfjvaaswkxqj.com
 lflplmckcncj.com
 lfqocbhv.com
+lfriqmklpsbtq.com
 lfrqmuplp.com
 lfstmedia.com
 lftyfcqqctj.com
@@ -10726,6 +10742,7 @@ llq9q2lacr.com
 llqd75c56i.com
 llrblpesvjc.com
 llrmbabwjlzutw.com
+llrspkjasfqc.com
 llsdercqm.com
 llvidwpt.com
 llwemrshzovw.com
@@ -12936,6 +12953,7 @@ operatical.com
 opflriars.com
 opfrjkmmvqmm.com
 ophpbseelohv.com
+opisumqii.com
 opjalajamak.com
 opjfqjlfdxup.com
 oppcgcqytazs.com
@@ -12997,6 +13015,7 @@ osfxxqoy.com
 osiaffiliate.com
 ositracker.com
 oslzqjnh.com
+ospjthkhtwv.com
 ospreymedialp.com
 osqbk.com
 ossdqciz.com
@@ -14089,6 +14108,7 @@ pvxfvqlkclc.com
 pwaqmmquztyne.com
 pwdmtyzyq.com
 pweaatek.com
+pwekxhwrgpfr.com
 pwgwqtgpx.com
 pwizshlkrpyh.com
 pwkzakhq.com
@@ -14621,6 +14641,7 @@ rahvoujjgmtvft.com
 raiggy.com
 rainbowtgx.com
 rainwealth.com
+rakdtijwj.com
 tag.rmp.rakuten.com
 rampanel.com
 rampmetrics.com
@@ -15476,7 +15497,6 @@ scrippscontroller.com
 scriptil.com
 scripts21.com
 scriptshead.com
-scroll.com
 stat.scroogefrog.com
 scrubsky.com
 scrubswim.com
@@ -16436,6 +16456,7 @@ svbsvbwci.com
 svdmxetbyfyg.com
 svdnqszxgucgd.com
 svdsutdq.com
+sveklon.com
 svfqoztfopv.com
 svitnews.com
 svjat0rx99.com
@@ -18068,6 +18089,7 @@ vagttuyfeuij.com
 vahtbhufjkna.com
 vahufapave.com
 vaigowoa.com
+vaipsona.com
 vajiyqbb.com
 vak345.com
 vakgkyas.com
@@ -20345,6 +20367,7 @@ zeerat.com
 zeesiti.com
 zel-zel-fie.com
 zelllwrite.com
+zelxtujtigbx.com
 zemanta.com
 zenhppyad.com
 zenlivestats.com
@@ -21537,6 +21560,7 @@ u-on.eu
 ultrapromo.eu
 videohube.eu
 watchnowlive.eu
+webads.eu
 webpower.eu
 yellowmango.eu
 trace.events
@@ -25908,6 +25932,7 @@ dubester.pw
 elabalar.pw
 elamyar.pw
 errtmotmw.pw
+eysmaa.pw
 fardan.pw
 farpeiros.pw
 financenews.pw
@@ -27187,6 +27212,7 @@ ppsearcher.ru
 counter.pr-cy.ru
 prbn.ru
 preldom.ru
+prelstar.ru
 jvs.price.ru
 track.price.ru
 banners.prikol.ru
@@ -27233,6 +27259,7 @@ quber.ru
 qvi0.ru
 qwex.ru
 qxplus.ru
+r5jpkacq.ru
 rajniko.ru
 ad2.rambler.ru
 ad3.rambler.ru
@@ -27397,6 +27424,7 @@ smartinfomarketing.ru
 smarttds.ru
 target.smi2.ru
 smigid.ru
+sminewsnet.ru
 state.sml2.ru
 smonstr.ru
 sniperlog.ru
@@ -28644,9 +28672,6 @@ click.xdeal.vn
 s.baomoi.xdn.vn
 qc.yan.vn
 yomedia.vn
-adtima-media.zadn.vn
-adtima-media-td.zadn.vn
-adtima-static.zadn.vn
 api.sdk.zadn.vn
 log.sdk.zadn.vn
 zalo-ads.zadn.vn
@@ -28772,6 +28797,7 @@ axlpf.xyz
 b-m.xyz
 backlogtop.xyz
 bcvcrdr.xyz
+beholder.xyz
 beiren.xyz
 bh8yx.xyz
 bigsyst.xyz
