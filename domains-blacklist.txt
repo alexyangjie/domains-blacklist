@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 428
+# Ignored duplicates: 430
 
 # Ignored entries due to the whitelist: 152
 
@@ -433,6 +433,7 @@ tmpopenclose.click
 vicegnem.click
 wct.click
 wildotds1.click
+eggplant.cloud
 matomo.cloud
 odoscope.cloud
 nighter.club
@@ -1453,6 +1454,7 @@ abyvhqmfnvih.com
 acacexjsh.com
 academand.com
 acbrupozabmdc.com
+acbsuicxkoyef.com
 accelacomm.com
 acceptableserver.com
 access-mc.com
@@ -3127,6 +3129,7 @@ banner-clix.com
 banner-rotation.com
 bannerbit.com
 bannerblasters.com
+bannerboo.com
 bannercde.com
 bannerconnect.com
 bannerdealer.com
@@ -3396,6 +3399,7 @@ bidsystem.com
 bidtheatre.com
 bidverdrd.com
 bidvertiser.com
+bidzzbjzx.com
 biemedia.com
 stats.big-boards.com
 bigcattracks.com
@@ -4337,6 +4341,7 @@ cinarra.com
 sp.cincinnati.com
 analytics.cincopa.com
 t.cinemablend.com
+cintnetworks.com
 cipohwidxc.com
 circular-counters.com
 data.circulate.com
@@ -8115,6 +8120,7 @@ hedvid.com
 heefwozhlxgz.com
 hefgfqcyfmv.com
 hefgynqlzwi.com
+hegreeks.com
 hegrinhar.com
 hehraybryciyls.com
 heias.com
@@ -8786,6 +8792,7 @@ iglwibwbjxuoflrczfvpibhihwuqneyvmhzeqbmdmujmirdkae.com
 atax.ign.com
 geobeacon.ign.com
 ignitioninstaller.com
+ignkopdlnlkk.com
 ignorelist.com
 collect.igodigital.com
 igraplus.com
@@ -9418,6 +9425,7 @@ jbcadlpdfsxsfe.com
 jbdddxgjn.com
 jbgehhqvfppf.com
 jbgzahhyhen.com
+jbinjmsb.com
 jbiqepilzn.com
 jbkxmktmatzk.com
 jboovenoenkh.com
@@ -10853,6 +10861,7 @@ lprkphlgaybvtn.com
 pw.lpsxssm.com
 lptggobhuuxcdw.com
 lpwvdgfo.com
+lpwzjhkuwbe.com
 lpxxafsupgsho.com
 lpzsxemf.com
 lqbyqjap.com
@@ -11782,6 +11791,7 @@ mqyndujv.com
 mrbasic.com
 mrelko.com
 mrfveznetjtp.com
+mrhtltayffbrgv.com
 mrjzfzwey.com
 mrkzgpbaapif.com
 mrnbzzwjkusv.com
@@ -11816,6 +11826,7 @@ mspnlttfp.com
 msrwoxdkffcl.com
 mstmrspnqqevsu.com
 mstrlytcs.com
+mswysfgnr.com
 msxmfyhwgkos.com
 msypr.com
 mszfmpseoqbu.com
@@ -12103,6 +12114,7 @@ ncsyyeabk.com
 ncwjhywskph.com
 ndemlviibdyc.com
 ndf81.com
+ndfegyhf.com
 ndgmwuxzxppa.com
 ndilzwjgblea.com
 ndkes.com
@@ -17391,6 +17403,7 @@ tudsxyhpn.com
 tufpmrcdc.com
 tuggbdzprgudk.com
 tuigang1999.com
+tuinfra.com
 tujbidamlfrn.com
 tukuterus.com
 tuldmgwvimgowg.com
@@ -17677,6 +17690,7 @@ uimrmuoztkoia.com
 uipjeyipoumf.com
 uiqatnpooq.com
 uiqefowmmxciwe.com
+uiqwtgcp.com
 uisdjvwytl.com
 uisrihozphejjt.com
 uiyeiafffdex.com
@@ -17909,6 +17923,7 @@ uryvzhvgpulaog.com
 powersearch.us.com
 usabilitytools.com
 usabilla.com
+usairguw.com
 usaowwbxa.com
 repdata.usatoday.com
 sp.usatoday.com
@@ -17947,6 +17962,7 @@ uspddemi.com
 pixel.usrsync.com
 usrvgxowmn.com
 uss1star.com
+usshjrket.com
 ussscmqkjtfsx.com
 usstero.com
 usswrite.com
@@ -18920,6 +18936,7 @@ wfqeqnvqdjvs.com
 wftduglf.com
 wfvmifcnwd.com
 wfwtfgrzwsonh.com
+wfwualyxdb.com
 wfxkcimqvt.com
 triggers.wfxtriggers.com
 wfyqdhypgmscy.com
@@ -19044,6 +19061,7 @@ distillery.wistia.com
 pipedream.wistia.com
 witalfieldt.com
 witgatons.com
+withcubed.com
 withnewswearebest.com
 witifyooqkumwn.com
 witlee.com
@@ -19739,6 +19757,7 @@ xwwvcsquuhbd.com
 xwxbiywlavgpm.com
 xwzhazcuyf.com
 xxamqnqeygbk.com
+xxchhgilfheu.com
 xxdjmuekj.com
 xxehantfkywk.com
 xxhgzzinkrbbo.com
@@ -25277,6 +25296,7 @@ zhuwawa.net
 zisboombah.net
 ziyu.net
 zoacaups.net
+zoafoaho.net
 zoagremo.net
 zoocauvo.net
 zoonoapt.net
@@ -25847,6 +25867,7 @@ pgold.pro
 pirt.pro
 piwik.pro
 pmtdatarow.pro
+posecoug.pro
 prfdesk.pro
 prnhpe.pro
 prodwaves.pro
@@ -26326,6 +26347,9 @@ stat.biqle.ru
 bistr4.ru
 bistroduy.ru
 blafo.ru
+blamper.ru
+blamper-news.ru
+blamper-novosti.ru
 blogan.ru
 blogun.ru
 bodykaa.ru
@@ -26581,6 +26605,8 @@ file-online.ru
 filecontrol.ru
 filepost.ru
 filmplus.ru
+fin-vecto.ru
+fin-vector.ru
 firelove.ru
 firsttrack.ru
 abs.firstvds.ru
@@ -27076,6 +27102,7 @@ nethatriheg.ru
 newhdfilms.ru
 newlostrek.ru
 news2you.ru
+newsandpolik.ru
 newsportal2.ru
 newsportal3.ru
 newsportal4.ru
@@ -27118,6 +27145,8 @@ offshp.ru
 ofino.ru
 ogeri.ru
 ognyvo.ru
+ognyvo-topnews.ru
+ognyvo24.ru
 ogondkskyahxa.ru
 bn.ohah.ru
 ohnooo.ru
@@ -27197,6 +27226,10 @@ pngme.ru
 pochasos.ru
 pokrutim.ru
 pokupkinz.ru
+polit-e-fox.ru
+polit-fox.ru
+politfox.ru
+politfoxrf.ru
 politota.ru
 advert.polonsil.ru
 pomolation.ru
@@ -27334,7 +27367,11 @@ rocli.ru
 rollad.ru
 server.roolim.ru
 rorer.ru
+ros-infonews.ru
+rosinfonews.ru
 da.rosrabota.ru
+rossinfonews.ru
+rossinfonewsrf.ru
 rotaban.ru
 analytics.rotapost.ru
 rotation-context.ru
@@ -27349,7 +27386,9 @@ ruschopi.ru
 rushkolnik.ru
 pr.rusmed.ru
 rot.rusoul.ru
+rusplt.ru
 rustiz.ru
+rustoria-topnews.ru
 rustrackers.ru
 rutarget.ru
 rutorad.ru
@@ -27543,6 +27582,7 @@ todich.ru
 tbe.tom.ru
 intimznaki.tomsk.ru
 toolcount.ru
+top-newsrustoria.ru
 top-shop.ru
 st.top100.ru
 topadvert.ru
@@ -27552,6 +27592,8 @@ r.topdent.ru
 topiz.ru
 r.toplaygame.ru
 topli.ru
+topruistory.ru
+toprustory.ru
 toptizer.ru
 toptracker.ru
 ad.topwar.ru
@@ -27940,6 +27982,7 @@ mvuhy.space
 nhqqv.space
 nichter.space
 promokashka.space
+pvp-pro.space
 qanmw.space
 qwe.qrrgv.space
 rwhxz.space
