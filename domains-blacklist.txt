@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 431
 
 # Ignored entries due to the whitelist: 152
 
@@ -1967,6 +1967,7 @@ adsonar.com
 adsonflags.com
 adsoptimal.com
 adsopx.com
+adsota.com
 adsovo.com
 adsp.com
 adspdbl.com
@@ -2317,6 +2318,7 @@ agvinhvex.com
 agvzvwof.com
 agwsneccrbda.com
 agxclick.com
+ahcnxuepput.com
 aheadday.com
 ahgekvzwjn.com
 ahjljmxfxuet.com
@@ -4514,6 +4516,7 @@ clkoffers.com
 clkrev.com
 clksite.com
 clmbtech.com
+clnlyfxit.com
 analytics.closealert.com
 closeveri.com
 clotezar.com
@@ -7024,6 +7027,7 @@ fqgqosvpodxn.com
 fqhpssdbenl.com
 fqjevuoat.com
 fqkcdhptlqma.com
+fqkvanldq.com
 fqldrulyjfnt.com
 fqleehzafh.com
 fqmxwckinopg.com
@@ -8069,6 +8073,7 @@ hbedvoyluzmq.com
 hbguvcwi.com
 hbhcilgdqxt.com
 hbhcndcpohpwib.com
+hbhfslicqq.com
 hbhjamkcubtez.com
 hbkajyvrus.com
 hbnqcbfgsjfa.com
@@ -10730,6 +10735,7 @@ lknxarjfidm.com
 lkohqfilvpked.com
 lkojwhiwcsum.com
 lkp7jo3s.com
+lkpwmhjfvpctw.com
 lkrcapch.com
 lkuirehx.com
 lkyuoybczr.com
@@ -11353,6 +11359,7 @@ mellowtin.com
 meloads.com
 melqdjqiekcv.com
 memecounter.com
+memsyndazra.com
 t.menepe.com
 mengchengbao.com
 mentad.com
@@ -11417,6 +11424,7 @@ mgage.com
 counter.mgaserv.com
 mgcash.com
 mgcashgate.com
+mgdfebwxonyfe.com
 mgid.com
 mglsk.com
 affiliates.mgmmirage.com
@@ -12564,6 +12572,7 @@ nvoepbzqtn.com
 nvqsjdvgqnyk.com
 nvrentao8.com
 nvsey.com
+nvxzjmowusg.com
 nvztwdkbldp.com
 nwazehtl.com
 nwdufyamroaf.com
@@ -17765,6 +17774,7 @@ umqsrvdg.com
 umrehhye.com
 log.umsns.com
 stats.umsns.com
+umusjdiehxbn.com
 umvgcqaxmie.com
 umwsjnsvfzuo.com
 umxzhxfrrkmt.com
@@ -18654,6 +18664,7 @@ vupulse.com
 vuuwd.com
 vuvcwrxn.com
 vuwdqproq.com
+vuwgt.com
 vuwojxgklca.com
 vuysooqimdbt.com
 vvaqbhmahjb.com
@@ -21798,6 +21809,7 @@ edrta.mol.im
 analytics.praetor.im
 pushengage.im
 track.spots.im
+4736.in
 adchannels.in
 adcount.in
 adgebra.in
@@ -25189,6 +25201,7 @@ ad.vkool.net
 vmblock.net
 vmweb.net
 imgraovat.vnecdn.net
+elogs.vnexpress.net
 voajewhe.net
 voaroawo.net
 voastauz.net
@@ -25833,6 +25846,7 @@ infloots.pro
 ingeliteral.pro
 ininmacerad.pro
 jacopiler.pro
+jerredsite.pro
 johnsitsi.pro
 jojonewwss.pro
 justailley.pro
@@ -27644,6 +27658,7 @@ ugmfvqsu.ru
 uioopnblobble.ru
 uitrens.ru
 ulnawoyyzbljc.ru
+ulogin-stats.ru
 ulogix.ru
 umekana.ru
 umyetor.ru
@@ -28235,6 +28250,7 @@ q8eqh.top
 rabbithole.top
 rclmc.top
 refpa.top
+refpaumckl.top
 rmawm7mw.top
 rxtbb.top
 rzekbhnk.top
@@ -28688,6 +28704,8 @@ quangcao.thanhnien.vn
 staticad.thethao247.vn
 log.tienphong.vn
 ads.tiki.vn
+analytics.tiki.vn
+trackity.tiki.vn
 affiliate.k4.tinhte.vn
 tracker.tintucvietnam.vn
 trenddigital.vn
@@ -28796,6 +28814,7 @@ yesobe.work
 zavu.work
 zerozo.work
 nile.works
+1xredrdyg.world
 320147982.world
 320157981.world
 420147981.world
