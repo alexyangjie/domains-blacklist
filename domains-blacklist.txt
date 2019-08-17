@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 431
+# Ignored duplicates: 430
 
 # Ignored entries due to the whitelist: 152
 
@@ -2608,6 +2608,7 @@ aomegwesrfbvxe.com
 aominpzhzhwj.com
 aomvdhxvblfp.com
 aonxktnn.com
+aopxnvrugx.com
 aoqneyvmaz.com
 aoqviogrwckf.com
 aoredi.com
@@ -4095,6 +4096,7 @@ cbaazars.com
 cbb16ef5c520a0f.com
 cbbabemymc.com
 cbbp1.com
+cbbsnmrwpqou.com
 cbbvi.com
 cbchvrgqb.com
 cbcjkmyetnqch.com
@@ -5008,7 +5010,6 @@ cukwbpne.com
 culsauwou.com
 culturedcrayon.com
 cuntador.com
-cuntwars.com
 stat.ed.cupidplc.com
 stat.to.cupidplc.com
 cupzwcxgx.com
@@ -5357,7 +5358,6 @@ devatics.com
 developermedia.com
 device9.com
 t.devnet.com
-devtodev.com
 dewltdgzgtt.com
 dexessee.com
 deximedia.com
@@ -7333,7 +7333,6 @@ gamesbannerexchange.com
 affiliate.gamesdeal.com
 atax.gamespy.com
 gamesrevenue.com
-gamesrotator.com
 atax.gamestats.com
 sp.gametimepa.com
 gamigoads.com
@@ -7484,6 +7483,7 @@ llsp.gfd80.com
 gfdfhdh5t5453.com
 gfeaegaepsgp.com
 gffupsrgds.com
+gfhuvykiqajjbi.com
 gfrlmvxfsvl.com
 gfstrck.com
 gfuhjlpnuj.com
@@ -8434,6 +8434,7 @@ hpyue.com
 hpyxckmwle.com
 hqaajpaedpux.com
 hqbphxpavrxry.com
+hqczpetgslammu.com
 hqgenotbptcu.com
 hqhrt.com
 hqkoismxnocd.com
@@ -10768,6 +10769,7 @@ lmevacaixeqy.com
 lmheosvft.com
 lmiutil.com
 lmjjenhdubpu.com
+lmjxlihzcvicyi.com
 lmjxrhph.com
 lmlvzeeag.com
 lmn-pou-win.com
@@ -11198,6 +11200,7 @@ mb4a.com
 mb57.com
 mbajaazbqdzc.com
 mbbjrwsl.com
+mbcperyc.com
 mbfvfdkawpoi.com
 mbgvhfotcqsj.com
 mbixofultnnd.com
@@ -12015,6 +12018,7 @@ mzhcaexrrl.com
 mzjotkigwu.com
 mzkhhjueazkn.com
 mznijqwjkqadk.com
+mznzltgotp.com
 mzol7lbm.com
 mzqxeqrmgzxv.com
 mzrhjbbikqm.com
@@ -12715,6 +12719,7 @@ odplbueosuzw.com
 odsljzffiixm.com
 odtcspsrhbko.com
 odukhsymyua.com
+odwsequjcyk.com
 odwymewlu.com
 oebdarcqsqcdk.com
 oecxrvamnvc.com
@@ -13005,6 +13010,7 @@ oqmjxcqgdghq.com
 oqvjuqnkncom.com
 oqvzugnitr.com
 oqziwmemusftg.com
+ccexperimentsstatic.oracleoutsourcing.com
 oranges88.com
 orarala.com
 oratess.com
@@ -16919,6 +16925,7 @@ ticpqxnv.com
 ticrite.com
 tracking.tidalhifi.com
 tidaltv.com
+tidnqztumpnk.com
 tidytrail.com
 tielsdhblnmiv.com
 tienribwjswv.com
@@ -17303,6 +17310,7 @@ dc.tremormedia.com
 objects.tremormedia.com
 trendcounter.com
 trendemon.com
+trendlope.com
 collector.trendmd.com
 trenpyle.com
 trflog.com
@@ -17632,6 +17640,7 @@ uebcqdgigsid.com
 uebkmtpsfvgvfx.com
 uebyotcdyshk.com
 uecjpplzfjur.com
+ueenfeiu.com
 uehtuvguuf.com
 uejnzoaayhr.com
 uektb.com
@@ -17827,6 +17836,7 @@ universalsrc.com
 universaltrackingcontainer.com
 universityofinternetscience.com
 unixfuture.com
+unjqjnzvzyrtw.com
 unknownads.com
 unknowntray.com
 unkrokwhwn.com
@@ -18103,6 +18113,7 @@ v9bet.com
 va-endpoint.com
 vacaneedasap.com
 vacnuuitxqot.com
+vacshqmpvkbzjh.com
 vacwrite.com
 vadideo.com
 analytics.vadio.com
@@ -18477,6 +18488,7 @@ vkqfzlpowalv.com
 vkrgljxqn.com
 vkwasihbl.com
 vkywqkbmdkmmg.com
+vkznlzueuuebb.com
 vkzziiuqacv.com
 vlaqqdwltcuk.com
 vletnguozhvm.com
@@ -19400,6 +19412,7 @@ xameleonads.com
 xamxwvtsxdva.com
 xanqdskuyb.com
 xaogi.com
+xaoglctewqvhi.com
 xapnrbvpb.com
 xaqbpvojgi.com
 xarnvfthbye.com
@@ -19960,6 +19973,7 @@ yhaztdufgmw.com
 yhdichan.com
 yhglrmvdxmxm.com
 yhljenkljge.com
+yhmbwgolijyac.com
 yhqojrhfgfsh.com
 yhrzzoze.com
 yhsxsjzyqfoq.com
@@ -24242,7 +24256,6 @@ extfiles.net
 eyeota.net
 ezadserver.net
 ezakus.net
-eze99.net
 falkag.net
 fastapi.net
 fastates.net
