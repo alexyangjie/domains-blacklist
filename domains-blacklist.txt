@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 431
 
 # Ignored entries due to the whitelist: 152
 
@@ -630,6 +630,7 @@ lativil.co
 lightminer.co
 analytics.mailmunch.co
 mbsy.co
+memo.co
 meried.co
 minecrunch.co
 mmo123.co
@@ -1486,6 +1487,7 @@ acnsavlosahs.com
 lift.acquia.com
 acrabakasaka.com
 acrididae.com
+acridtwist.com
 collection.acromas.com
 acronym.com
 acrsgxeah.com
@@ -2325,6 +2327,7 @@ ahjljmxfxuet.com
 ahjwkwugxvznxv.com
 ahkpdnrtjwat.com
 ahllgtevqrsh.com
+ahneiwkpsnxign.com
 ahstrelgnh.com
 ahtkajcs.com
 ahuivddkvrrebo.com
@@ -2800,6 +2803,7 @@ f.asdfzxcv1312.com
 asdhit.com
 asdorka.com
 asdtwttky.com
+aseabnyw.com
 aseadnet.com
 asecxggulyrf.com
 ashemeth.com
@@ -2879,6 +2883,7 @@ audiencerate.com
 audiencesquare.com
 audiens.com
 analytics.audioeye.com
+ws.audioeye.com
 auditude.com
 audrte.com
 audsp.com
@@ -3232,6 +3237,7 @@ bdyzewccsqpw.com
 be2anywhere.com
 be4anywhere.com
 beaconads.com
+beaconstreetservices.com
 beacyoryjkbhqb.com
 beamincrease.com
 beamkite.com
@@ -3367,6 +3373,7 @@ bgrojtcdymmcdr.com
 bgtmceqoipodkv.com
 bguaeoakgmrw.com
 bgvexbybxxbcao.com
+bgvfceqpqzx.com
 bgzyppwk.com
 analytics.bhaskar.com
 bhcpmowwxwbv.com
@@ -4526,6 +4533,7 @@ cloud-exploration.com
 cloud-iq.com
 cloudflane.com
 cloudiiv.com
+trk.cloudsna.com
 cloudtracer101.com
 clouxtnxsmxdva.com
 clsvugmivpf.com
@@ -9097,6 +9105,7 @@ intelli-tracker.com
 intelliad-tracking.com
 intellibanners.com
 intelligencefocus.com
+intelligentscissors.com
 intellitxt.com
 intencysrv.com
 intenthq.com
@@ -9151,6 +9160,7 @@ ioujbpldicfgm.com
 ioupfmge.com
 ioyixcprbghm.com
 iozpujvmlojzhp.com
+iozsmwjezobro.com
 ip-adress.com
 ip2location.com
 ip2map.com
@@ -9288,6 +9298,7 @@ iuncajvw.com
 iuooczzbi.com
 iuowwbrqblweoa.com
 iupqelechcmj.com
+iutqdjtajrhpi.com
 iuumkigdfcz.com
 iuymaolvzery.com
 ivanie.com
@@ -10518,6 +10529,7 @@ ledvqaldtf.com
 leetmedia.com
 clickthru.lefbc.com
 leforma.com
+tracking.legacyoffers.com
 gold.legalidioms.com
 legandruk.com
 legenhit.com
@@ -10894,6 +10906,7 @@ lrmjvytlhho.com
 lroywnhohfrj.com
 lruyzrlcef.com
 lrwwnmijztt.com
+lryfmcok.com
 lsdgtifuqrwjax.com
 lsegvhvzrpqc.com
 lsfinteractive.com
@@ -11834,6 +11847,7 @@ mspaimzv.com
 msparktrk.com
 mspgkbvxtl.com
 mspnlttfp.com
+msrigkqkdd.com
 msrwoxdkffcl.com
 mstmrspnqqevsu.com
 mstrlytcs.com
@@ -12298,6 +12312,7 @@ nharaeklya.com
 nhbklvpswckx.com
 nheanvabodkw.com
 nhkhxvnhfdkn.com
+nhndzbmnkps.com
 nhqmomir.com
 niaqaltky.com
 cnt.nicemix.com
@@ -13289,6 +13304,7 @@ pbixcuapo.com
 pbjnssfvatrhc.com
 pbmvz.com
 pbnnsras.com
+pbnusnsr.com
 pbofytmakvye.com
 pbpdgojwzfdc.com
 pbterra.com
@@ -13654,6 +13670,7 @@ pnewspages.com
 pnfpithmmrxc.com
 sp.pnj.com
 pnjeolgxsimj.com
+pnkdlqeibm.com
 pnkrtgea.com
 pnmkuqkonlzj.com
 pnobsmeio.com
@@ -14003,6 +14020,7 @@ pubdirecte.com
 pubgears.com
 c.pubguard.com
 pubguru.com
+publicgood.com
 publicidees.com
 publicityclerks.com
 sp.publicopiniononline.com
@@ -14481,6 +14499,7 @@ qqtqicbvrwg.com
 qquwjmmgtmle.com
 qqvatwaqtzgp.com
 qqylzyrqnewl.com
+qr00rq.com
 qractv.com
 qrcsppwzjryh.com
 qrecxvdoewmztq.com
@@ -14883,6 +14902,7 @@ renhertfo.com
 rep0pkgr.com
 repaynik.com
 repefwairfkx.com
+report-uri.com
 sp.reporternews.com
 repressina.com
 republer.com
@@ -15330,6 +15350,7 @@ rwalomjwgyljqj.com
 rwcdoeigzraeu.com
 rwdkcusan.com
 rweqvydtzyre.com
+rwfqhbwkxpewc.com
 rwgvulisul.com
 rwkxvess.com
 rwlzbswwmmh.com
@@ -15674,6 +15695,7 @@ sevootie.com
 sex-finger.com
 sexcounter.com
 sexgoesmobile.com
+sexilbbpnc.com
 sexmoney.com
 sexpennyauctions.com
 sexystat.com
@@ -16082,6 +16104,7 @@ solarmosa.com
 stats.solidopinion.com
 solocpm.com
 pixel.solvemedia.com
+sombersurprise.com
 sombes.com
 stats.someecards.com
 somelandingpage.com
@@ -16558,6 +16581,7 @@ geoip.syracuse.com
 mms.syracuse.com
 syrnujjldljl.com
 sysomos.com
+sywwplqqumjgm.com
 syxcbevp.com
 syxojpztar.com
 szene-traffic.com
@@ -17499,6 +17523,7 @@ twjboytcwutbrt.com
 twjgylzydlhz.com
 twmeccosyivi.com
 twmvjfatla.com
+twmykwjrpr.com
 twngyyzvhzaqtj.com
 twnkpjhbgcp.com
 twnrkedqefhv.com
@@ -17854,6 +17879,7 @@ track.untd.com
 unterary.com
 api.unthem.com
 untidyquestion.com
+untidyrice.com
 untily.com
 unusualtitle.com
 unxuwvntk.com
@@ -18392,7 +18418,7 @@ vifog.com
 vigdxlpecmv.com
 viille2.com
 vijune.com
-dagda.vilynx.com
+vilynx.com
 vimart16.com
 vimenhhpqnb.com
 vimhuspifwyy.com
@@ -19135,6 +19161,7 @@ wllxevmlsutfpx.com
 wlmarketing.com
 wlmclzjtd.com
 wlqpzcbme.com
+wlrzptntiqez.com
 wlszodcfwqk.com
 wltoyqyynkbcc.com
 wluzajogsxoy.com
@@ -19678,6 +19705,7 @@ xqiqnxxy.com
 xqjhszpussoeur.com
 xqkqkfszveqvm.com
 xqkzsifxgv.com
+xqngocao.com
 xqopbyfjdqfs.com
 xqrjfouxkrs.com
 xqrupeccbfpzdl.com
@@ -20543,6 +20571,7 @@ zlvbqseyjdna.com
 zlxfpawyyoq.com
 zlxwasugtn.com
 zm232.com
+creator.zmags.com
 stats.zmags.com
 statsd.zmags.com
 zmbrweqglexv.com
@@ -20701,6 +20730,7 @@ zukipoayrlh.com
 zukxd6fkxqn.com
 zupeaoohmntp.com
 zursiicizyhd.com
+zuszohaosnrssk.com
 zutnlpnzxtt.com
 zuuwfrphdgxk.com
 zuwaodorkyrrp.com
