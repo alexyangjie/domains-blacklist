@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 431
+# Ignored duplicates: 430
 
 # Ignored entries due to the whitelist: 152
 
@@ -6015,6 +6015,7 @@ edgevertise.com
 edgsscofljhc.com
 edibegedol.com
 stats.edicy.com
+edlsdyhll.com
 ednnpxhjsqyd.com
 ednplus.com
 edomz.com
@@ -6108,6 +6109,7 @@ ejjgrmutgrdwxg.com
 ejjrckrhigez.com
 ejkoolhhepojeu.com
 ejlsbfqqxoc.com
+ejmiysfbwuk.com
 ejodwopthpg.com
 ejoyjumnsft.com
 ejwmxjttljbe.com
@@ -9550,6 +9552,7 @@ jhrmgusalkdu.com
 jhrwekjrowegm.com
 jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 jhutqqddwi.com
+jhvgvihirzj.com
 jhwj88.com
 jhwkypuhrw.com
 jhxpbihkucrq.com
@@ -10334,6 +10337,7 @@ kvdguzclhatdul.com
 kvdjcnerhxzb.com
 kvflzevaaco.com
 kvhxckkd.com
+kvirgytkit.com
 kvjbqtwgrfnmt.com
 kvkoqywl.com
 kvnldhrlw.com
@@ -10886,6 +10890,7 @@ lpxxafsupgsho.com
 lpzsxemf.com
 lqbyqjap.com
 lqcdn.com
+lqdqjkzfhijx.com
 lqfolelqvc.com
 lqhnrsfkgcfe.com
 lqipfyknwlo.com
@@ -10923,6 +10928,7 @@ geo.ltassrv.com
 xmlconfig.ltassrv.com
 ltbnvsfzevox.com
 ltedbswmryh.com
+ltfdyyixhkshhu.com
 ltfroezjyyhv.com
 ltfxlxze.com
 ltjvgpxg.com
@@ -11800,7 +11806,7 @@ mqdznyotsam.com
 mqgvsxqc.com
 mqhjvfeiiucga.com
 mqjfzzgcrupfh.com
-mql5.com
+content.mql5.com
 mqmtjoshdvlow.com
 mqnklgnucy.com
 mqobpsctcxnbi.com
@@ -12349,6 +12355,7 @@ nitigoly.com
 nitmus.com
 niviemwsmiaq.com
 nivsrtqdurhjz.com
+niwztgetlytxv.com
 log4x.nixcdn.com
 lrc.nct.nixcdn.com
 stc-nas.nixcdn.com
@@ -12770,6 +12777,7 @@ ofghrodsrqkg.com
 ofjampfenbwv.com
 ofjpzeoygigtlq.com
 ofmuojegzbxo.com
+ofnpjpvxtjfx.com
 ofrducrisy.com
 ofslaskeujwn.com
 ofswhkkqpfm.com
@@ -17005,6 +17013,7 @@ tizru.com
 tizzitextile.com
 tjaqsjnrvmt.com
 tjbgiyek.com
+tjcorfsynjppv.com
 tjdrxdsto.com
 tjdvqkis.com
 tjfot.com
@@ -17173,6 +17182,7 @@ tpfnibqjrpcj.com
 tpgeooxrcp.com
 tphwlmybvamq.com
 tpjhxvondqzult.com
+tpkmwnwbzetzbj.com
 tpkpnyiaylp.com
 tpmedia-reactads.com
 tpn134.com
@@ -17899,6 +17909,7 @@ uoottsfgy.com
 uopayiycy.com
 uorhedemxtni.com
 uoyznzsggodnl.com
+uozfvskaqrgm.com
 up-rank.com
 upalytics.com
 upasiansex.com
@@ -19492,6 +19503,7 @@ xdcdlfejo.com
 xddqdioms.com
 xddydaddexkjxs.com
 xdirectx.com
+xdjdwpwwbky.com
 xdjeestdoiis.com
 xdjefibopixf.com
 xdlmsvhhsvsp.com
@@ -28689,6 +28701,7 @@ admedia.com.vn
 adt.com.vn
 alivar.com.vn
 log.batdongsan.com.vn
+logsbin.dantri.com.vn
 fff.com.vn
 adservice.google.com.vn
 ad.icheck.com.vn
