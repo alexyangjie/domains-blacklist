@@ -3460,6 +3460,7 @@ stats.bitgravity.com
 a.bitmango.com
 bitmedianetwork.com
 analytics-ingress.bitmovin.com
+analytics-ingress-global.bitmovin.com
 licensing.bitmovin.com
 bitonclick.com
 bitraffic.com
@@ -5095,6 +5096,7 @@ cymuxbcnhinm.com
 analytics.cynapse.com
 partner.cynapse.com
 cypr.com
+cyqbtxpgarmc.com
 cyrirvvrn.com
 cyssfnqt.com
 cytoclause.com
@@ -5340,6 +5342,7 @@ dep-x.com
 departapp.com
 deployads.com
 depresis.com
+deqik.com
 deqrdwsjlpjz.com
 der-wallstreet-affiliate.com
 dergevqzqi.com
@@ -6236,6 +6239,7 @@ play.entretenimientolz.com
 entygpeb.com
 enusbrzlmcmg.com
 enynwkvdb.com
+enzodpxuons.com
 enzyxtdcacde.com
 eocnpszthsf.com
 eoecdsfvceebrv.com
@@ -6519,6 +6523,7 @@ eyinwxkojgkfgs.com
 eylefeyrwl.com
 eylyitpslpqu.com
 eyqletzkhybsef.com
+eyrqubnodswlkw.com
 eytoshab.com
 eytqtjpjnmeas.com
 eywirvfupvo.com
@@ -9600,6 +9605,7 @@ jjokvprdxwf.com
 jjpnveujkk.com
 jjpoxurorlsb.com
 jjptjphnkrqnc.com
+jjpvzyfarsjiac.com
 jjqoosuum.com
 jjrzlqho.com
 jjvdpetfxbjdbq.com
@@ -11844,6 +11850,7 @@ ms88ca.com
 msbmckzmcu.com
 mse2v5oglm.com
 msecure108.com
+msegeqxwopq.com
 msgapp.com
 heals.msgfocus.com
 msgtag.com
@@ -12795,6 +12802,7 @@ ogisrmbhajhyam.com
 ogjascdgq.com
 ogluyourrvv.com
 ognybevu.com
+ogqbessddhezi.com
 ogqclfvaq.com
 ogqeedybsojr.com
 ogqewglysfc.com
@@ -12858,6 +12866,7 @@ okcklbtuel.com
 okdvodyejd.com
 okffuzmscjboad.com
 okgfvcourjeb.com
+okgzwezcrmchk.com
 okkytnaadhsqnb.com
 okmuxdbq.com
 oknmanswftcd.com
@@ -14225,6 +14234,7 @@ pzpdxayohfdc.com
 pzpotdmpv.com
 pzpwjawqbmei.com
 pzszpntjlz.com
+pzujqxug.com
 pzuwqncdai.com
 pzzmqjrp.com
 q-counter.com
@@ -14707,7 +14717,9 @@ rank-power.com
 tools.ranker.com
 rankingpartner.com
 rankinteractive.com
+ranqpbnd.com
 rap4me.com
+logs.insight.rapid7.com
 tracking.rapidape.com
 rapidcounter.com
 rapigoy.com
@@ -15011,6 +15023,7 @@ rfvicvayyfsp.com
 rfvnhjnnkifyx.com
 rfyphhvcczyq.com
 rgadvert.com
+rgahmllbgubakm.com
 rgegqcdakbe.com
 rgejlqtlr.com
 rgipgfcafnvnx.com
@@ -17816,6 +17829,7 @@ alogs.umengcloud.com
 ulogs.umengcloud.com
 upoll.umengcloud.com
 utop.umengcloud.com
+umlrvgjkexv.com
 umnsvtykkptl.com
 umqhjmowzjrl.com
 umqsrvdg.com
@@ -18043,6 +18057,7 @@ utiiamqdsku.com
 utjznnqgd.com
 utlpwxdt.com
 utmcttmdaoqd.com
+utngexelkv.com
 utnkeaqurjca.com
 utokapa.com
 utorido.com
@@ -19832,6 +19847,7 @@ xxhgzzinkrbbo.com
 xxhqfprml.com
 rc.xxhrd.com
 xxlargepop.com
+xxnkyesp.com
 xxqriuedmqzs.com
 xxrniridsnzr.com
 xxwpminhccoq.com
@@ -19863,6 +19879,7 @@ xzfswipynyuj.com
 xziqvbico.com
 xzismtaelciif.com
 xzmqokbeynlv.com
+xzooimhkjiwp.com
 xztsmbznuwyo.com
 xzwdhymrdxyp.com
 xzwynraczfcq.com
@@ -20212,6 +20229,7 @@ yprnopqzs.com
 yptwqjdgikmcqc.com
 ypummbggdjex.com
 ypyarwgh.com
+yqbyzekybmswii.com
 yqccpziiuak.com
 yqhgbmyfiomx.com
 yqjoqncxmufi.com
@@ -24627,9 +24645,7 @@ marketfly.net
 marketing-profis.net
 marketo.net
 events.marquee-cdn.net
-app.masoffer.net
-img.masoffer.net
-static.masoffer.net
+masoffer.net
 masteriklan.net
 cnt.mastorage.net
 mateti.net
@@ -25848,6 +25864,7 @@ axzsd.pro
 azxsd.pro
 balks.pro
 bellissimome.pro
+beserte.pro
 besguses.pro
 ad.bilgin.pro
 blailays.pro
@@ -28821,6 +28838,7 @@ ad.kinozal.website
 refbanners.website
 referrer.website
 signout.website
+wellbc6.website
 wmtech.website
 alflying.win
 dsdsc.win
