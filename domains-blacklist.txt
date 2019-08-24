@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 431
 
 # Ignored entries due to the whitelist: 152
 
@@ -116,6 +116,7 @@ astree.be
 analytics.belgacom.be
 belstat.be
 belvertising.be
+geoedge.be
 stats.ipmgroup.be
 metriweb.be
 myiphone.be
@@ -632,6 +633,7 @@ lativil.co
 lightminer.co
 analytics.mailmunch.co
 mbsy.co
+tracking.meete.co
 memo.co
 meried.co
 minecrunch.co
@@ -1606,6 +1608,7 @@ adcash.com
 adcater.com
 adcde.com
 adcdnx.com
+adcell.com
 adcentriconline.com
 adchap.com
 adchemical.com
@@ -2603,6 +2606,7 @@ anwufkjjja.com
 anxiousapples.com
 anyclip-media.com
 pixel.anyclip.com
+trafficmanager.anyclip.com
 anyonemyth.com
 anypbbervqig.com
 anyuwksovtwv.com
@@ -3529,6 +3533,7 @@ blinkadr.com
 t.blinkist.com
 blisldgsqk.com
 blissfulonline.com
+pixel.blivenyc.com
 blizzardcheck.com
 blkget8.com
 blkivkplpn.com
@@ -7796,7 +7801,6 @@ gpjph.com
 gpltrrdffobf.com
 gpnduywxhgme.com
 gppkhamotypq.com
-sypi.gpshopper.com
 gptafybrj.com
 gptkueuaseyut.com
 gpudqmly.com
@@ -10474,6 +10478,7 @@ lavetawhiting.com
 lavmeebdxwc.com
 lawbjcjsokmua.com
 lawvcpqtapzsh.com
+laydata.com
 laydcilck.com
 layerloop.com
 layerpark.com
@@ -12571,6 +12576,7 @@ nsmartad.com
 nsnfokcikwf.com
 nspmotion.com
 nsqdwwwoxs.com
+nsstatic.com
 nstjenxcpvm.com
 nstracking.com
 nsvfl7p9.com
@@ -16220,7 +16226,7 @@ speednetwork14.com
 speednetwork19.com
 speedshiftmedia.com
 spfrlpjmvkmq.com
-zdlogs.sphereup.com
+sphereup.com
 sphjqakwuteg.com
 gekko.spiceworks.com
 px.spiceworks.com
@@ -20442,6 +20448,7 @@ log.api.zaloapp.com
 stc.store.page.zaloapp.com
 static-ads.zaloapp.com
 stats.zaloapp.com
+px.za.zaloapp.com
 stc.za.zaloapp.com
 zminer.zaloapp.com
 zamjzpwgekeo.com
@@ -23439,6 +23446,7 @@ rtb.kds.media
 m32.media
 stat.mixi.media
 target.mixi.media
+novelty.media
 nui.media
 popads.media
 realbig.media
@@ -24827,6 +24835,7 @@ trac.oferting.net
 offerforge.net
 offergo.net
 offerpoint.net
+ohchat.net
 oix-stage.net
 a.oix.net
 b.oix.net
