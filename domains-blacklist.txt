@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 431
+# Ignored duplicates: 432
 
 # Ignored entries due to the whitelist: 152
 
@@ -160,6 +160,7 @@ cbbgdep.biz
 ceespc.biz
 choose-a-lady.biz
 chtoumenja.biz
+clickgate.biz
 clme.biz
 coinlab.biz
 corkery.biz
@@ -2468,6 +2469,8 @@ allabc.com
 allcuteboys.com
 alleliteads.com
 allmt.com
+allmygoodlife.com
+allmygreatestlife.com
 allmyverygreatlife.com
 allnvbtrtpku.com
 allowac.com
@@ -10448,6 +10451,7 @@ labadon.com
 labdwkqyavb.com
 laborates.com
 ladhyjqqgerr.com
+ladsbrown.com
 ladsinfo.com
 ladsp.com
 lajpmujdntg.com
@@ -15638,6 +15642,7 @@ sdzwkmokd.com
 sdzxojlt.com
 sea-nov-1.com
 seafox26.com
+seaofads.com
 search2000s.com
 searchfeed.com
 searchignite.com
@@ -22754,6 +22759,7 @@ bttn.io
 burt.io
 buzzad.io
 api.calq.io
+data.caroda.io
 center.io
 chainads.io
 clickigniter.io
@@ -24772,6 +24778,7 @@ mxcdn.net
 adv.mxmcdn.net
 mxptint.net
 my-layer.net
+myadstack.net
 mybluemix.net
 myconst.net
 mycooliframe.net
@@ -24919,7 +24926,7 @@ ad.plus-a.net
 plusfind.net
 plwosvr.net
 pm0.net
-tra.pmdstatic.net
+pmdstatic.net
 po-cloud.net
 polyad.net
 poolmining.net
