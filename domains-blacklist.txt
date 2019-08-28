@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 432
+# Ignored duplicates: 433
 
 # Ignored entries due to the whitelist: 152
 
@@ -869,6 +869,7 @@ ad.1k3.com
 ad.1serve-sys.com
 1traf.com
 1warie.com
+1xbetvn.com
 1xpers99.com
 1yk851od.com
 1yme78h.com
@@ -1749,7 +1750,7 @@ adjourne.com
 adjug.com
 adjuggler.com
 adjungle.com
-ulink.adjust.com
+adjust.com
 adk2.com
 adk2x.com
 adkengage.com
@@ -2566,6 +2567,7 @@ tracker.anandtech.com
 anasjdzutdmv.com
 anastasiasaffiliate.com
 anatid3.com
+anbalxkcpwa.com
 anbkoxl.com
 tracking.ancestry.com
 andagainanotherthing.com
@@ -3236,6 +3238,7 @@ bcloudhost.com
 bcnhnekodmdniu.com
 bcobmmozfan.com
 bcqrmuwbvxi.com
+bcvrczvqlm.com
 bcxronvqkwe.com
 bczvulovuap.com
 bczxmlqcugwgs.com
@@ -3540,6 +3543,7 @@ blgrwhaww.com
 blinkadr.com
 t.blinkist.com
 blisldgsqk.com
+blismedia.com
 blissfulonline.com
 pixel.blivenyc.com
 blizzardcheck.com
@@ -4420,6 +4424,7 @@ ckivxgxgqknk.com
 ckjjcarzu.com
 ckjjnujgvfd.com
 ckkrlzxvy.com
+ckombcgg.com
 ckopycdb.com
 ckqby.com
 ckqgkazihvwc.com
@@ -4560,6 +4565,7 @@ cloudiiv.com
 trk.cloudsna.com
 cloudtracer101.com
 clouxtnxsmxdva.com
+clrstm.com
 clsvugmivpf.com
 clsyxddpbt.com
 clubcollector.com
@@ -7196,6 +7202,7 @@ ftjrekbpjkwe.com
 ftodxdoolvdm.com
 ftqgkcmbkptohh.com
 ftqnttckompj.com
+ftsygfycaybskz.com
 fttsgimpiagrwa.com
 ftttziizhuplfj.com
 ftuisdlnbp.com
@@ -7331,6 +7338,7 @@ fzqxefkbjzwiqa.com
 fzrcalpbcu.com
 fzrqfakeaqikwm.com
 fzsiwzxnqadb.com
+fzvydcgqazrr.com
 fzwoa.com
 fzwxuqoy.com
 fzxrjx.com
@@ -7613,6 +7621,7 @@ givmuvbacwui.com
 giyjhogjmfmc.com
 giyupoeynkfx.com
 gjbgesaromnb.com
+gjdogaqhtzaqj.com
 gjeyqtunbnap.com
 5568.gjghy.com
 gjijrevdp.com
@@ -7997,6 +8006,8 @@ gvnqfiwzronbq.com
 gvoraoonpi.com
 gvoszbzfzmtl.com
 gvrqquiotcyr.com
+gvt1.com
+gvt2.com
 gvtawzpydsujep.com
 gvwyxnyq.com
 gvxobjcxcbkb.com
@@ -8470,6 +8481,7 @@ howtodoblog.com
 hoyqhygv.com
 marketinghub.hp.com
 hpabkunldxhpc.com
+hpasvfsndgr.com
 hpbczauldndnep.com
 hpbsyqsypxy.com
 hpcyk.com
@@ -8747,6 +8759,7 @@ gold.ibiza-court.com
 ibjivzn.com
 ibjtuhcgwnamyf.com
 ibkfummkqzlg.com
+ibleigzj.com
 ibnuoduab.com
 ibpxl.com
 ibqmccuuhjqc.com
@@ -9325,6 +9338,7 @@ italianadirectory.com
 itbiwlsxtigx.com
 ct.itbusinessedge.com
 itcfnfi.com
+itecsozudb.com
 platform.iteratehq.com
 itevcsjvtcmb.com
 iteye.com
@@ -9702,6 +9716,7 @@ jmbhyqijqhxk.com
 jmewxbvmcjmur.com
 jmextrjbse.com
 jmimktvupp.com
+jmklkttenjpfzn.com
 jmp9.com
 jmvjmgofvxnu.com
 jmvnolvmspponhnyd6b.com
@@ -9921,6 +9936,7 @@ jyauuwrrigim.com
 jyccdcavzpqt.com
 jydbctzvbqrh.com
 jyezgitcx.com
+jyijwgsqj.com
 jynbcpfwvazazd.com
 jynhztwrsl.com
 jynp9m209p.com
@@ -10255,6 +10271,7 @@ komoona.com
 kompilukabalazooka.com
 komtrack.com
 konbwfktusra.com
+kongssew.com
 kont-news.com
 kontera.com
 kontextua.com
@@ -12839,6 +12856,7 @@ ofajzowbwzzi.com
 ofapes.com
 ofbqjpaamioq.com
 ofdfinqurwpi.com
+ofenltlzepz.com
 offerenced.com
 offerforge.com
 offermatica.com
@@ -13417,6 +13435,7 @@ ashow.pcpop.com
 pcpzhtdvtcqj.com
 pcqmqyqeswnrd.com
 pcr1p2xr.com
+pcrhfkuwp.com
 pcspeedup.com
 pixel.pcworld.com
 pdapmkivb.com
@@ -14630,6 +14649,7 @@ qtjxalkllc.com
 qtkluwmebrtbrt.com
 idigger.qtmojo.com
 qtpfm.com
+qtpmvoqqzrn.com
 qtsmzrnccnwz.com
 qtsyxyakun.com
 qttmjwno.com
@@ -18850,6 +18870,7 @@ vwzolswcoyla.com
 vwzvqkcoaszyw.com
 vxbphudphg.com
 vxbtrsqjnjpq.com
+vxdrqtghmztm.com
 vxgplvhuilp.com
 vxijqpsxpdlztm.com
 vxkupxpf.com
@@ -18978,6 +18999,7 @@ wcobqyeqpckkzh.com
 wcoloqvrhhcf.com
 wcpanalytics.com
 wcqlebpges.com
+wcwdjojsxbbl.com
 wcwzzauws.com
 wcyqoiyohhav.com
 wcyrjlszoo.com
@@ -19521,6 +19543,7 @@ wzdzht7am5.com
 wzfoygianhe.com
 wzfxaqhiapptsz.com
 wzghuwvuyxknpv.com
+wzhmaehmunibp.com
 wziftlp.com
 wzismevwhqixlq.com
 wzjbvbxldfrn.com
@@ -26037,6 +26060,7 @@ jacopiler.pro
 jerredsite.pro
 johnsitsi.pro
 jojonewwss.pro
+jullssc.pro
 justailley.pro
 justardes.pro
 kidnepishlient.pro
