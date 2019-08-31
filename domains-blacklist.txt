@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 433
+# Ignored duplicates: 432
 
 # Ignored entries due to the whitelist: 152
 
@@ -167,6 +167,7 @@ clme.biz
 coinlab.biz
 corkery.biz
 cpm.biz
+czx5eyk0exbhwp43ya.biz
 dfasxm.biz
 djuzsbnnm.biz
 dopiku.biz
@@ -1112,6 +1113,7 @@ img.56gmz.com
 5ad954477413bdb77f.com
 5advertise.com
 5b5a93686577c13.com
+5bc58da97b.com
 5clickcashsoftware.com
 5d02977f6511aa.com
 5dabf928ad9ad4.com
@@ -1210,6 +1212,7 @@ xsell.6waves.com
 743e6b34be13fb105e0.com
 74d382def7b08.com
 74da0fffc981.com
+754daf9cd396259.com
 757a51ce62f.com
 758c824671f4fc0.com
 75b64c9763a13418e.com
@@ -1312,6 +1315,7 @@ c.8l8l.com
 t.91chs.com
 924e60106cd9d0e.com
 927a8dd1afec73.com
+929a6f82280b7f.com
 92ec94d51076357.com
 9376ec23d50b1.com
 939237cdc62078.com
@@ -1349,6 +1353,7 @@ track.99acres.com
 9d683ea679bc03ff.com
 9de40afd8952279e2e.com
 9e5420f6be48ccc.com
+9ec10065c976f.com
 9f23ab605837.com
 9f4272342f817.com
 rlog.9gag.com
@@ -2193,6 +2198,7 @@ aeeefzfuk.com
 aefqdgklyu.com
 aefvxtue.com
 aeghae5y.com
+tracking.aegpresents.com
 aegzjowko.com
 aeizbvtknp.com
 aemxvcqi.com
@@ -3476,6 +3482,7 @@ birpidnl.com
 birslhmnnc.com
 biskerando.com
 bisvljlzmai.com
+bit-ad.com
 bit-bork-boodle.com
 bitclubnetwork.com
 bitcoinadvertisers.com
@@ -5289,6 +5296,7 @@ dc-storm.com
 dc121677.com
 dc40b24004fa11f35b7.com
 dc63bfb069ea522f.com
+dc76b15913c.com
 dccstsamnyrjk.com
 dcdalkgtbmip.com
 dcgbswcvywyl.com
@@ -5778,6 +5786,7 @@ dsnjsdrbqwdu.com
 dsnr-affiliates.com
 dsparking.com
 dsply.com
+dsstrk.com
 dstillery.com
 dsultra.com
 dswwghrlwwcm.com
@@ -5952,6 +5961,7 @@ e2ertt.com
 e331ff4e674c083.com
 e347bb14dc71778.com
 e350570881272e.com
+e4aa8afa77b8.com
 e521d17fa185a2.com
 e5mbjzv.com
 e6081b73afec581f.com
@@ -6127,11 +6137,13 @@ egnatius-ear.com
 egocefabus.com
 egolina.com
 egooad.com
+egqvppwseieyu.com
 egrcoshpisdnn.com
 egtkhpkkfswf.com
 t.eharmony.com
 ehcawmdqgq.com
 eheewlwlebwpd.com
+ehgefgcollhd.com
 ehhmynitx.com
 ehkovmky.com
 ehlfynuo.com
@@ -7180,6 +7192,7 @@ frvfrv.com
 frxohovv.com
 fryxaknn.com
 frzaj.com
+fsaticze.com
 fscslwmvbadncb.com
 fsddidfmmzvw.com
 fsdvydpldxrbu.com
@@ -7943,6 +7956,7 @@ gsdolqvdjr.com
 gsecondscreen.com
 gsfvzgnu.com
 gsghbxydcyum.com
+gsimjyplcciwgb.com
 gsipjksiepxsqi.com
 gsiqerorqkxu.com
 gsjhehtqvin.com
@@ -8542,6 +8556,7 @@ hrdbamvfzipe.com
 hrkshoveizfo.com
 jobs.hrkspjbs.com
 hrmqqrvqaxvzb.com
+hrnklivlbhf.com
 hromasoma.com
 hrorxufknjdm.com
 hrskwmpvpgocj.com
@@ -8774,6 +8789,7 @@ ibnuoduab.com
 ibpxl.com
 ibqmccuuhjqc.com
 ibryte.com
+ibxfhtklswtbd.com
 ibycicwahzg.com
 ic-live.com
 icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com
@@ -10054,6 +10070,7 @@ kdhkjeklzihiwh.com
 kdhndryipp.com
 kdiunbsaw.com
 kdkzvfzmgvm.com
+kdluruaor.com
 kdmilqoiaucqto.com
 kdoraraq.com
 kdpqydaxbxztnh.com
@@ -10666,6 +10683,7 @@ levisites.com
 lexity.com
 lexozfldkklgvc.com
 lexwdqnzmkdr.com
+lfahycetwt.com
 lfclktkwnc.com
 lfcnzhcnzded.com
 lfdydk.com
@@ -12453,6 +12471,7 @@ niltutch.com
 nimdinb.com
 nimiq.com
 nimiqpool.com
+nimjdyknjzcp.com
 ninestats.com
 track.ning.com
 lciapi.ninthdecimal.com
@@ -12702,6 +12721,7 @@ nvgcmeqfn.com
 nvjjquyylqicp.com
 nvjqm.com
 nvkkjenz.com
+nvloygrnfe.com
 nvmjtxnlcdqo.com
 nvnbwkkryjqsvh.com
 nvnvyikitffcdr.com
@@ -15737,6 +15757,7 @@ securesmrt-dt.com
 securestudies.com
 securewebsiteaccess.com
 securitain.com
+securitytrfx.com
 secursors.com
 sedoparking.com
 sedotracker.com
@@ -18262,6 +18283,7 @@ uytabzmvei.com
 uyusewjlkadj.com
 uyxjfkgudefv.com
 uyxjnuqbti.com
+uyyalzrvkvmtiq.com
 uyznjuyfyjc.com
 uzagahwfnt.com
 uzbboiydfzog.com
@@ -18651,6 +18673,7 @@ vjcewkcjqu.com
 vjfgmsly.com
 vjfkglkztcz.com
 vjgyxegvfrhthq.com
+vjhjolgaz.com
 vjltrbzrtqmkib.com
 vjoytzia.com
 vjqshoyjxwk.com
@@ -25029,7 +25052,8 @@ ad.plus-a.net
 plusfind.net
 plwosvr.net
 pm0.net
-pmdstatic.net
+tra.scds.pmdstatic.net
+tra.pmdstatic.net
 po-cloud.net
 polyad.net
 poolmining.net
@@ -28185,6 +28209,7 @@ gitcdn.site
 gitload.site
 gocdn.site
 hesftig.site
+intab.site
 itempana.site
 jfx61qca.site
 less-css.site
@@ -28747,6 +28772,7 @@ freebannerswap.co.uk
 future-fie-assets.co.uk
 future-hawk-content.co.uk
 future-price.co.uk
+gatorleads.co.uk
 globel.co.uk
 grapeshot.co.uk
 guardiandigitalcomparison.co.uk
