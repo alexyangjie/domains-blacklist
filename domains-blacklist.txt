@@ -24573,6 +24573,7 @@ forex-affiliate.net
 cdn.ads.fotoable.net
 geoip.fotoable.net
 statsp.fpop.net
+ads-cdn.fptplay.net
 franecki.net
 free-counters.net
 free-domain.net
@@ -26259,6 +26260,7 @@ anybest.pw
 arana.pw
 us.b3018.pw
 bdzhhjnml.pw
+beiven.pw
 belicimo.pw
 bestdevchenki.pw
 bmcm.pw
@@ -26917,6 +26919,7 @@ phen.fabricmedia.ru
 faceblum.ru
 fadeaibgfihegegjadc.ru
 fafc5ra5.ru
+fafc5ra6.ru
 fairlink.ru
 faktino.ru
 faktozhe.ru
@@ -28261,6 +28264,7 @@ smartoffer.site
 smrtbnr.site
 tdstorage.site
 trav4life.site
+vvhatsappsohbetim.site
 xvideosharing.site
 naj.sk
 pocitadlo.sk
@@ -29053,8 +29057,6 @@ qc.yan.vn
 yomedia.vn
 api.sdk.zadn.vn
 log.sdk.zadn.vn
-zalo-ads.zadn.vn
-zalo-ads-td.zadn.vn
 zplayer.trk.zapps.vn
 ads.zdn.vn
 oa-stc.zdn.vn
