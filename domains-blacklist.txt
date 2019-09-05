@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 433
+# Ignored duplicates: 432
 
 # Ignored entries due to the whitelist: 152
 
@@ -13307,6 +13307,7 @@ vrt.outbrain.com
 log.outbrainimg.com
 tcheck.outbrainimg.com
 outlookabsorb.com
+outseeltor.com
 outwitch.com
 ouytveod.com
 ouzqwetenps.com
@@ -16321,6 +16322,7 @@ sombersurprise.com
 sombes.com
 stats.someecards.com
 somelandingpage.com
+sometired.com
 sometrics.com
 somuboteso.com
 ads.sondakika.com
@@ -19054,6 +19056,7 @@ wangfenxi.com
 wanrtqneiissrb.com
 waogi.com
 wap-click.com
+wapempire.com
 waploft.com
 waptrick.com
 warfacco.com
@@ -19833,6 +19836,7 @@ xilfqkxezy.com
 xilnalycptredw.com
 ximad.com
 ximeldnjuusl.com
+xineday.com
 analytic.xingcloud.com
 xiniuz.com
 xiodoyvbauv.com
@@ -21396,7 +21400,7 @@ evania.de
 exapxl.de
 exmarkt.de
 exnzg.de
-vidapi.expepp.de
+expepp.de
 track.express.de
 falkag.de
 fastcounter.de
@@ -25667,6 +25671,7 @@ virt0n.news
 vrt.news
 adbuka.com.ng
 botman.ninja
+cdnmerkezi.ninja
 realtracking.ninja
 active24stats.nl
 ad-serverparc.nl
@@ -27754,7 +27759,6 @@ ruschopi.ru
 rushkolnik.ru
 pr.rusmed.ru
 rot.rusoul.ru
-rusplt.ru
 rustiz.ru
 rustoria-topnews.ru
 rustrackers.ru
