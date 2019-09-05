@@ -29407,10 +29407,11 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23094
+# Ignored duplicates: 23093
 
 # Ignored entries due to the whitelist: 4
 
+www.hostingcloud.ac
 seed.ac
 bittrex.academy
 miner.ad
@@ -30339,7 +30340,6 @@ www.fblaster.com
 xsecurity.fblaster.com
 findblocks.com
 stafftest.firewall-gateway.com
-fiverr.com
 flashplayerd-4.com
 flashplayerdownloadvip.com
 flypool.com
@@ -30625,7 +30625,6 @@ poolmin.com
 pooltupi.com
 pow-coin.com
 ppxxmr.com
-app.pr0gramm.com
 avatar.pr0gramm.com
 escobar.pr0gramm.com
 ww.pr0gramm.com
@@ -30645,7 +30644,6 @@ quantumminingpool.com
 qubtc.com
 qyvtls749tio.com
 rapidpools.com
-rapidvideo.com
 ratchetmining.com
 ratingtoplist.com
 ravenminer.com
@@ -30866,6 +30864,7 @@ my-mining-pool.de
 night-pool.de
 object.de
 p2poolmining.de
+psychomining.de
 the-miners.de
 xmrpool.de
 coinone.deals
@@ -31341,6 +31340,22 @@ bitcoins.lc
 support.2giga.li
 applecoin.li
 peer2.eosstore.li
+s01.hostcontent.li
+s02.hostcontent.li
+s03.hostcontent.li
+s04.hostcontent.li
+s05.hostcontent.li
+s06.hostcontent.li
+s07.hostcontent.li
+s08.hostcontent.li
+s09.hostcontent.li
+s10.hostcontent.li
+s100.hostcontent.li
+s11.hostcontent.li
+s12.hostcontent.li
+s13.hostcontent.li
+www.hostcontent.li
+www.hostingcloud.li
 piratbaypirate.li
 superbay.li
 www.verifier.li
@@ -31565,7 +31580,6 @@ hiveon.net
 regadog.jhfree.net
 kinohabr.net
 kisshentai.net
-kiwifarms.net
 klondikepool.net
 leetpools.net
 listcool.net
