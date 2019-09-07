@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 432
+# Ignored duplicates: 434
 
 # Ignored entries due to the whitelist: 152
 
@@ -2934,6 +2934,7 @@ audsp.com
 audtd.com
 august15download.com
 aultemeztokc.com
+tag.aumago.com
 aunmdhxrco.com
 auspipe.com
 authcaptcha.com
@@ -4376,6 +4377,7 @@ chipleader.com
 chistochisto.com
 chitika.com
 chjfbjjgqts.com
+chjriixbqmppwm.com
 chjvykulvzey.com
 chkqqbpppcuihn.com
 chlpyktpzcciyh.com
@@ -5177,6 +5179,7 @@ czaxrbclfse.com
 m.czbiw.com
 czbtfksgtcuy.com
 czcbkaptwfmv.com
+czcetfjlisyjh.com
 czcydlrnu.com
 czcyppdffuhh.com
 czdaxoesbdlih.com
@@ -7389,6 +7392,7 @@ fzbnuyjgyexs.com
 fzbyrntsjxhcmb.com
 fzccvcrsbtb.com
 fzcyyqvrbrpk.com
+fzgitqrqrsyyiv.com
 fzmogmfqh.com
 fznpq.com
 fzpseyhkanhopd.com
@@ -7502,6 +7506,7 @@ gbytjlggor.com
 gcboyhlfqxhc.com
 beacon.gcion.com
 gannett.gcion.com
+gclcehwfvl.com
 gcomrarlta.com
 gcpbftsiwdrajj.com
 gctwvryd.com
@@ -7648,6 +7653,7 @@ gialnk.com
 giantaffiliates.com
 giddycoat.com
 giddyuptrk.com
+gifiqbbfvh.com
 gifjvmfkzykp.com
 stats.gifs.com
 stats-messages.gifs.com
@@ -7992,6 +7998,7 @@ grxpaizsvdzw.com
 gscsystemwithdarren.com
 gsdolqvdjr.com
 gsecondscreen.com
+gsezbakx.com
 gsfvzgnu.com
 gsghbxydcyum.com
 gsimjyplcciwgb.com
@@ -9318,6 +9325,7 @@ ipinfodb.com
 ipinyou.com
 ipllxfcftp.com
 iplocationtools.com
+iplrcmff.com
 ipluhckk.com
 ipncblpgxlhjpc.com
 ipntpfokhkrh.com
@@ -9826,6 +9834,7 @@ jojilabola.com
 jokoshep.com
 jolic2.com
 jomznuefrw.com
+joophesh.com
 tracker.joost.com
 joqnoyniblzm.com
 joqpatxugyug.com
@@ -9997,6 +10006,7 @@ jxfplvnrg.com
 jxhmvjrpkdyn.com
 jxjpszwpl.com
 jxkelzfrk.com
+jxkybegp.com
 jxmhgmkuw.com
 jxnwpeqkhtkrw.com
 jxseoruuv.com
@@ -11067,6 +11077,7 @@ lrjltdosshhd.com
 lrlkdlpksqveje.com
 lrmjvytlhho.com
 lroywnhohfrj.com
+lruvvletnhv.com
 lruyzrlcef.com
 lrwwnmijztt.com
 lryfmcok.com
@@ -11456,6 +11467,7 @@ media303.com
 media6degrees.com
 media970.com
 mediaarmor.com
+log.mediacategory.com
 mediaclick.com
 mediacot.com
 mediacpm.com
@@ -12210,6 +12222,7 @@ mzguykhxnuap.com
 mzhcaexrrl.com
 mzjotkigwu.com
 mzkhhjueazkn.com
+mzmnrczlsqtlya.com
 mznijqwjkqadk.com
 mznzltgotp.com
 mzol7lbm.com
@@ -12319,6 +12332,7 @@ ncspvnslmmbv.com
 ncsyyeabk.com
 ncwjhywskph.com
 nczlhwsguwc.com
+ndddttxkqyh.com
 ndemlviibdyc.com
 ndf81.com
 ndfegyhf.com
@@ -13221,6 +13235,7 @@ opyisszzoyhc.com
 oqaghvocticy.com
 oqfoiwjwysbffe.com
 oqgztgtmcxfcic.com
+oqhrlphoecl.com
 oqiatejmfwelas.com
 oqmjxcqgdghq.com
 oqvjuqnkncom.com
@@ -13413,6 +13428,7 @@ p2r14.com
 p5genexs.com
 p7hwvdb4p.com
 pa-oa.com
+paakkisuvs.com
 tracking.pacharge.com
 pacific-yield.com
 w1jesu6.package12.com
@@ -13522,6 +13538,7 @@ pc1ads.com
 pc2ads.com
 pc3ads.com
 pcbfhotfyuyg.com
+pccpyjngw.com
 pcdjvinnlhysg.com
 pcdzsowmktz.com
 pcebrrqydcox.com
@@ -14465,6 +14482,7 @@ qbhcfxxivcdfm.com
 qbjnwjtbfrxceq.com
 qbldzsktv.com
 qbop.com
+qbpamfcntbprjw.com
 qbpawthj.com
 qbpuavqlsu.com
 qbsanzpkfj.com
@@ -14647,6 +14665,7 @@ qndqwtrwguhv.com
 qnfpskgtzkw.com
 qnhwhedcrzeodd.com
 qnjdtefk.com
+qnkiueuflzdold.com
 qnpolbme.com
 qnqrmqwehcpa.com
 qnrzdwhlsd.com
@@ -15943,6 +15962,7 @@ sfzfjiefentwe.com
 sgeeavwmk.com
 sgfcsnwegazn.com
 sgggjaosyrxr.com
+sgidkvwd.com
 sgiueejx.com
 sgmneqaebkzjug.com
 analytics.sgnapps.com
@@ -16590,6 +16610,7 @@ statun.com
 statuncore.com
 stcllctrs.com
 stcounter.com
+steadfastsystem.com
 stealthlockers.com
 steamac.com
 steamsecretary.com
@@ -18927,6 +18948,7 @@ vtcxhnri.com
 vtemaaftwexu.com
 vtgdjgtwl.com
 vth05dse.com
+vthhmbfo.com
 vtizr.com
 vtmkgqcvzvlsdt.com
 vtoygnkflehv.com
@@ -19664,6 +19686,7 @@ wzdzht7am5.com
 wzfoygianhe.com
 wzfxaqhiapptsz.com
 wzghuwvuyxknpv.com
+wzhdjexsw.com
 wzhmaehmunibp.com
 wziftlp.com
 wzismevwhqixlq.com
@@ -19756,6 +19779,7 @@ xdjdwpwwbky.com
 xdjeestdoiis.com
 xdjefibopixf.com
 xdlmsvhhsvsp.com
+xdltrwavzxn.com
 xdonzpjglqxi.com
 xdoygumiams.com
 xdqjeggqm.com
@@ -20563,6 +20587,7 @@ yvoria.com
 yvsymvjzk.com
 yvsystem.com
 yvvafcqddpmd.com
+yvvxjkzi.com
 yvyfyuacwz.com
 yvystpvmpnz.com
 yvzgazds6d.com
@@ -20634,6 +20659,7 @@ z-defense.com
 z444o.com
 zaaireapylyr.com
 zaattuotjbkj.com
+zabhoggkgm.com
 zabpkrvgswdroz.com
 zacbwfgqvxan.com
 zacqkexd.com
@@ -20974,6 +21000,7 @@ zrcaldozggijht.com
 zrcavgvtxqcbu.com
 zreluo.com
 zreqmcewq.com
+zrgssannk.com
 zrhskqzfh.com
 zricmrcrlmdeg.com
 zroitracker.com
@@ -21596,6 +21623,7 @@ nwave.de
 nxtracking.de
 observare.de
 webstatistik.odav.de
+d.omsnative.de
 online-media24.de
 cgicounter.onlinehome.de
 stats.opoloo.de
@@ -23461,6 +23489,7 @@ realclick.co.kr
 realssp.co.kr
 reople.co.kr
 sndkorea.co.kr
+teralog.techhub.co.kr
 dp25.kr
 log.kcisa.kr
 dreamsearch.or.kr
@@ -23598,6 +23627,7 @@ directnow.me
 doubleclicks.me
 edrone.me
 efatik.me
+deepknow.egoid.me
 tracking.fits.me
 freestats.me
 gear5.me
@@ -23658,8 +23688,7 @@ native.ext.media
 hoverr.media
 rtb.kds.media
 m32.media
-stat.mixi.media
-target.mixi.media
+mixi.media
 novelty.media
 nui.media
 popads.media
