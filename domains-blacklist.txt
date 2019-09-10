@@ -29510,7 +29510,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23093
+# Ignored duplicates: 23084
 
 # Ignored entries due to the whitelist: 4
 
@@ -30231,7 +30231,6 @@ bestmobiworld.com
 bestxmrpool.com
 betandwinornot.com
 get.bi-chi.com
-binance.com
 binancebch.com
 binancebtc.com
 binancecash.com
@@ -30252,7 +30251,6 @@ oss.bitdeer.com
 pay.bitdeer.com
 www.bitdeer.com
 ndc.bitember.com
-eos-bp.bitfinex.com
 bitfury.com
 bitgrail.com
 bithumb.com
