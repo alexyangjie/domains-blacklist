@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 434
+# Ignored duplicates: 435
 
 # Ignored entries due to the whitelist: 152
 
@@ -31,6 +31,7 @@ m2.ai
 native.ai
 nrich.ai
 powerad.ai
+rebel.ai
 soko.ai
 tooso.ai
 vdo.ai
@@ -5304,6 +5305,7 @@ databrain.com
 datacaciques.com
 datacoral.com
 datacratic-px.com
+datadoghq-browser-agent.com
 datafeedfile.com
 analytics.datahc.com
 datam.com
@@ -5930,6 +5932,7 @@ dvpgijdm.com
 dvrttkoyngtnhi.com
 dvsrlrnpyxwv.com
 dvszrkspd.com
+dvtwezyzog.com
 dvzyppnmfgtr.com
 dwabissw.com
 dwbqmlvjpvv.com
@@ -6060,6 +6063,7 @@ eaffzvnyj.com
 stat.eagleplatform.com
 eahkxyuezqvx.com
 eaidabmuxbqy.com
+eajmyphr.com
 eaknxurdsogwr.com
 eaolnbvd.com
 eaoxitwrlr.com
@@ -8178,6 +8182,7 @@ gzqoxmkuhl.com
 gzrlatbooqmt.com
 gzumjmvqjkki.com
 gzuvyhqb.com
+gzxdkaytxdsyxg.com
 gzxjfkhwvhwfzr.com
 gzzctcekf.com
 h-bid.com
@@ -9714,6 +9719,7 @@ jfaqiomgvajb.com
 jfduv7.com
 jffdktcyr.com
 jffwwuyychxw.com
+jfgbdjhyc.com
 jfhoq.com
 jfhupoqrydm.com
 jfjuhxfllw.com
@@ -10303,6 +10309,7 @@ kjbfpptjlhxh.com
 kjbqzbiteubt.com
 kjgh5o.com
 kjhdoend.com
+kjiiatolx.com
 kjizuuuvqbcd.com
 kjjlucebvxtu.com
 kjkwrmwdyhi.com
@@ -13453,6 +13460,7 @@ owykrhaic.com
 oxado.com
 oxanehlscsry.com
 oxcpvsxgegd.com
+oxfjlzyhxjihk.com
 oxidy.com
 oxpvwliy.com
 oxsng.com
@@ -13791,6 +13799,7 @@ phpjtafdqsa.com
 phpstat.com
 phragnmpo.com
 phskaieua.com
+phtfydtpxkdhmo.com
 phukrovo.com
 phyhggbk.com
 phywyzpugswttb.com
@@ -15680,6 +15689,7 @@ rwlzbswwmmh.com
 rwmttawspapqcy.com
 rwpads.com
 rwphwhdoktfq.com
+rwtbgaguhmfj.com
 rwtvvdspsbll.com
 rwugdvqdpxfz.com
 rwugglxboxgw.com
@@ -17516,6 +17526,7 @@ metrics.toysrus.com
 tozovulozi.com
 tpbid.com
 tpdowdhhn.com
+tpdpidgyjhjn.com
 tpfnibqjrpcj.com
 tpgeooxrcp.com
 tphwlmybvamq.com
@@ -19777,6 +19788,7 @@ wyhcocqu.com
 wyjdunwcqnetus.com
 wykskkpplgfi.com
 wylnauxhkerp.com
+wymoviciyvj.com
 wynather.com
 wysasys.com
 wysistat.com
@@ -19931,6 +19943,7 @@ xfxjdoot.com
 xgaethsnmbzi.com
 xghfi97mk6.com
 xghretunapafes.com
+xgievxfxhy.com
 xgmlmmulciz.com
 xgpijbqair.com
 xgpiuhyxbevjgs.com
@@ -23108,7 +23121,7 @@ bitcoadz.io
 bitmedia.io
 bitvertise.io
 blockbreaker.io
-api.branch.io
+branch.io
 bttn.io
 burt.io
 buzzad.io
@@ -29033,6 +29046,7 @@ future-fie-assets.co.uk
 future-hawk-content.co.uk
 future-price.co.uk
 gatorleads.co.uk
+conversions.genieventures.co.uk
 globel.co.uk
 grapeshot.co.uk
 guardiandigitalcomparison.co.uk
