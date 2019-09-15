@@ -2,9 +2,9 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 435
+# Ignored duplicates: 434
 
-# Ignored entries due to the whitelist: 152
+# Ignored entries due to the whitelist: 153
 
 js.cdn.ac
 dxracers.accountant
@@ -434,6 +434,7 @@ psoapeez.click
 ptmopenclose.click
 rustds.click
 s37.click
+subscribers.click
 t2.t2b.click
 texto.click
 tmpopenclose.click
@@ -1452,6 +1453,7 @@ aamsitecertifier.com
 aanqylta.com
 aanvxbvkdxph.com
 aaomstbnbiqo.com
+aapsis.com
 aaqpajztftqw.com
 aariczayhpo.com
 aarqdivjxstu.com
@@ -1488,6 +1490,7 @@ clk.about.com
 abruptroad.com
 abscontal.com
 abserv123.com
+absorbingband.com
 ariane.abtasty.com
 try.abtasty.com
 abtrcking.com
@@ -2583,6 +2586,7 @@ ampxchange.com
 amqcdbles.com
 amqtbshegbqg.com
 amrfscxvdvfvpa.com
+amrnhiqy.com
 amwupsihqfewgr.com
 amxdt.com
 amxodxmsuwdhn.com
@@ -2852,6 +2856,7 @@ aryufuxbmwnb.com
 as-farm.com
 as07d698u9.com
 as5000.com
+asadcdn.com
 asadzntx.com
 asafesite.com
 asbqyhrpty.com
@@ -2965,6 +2970,7 @@ autoline-top.com
 automatad.com
 automatedtraffic.com
 automateyourlist.com
+automaticside.com
 automationeventually.com
 autopilothq.com
 xtag.autotrader.com
@@ -3004,6 +3010,7 @@ avzkjvbaxgqk.com
 awakebottlestudy.com
 awasete.com
 awbvqznqxysjjw.com
+awcpmsaiv.com
 analytics.aweber.com
 awecr.com
 awempire.com
@@ -3058,6 +3065,7 @@ ayandns.com
 ayboll.com
 ayclinical.com
 aycwvgrra.com
+ayfzryxitsusx.com
 ayggsmmb.com
 ayhdwulehfdwn.com
 ayjebauqdrys.com
@@ -3673,6 +3681,7 @@ bnkgacehxxmx.com
 bnmla.com
 bnnsgqjofzar.com
 bnpmudgktroz.com
+bnqfbcnzdt.com
 bnqgubwpq.com
 bnrdom.com
 bnrslks.com
@@ -5154,6 +5163,7 @@ cwliihvsjckn.com
 cwmycjoddoq.com
 cwnrunnvatbfug.com
 cwofongvtbsi.com
+cworsbumjgbuc.com
 cwpumsjshnacl.com
 cwtekghutpaq.com
 cwtrackit.com
@@ -6746,6 +6756,7 @@ falcoware.com
 fallingfalcon.com
 fam-ad.com
 familiarfloor.com
+familiarrod.com
 fanaticalfly.com
 pixel.fanbridge.com
 tracking.fanbridge.com
@@ -7044,6 +7055,7 @@ flodonas.com
 flomigo.com
 floodprincipal.com
 sp.floridatoday.com
+flrdra.com
 flrqdjglshsbi.com
 fluctuo.com
 fluencymedia.com
@@ -7352,6 +7364,7 @@ futsoksu.com
 futureresiduals.com
 futureus.com
 futuristicfairies.com
+futuristicfifth.com
 fuurqgbfhvqx.com
 fuwgbbkktwbu.com
 fuxhdhdjlyrwhq.com
@@ -7922,6 +7935,7 @@ gouowkjmewn.com
 goupandhigher.com
 gourmetads.com
 governmenttrainingexchange.com
+goverua.com
 goviral-content.com
 govmetric.com
 goyavelab.com
@@ -8157,6 +8171,7 @@ gxwjkbxubfjd.com
 gxwoiiyfjiz.com
 gxxkrzrvy.com
 gxxsqeqlepva.com
+gxyrnjtgtwll.com
 gxzfpusmd.com
 gydfsypjiaymj.com
 gydlzimosfnz.com
@@ -9014,6 +9029,7 @@ ihdrozswbekx.com
 ihflwxrsptqz.com
 ihghcmznlp.com
 ihgkmgwfhjam.com
+ihgwekwwxbuxy.com
 ihookupdaily.com
 ihosetch.com
 stats.surfaid.ihost.com
@@ -9340,6 +9356,7 @@ log.invodo.com
 inxhtjrwictg.com
 sp.inyork.com
 ioatyggwaypq.com
+iociley.com
 iocnkrbgic.com
 iogous.com
 iogutpkrkkycq.com
@@ -9680,6 +9697,7 @@ jdniyyricenx.com
 jdolsuyshcz.com
 jdoqocy.com
 jdouzzxkyukv.com
+jdpqtgvzsoy.com
 jdrckkbpb.com
 jdrlnicvn.com
 jdskyjntuhea.com
@@ -9921,6 +9939,7 @@ jpflmmxdflmm.com
 jpg-server.com
 jphwssfvoddoi.com
 jpjgbiuoziih.com
+jpllzuuvku.com
 jpmpvhelfeg.com
 jpmyudcnpgl.com
 jpncpftyxliq.com
@@ -10330,6 +10349,7 @@ kkscoephxrum.com
 kksoyysmpp.com
 kkxrizpdh.com
 klakcdiqmgxq.com
+klakus.com
 magnetrack.klangoo.com
 evt.klarna.com
 cdn.klasseo.com
@@ -10828,6 +10848,7 @@ lgkzfskybz.com
 lgnjcntegeqf.com
 lgse.com
 lgthvsytzwtc.com
+lgtiaqukf.com
 lgtnwgfqkyyf.com
 lgzfhqubp.com
 lgzjsauvfv.com
@@ -12172,6 +12193,7 @@ muwjxxvovtb.com
 muxtpvixahawy.com
 mvbemeggnodty.com
 mvdnsrgolwgru.com
+datadog-service.mvfglobal.com
 mvilivestats.com
 mvjuhdjuwqtk.com
 mvnuyjsdgle.com
@@ -13946,6 +13968,7 @@ plmythrza.com
 plocap.com
 plomihy.com
 plopx.com
+plqakqvku.com
 plquutxxewil.com
 plufdsa.com
 plufdsb.com
@@ -14399,6 +14422,7 @@ pushgaga.com
 pushimer.com
 pushlinck.com
 pushlommy.com
+pushlum.com
 pushmenews.com
 pushmobilenews.com
 pushmono.com
@@ -14747,6 +14771,7 @@ qmmdvzsebi.com
 qmotkiltrim.com
 qmouzhzz.com
 qmxpttxjv.com
+qmzwcrordyc.com
 qndqwtrwguhv.com
 qnfpskgtzkw.com
 qnhwhedcrzeodd.com
@@ -14771,6 +14796,7 @@ qoijertneio.com
 qoiowocphgjm.com
 qolnnepubuyz.com
 qolrlwwirf.com
+qonttkxl.com
 track.qoof.com
 qopqudzeaywc.com
 qosrridifvsr.com
@@ -14895,6 +14921,7 @@ quhlryzpyyion.com
 quhpkwtljkvedc.com
 quickcash500.com
 quicksandear.com
+quietknowledge.com
 quillion.com
 quinstreet.com
 quintelligence.com
@@ -14943,6 +14970,7 @@ qxfzgftkfgukkp.com
 qxmecqgzrgdh.com
 qxnniyuuaxhv.com
 qxphrauujms.com
+qxvmcpqcao.com
 qxvnvbkcm.com
 qxxyzmukttyp.com
 qxyam.com
@@ -15567,11 +15595,13 @@ rriqwzgmaazsp.com
 rrmqirchpasqyw.com
 rrnqzntj.com
 rroyintwabqyua.com
+rrpjunmcv.com
 rrptobfpqeftyg.com
 rrrdddbtofnf.com
 rrscdnsfunoe.com
 rrvkjvhbwnbre.com
 rrvpscehvjuz.com
+rrxlynihw.com
 rryodgeerrvn.com
 rs-stripe.com
 rsalcdp.com
@@ -15761,6 +15791,7 @@ stats.sa-as.com
 sa2xskt.com
 ad.sacitaslan.com
 saenrwiqesp.com
+safe-connection21.com
 safecllc.com
 api.safedk.com
 config.safedk.com
@@ -16467,6 +16498,7 @@ sophang8.com
 sophiasearch.com
 sophus3.com
 sopital.com
+sorqbhulun.com
 sosbyncpkyw.com
 sossxjmotqqs.com
 sotuktraffic.com
@@ -16871,6 +16903,7 @@ sw2block.com
 swahobrjdddri.com
 swan-swan-goose.com
 affiliates.swappernet.com
+sonet-rp.swaxis.com
 swbdds.com
 swckuwtoyrklhtccjuuvcstyesxpbmycjogrqkivmmcqqdezld.com
 swcuxrfitmjfee.com
@@ -17915,6 +17948,7 @@ tyllfqbmny.com
 tylzbdkjsjig.com
 tynt.com
 tyoaclrjeb.com
+typicalteeth.com
 typieced.com
 typiol.com
 typyky.com
@@ -20106,6 +20140,7 @@ xoyoijhp.com
 xpahdmitqadqda.com
 xpbjjdrcwuqkks.com
 xpgcrmxejlgig.com
+xpgfsxoyijt.com
 xpjizpoxzosn.com
 xpkhmrdqhiux.com
 xpnttdct.com
@@ -20155,6 +20190,7 @@ xsgcobwd.com
 xsgpzbipelo.com
 xskbsyssik.com
 xsmafckigsdnij.com
+xsmangbomdick.com
 xsnfmaxicj.com
 xsnqhzbiqdmqw.com
 xsqylzml.com
@@ -20302,6 +20338,7 @@ yandepit.com
 appmetrica.yandex.com
 clck.yandex.com
 yangot.com
+yanskweqyuma.com
 yaoslgiweccw.com
 yaqysxlohdyg.com
 yashi.com
@@ -21000,6 +21037,7 @@ zkoumvpngkubl.com
 zkowrpcb.com
 zkqpoamv.com
 zksdztizohcfy.com
+zkwtqwwks.com
 zkzpfpoazfgq.com
 zlacraft.com
 zlahmbwm.com
@@ -21952,6 +21990,7 @@ zieltracker.de
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
 monu.delivery
 neads.delivery
+tracking.hurlmedia.design
 experianmarketingservices.digital
 fsd2.digital
 snowplow.swm.digital
@@ -22093,6 +22132,7 @@ watchnowlive.eu
 webads.eu
 webpower.eu
 yellowmango.eu
+pzz.events
 trace.events
 fbpixel.network.exchange
 sessions.exchange
@@ -23235,6 +23275,7 @@ outbid.io
 owlads.io
 owlanalytics.io
 pc1.io
+pgs.io
 presage.io
 proper.io
 pubgenius.io
@@ -23262,6 +23303,7 @@ cdn.smartclick.io
 smarterhq.io
 smrk.io
 snapsmedia.io
+sophi.io
 sparechange.io
 sprkl.io
 sqate.io
@@ -23679,6 +23721,7 @@ ocatdog.live
 jsc.marketgid.com.p.pstl.live
 aliru2.ru.p.pstl.live
 admachina.com.s.pstl.live
+sitestats.live
 verifier.live
 yourservice.live
 bestweb2013stat.lk
@@ -23739,10 +23782,12 @@ b81x63nc.ws.md
 1q2w3.me
 1web.me
 8jd2lfsq.me
+adbro.me
 adfill.me
 adopshost.me
 adtarget.me
 advadnetwork.me
+adxbid.me
 adxxx.me
 autonewspron.me
 bgclck.me
@@ -24161,6 +24206,7 @@ awmengine.net
 awstaticdn.net
 axf8.net
 cdnbigdata.azureedge.net
+g2insights-cdn.azureedge.net
 b-click.net
 bablogon.net
 baltchd.net
@@ -25905,6 +25951,7 @@ afftrk.online
 aj1052.online
 aj1058.online
 aj1574.online
+aj1602.online
 aj1603.online
 aj1616.online
 aj1713.online
@@ -26473,6 +26520,7 @@ trk.10ru.pt
 marktest.pt
 minercry.pt
 webstats.sapo.pt
+targeting.perso.aws.arc.pub
 maxim.pub
 pxi.pub
 tracking.redirect.pub
@@ -28221,7 +28269,7 @@ upcash.ru
 upclick.ru
 uppro.ru
 upstats.ru
-uralweb.ru
+hc.uralweb.ru
 urwb.ru
 uryle.ru
 us1tryasemi.ru
@@ -28557,6 +28605,7 @@ slejv.space
 smrtbnr.space
 sonat.space
 tlafu.space
+metrika.traff.space
 stat.uitools.space
 webma.space
 xxslu.space
@@ -29477,6 +29526,7 @@ keapeiros.xyz
 kinopushka.xyz
 piou.kirkir.xyz
 kkpur.xyz
+klkus.xyz
 krison.xyz
 ktcdn.xyz
 kurulum.xyz
