@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 434
+# Ignored duplicates: 433
 
 # Ignored entries due to the whitelist: 153
 
@@ -4497,6 +4497,7 @@ ckhfffgt.com
 ckivxgxgqknk.com
 ckjjcarzu.com
 ckjjnujgvfd.com
+ckkqgycwljxib.com
 ckkrlzxvy.com
 ckombcgg.com
 ckopycdb.com
@@ -17780,6 +17781,7 @@ trendlope.com
 collector.trendmd.com
 trenpyle.com
 trflog.com
+trfmxt.com
 trfpump.com
 trgdwwhaa.com
 trgtcdn.com
@@ -21362,6 +21364,7 @@ zzgqqdmnrhhals.com
 zzhengre.com
 zzhgpbovlhinj.com
 zzkrxder.com
+zzlayejqlzcg.com
 zzmwzarweka.com
 zzmyypjedpfxck.com
 zzomiuob.com
@@ -27058,6 +27061,7 @@ bvcpedy6dyjgkkl.ru
 bw95vpjda.ru
 bwbw2kje848hsmla.ru
 bwjtldk6flxispz.ru
+bxzjytu2elwokof.ru
 byrgin.ru
 byzgoso.ru
 cafddfcagfegjchbabd.ru
@@ -27680,7 +27684,7 @@ beta.mediafort.ru
 delta.mediafort.ru
 medialand.ru
 medialogger.ru
-mediametrics.ru
+partner.mediametrics.ru
 medianaft.ru
 medianetworks.ru
 mediaplan.ru
