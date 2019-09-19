@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 433
+# Ignored duplicates: 434
 
 # Ignored entries due to the whitelist: 153
 
@@ -2394,6 +2394,7 @@ aibcqjlvxxd.com
 aidaigry.com
 aigysycrmuoetk.com
 aiiaqehoqgrj.com
+aiidbowoj.com
 aiiukvzjtsc.com
 aijiboft.com
 aikdakxoc.com
@@ -3967,6 +3968,7 @@ buy-banner.com
 buy-targeted-traffic.com
 tracking.shoptogether.buy.com
 buyflood.com
+buylnk.com
 buyorselltnhomes.com
 buysellads.com
 buyxiaomimi6.com
@@ -5238,6 +5240,7 @@ czpspyovtiqn.com
 czqrilwnayq.com
 czrtrfoin.com
 czsnzyykqzcreu.com
+czspwzutqpbr.com
 czzzwuvvc.com
 d-stats.com
 d03x2011.com
@@ -6512,6 +6515,7 @@ estat.com
 estiques.com
 estorest.com
 esundpxbixeqgu.com
+esuuqqdmsuil.com
 esznfpbro.com
 eszpmsipks.com
 et-cod.com
@@ -7402,6 +7406,7 @@ fvpluqipfjcsf.com
 fvrbloxygbrv.com
 fvrvxmksxhut.com
 fvsdvxjpxi.com
+fvsniyfeyjvg.com
 fvtwyjev.com
 fvwcwbdrprdt.com
 fvwfkfzhha.com
@@ -7424,6 +7429,7 @@ fwutbizwevr.com
 fwuxrjzrkcjkop.com
 fwvdptvy.com
 fwwdmnkjg.com
+fwwvuefyr.com
 fwwzqxveuk.com
 fwyofqdypydo.com
 fwzlsugrflhh.com
@@ -7573,6 +7579,7 @@ gbotvisit.com
 gbsxcyukuuex.com
 gbwgrhjjwz.com
 gbwhqbiiq.com
+gbwnpchivh.com
 gbwrjyntqsvr.com
 gbybvvfo.com
 gbylaoajzugbgj.com
@@ -8229,6 +8236,7 @@ h8vzwpv.com
 d.haberler.com
 adsp.haberturk.com
 hadarone.com
+hadczwhwfvhcc.com
 hafbezbemwwd.com
 hafksvqiir.com
 haggilder.com
@@ -8650,6 +8658,7 @@ hpsthxyqxqae.com
 hpufwccrmiwz.com
 hpvvn.com
 hpwdohgicpmi.com
+hpwoowyxhrsatx.com
 hpwsosviqyjem.com
 hpwzlfjpa.com
 hpxbifcd.com
@@ -10366,6 +10375,7 @@ kjplmlvtdoaf.com
 kjqyvgvvazii.com
 kjsedplonmifbe.com
 kjtcdiyzd.com
+kjzprdqjrhjz.com
 kkawxvjeluwc.com
 kkkiski4u.com
 kklzztog.com
@@ -12558,6 +12568,7 @@ newnyqfgkkjht.com
 beacon-1.newrelic.com
 js-agent.newrelic.com
 mobile-collector.newrelic.com
+news-jupiter.com
 sp.news-press.com
 news-super.com
 newsadst.com
@@ -12812,6 +12823,7 @@ nplexmedia.com
 nplrzxvyrhiq.com
 npoxaukym.com
 nprove.com
+npslxuwkrfwvou.com
 npujhntk.com
 npvos.com
 nqbhezlm.com
@@ -13218,6 +13230,7 @@ olgjzpgp.com
 olizyr.com
 olkzcdihiewe.com
 olpvmzxadjwgk.com
+olrmwkarcwfbjz.com
 olrznxrgkym.com
 olthlikechgq.com
 olvqbwxucv.com
@@ -13809,6 +13822,7 @@ pfvfwielz.com
 pfvgazngauezhk.com
 pfxcnvjoysztb.com
 pfxlive.com
+pgdhapctt.com
 pgepkagfndl.com
 pgfxwbgema.com
 pgkdyhdhul.com
@@ -14031,6 +14045,7 @@ pmjnelusn.com
 pmjwztzpuhb.com
 pmkvqmtjniwtyl.com
 pmlcuxqbngrl.com
+pmnywlfdffjge.com
 pmohsibnim.com
 pmoucikneuxcxy.com
 pmpubs.com
@@ -16535,6 +16550,7 @@ sometrics.com
 somuboteso.com
 ads.sondakika.com
 sonobi.com
+sonumal.com
 analytics.sonymusic.com
 tag.sonymusic.com
 metrics.sonymusicd2c.com
@@ -16585,6 +16601,7 @@ speednetwork14.com
 speednetwork19.com
 speedshiftmedia.com
 spfrlpjmvkmq.com
+spgjtypydhdxl.com
 sphereup.com
 sphjqakwuteg.com
 gekko.spiceworks.com
@@ -18617,6 +18634,7 @@ lp.vadio.com
 vadpay.com
 vadqibvk.com
 vafmypxwomid.com
+vaftkcyzqg.com
 vaghwpbslvbu.com
 vagttuyfeuij.com
 vahtbhufjkna.com
@@ -19973,6 +19991,7 @@ xcgebfplttrdg.com
 xchangebanners.com
 xcjelwzs.com
 xcjoqraqjwmk.com
+xclgusxcdjd.com
 xclk-integracion.com
 xconeeitqrrq.com
 xcouj.com
@@ -25312,7 +25331,7 @@ newtentionassets.net
 newtizz.net
 nex8.net
 analytics.nextopia.net
-tms-st.cdn.ngenix.net
+ngenix.net
 ngmco.net
 nhatvip.net
 nice-xxx.net
@@ -26178,7 +26197,6 @@ indirads.org
 indirdirek.org
 inethoster.org
 installads.org
-ipify.org
 ad.iplayer.org
 analytics.islamicfinder.org
 jqueryserve.org
@@ -26943,6 +26961,7 @@ amazy.ru
 amhixwqagiz.ru
 amigo-biz.ru
 counter.amik.ru
+piper.amocrm.ru
 andrectesit.ru
 anevod.ru
 animeyes.ru
@@ -28286,6 +28305,7 @@ torgnn.ru
 toroptotrab.ru
 reterafu.torplanet.ru
 torrent-trackers.ru
+torshartontding.ru
 tostega.ru
 totsinuts.ru
 towithdureb.ru
