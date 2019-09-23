@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 434
+# Ignored duplicates: 433
 
 # Ignored entries due to the whitelist: 153
 
@@ -132,6 +132,7 @@ visitping.rossel.be
 tnsinternet.be
 your-counter.be
 mining.best
+vn88.bet
 tyxo.bg
 deep.bi
 partners.a24.biz
@@ -345,6 +346,7 @@ tcadops.ca
 beacon.walmart.ca
 wantcannabis.ca
 adrich.cash
+vn88.casino
 admonkey.cc
 adop.cc
 ads.cc
@@ -1317,6 +1319,7 @@ wrmwb.7val.com
 889fb4992d4e8.com
 88d7b6aa44fb8eb.com
 88infra-strat.com
+88viet.com
 89eb01f7f8503aef.com
 8a333bc2b4d6.com
 8b0b17dc1f9f8010.com
@@ -7216,6 +7219,7 @@ fpbmjwoebzby.com
 fpcptdqmjlnlu.com
 fpctraffic2.com
 fpdsavexteno.com
+fpeegzspcgnjt.com
 fpfivothg.com
 fpherzxrae.com
 fpluhtibx.com
@@ -7495,6 +7499,7 @@ fzbnuyjgyexs.com
 fzbyrntsjxhcmb.com
 fzccvcrsbtb.com
 fzcyyqvrbrpk.com
+fzeahussyd.com
 fzgitqrqrsyyiv.com
 fzmogmfqh.com
 fznpq.com
@@ -7882,6 +7887,7 @@ gmwqmjkggg.com
 gmxetthnzmqo.com
 gmyvids.com
 gmzaaeenp.com
+gmzdaily.com
 gnadhzstittd.com
 gnaizrodp.com
 gncfttutoiwwq.com
@@ -13929,6 +13935,7 @@ pickytime.com
 pickzor.com
 w.picsinfog.com
 picsti.com
+picznhen.com
 pidbbdxixp.com
 piercial.com
 pietexture.com
@@ -18652,6 +18659,7 @@ uzbboiydfzog.com
 uzbciwrwzzhs.com
 uzekrs.com
 uzesptwcwwmt.com
+uziiygdcwur.com
 uzikrtotjbnq.com
 uzlleehrsmibli.com
 uzmanreklam.com
@@ -19105,6 +19113,7 @@ vmvuptdijjwi.com
 vmyvsltb.com
 vmyzwzgggbcp.com
 n.vn-chk777.com
+vn88.com
 vnadjbcsxfyt.com
 vndfakned.com
 vndrcewnard.com
@@ -19274,6 +19283,7 @@ vvqeavcir.com
 vvqpavyfkr.com
 vvrygjuozwps.com
 vvscrhqok.com
+vvshsrdlf.com
 vvtysgrbmx.com
 vvvnbqnhxgs.com
 vvygnzor.com
@@ -20081,6 +20091,7 @@ xdonzpjglqxi.com
 xdoygumiams.com
 xdqjeggqm.com
 xdqlnidntqmz.com
+xdqodcrayeat.com
 xdrig.com
 xdsydkgkbvwq.com
 xdtliokpaiej.com
@@ -23248,6 +23259,7 @@ webantenna.info
 webcontentdelivery.info
 webest.info
 webpushcloud.info
+websvn.info
 weline.info
 wellturnedpenne.info
 westatess.info
@@ -25401,7 +25413,6 @@ newtentionassets.net
 newtizz.net
 nex8.net
 analytics.nextopia.net
-ngenix.net
 ngmco.net
 nhatvip.net
 nice-xxx.net
