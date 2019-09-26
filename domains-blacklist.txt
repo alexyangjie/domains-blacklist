@@ -456,6 +456,7 @@ e.211pu.cn
 2yut0j.cn
 5e6lud.cn
 6c4t5.cn
+6ki9d.cn
 7527v.cn
 88shu.cn
 imp.ad-plus.cn
@@ -4076,6 +4077,7 @@ bzotzfcbhomw.com
 bzqqaoeufrld.com
 bzrsybcg.com
 bzsbtfiz.com
+bzsukdfbotd.com
 bzvimexwdle.com
 bzyrhqbdldds.com
 c-4fambt.com
@@ -4440,6 +4442,7 @@ chjfbjjgqts.com
 chjriixbqmppwm.com
 chjvykulvzey.com
 chkqqbpppcuihn.com
+chlekoyxrbi.com
 chlpyktpzcciyh.com
 metrics.chmedia.com
 chnktglh.com
@@ -7013,6 +7016,7 @@ findsthat.com
 findswiftresults.com
 finimbratedle.com
 finsbfaizzx.com
+fiozxmznaba.com
 firaxtech.com
 stats.firedrive.com
 firefeeder.com
@@ -10468,6 +10472,7 @@ pixel.klout.com
 klqnukgo.com
 klrdsagmuepg.com
 bultenler.klscdn.com
+klsdee.com
 klsduixe.com
 klurrmvbqrhrwc.com
 klxteeltivy.com
@@ -11183,6 +11188,7 @@ logkzudhrg.com
 logrocket.com
 logsss.com
 logua.com
+lohappbnrpgypu.com
 sp.lohud.com
 lohxvwjpvl.com
 lojuxbnt.com
@@ -11795,6 +11801,7 @@ mfadsrvr.com
 mfatallp.com
 mfdhvdwkdg.com
 mfeoaesafo.com
+mffsqhmzeycb.com
 mffurrpzbum.com
 mfgyyqqjpp.com
 mfhsvkepu.com
@@ -12226,6 +12233,7 @@ msegeqxwopq.com
 msgapp.com
 heals.msgfocus.com
 msgtag.com
+msgwxozk.com
 msiegurhgfyl.com
 msigpurubzkm.com
 msisvvxmnpm.com
@@ -12426,6 +12434,7 @@ mzhcaexrrl.com
 mzjotkigwu.com
 mzkhhjueazkn.com
 mzmnrczlsqtlya.com
+mzmtpdcouoa.com
 mznijqwjkqadk.com
 mznzltgotp.com
 mzol7lbm.com
@@ -14064,6 +14073,7 @@ plannto.com
 platformpanda.com
 platinumadvertisement.com
 tracking.plattformad.com
+pixel.playbuzz.com
 prd-collector-anon.playbuzz.com
 prd-collector-anon-video.playbuzz.com
 stg-data-collector.playbuzz.com
@@ -16068,6 +16078,7 @@ sdasasyydd.com
 sddan.com
 sdeadbqsjam.com
 sdemctwaiazt.com
+sdfsdvc.com
 sdgvzdksjbl.com
 sdillrnslaiyb.com
 metrics.sdkbox.com
@@ -17550,6 +17561,7 @@ tjhjyiylc.com
 tjhkdxzzxyb.com
 tjkckpytpnje.com
 tjkenzfnjpfd.com
+tjmqetufuzn.com
 tjpzulhghqai.com
 tjrlwhge.com
 tjsioyarnnxmj.com
@@ -20105,6 +20117,7 @@ xcqgkkccjjucf.com
 xcrruqesggzc.com
 xctiblmetgwr.com
 xcukrfpchsxn.com
+xcvibxsdchxh.com
 xcvlescqkwan.com
 xcvtpwxz.com
 xcwmyyglayg.com
@@ -23440,6 +23453,7 @@ tracking.i2w.io
 idealmedia.io
 instana.io
 iol.io
+ipgeolocation.io
 ironbeast.io
 jumplead.io
 t.karte.io
@@ -26749,6 +26763,7 @@ marktest.pt
 minercry.pt
 webstats.sapo.pt
 targeting.perso.aws.arc.pub
+iqiyi.pub
 maxim.pub
 pxi.pub
 tracking.redirect.pub
