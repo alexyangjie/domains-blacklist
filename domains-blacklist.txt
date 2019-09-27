@@ -29909,7 +29909,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23090
+# Ignored duplicates: 23096
 
 # Ignored entries due to the whitelist: 4
 
@@ -32051,6 +32051,7 @@ dmdpool.net
 drowningpool.net
 greenindex.dynamic-dns.net
 pine-seed-2.dynu.net
+smithpool.dynu.net
 stackbit-seed-1.dynu.net
 stackbit-seed-2.dynu.net
 women-seed-2.dynu.net
@@ -32096,6 +32097,7 @@ monerominers.net
 mycoinwallet.net
 carry.myeffect.net
 myetherwallets.net
+n3xt-pool.net
 miner-deu-1.inf.nimiq.net
 miner-deu-2.inf.nimiq.net
 miner-deu-3.inf.nimiq.net
