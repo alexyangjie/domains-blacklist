@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 433
+# Ignored duplicates: 434
 
 # Ignored entries due to the whitelist: 153
 
@@ -1180,6 +1180,7 @@ img.56gmz.com
 65e750617ae8f0421.com
 65mjvw6i1z.com
 shared.65twenty.com
+65vk1fba34.com
 65xps.com
 660a755deb8829fe.com
 6631f33cf2a1032b.com
@@ -1340,6 +1341,7 @@ wrmwb.7val.com
 8iqpy8cgkk.com
 c.8l8l.com
 8live.com
+8s32e590un.com
 8ue9q7i.com
 8wey4x0c.com
 8yxupue8.com
@@ -1712,8 +1714,7 @@ adelement.com
 adelixir.com
 ademails.com
 adengage.com
-bm.adentifi.com
-rtb.adentifi.com
+adentifi.com
 adespresso.com
 adexchangecloud.com
 adexchangedirect.com
@@ -7883,6 +7884,7 @@ glodrips.com
 player-feedback-v1.glomex.com
 gloorajo.com
 glordd.com
+glossingly.com
 glowdot.com
 glpyiiahtdmaan.com
 glslciwwvtxn.com
@@ -9084,6 +9086,7 @@ ifuvjvbyjir.com
 ifvetqzfiawg.com
 ifyngpctovtv.com
 ig0nr8hhhb.com
+ig8al3mkou.com
 igameunion.com
 igawfxfnupeb.com
 igbznxar.com
@@ -10895,6 +10898,7 @@ legenhit.com
 legolas-media.com
 geoip.lehighvalleylive.com
 mms.lehighvalleylive.com
+lejhdbxl.com
 lelexw.com
 tracking.lengow.com
 lenta-novostei.com
@@ -12409,6 +12413,7 @@ myogwiwjlfrngo.com
 myomnistar.com
 myonionsoup.com
 myonlineanalytics.com
+myornamenti.com
 tag.myplay.com
 myqnpgfgjo.com
 myqvhpjyd.com
@@ -12745,6 +12750,7 @@ nicmtzkucd.com
 nidjppokmlcx.com
 nidksyrrrtckzj.com
 nidorivo.com
+nieveni.com
 tag.nifty.com
 niftymaps.com
 nifyalnngdhb.com
@@ -12874,6 +12880,7 @@ nordicresearch.com
 norentisol.com
 noretia.com
 normkela.com
+norteevu.com
 ebay.northernhost.com
 sp.northjersey.com
 northmay.com
@@ -15948,6 +15955,7 @@ s7ven.com
 stats.sa-as.com
 sa2xskt.com
 ad.sacitaslan.com
+sadbads.com
 saenrwiqesp.com
 safe-connection21.com
 safecllc.com
@@ -19176,6 +19184,7 @@ vnhcxditnodg.com
 vnkydhnyjed.com
 vnlqgiuul.com
 vnoeiemdhqf.com
+vnrapyiaxxj.com
 vntcxqxuqki.com
 vntsm.com
 vnufxjwndhsfbj.com
@@ -20612,6 +20621,7 @@ ydwjfuhuiesrhp.com
 ydxeryetxyij.com
 ydxzdniz.com
 ydzakntxe.com
+ye185hcamw.com
 yeabble.com
 yeagdfyw.com
 yeahmobi.com
@@ -22535,6 +22545,7 @@ tapcreatives.host
 xfast.host
 linker.hr
 analytics.styria.hr
+events.sk.ht
 affiliates.vpn.ht
 mlweb.dmlab.hu
 pagerank.g-easy.hu
@@ -23265,6 +23276,7 @@ thesandonesof.info
 thoughtsondance.info
 tiberowheddidn.info
 tighting.info
+titorsbutaning.info
 titranco.info
 tonsterandhantan.info
 tonstiparro.info
@@ -26734,6 +26746,7 @@ rationalan.pro
 rcdn.pro
 readvasturked.pro
 reberr.pro
+reckinbuttiten.pro
 reddleops.pro
 redewdit.pro
 relity.pro
@@ -26790,6 +26803,7 @@ tracking.redirect.pub
 a4to4.pw
 adblockerkillswebsites.pw
 adcamel.pw
+adgeiros.pw
 aenan.pw
 aepetor.pw
 anybest.pw
@@ -28816,6 +28830,7 @@ trav4life.site
 vamprog.site
 vvhatsappsohbetim.site
 xvideosharing.site
+xxxmov.site
 naj.sk
 pocitadlo.sk
 stat.ringier.sk
@@ -29155,6 +29170,7 @@ yjuqi.top
 ys3e965d.top
 ywadk.top
 ywhnh.top
+z6vmw.top
 zhuyuanp.top
 zouzun.top
 adbuzz.com.tr
@@ -29233,6 +29249,7 @@ shoofle.tv
 skytvonline.tv
 spotx.tv
 userlog.synapseip.tv
+sync.tv
 teads.tv
 cmstrendslog.timesnow.tv
 topkino.tv
@@ -29395,6 +29412,7 @@ reports.pagesuite-professional.co.uk
 poweradvertising.co.uk
 qlfsat.co.uk
 researchnow.co.uk
+rightmoveanalytics.co.uk
 rs0.co.uk
 saletrack.co.uk
 sayutracking.co.uk
