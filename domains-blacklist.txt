@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 434
+# Ignored duplicates: 435
 
 # Ignored entries due to the whitelist: 153
 
@@ -303,7 +303,6 @@ analytics.blue
 videoframe.blue
 nctrk.abmail.com.br
 trk.absuite.com.br
-cifraclub.com.br
 clearsale.com.br
 track.e7r.com.br
 hotwords.com.br
@@ -5146,6 +5145,7 @@ cttnlnsnwdokqb.com
 cttracking02.com
 ctyzd.com
 ctzvtevpcssx.com
+cubchannel.com
 cubics.com
 cuchpagh.com
 cudjntck.com
@@ -5410,6 +5410,7 @@ dc76b15913c.com
 dccstsamnyrjk.com
 dcdalkgtbmip.com
 dcgbswcvywyl.com
+dchnguasrxubf.com
 dcjhpaexcwtc.com
 dckyimoylozbby.com
 dclmmbjyshy.com
@@ -10898,6 +10899,7 @@ legenhit.com
 legolas-media.com
 geoip.lehighvalleylive.com
 mms.lehighvalleylive.com
+leijsdpbkgobg.com
 lejhdbxl.com
 lelexw.com
 tracking.lengow.com
@@ -12299,6 +12301,7 @@ multimater.com
 multimedia-boom.com
 multiview.com
 mumbldnn.com
+mundanepollution.com
 munically.com
 munpprwlhric.com
 muoiuxfj.com
@@ -13822,6 +13825,7 @@ peakclick.com
 pearno.com
 pebadu.com
 pecaning.com
+pedropanther.com
 peehotim.com
 peelawaymaker.com
 peemee.com
@@ -14189,6 +14193,7 @@ analysis.polarisoffice.com
 logconfig.polarisoffice.com
 polarmobile.com
 polimadv.com
+ew.politros.com
 s.polkoa.com
 stats.polldaddy.com
 polluxnetwork.com
@@ -15553,6 +15558,7 @@ richmediaads.com
 richmetrics.com
 richpays.com
 beacon.richrelevance.com
+richstring.com
 richthof.com
 richwebmedia.com
 rick-rick-rob.com
@@ -27472,7 +27478,7 @@ ezaktak.ru
 top100.ezar.ru
 ezaste.ru
 ezotizer.ru
-phen.fabricmedia.ru
+fabricmedia.ru
 faceblum.ru
 fadeaibgfihegegjadc.ru
 fafc5ra5.ru
@@ -28211,6 +28217,7 @@ ravnovesienews.ru
 r.rbc.ru
 readme.ru
 readnewstoday.ru
+readto.ru
 real5traf.ru
 recreativ.ru
 recrinsit.ru
@@ -29896,6 +29903,7 @@ ulaleth.xyz
 uplvcx.xyz
 upxip.xyz
 uriqirelle.xyz
+utillib.xyz
 valkrana.xyz
 veracdn.xyz
 verata.xyz
