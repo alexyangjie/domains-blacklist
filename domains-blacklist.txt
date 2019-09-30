@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 435
+# Ignored duplicates: 436
 
 # Ignored entries due to the whitelist: 153
 
@@ -25,6 +25,7 @@ ftd.agency
 accio.ai
 ascend.ai
 captivate.ai
+metrics-api.dimensions.ai
 hybrid.ai
 iqdata.ai
 m2.ai
@@ -2097,6 +2098,7 @@ adtomafusion.com
 adtoox.com
 adtorio.com
 adtpix.com
+adtprofit.com
 adtraction.com
 adtrgt.com
 adtriba.com
@@ -4244,6 +4246,7 @@ metrics.cbslocal.com
 mms.cbslocal.com
 cbtdjpspjp.com
 cbuxzegro.com
+cbwocsublalxz.com
 cbwrwcjdctrj.com
 cbxqceuuwnaz.com
 cbxtnudkklwh.com
@@ -7512,6 +7515,7 @@ fyblldnlr.com
 fybrwdikdsvzt.com
 fygpdajgtsqp.com
 fykmahfa.com
+fylusiucmzdjl.com
 fynprrom.com
 fyphnmoz.com
 fyreball.com
@@ -10069,6 +10073,7 @@ jqtwygdajic.com
 jqueryserve.com
 jqueryserver.com
 jqvlsavxawfr.com
+jqziltjcuwr.com
 jqzzqsm.com
 jractwjn.com
 jrarnqfvjijaa.com
@@ -10844,6 +10849,7 @@ ldgozccnwgtuya.com
 ldigvkkjquvyn.com
 ldkyzudgbksh.com
 sp.ldnews.com
+ldpubkzh.com
 ldqxdxtkepveg.com
 ldt1duixoe.com
 lduusuiclvw.com
@@ -11422,6 +11428,7 @@ lyzskjigkxwy.com
 lzawbiclvehu.com
 lzblbcsemihk.com
 lzbzwpmozwfy.com
+lzfqxxtgyydrc.com
 lzfvonzwjzhz.com
 lzfyahjavcik.com
 lzjl.com
@@ -12090,6 +12097,7 @@ mobytrks.com
 x.mochiads.com
 xs.mochiads.com
 mochibot.com
+mockingfish.com
 ads.modabetaff.com
 marketing.modalife.com
 modelatos.com
@@ -13191,6 +13199,7 @@ oeppesfmzlbpa.com
 oertmxfsryji.com
 oetwplgu.com
 oevery.com
+oevujdgj.com
 oewscpwrvoca.com
 oexbdfnbentzd.com
 oezgivtasc.com
@@ -13728,6 +13737,7 @@ parhadat.com
 parklogic.com
 parlaka.com
 parrable.com
+config.parsely.com
 pixel.parsely.com
 static.parsely.com
 partner-ads.com
@@ -14534,6 +14544,7 @@ puhtml.com
 collector.puhutv.com
 pujj652hkm.com
 pukrazopchatka.com
+puktazxh.com
 pukzrlddw.com
 pulleymarketing.com
 pulpix.com
@@ -15528,6 +15539,7 @@ rgvrddwoccsgn.com
 rgwaskums.com
 rgzpseubgxho.com
 rgztepyoefvm.com
+rhcamehnhkntzy.com
 analytics-rhwg.rhcloud.com
 rhfntvnbxfxu.com
 rhfvzboqkjfmabakkxggqdmulrsxmisvuzqijzvysbcgyycwfk.com
@@ -24735,6 +24747,7 @@ d2wl3qmk54t3ha.cloudfront.net
 d2wpknqle9nuv8.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d2xsy1lxezptdm.cloudfront.net
+d2yh8t8mdj4l9x.cloudfront.net
 d2ymkpxi1rgldj.cloudfront.net
 d2z0gqc8sv0l7p.cloudfront.net
 d30gt5larl1k8h.cloudfront.net
@@ -24833,6 +24846,7 @@ dd6zx4ibq538k.cloudfront.net
 ddyv8sl7ewq1w.cloudfront.net
 debojuagug1sf.cloudfront.net
 demkc32bq01ah.cloudfront.net
+detwzgl8cvciv.cloudfront.net
 df0pmigc8xs70.cloudfront.net
 dfdbz2tdq3k01.cloudfront.net
 dfrs12kz9qye2.cloudfront.net
@@ -26615,6 +26629,7 @@ adserwer.xwords.pl
 rnet.plus
 ad.4ertik.porn
 box.rus.porn
+caramel.press
 0gw7e6s3wrao9y3q.pro
 ablehed.pro
 abrts.pro
@@ -27615,6 +27630,7 @@ hotinga.ru
 hotlog.ru
 hotsexmeet.ru
 hotworldnews.ru
+banner.hpmdnetwork.ru
 hrfziiddxa.ru
 huminfakt.ru
 ad.hutor.ru
