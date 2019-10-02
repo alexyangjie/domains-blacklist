@@ -2,9 +2,9 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 436
+# Ignored duplicates: 438
 
-# Ignored entries due to the whitelist: 153
+# Ignored entries due to the whitelist: 154
 
 js.cdn.ac
 dxracers.accountant
@@ -455,6 +455,7 @@ fluidsurveys-com.fs.cm
 201d5.cn
 e.211pu.cn
 2yut0j.cn
+stat.m.360.cn
 5e6lud.cn
 6c4t5.cn
 6ki9d.cn
@@ -1657,6 +1658,8 @@ adbutler.com
 adbutler-fermion.com
 adbuyer.com
 adcade.com
+monitor.adcaffe.com
+search.adcaffe.com
 adcalm.com
 adcash.com
 adcater.com
@@ -2973,6 +2976,7 @@ august15download.com
 aultemeztokc.com
 tag.aumago.com
 aunmdhxrco.com
+auqefmhsutnldv.com
 aurhgaees.com
 auspipe.com
 authcaptcha.com
@@ -6271,6 +6275,7 @@ efzhzqtyomldfj.com
 egamingonline.com
 egcocjwpzqsa.com
 egcsbdrj.com
+egfbynnwhco.com
 eghuntsrizvbt.com
 egkkeahdzjqy.com
 ad.eglenced.com
@@ -6282,6 +6287,7 @@ egqvppwseieyu.com
 egrcoshpisdnn.com
 egtkhpkkfswf.com
 t.eharmony.com
+ad-api.ehawk.com
 ehcawmdqgq.com
 eheewlwlebwpd.com
 ehgefgcollhd.com
@@ -6996,6 +7002,7 @@ fgyeepfitnvkzz.com
 fgzaxilcgxum.com
 fgzxlngohtg.com
 fhawywadfjlo.com
+fhidehpl.com
 fhluqrhmqs.com
 fhlzfxxnqc.com
 jump.fhoa365.com
@@ -7529,6 +7536,7 @@ fzccvcrsbtb.com
 fzcyyqvrbrpk.com
 fzeahussyd.com
 fzgitqrqrsyyiv.com
+fzhxi.com
 fzmogmfqh.com
 fznpq.com
 fzpseyhkanhopd.com
@@ -8142,6 +8150,7 @@ b.grvcdn.com
 grxpaizsvdzw.com
 gscsystemwithdarren.com
 gsdolqvdjr.com
+gsdsccoo.com
 gsecondscreen.com
 gsezbakx.com
 gsfvzgnu.com
@@ -8370,6 +8379,7 @@ hbzzkwsuaooc.com
 hcatboilyxs.com
 hcg82f2b.com
 hcggkyhzxzsv.com
+hcgtkmes.com
 hcijbbzz.com
 hclccadfmkpw.com
 hcmafnawzxfnam.com
@@ -8675,6 +8685,7 @@ hopinionse.com
 static.hoptopboy.com
 hoqqzlvwukpo.com
 horheloopo.com
+horjhksl.com
 horsenectar.com
 horsered.com
 hortestoz.com
@@ -10205,6 +10216,7 @@ jyauuwrrigim.com
 jyccdcavzpqt.com
 jydbctzvbqrh.com
 jyezgitcx.com
+jyfthtacsxkbp.com
 jyijwgsqj.com
 jynbcpfwvazazd.com
 jynhztwrsl.com
@@ -11593,6 +11605,7 @@ maxpark.com
 reports.maxperview.com
 maxserving.com
 dcs.maxthon.com
+stats-a.maxthon.com
 maxtraffic.com
 maxymiser.com
 maysrqdev.com
@@ -12467,6 +12480,7 @@ mzqxeqrmgzxv.com
 mzrhjbbikqm.com
 metrics.mzstatic.com
 mzwaqcfbx.com
+mzwmdaadjf.com
 mzxexigxkb.com
 mzzouiciajems.com
 n123loi.com
@@ -13640,6 +13654,7 @@ oxado.com
 oxanehlscsry.com
 oxcpvsxgegd.com
 oxfjlzyhxjihk.com
+oxfpvhulqwv.com
 oxidy.com
 oxpvwliy.com
 oxsng.com
@@ -14651,6 +14666,7 @@ sube.puwangkj.com
 puzzlingfall.com
 pvclouds.com
 pviztjecuczh.com
+pvnyzrvvzgy.com
 pvoplkodbxra.com
 pvpqgjkgvszq.com
 pvptwhhkfmog.com
@@ -17294,6 +17310,7 @@ tchqwqspwjeei.com
 tcimg.com
 tckofxwcaqts.com
 tclarcrzfbceoo.com
+gwrtdp-tn690bfadt.tclclouds.com
 tcovxxenhjke.com
 sp.tcpalm.com
 track.tcppu.com
@@ -17965,6 +17982,7 @@ trktrk011.com
 trmit.com
 trmnsite.com
 trndoffers.com
+ssp.mediation.trnox.com
 tracking.trnox.com
 trombocrack.com
 tropicalos.com
@@ -19795,6 +19813,7 @@ wjgohz.com
 wjkwjcmeymu.com
 wjmckfsdcxpj.com
 wjnkvhlgvixx.com
+wjodtshzu.com
 wjpdgueqasdgeq.com
 wjuowevxibmg.com
 wjvwxcnavjodj.com
@@ -20669,6 +20688,8 @@ yes-messenger.com
 yesads.com
 yesadsrv.com
 yesadvertising.com
+bi.yeshen.com
+launcher.us.yeshen.com
 yeshhaod.com
 yesmaris.com
 yesnexus.com
@@ -23533,6 +23554,7 @@ metrics.io
 mineralt.io
 misosoup.io
 track.mobicast.io
+mobotoolpush.moboapps.io
 mosaiq.io
 mppapi.io
 nanovisor.io
@@ -24621,6 +24643,7 @@ d160mt023h8h3d.cloudfront.net
 d162nnmwf9bggr.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d16xpr36wrmcmk.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d17rlarvg2khuc.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
@@ -28812,7 +28835,6 @@ easy.mmoney.services
 ripost.services
 vip-p0rtal.services
 duck.wings-dark.services
-tea.pornolomka.sex
 blogtraffic.sg
 srx.com.sg
 infox.sg
@@ -29534,6 +29556,7 @@ wecai.us
 mediab.uy
 top.sec.uz
 moe.video
+tea.pornolomka.video
 skyad.video
 123c.vn
 banner.5giay.vn
@@ -29685,6 +29708,7 @@ k9anf8bc.webcam
 aafb1cd4450aa247.website
 c03jij5q.website
 ad.kinozal.website
+primebc1.website
 refbanners.website
 referrer.website
 signout.website
