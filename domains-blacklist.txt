@@ -307,6 +307,7 @@ nctrk.abmail.com.br
 trk.absuite.com.br
 clearsale.com.br
 track.e7r.com.br
+stats.guiamais.com.br
 hotwords.com.br
 hitserver.ibope.com.br
 netdeal.com.br
@@ -2636,7 +2637,6 @@ andyetanotherthing.com
 andyhoppe.com
 anekaiklan.com
 aneqmscervl.com
-anexia-it.com
 angege.com
 angeinge.com
 angelfishstats.com
@@ -24797,6 +24797,7 @@ d2nxi61n77zqpl.cloudfront.net
 d2nzjxafm0iowq.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
+d2oa97wrxvxm7y.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pc0q32fod0ha.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
@@ -26818,6 +26819,7 @@ nessubsets.pro
 noblock.pro
 ofeetles.pro
 ofughrop.pro
+onewastansepa.pro
 opetation.pro
 orncks.pro
 osniffer.pro
