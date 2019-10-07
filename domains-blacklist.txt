@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 438
+# Ignored duplicates: 437
 
 # Ignored entries due to the whitelist: 154
 
@@ -56,6 +56,7 @@ mediaz.asia
 novaon.asia
 openxmarket.asia
 optimix.asia
+ad4m.at
 adworx.at
 stats2.algo.at
 belstat.at
@@ -799,7 +800,6 @@ stattrack.0catch.com
 0stats.com
 0tracker.com
 0x1f4b0.com
-0xwxmj21r75kka.com
 1-cl0ud.com
 101m3.com
 102320fef81194c7b0c7c6bbe64d845d.com
@@ -1139,7 +1139,6 @@ img.56gmz.com
 5advertise.com
 5b5a93686577c13.com
 5bc58da97b.com
-5clickcashsoftware.com
 5d02977f6511aa.com
 5dabf928ad9ad4.com
 5db8d92zi2.com
@@ -1188,7 +1187,6 @@ shared.65twenty.com
 6631f33cf2a1032b.com
 66ce98158e4f402.com
 67126e4413a.com
-67s6gxv28kin.com
 6868bbe42af8e518.com
 688de7b3822de.com
 690179b5160e450.com
@@ -1433,7 +1431,6 @@ a337b163a0bc.com
 a353364ec1bd19a.com
 a35c92d96766745.com
 a3761801a40c59b48.com
-a3pub.com
 a433.com
 a46b257bc29b.com
 a48aad1dc4085376c.com
@@ -1443,7 +1440,6 @@ a4g.com
 a5020fec1701e9f3.com
 a5a5a.com
 a5e04df959f1af34.com
-a5pub.com
 a63t9o1azf.com
 a69ee4fa50dc3.com
 a6be07586bc4a7.com
@@ -1498,7 +1494,6 @@ abcstats.com
 abekjzzhfbr.com
 abfcfxfkzmiqht.com
 abjusouft.com
-abletomeet.com
 ablida-rotation.com
 ablsrv.com
 abodealley.com
@@ -1599,16 +1594,11 @@ ad-stir.com
 ad-tool.com
 ad-trip.com
 ad120m.com
-ad121m.com
-ad122m.com
 ad123m.com
-ad125m.com
 ad127m.com
-ad128m.com
 ad129m.com
 ad131m.com
 ad132m.com
-ad134m.com
 ad1data.com
 ad1rtb.com
 ad2387.com
@@ -1650,7 +1640,6 @@ adbooth.com
 adbrau.com
 adbrite.com
 adbrn.com
-adbroo.com
 adbrook.com
 adbuddiz.com
 adbuff.com
@@ -1690,7 +1679,6 @@ adconscious.com
 adcrax.com
 adcron.com
 adcrowd.com
-adcru.com
 addaim.com
 addapptr.com
 addefend.com
@@ -8138,6 +8126,7 @@ grllopa.com
 grlygpybnhbwcu.com
 grmtas.com
 grnrmwxf.com
+grooksom.com
 groovinads.com
 groucign.com
 groupcommerce.com
@@ -13610,6 +13599,7 @@ oughaoxixcfe.com
 ouhdgmzajfaop.com
 ouiinryhlvbgq.com
 oujlnbyavjhy.com
+oukruque.com
 oulxdvvpmfcd.com
 ounyrilukncbj.com
 oupushee.com
@@ -15889,7 +15879,6 @@ ru4.com
 rubfwmlm.com
 rubiconproject.com
 rubxajsomnicfy.com
-ruckusschroederraspberry.com
 rudtedmhm.com
 ruebmqxqlqwqq.com
 ruifeng99.com
@@ -16063,6 +16052,7 @@ sambaads.com
 samiana.com
 samlmqljptbd.com
 samsungads.com
+samsungtvads.com
 log.bling.samuraiworks.com
 samvaulter.com
 sandsoftors.com
@@ -16633,6 +16623,7 @@ adserver.snapads.com
 adserver.shadow.snapads.com
 tr.snapchat.com
 stats.snappytv.com
+snckdjuymeopsc.com
 sncpizczabhhafkzeifklgonzzkpqgogmnhyeggikzloelmfmd.com
 sneaklevel.com
 sneakystamp.com
@@ -21368,6 +21359,7 @@ zlbdtqoayesloeazgxkueqhfzadqjqqduwrufqemhpbrjvwaar.com
 zldgcyoxtk.com
 zldijcenor.com
 zlegojgwg.com
+zlfgedpuxrbpgm.com
 zlfpmrmkr.com
 zlgokeby.com
 zlhscyahjbaq.com
@@ -22734,20 +22726,13 @@ wapdollar.in
 x-ads.in
 0638.info
 100im.info
-15f3c01a.info
-15f3c01c.info
-17a898b9.info
-17a898bb.info
 1mint1.info
 1rtl.info
 1rtlfor.info
 24productions.info
 24smi.info
-2d4c3870.info
-2d4c3872.info
 2mdn.info
 3file.info
-4e43ac9c.info
 5362367e.info
 69m.info
 aalbbh84.info
@@ -22799,7 +22784,6 @@ arrassley.info
 asinole.info
 askarer.info
 asmosi.info
-aaa.at4.info
 attacketslovern.info
 authorne.info
 awcompe.info
@@ -24328,7 +24312,6 @@ afflow.18-plus.net
 jdd01.198game.net
 1biznes.net
 1lo0.net
-1sadx.net
 247-inc.net
 px.247inc.net
 lamma.24ex.net
@@ -25564,7 +25547,6 @@ adv.mxmcdn.net
 mxptint.net
 my-layer.net
 myadstack.net
-mybluemix.net
 myconst.net
 mycooliframe.net
 bauersagtnein.myeffect.net
@@ -28464,7 +28446,6 @@ skyadsvideo1.ru
 skyadvideo.ru
 skypromotion.ru
 skyvideo1.ru
-skywarts.ru
 slimgipnoz.ru
 slot-888.ru
 slowpoker.ru
@@ -28587,9 +28568,7 @@ tn05.ru
 tnative.ru
 tnevota.ru
 tns-counter.ru
-tnyzin.ru
 todaymix.ru
-todich.ru
 tbe.tom.ru
 intimznaki.tomsk.ru
 toolcount.ru
@@ -28628,7 +28607,6 @@ trafic-media.ru
 trafka.ru
 traforet.ru
 trafpyat.ru
-trahic.ru
 tramate.ru
 transiz.ru
 tranzitstar.ru
@@ -29074,11 +29052,9 @@ count.livetv.sx
 studcat.infra.systems
 adforce.team
 3647.tech
-abasourdir.tech
 bamj630h.tech
 header.tech
 nativead.tech
-poolnoodle.tech
 projectagora.tech
 volvelle.tech
 dadi.technology
@@ -29576,7 +29552,6 @@ shifoagn.uk
 ugrastes.uk
 ukp2pool.uk
 204st.us
-abtracker.us
 adsfac.us
 adsrv.us
 advertbox.us
@@ -29859,10 +29834,8 @@ webmobile.ws
 029qz3xam2qq.xyz
 0483bm4mlow8.xyz
 190282.xyz
-1e0y.xyz
 3wr110.xyz
 5b15a826.xyz
-acamar.xyz
 adavz.xyz
 addan.xyz
 advnet.xyz
