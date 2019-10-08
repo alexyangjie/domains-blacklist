@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 437
 
-# Ignored entries due to the whitelist: 154
+# Ignored entries due to the whitelist: 156
 
 js.cdn.ac
 dxracers.accountant
@@ -7179,6 +7179,7 @@ fnutdrjkcebyw.com
 fnuuhrhfkvpbnm.com
 fnytdllpzdv.com
 foamybox.com
+foazasis.com
 fobjoccwkrkv.com
 focalex.com
 analysis.focalprice.com
@@ -11348,6 +11349,7 @@ luagrcmjnovjp.com
 lucidel.com
 lucidmedia.com
 lucky88.com
+luckyforworlds.com
 luckyorange.com
 luckypushh.com
 luckysearch123.com
@@ -12464,6 +12466,8 @@ mysafeurl.com
 mysdvvf.com
 mysearch-online.com
 myseostats.com
+cafe-latte.myshoplus.com
+cafe-log.myshoplus.com
 mysmokingmistress.com
 mysocialpixel.com
 mystaticfiles.com
@@ -15141,6 +15145,7 @@ quintelligence.com
 quisma.com
 qukqptxilr.com
 qulsqiqrev.com
+qumagee.com
 qumzxkpexf.com
 qunnvfhdgfm.com
 quoeuedtku.com
@@ -15279,10 +15284,13 @@ ratrencalrep.com
 rawasy.com
 raxlextehqhw.com
 analytics.rayjump.com
+cdn-adn.rayjump.com
+de01.rayjump.com
 detect.rayjump.com
 jssdk.rayjump.com
 net.rayjump.com
 setting.rayjump.com
+sg01.rayjump.com
 tknet.rayjump.com
 raz-raz-mataz.com
 razwrite.com
@@ -24686,6 +24694,7 @@ d18p8z0ptb8qab.cloudfront.net
 d19182vyfoustz.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d19uh5b0umbjrr.cloudfront.net
+d19xf4taj229i8.cloudfront.net
 d1af165twk0zgn.cloudfront.net
 d1b0fk9ns6n0w9.cloudfront.net
 d1bevsqehy4npt.cloudfront.net
@@ -26590,6 +26599,7 @@ x4x4x.org
 code.xidx.org
 xxx-babes.org
 xxxc2c.org
+vw.xxxmshel.org
 yawnedgtuis.org
 youcanoptin.org
 youcanoptout.org
@@ -26714,6 +26724,7 @@ adszx.pro
 adtags.pro
 altpool.pro
 aphookkensidah.pro
+apprefaculty.pro
 approp.pro
 aution.pro
 axzsd.pro
@@ -27845,6 +27856,7 @@ ko6ka.ru
 kolendrin.ru
 kolezeynews.ru
 kontenka.ru
+kontik28.ru
 konverta.ru
 koromi.ru
 korovkasms.ru
@@ -28276,6 +28288,7 @@ lstats.qip.ru
 r.qip.ru
 qload.ru
 qoopler.ru
+qqbook.ru
 qqjar.ru
 qqmilk.ru
 qqshoe.ru
@@ -33320,29 +33333,6 @@ bitmining.zone
 gemini.zone
 hitbtc.zone
 minez.zone
-
-
-########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_High.txt ##########
-
-4w5wihkwyhsav2ha.dreamtest.at
-ojmekzw4mujvqeju.dreamtest.at
-pagaldaily.com
-g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
-nlpqflkbvkdde.eu
-uuwflbmjmi.eu
-x5sbb5gesp6kzwsh.homewind.pl
-eppilxqwyqdhmpdsn.pw
-ibjgnqsthdyp.pw
-lvanwwbyabcfevyi.pw
-lyrnvane.pw
-ohpbdikmrrhr.pw
-qqtphtlhny.pw
-rqfsctpgpuani.pw
-wqxvsxppjivs.pw
-xvchcbeqxkd.pw
-aa12111.top
-honourableud.top
-i01001.dgn.vn
 
 
 ########## Blacklist from file:domains-blacklist-local-additions.txt ##########
