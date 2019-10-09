@@ -30059,7 +30059,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23096
+# Ignored duplicates: 23404
 
 # Ignored entries due to the whitelist: 4
 
@@ -30264,6 +30264,7 @@ miningcrypto.cash
 myzen.cash
 stellite.cash
 z.cash
+catalanscoin.cat
 5btc.cc
 amerty.cc
 apextop.cc
@@ -30387,6 +30388,7 @@ cpufan.club
 crypto-coins.club
 cryptocoin.club
 cryptocoinz.club
+cryptonote.club
 earncoins.club
 enjoyableoffers.club
 ethereumpool.club
@@ -31264,6 +31266,7 @@ poloneiex.com
 poloniex.com
 poloniexbch.com
 pool-etn.com
+pool-pay.com
 pool-proxy.com
 pool137.com
 poolarchy.com
@@ -31323,6 +31326,7 @@ semipool.com
 free.servegame.com
 feexmrminer.servepics.com
 server.com
+sevabit.com
 shoptoptop.com
 siamining.com
 sigmapool.com
@@ -32434,8 +32438,10 @@ arctic-anna.eosmainnet.roelandp.nl
 merged.stx.nl
 p2p.eos.bitspace.no
 estream.nu
+hashing.mine.nu
 theminingpool.mine.nu
 turtle.mine.nu
+znode1.mine.nu
 cryptopia.co.nz
 heigh-ho.funkypenguin.co.nz
 xmrbackb.one
@@ -32454,6 +32460,7 @@ mypool.online
 pickaxe.online
 superpools.online
 theminingpool.online
+txchange.online
 1stpool.org
 live.4480.org
 4ge.org
@@ -32630,6 +32637,7 @@ dyngepeng.zapto.org
 litecoinp2pool.zapto.org
 p2poolchina.zapto.org
 updatewindows.zapto.org
+zelerius.org
 zenpool.org
 pool.zeropool.org
 bitcoinzguiding.ovh
@@ -32767,6 +32775,32 @@ bacm.ro
 freeproxy.ro
 monerominer.ro
 noobnoob.ro
+api.wowne.ro
+cart.wowne.ro
+catalog.wowne.ro
+db.wowne.ro
+dbadmin.wowne.ro
+demo.wowne.ro
+explore.wowne.ro
+explorer.wowne.ro
+forum.wowne.ro
+m.wowne.ro
+magento.wowne.ro
+mysql.wowne.ro
+node.wowne.ro
+openpgpkey.wowne.ro
+phpmyadmin.wowne.ro
+pma.wowne.ro
+pool.wowne.ro
+shop.wowne.ro
+sql.wowne.ro
+stats.wowne.ro
+store.wowne.ro
+tesetnet.wowne.ro
+test.wowne.ro
+testnet.wowne.ro
+wallet.wowne.ro
+www.wowne.ro
 miner.rocks
 seminarski-diplomski.co.rs
 hk.rs
@@ -32910,6 +32944,7 @@ y4n3d3b1l.ru
 ybjfsqcevow.ru
 yoaabgvkm.ru
 mine.zarabotaibitok.ru
+zelerius.ru
 zivbxion.ru
 zjemch.ru
 zzqhsrg.ru
@@ -33040,6 +33075,7 @@ gamemachine.tech
 luxor.tech
 miningpool.tech
 sia.tech
+txxcoin.tech
 piratebay.tel
 2k20.tk
 2xcoin.tk
