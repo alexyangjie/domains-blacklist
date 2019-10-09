@@ -6435,6 +6435,7 @@ enmbg.com
 enokjulejktukh.com
 enquisite.com
 ensighten.com
+ensurania.com
 stat.enter-system.com
 enterads.com
 counter.entertainmentwise.com
@@ -6473,7 +6474,6 @@ epgokiocquxf.com
 epgooipixbbo.com
 ephtwbxuqy.com
 epicgameads.com
-tracking.epicgames.com
 epilot.com
 epiodata.com
 analytics.episodic.com
@@ -7884,6 +7884,7 @@ rtb.platform.glispa.com
 trk.glispa.com
 gljanrsxz.com
 gllkdkxygckb.com
+glmaamwyjkx.com
 glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
 glo-glo-oom.com
 gloalrie.com
@@ -11875,6 +11876,7 @@ mgid.com
 mglsk.com
 mgltjlqx.com
 affiliates.mgmmirage.com
+mgnczbprazyv.com
 tracker.mgnetwork.com
 mgojnezwuuxyv.com
 mgouoirpayddk.com
@@ -13522,6 +13524,7 @@ optinmonster.com
 optmnstr.com
 optorb.com
 opyisszzoyhc.com
+opyyykrdyuum.com
 oqaghvocticy.com
 oqfoiwjwysbffe.com
 oqgztgtmcxfcic.com
@@ -13984,6 +13987,7 @@ pguxoochezkc.com
 pgxciwvwcfof.com
 pharmcash.com
 phastoag.com
+phdtryxlepjayf.com
 pheedo.com
 pheergar.com
 pheersie.com
@@ -14481,6 +14485,7 @@ proximic.com
 abs.proxistore.com
 prpkhpjxghhn.com
 prpops.com
+prpopss.com
 prqivgpcjxpp.com
 prqqmfkedev.com
 prrpfmrz.com
@@ -15410,6 +15415,7 @@ redirectpopads.com
 redirectvoluum.com
 rediskina.com
 redistats.com
+redlele.com
 redonetype.com
 redpeepers.com
 redretarget.com
@@ -16910,6 +16916,7 @@ sssjohomoapt.com
 ssvim.com
 ssvolkkihcyp.com
 ssyhlymwyzou.com
+ssypntfmi.com
 rbck.st3pst3p.com
 sta-ads.com
 stack-sonar.com
@@ -22950,7 +22957,6 @@ fejki.info
 fermolo.info
 fetymi.info
 fexperies.info
-fincastavancessetti.info
 finverty.info
 flurryconakrychamfer.info
 fmebili.info
@@ -23280,6 +23286,7 @@ referralargumentationnetwork.info
 reflethenfortoft.info
 reftedlettiny.info
 regdfh.info
+remotefilez.info
 rensovetors.info
 requiredcollectfilm.info
 reseireejoch.info
@@ -23330,7 +23337,6 @@ solutionzip.info
 spondenced.info
 spotscenered.info
 squartedo.info
-stabletrappeddevote.info
 stampshire.info
 statcounters.info
 stats-analytics.info
@@ -23433,7 +23439,6 @@ wellturnedpenne.info
 westatess.info
 wheelches.info
 whistorica.info
-windgetbook.info
 windowne.info
 puh.winniepuh.info
 winsspeeder.info
@@ -23972,7 +23977,6 @@ zucks.net.zimg.jp
 crypta.js
 .3.n.2.2.l30.js
 .3.n.2.1.l50.js
-sc-f6eade8.js
 www.net.kg
 counter.top.kg
 prm.sushis.kim
@@ -23988,15 +23992,12 @@ admixer.co.kr
 adnmore.co.kr
 adpick.co.kr
 adplex.co.kr
-adscope.co.kr
 tracking.adweb.co.kr
 ad.cauly.co.kr
 clickmon.co.kr
 outbanner.hu.co.kr
 interworksmedia.co.kr
 stat.kbs.co.kr
-keywordlink.co.kr
-lightad.co.kr
 logger.co.kr
 adv.mediaharbor.co.kr
 ctl.mobitrack.co.kr
@@ -24012,7 +24013,6 @@ sndkorea.co.kr
 teralog.techhub.co.kr
 dp25.kr
 log.kcisa.kr
-dreamsearch.or.kr
 phorm.kr
 tenping.kr
 counter.1i.kz
@@ -24229,7 +24229,6 @@ avajo.men
 bcdn.men
 bjorksta.men
 hlu9tseh.men
-mynyx.men
 quideo.men
 advant.ml
 bmcm.ml
@@ -24654,6 +24653,7 @@ chanished.net
 chartbeat.net
 chauksoa.net
 checkmypr.net
+checkru.net
 chitika.net
 cimoghuk.net
 citysite.net
@@ -25753,7 +25753,6 @@ psulsobi.net
 ptefautu.net
 loglady.publicbroadcasting.net
 publicidad.net
-publited.net
 pubnative.net
 pubserve.net
 purpleflag.net
@@ -26536,7 +26535,6 @@ pixel.propublica.org
 stats.propublica.org
 protectaffiliates.org
 count.prx.org
-publited.org
 putana-cz.org
 putanki.org
 pwnz.org
@@ -26566,7 +26564,6 @@ vse.srazu.org
 staticmedia.org
 summerlove4u.org
 superlady.org
-swadvertising.org
 sxtut.org
 bn.take-profit.org
 analytics.thethao247.org
@@ -27043,7 +27040,6 @@ gostats.ro
 gtop.ro
 hit100.ro
 profitshare.ro
-remiroyal.ro
 seomonitor.ro
 seoradar.ro
 top.skyzone.ro
@@ -29808,7 +29804,6 @@ feybu.work
 fluxybe.work
 hydr.work
 indirads.work
-komego.work
 metogo.work
 osnn.work
 oxyes.work
