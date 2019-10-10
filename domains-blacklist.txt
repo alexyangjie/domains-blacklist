@@ -30067,7 +30067,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23404
+# Ignored duplicates: 23652
 
 # Ignored entries due to the whitelist: 4
 
@@ -30317,6 +30317,7 @@ bnm.cf
 crypto9coin.cf
 dloger.cf
 eu.cf
+foxypool.cf
 free404go.cf
 fromonetilltwo.cf
 min.imageflux.cf
@@ -30464,6 +30465,7 @@ minemoney.co
 minether.co
 mmsubtitles.co
 monitoringservice.co
+onepool.co
 miner.oozing.co
 p2pool.co
 pandaminer.co
@@ -30512,6 +30514,7 @@ mine4.12finance.com
 14daily.com
 154pack.com
 15coin.com
+168pool.com
 180tradeoption.com
 1centbtc.com
 1dailycoin.com
@@ -30649,6 +30652,7 @@ alliancesystemclub.com
 allibio.com
 alliedbtc.com
 allinhash.com
+allthedisks.com
 alm-limited.com
 peer.main.alohaeos.com
 alpafx.com
@@ -30775,10 +30779,12 @@ avaorg.com
 avastcoin.com
 avastinv-protected.com
 avrorafunds.com
+awpool.com
 awsmining.com
 axerc.com
 axletrade.com
 axtrades.com
+b3pool.com
 backup-pool.com
 bandaomodel.com
 bcmonster.com
@@ -30843,6 +30849,7 @@ nadjibsoft.blogspot.com
 bmgpool.com
 bohemianpool.com
 bottlecapspool.com
+bpool.com
 bravo-mining.com
 breadapp.com
 plugin.brfiles.com
@@ -30862,6 +30869,7 @@ btcppool.com
 btczpool.com
 bubblemine.com
 pool.burstmarketplace.com
+burstneon.com
 bw.com
 upload-center.byethost4.com
 c1d2.com
@@ -31059,6 +31067,7 @@ hashhot.com
 hashitmining.com
 hashrefinery.com
 hashunited.com
+hdpool.com
 hellominer.com
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
@@ -31074,6 +31083,7 @@ p2p.hitblockproducer.com
 hitbtc.com
 p2p.hkeos.com
 hostxmr.com
+hpool.com
 huobipool.com
 ppdata.idlebuddy.com
 eos-bp.inbex.com
@@ -31169,6 +31179,7 @@ miningpoolhouse.com
 miningpoolhub.com
 miningrigrentals.com
 miningspeed.com
+mmpool.com
 mnmnnm.com
 mobile-mining.com
 monerohash.com
@@ -31286,6 +31297,7 @@ poolin.com
 poolisto.com
 poolmin.com
 pooltupi.com
+poolx.com
 pow-coin.com
 ppxxmr.com
 avatar.pr0gramm.com
@@ -31347,6 +31359,7 @@ sohowa.com
 sonofatech.com
 sparkpool.com
 speedup-faucet.com
+spockpool.com
 sportstream365.com
 squashpool.com
 srcu.com
@@ -31393,6 +31406,7 @@ eos.unlimitedeos.com
 p2p.unlimitedeos.com
 urchintelemetry.com
 usxmrpool.com
+uupool.com
 v7kingsun.com
 versiliaguide.com
 viabtc.com
@@ -31401,10 +31415,12 @@ viciousminer.com
 viewyng.com
 dnsseed.vinumeris.com
 virtuallakshmi.com
+voiplanparty.com
 vstcrack.com
 vtm-integrated.com
 wafflepool.com
 wallet-ethereum.com
+wallpool.com
 webmonero.com
 1000000satoshi.weebly.com
 10btc.weebly.com
@@ -32109,6 +32125,7 @@ advanced-options.ml
 aliexpress103.ml
 binm.ml
 bnm.ml
+burstcoin.ml
 dloger.ml
 eastshoretrade.ml
 horrorscopeme.ml
@@ -32453,6 +32470,7 @@ znode1.mine.nu
 cryptopia.co.nz
 heigh-ho.funkypenguin.co.nz
 xmrbackb.one
+100pb.online
 besocial.online
 bezoglasa.online
 binancie.online
@@ -32780,6 +32798,7 @@ buyandfun.review
 clickandbuy.review
 travel-offers.review
 bacm.ro
+burstcoin.ro
 freeproxy.ro
 monerominer.ro
 noobnoob.ro
@@ -32978,6 +32997,10 @@ coin-hive-stratum-bqywuwxwij.now.sh
 coin-hive-stratum-cilswgfvet.now.sh
 coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
+coincharts.now.sh
+coinhive-proxy-renxoslote.now.sh
+coins.now.sh
+coinstash1.now.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -33024,6 +33047,7 @@ pool.ski
 cryptonote.social
 3389.space
 8282.space
+burstcoin.space
 cryptocoins-digging.space
 cryptopool.space
 d-d.space
@@ -33242,6 +33266,7 @@ asicpool.us
 bitcoin-doubler.us
 bitin.us
 bloc-mining.us
+burst-team.us
 com-http.us
 cryptopros.us
 ethergrab.us
