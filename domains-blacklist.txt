@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 437
+# Ignored duplicates: 441
 
 # Ignored entries due to the whitelist: 156
 
@@ -4861,7 +4861,6 @@ constintptr.com
 construment.com
 consumable.com
 consumergenepool.com
-contactatonce.com
 contactmonkey.com
 contactreserve.com
 contactsin.com
@@ -6050,9 +6049,7 @@ dymzcxgdvf.com
 dynamicadx.com
 dynamicdn.com
 dynamicoxygen.com
-async-px.dynamicyield.com
-px.dynamicyield.com
-st.dynamicyield.com
+dynamicyield.com
 dynamitedata.com
 beacon.rum.dynapis.com
 dynatrace.com
@@ -9539,7 +9536,6 @@ ipromote.com
 iprotrk.com
 ipsowrite.com
 ipstat.com
-ipstatp.com
 iptrkboffhf.com
 ipvvitntvja.com
 ipwwqitqsh.com
@@ -10579,6 +10575,7 @@ kolimanq.com
 kolition.com
 koltruah.com
 kolwksic.com
+lists-tracking.komando.com
 komok.com
 komoona.com
 kompilukabalazooka.com
@@ -12333,6 +12330,7 @@ mtnreztslx.com
 mtracking.com
 mtrcss.com
 tracker.mtrtb.com
+mtsoxkqlqnawre.com
 mttyfwtvyumc.com
 mtveughs.com
 geo.mtvnn.com
@@ -13635,6 +13633,7 @@ log.outbrain.com
 log-ird.outbrain.com
 odb.outbrain.com
 rva.outbrain.com
+stas.outbrain.com
 tr.outbrain.com
 vra.outbrain.com
 vrp.outbrain.com
@@ -14980,6 +14979,7 @@ qkpcihpo16.com
 qkpwdakgxynv.com
 qksihowyv.com
 qkuprxbmkeqp.com
+qkvklknzycrgo.com
 qkwbygfsbfmj.com
 qkyzjwhyeh.com
 qkzwxhcleqj.com
@@ -18057,7 +18057,6 @@ truex.com
 truoctran.com
 truoptik.com
 trustaffs.com
-trustedform.com
 mevents.trusteer.com
 truthfulhead.com
 truthfulturn.com
@@ -18086,7 +18085,6 @@ tsvlkxhdbc.com
 tsvqrrmq.com
 tsw0.com
 tswhwnkcjvxf.com
-tsyndicate.com
 tsyndolls.com
 ttdaxwrryiou.com
 ttdrlihuqgklvc.com
@@ -19812,6 +19810,7 @@ redir.widdit.com
 widerplanet.com
 widespace.com
 widgetbucks.com
+widgetly.com
 widpzvyx.com
 wiezvhxoqhnn.com
 wiffqhum.com
@@ -25839,6 +25838,7 @@ rockvertise.net
 rockyou.net
 roi-rocket.net
 roitracking.net
+rouvoute.net
 rp-rep.net
 rtbclick.net
 rtbidder.net
@@ -26883,6 +26883,7 @@ collector.retailcrm.pro
 rolidenratrigh.pro
 rosemand.pro
 salaure.pro
+schedhomoso.pro
 sefortme.pro
 sensive.pro
 slavial.pro
@@ -26945,6 +26946,7 @@ bdzhhjnml.pw
 beiven.pw
 belicimo.pw
 bestdevchenki.pw
+bileth.pw
 bitcoadz.pw
 bmcm.pw
 bmnr.pw
@@ -29088,7 +29090,7 @@ demand.supply
 admessage.support
 browsers.support
 count.livetv.sx
-studcat.infra.systems
+infra.systems
 adforce.team
 3647.tech
 bamj630h.tech
@@ -29196,6 +29198,7 @@ aichaima.top
 alslz.top
 m.alylym.top
 bestcontentcompany.top
+bestcontentfood.top
 bestcontentsoftware.top
 bwknu1lo.top
 bxjch.top
