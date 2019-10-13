@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 441
+# Ignored duplicates: 440
 
 # Ignored entries due to the whitelist: 156
 
@@ -2315,7 +2315,7 @@ affinitad.com
 affinity.com
 affinitymatrix.com
 peermapcontent.affino.com
-affirm.com
+tracker.affirm.com
 affistats.com
 affplanet.com
 affsnetwork.com
@@ -4552,6 +4552,7 @@ clarityray.com
 claritytag.com
 clarivoy.com
 clash-media.com
+class2deal.com
 class64deal.com
 claxonmedia.com
 clayaim.com
@@ -5198,6 +5199,7 @@ cvhcrbbbfaa.com
 cvjzauehxjsy.com
 cvnmmeux.com
 cvofpjhscrj.com
+cvqgnkeqme.com
 cvsuqfsul.com
 cvupqfim.com
 cvvwaepygjzczp.com
@@ -8438,6 +8440,7 @@ hefgynqlzwi.com
 hegreeks.com
 hegrinhar.com
 hehraybryciyls.com
+hehyqqqxzndwia.com
 heias.com
 heightboost.com
 heikwwkqy.com
@@ -9556,6 +9559,7 @@ iqqbwhrf.com
 iqrqmhrfkyuu.com
 iqsqqyoqry.com
 iqwczlbxvtcnh.com
+iqwrmwssizr.com
 iqyirwfzlx.com
 iqzone.com
 irbkobqlrbtt.com
@@ -9822,6 +9826,7 @@ jddghmkf.com
 jdgilrlyqtrly.com
 jdhhehwkvl.com
 jdhnfbmrhwkn.com
+jdhnrnvdjmu.com
 jdlnquri.com
 jdmconkw.com
 jdniyyricenx.com
@@ -10032,6 +10037,7 @@ jnxqlltlnezn.com
 jnylpjlnjfsp.com
 jnyorvlxy.com
 jo7cofh3.com
+joamwtfpppibtj.com
 jobsyndicate.com
 jobtarget.com
 jobveibsozms.com
@@ -11334,6 +11340,7 @@ lsegvhvzrpqc.com
 lsfinteractive.com
 lshwezesshks.com
 lskzcjgerhzn.com
+lslvclmasbv.com
 lsmxicydlj.com
 lsooyivois.com
 lsovdlxfe.com
@@ -11437,6 +11444,7 @@ lxnimmyikuekn.com
 lxpgdkskkt.com
 lxqcgj.com
 lxtrack.com
+lxwfjjnowwhld.com
 lxwtezlcp.com
 lxyadcffdpaytd.com
 lxymfyptdrast.com
@@ -14917,6 +14925,7 @@ qhdjyxcggzkm.com
 qhiip.com
 qhkfgjoyinllld.com
 qhlzkkwb.com
+qhoosovyj.com
 qhpjexftk.com
 qhpwanmnbvkiio.com
 qhpwqremdlclpk.com
@@ -18274,6 +18283,7 @@ uaolighevmjy.com
 uarating.com
 uavqdzorwish.com
 uaxdkesuxtvu.com
+uayzbioy.com
 ubazpxeafwjr.com
 ubdudsdfcll.com
 ubdwc.com
@@ -20173,6 +20183,7 @@ wznnfwhwwjkp.com
 wznupnxp.com
 wzrkt.com
 wzueqhwf.com
+wzvlxncapmi.com
 x-nomer.com
 x-ssp.com
 x-tds.com
@@ -20211,6 +20222,7 @@ xaxggjsa.com
 xaxoro.com
 xbbcwbsadlrn.com
 xbdlsolradeh.com
+xbgoulaxoen.com
 xbinjxvdnjqllh.com
 xblcqncce.com
 xbmnbfzoeug.com
@@ -21355,6 +21367,7 @@ zipovoma.com
 zipropyl.com
 ziqdunppuzjd.com
 zirhuqksdqeyg.com
+zirlztyowfnif.com
 zirobata.com
 zirve100.com
 zisbrygtluib.com
@@ -21500,6 +21513,7 @@ zqaxaqqqutrx.com
 zqbnfjpewvnhjj.com
 zqdftafa.com
 zqdvdygz.com
+zqeqclcfdc.com
 zqeskyeg.com
 zqizn.com
 zqjfpxcgivkv.com
@@ -26627,6 +26641,7 @@ youcanoptout.org
 your-tornado-file.org
 yunit.org
 yupfiles.org
+znu1ertrovgs.org
 server.zombie-tv.org
 zwaar.org
 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
