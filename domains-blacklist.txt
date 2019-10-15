@@ -31410,6 +31410,7 @@ server.com
 sevabit.com
 shoptoptop.com
 siamining.com
+test.p2pool.axe.siampm.com
 sigmapool.com
 slushpool.com
 sm3na.com
@@ -32034,6 +32035,7 @@ p2p.libertyblock.io
 ltcminer.io
 luckypool.io
 lydian.io
+test.p2pool.masternode.io
 minekitten.io
 minezone.io
 mining-pool.io
@@ -32747,6 +32749,7 @@ pool.pink
 scriptproxy.pie.net.pk
 xmr.101010.pl
 ip.42.pl
+p2pool.axeninja.pl
 best-cdn.pl
 ebd.cda.pl
 coinmine.pl
