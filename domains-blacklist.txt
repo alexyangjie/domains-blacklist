@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 440
+# Ignored duplicates: 441
 
 # Ignored entries due to the whitelist: 156
 
@@ -141,6 +141,7 @@ partners.a24.biz
 ad-tag.biz
 ad-vice.biz
 ad2adnetwork.biz
+ad999.biz
 adbit.biz
 adlure.biz
 adnet.biz
@@ -1612,6 +1613,7 @@ ad2up.com
 ad4game.com
 adserver.ad4link.com
 ad4sell.com
+ad4xh85llhcbfis8.com
 ad5track.com
 ad7.com
 adabra.com
@@ -6185,6 +6187,7 @@ ebgaxsjgdsnr.com
 ebhytolzhum.com
 ebicjwvxmygdqr.com
 ebifuaad.com
+ebipuskrxy.com
 eblastengine.com
 ebmoorfskily.com
 ebocornac.com
@@ -6460,6 +6463,7 @@ entygpeb.com
 enusbrzlmcmg.com
 envortudrqy.com
 enynwkvdb.com
+enzagnshqtmhg.com
 enzodpxuons.com
 enzyxtdcacde.com
 eocnpszthsf.com
@@ -7141,6 +7145,7 @@ flixfacts.com
 fljozww19f.com
 flkyhwjhp.com
 flmditew.com
+flnfbaoozuib.com
 flnqkhnqjcmvp.com
 flntdbwafec.com
 api.flocktory.com
@@ -8411,6 +8416,7 @@ hcmafnawzxfnam.com
 hcmjlsxhebb.com
 hcqjgkpg.com
 hcrsxbke.com
+hcrwnoaqe.com
 hcskwstr.com
 hctcdmqp.com
 hcwdcintgl.com
@@ -9599,6 +9605,7 @@ isdlyvhegxxz.com
 isfmvohloskgw.com
 isfxsiooyjad.com
 isggimkjabpa.com
+isgmpykwv.com
 ishahguv.com
 ishdyglxfckw.com
 islationa.com
@@ -9819,6 +9826,7 @@ jbwunmehf.com
 jbxggecaj.com
 jbyksmjmbmku.com
 jbzdpixig.com
+jccjaosi.com
 jccszmkabdean.com
 jcctggmdccmt.com
 jchhompudl.com
@@ -10165,6 +10173,7 @@ jtacrwtaf.com
 jtbmxdoadktnm.com
 jtgckwsacymph.com
 jtmwjkkoes.com
+jtneoqbd.com
 jtrakk.com
 jttoioquq.com
 jtumenosmrte.com
@@ -10202,6 +10211,7 @@ jutulep.com
 juuwyyvjecnvps.com
 juvqtttkhz.com
 juyfhwxcvzft.com
+jvcswgskvw.com
 jvffngzl.com
 jvhdxosisifv.com
 jvinenwuarwn.com
@@ -11404,6 +11414,7 @@ luxupcdna.com
 luxupcdnb.com
 luxupcdnc.com
 luxyad.com
+luysvlnrb.com
 luztinhsbzggvr.com
 lvcrcimfmfx.com
 lvctzafuvn.com
@@ -11459,6 +11470,7 @@ lxtrack.com
 lxwfjjnowwhld.com
 lxwtezlcp.com
 lxyadcffdpaytd.com
+lxykalyvq.com
 lxymfyptdrast.com
 lxzwknybfvycxr.com
 lybmmxah.com
@@ -11880,6 +11892,7 @@ mfdhvdwkdg.com
 mfeoaesafo.com
 mffsqhmzeycb.com
 mffurrpzbum.com
+mfgxwluvrr.com
 mfgyyqqjpp.com
 mfhsvkepu.com
 mfigasff.com
@@ -11930,6 +11943,7 @@ mhggzg.com
 mhghzpotwnoh.com
 mhglrnhcei.com
 mhhjdlsnji.com
+mhhjqfjujxwrfa.com
 mhmgeilfkcgov.com
 mhrfhwlqsnzf.com
 mhuivzojiqe.com
@@ -13575,6 +13589,7 @@ oratess.com
 oratosaeron.com
 orbengine.com
 orcapia.com
+ordbtltlcmqv.com
 orddiltnmmlu.com
 ordingly.com
 geoip.oregonlive.com
@@ -13855,6 +13870,7 @@ payrfnvfofeq.com
 paysoxemgjqp.com
 pbbutsvpzqza.com
 pbcde.com
+pbfjqmwjmuxywt.com
 pbhletstiooizj.com
 pbixcuapo.com
 pbjnssfvatrhc.com
@@ -14645,6 +14661,7 @@ response.pure360.com
 pureairhits.com
 qwtm.purecertainengine.com
 purevideo.com
+affiliates.purevpn.com
 purgrobi.com
 pusatiklan.com
 pusbamejpkxq.com
@@ -14927,6 +14944,7 @@ qgeglsnoxk.com
 qgevavwyafjf.com
 qgiumuzmxj.com
 qgnakeddgtdw.com
+qgnneaeagxaypp.com
 qgpmtdrm.com
 qgraprebabxo.com
 qgrycwxbn.com
@@ -15188,6 +15206,7 @@ quillion.com
 quinstreet.com
 quintelligence.com
 quisma.com
+quitsnap-blue.com
 qukqptxilr.com
 qulsqiqrev.com
 qumagee.com
@@ -17192,6 +17211,7 @@ stats.svpply.com
 svr-prc-01.com
 svrsqqtj.com
 svtrd.com
+svwsjxptbsvqo.com
 sw1block.com
 sw2block.com
 swahobrjdddri.com
@@ -24726,7 +24746,7 @@ clickexperts.net
 clickforward.net
 clickintext.net
 clickkingdom.net
-static.clickscloud.net
+clickscloud.net
 clicksor.net
 clicktale.net
 clickterra.net
@@ -24860,7 +24880,6 @@ d2nn3xyicdpsrf.cloudfront.net
 d2nrdy2pg3k168.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2nzjxafm0iowq.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oa97wrxvxm7y.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
@@ -24896,7 +24915,6 @@ d32z5ni8t5127x.cloudfront.net
 d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d35r45qhjmgs3g.cloudfront.net
-d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
@@ -28815,6 +28833,7 @@ vzzexalcirfgrf.ru
 wapstart.ru
 warlog.ru
 wasm24.ru
+wasshimundme.ru
 webgringo.ru
 webproficlub.ru
 webqs.ru
@@ -29825,6 +29844,7 @@ nimiq.watch
 pixel.watch
 k9anf8bc.webcam
 10root25.website
+11flexiblebig9.website
 1j7740kd.website
 1q2w3.website
 6g3am6pr.website
