@@ -30173,7 +30173,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 23652
+# Ignored duplicates: 25815
 
 # Ignored entries due to the whitelist: 4
 
@@ -30978,6 +30978,7 @@ pool.burstmarketplace.com
 burstneon.com
 bw.com
 upload-center.byethost4.com
+bytepool.com
 c1d2.com
 c3pool.com
 camillesanz.com
@@ -31114,6 +31115,7 @@ security.fblaster.com
 www.fblaster.com
 xsecurity.fblaster.com
 findblocks.com
+firepool.com
 stafftest.firewall-gateway.com
 flashplayerd-4.com
 flashplayerdownloadvip.com
@@ -31370,6 +31372,7 @@ nnyetlherwallet.com
 nocroom.com
 eos.nodepacific.com
 nosekefik.com
+novablock.com
 nullrefexcep.com
 odpool.com
 openkatalog.com
@@ -31601,7 +31604,9 @@ xn--x-xya776spna.com
 xn--yeterwallet-ml8ewn.com
 xn--yetewallet-hf2e6mrk.com
 xn--yetherallet-iw8ew5a.com
+xnpool.com
 xpoloniex.com
+xpool.com
 xtrapool.com
 xxxfallout.com
 xzpool.com
@@ -33293,6 +33298,7 @@ rig.tokyo
 binance.tools
 bittrex.tools
 poloniex.tools
+1thash.top
 adbtc.top
 btc.top
 cdncounter.top
