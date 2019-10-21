@@ -30225,7 +30225,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 29963
+# Ignored duplicates: 30033
 
 # Ignored entries due to the whitelist: 4
 
@@ -30510,6 +30510,7 @@ wmasters.cf
 zzzthxsyvbzk.cf
 adfreetv.ch
 alpereum.ch
+crypto4you.ch
 flymining.ch
 jonasschnelli.ch
 minepool.ch
@@ -33224,6 +33225,7 @@ rctfgrazkha.ru
 nya.roflanzdarova.ru
 rowherthat.ru
 ftp.ruisgood.ru
+ryo-currency.ru
 sellssamp.ru
 site11117.ru
 site1117.ru
@@ -33367,6 +33369,7 @@ tainiesonline.stream
 ftp.takebigfish.stream
 bijo.style
 as-shop.su
+dark-mine.su
 vm443426.had.su
 uranus.kei.su
 wireless.kei.su
@@ -33677,6 +33680,7 @@ rplant.xyz
 s-games.xyz
 sb1xju.xyz
 setup-game.xyz
+theskynet.xyz
 ui2ulh.xyz
 uloma.xyz
 update-flash-win64.xyz
