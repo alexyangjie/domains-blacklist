@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 441
+# Ignored duplicates: 442
 
 # Ignored entries due to the whitelist: 156
 
@@ -2575,6 +2575,7 @@ amaecylce.com
 analytics.amakings.com
 amakwktrnb.com
 amaqvmfd.com
+amarceusan.com
 amauzaqp.com
 amavalet.com
 amazingcounters.com
@@ -3357,6 +3358,7 @@ beanstock.com
 bearsandfish.com
 beatchucknorris.com
 beaverads.com
+bebasads.com
 bebi.com
 bebj.com
 bebufuspldzh.com
@@ -5902,6 +5904,7 @@ dpypzvjarj.com
 dqdnwhyxeblt.com
 dqdwvmpez.com
 dqekudhbwprx.com
+dqeqsiwc.com
 dqfhklmwj.com
 dqfpksnabgagc.com
 dqiokxyebdc.com
@@ -7402,6 +7405,7 @@ frolnk.com
 fromfriendswithlove.com
 frosmo.com
 frqmnrlqk.com
+frsqgvwmzjnun.com
 frtfwlvwuw.com
 t.frtyi.com
 frtyo.com
@@ -10819,6 +10823,7 @@ kwykvodkvg.com
 kwystoaqjvml.com
 kxareafqwjop.com
 kxbpvlptnkrqvt.com
+v1-c73e.kxcdn.com
 kxdprqrrfhhn.com
 kxemsltfmm.com
 kxjzvfrhyf.com
@@ -10836,6 +10841,7 @@ kyauukea.com
 kycsebgx.com
 kyelvsyayysa.com
 kygozmlrr.com
+kygssorgg.com
 kyhkyreweusn.com
 kylqpeevrkgh.com
 kyowarob.com
@@ -10865,6 +10871,7 @@ ladhyjqqgerr.com
 ladsbrown.com
 ladsinfo.com
 ladsp.com
+lajgmzddxrzjl.com
 lajpmujdntg.com
 lakequincy.com
 lalywprgzl.com
@@ -13211,6 +13218,7 @@ nyzncfurdrdxfi.com
 nyzobnpbcwjwfs.com
 nzbbsxujqlhjn.com
 nzbtvquutdr.com
+nzcjjhkd.com
 nzcpdaboaayv.com
 nzhuswwhd.com
 nzkjbazl.com
@@ -15088,6 +15096,7 @@ qmiypgoukkl.com
 qmjjvpoqhb.com
 qmmdvzsebi.com
 qmotkiltrim.com
+qmotmcwz.com
 qmouzhzz.com
 qmxpttxjv.com
 qmzwcrordyc.com
@@ -17707,6 +17716,7 @@ tienribwjswv.com
 tieyggub.com
 tifzusomh.com
 tigzuaivmtgo.com
+tijoctqry.com
 tijorari.com
 tijosnqojfmv.com
 tikjbfpd.com
@@ -21222,6 +21232,7 @@ yxahzybkggol.com
 yxbglezas.com
 yxbtyzqcczra.com
 yxcdiyaidaakp.com
+yxdwsuppvt.com
 yxfkdvkh.com
 yxhyxfyibqhd.com
 yximgdpivguxke.com
@@ -21517,6 +21528,7 @@ statsd.zmags.com
 zmbrweqglexv.com
 zmkihizd.com
 zmkkiqghh.com
+zmnhcswlu.com
 zmnqoymznwng.com
 zmoawpfsz.com
 zmogtyau.com
@@ -21630,6 +21642,7 @@ zreqmcewq.com
 zrgssannk.com
 zrhskqzfh.com
 zricmrcrlmdeg.com
+zrlcr.com
 zroitracker.com
 zrosbqwecw.com
 zrufclmvlsct.com
@@ -27096,6 +27109,7 @@ errtmotmw.pw
 eysmaa.pw
 fardan.pw
 farpeiros.pw
+farsihd.pw
 financenews.pw
 furginator.pw
 gilzana.pw
@@ -29067,6 +29081,7 @@ adscpm.site
 adshark.site
 adshost.site
 ag2hqdyt.site
+aidalbark.site
 akamaihd.site
 anybest.site
 apiyandex.site
@@ -29082,6 +29097,7 @@ gocdn.site
 hesftig.site
 intab.site
 itempana.site
+itrustzone.site
 jfx61qca.site
 less-css.site
 mighbest.site
