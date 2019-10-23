@@ -30296,7 +30296,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 30036
+# Ignored duplicates: 30094
 
 # Ignored entries due to the whitelist: 4
 
@@ -32177,6 +32177,7 @@ bitcore.io
 bitminer.io
 bitnex.io
 bitnodes.io
+bitultra.io
 p2p.blockmachine.io
 bluewpool.io
 p2p1.bp2.io
@@ -32581,6 +32582,7 @@ ii.haqo.net
 loop.haqo.net
 lp.haqo.net
 hashbook.net
+hashingcrypto.net
 hashinvest.net
 hashluck.net
 hiveon.net
