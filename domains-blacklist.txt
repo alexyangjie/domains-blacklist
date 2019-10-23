@@ -30296,7 +30296,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 30033
+# Ignored duplicates: 30036
 
 # Ignored entries due to the whitelist: 4
 
@@ -33614,6 +33614,7 @@ dexceldesigns.co.uk
 errantshed.co.uk
 gntl.co.uk
 scrypt.ispace.co.uk
+mineblocks.co.uk
 mining4.co.uk
 pocketminer.co.uk
 cryptoblock.uk
@@ -33646,6 +33647,7 @@ webcoin.us
 xavieron.us
 binance.ventures
 sm520.vip
+vietpool.vddns.vn
 64uq73u7ug.webcam
 acumglmanooy.website
 max.csrss.website
