@@ -2203,6 +2203,7 @@ adwstats.com
 adx1.com
 adxadtracker.com
 adxat.com
+adxcel-ec2.com
 adxchg.com
 adxcore.com
 adxgeeks.com
@@ -10540,6 +10541,7 @@ kjiiatolx.com
 kjizuuuvqbcd.com
 kjjlucebvxtu.com
 kjkwrmwdyhi.com
+kjlahwtvckpaci.com
 kjltrjvjfran.com
 kjlvutytm.com
 kjmddlhlejeh.com
@@ -12904,6 +12906,7 @@ nightened.com
 niholaev.com
 nijksigqjzalcf.com
 adpriv.nikkei.com
+nkis.nikkei.com
 niklesrov.com
 nikxhdrys.com
 niltutch.com
@@ -14209,6 +14212,7 @@ pixeltrack66.com
 pixenka.com
 piximedia.com
 pixjqfvlsqvu.com
+pixlee.com
 pixxur.com
 publish.pizzazzemail.com
 pjatr.com
@@ -18207,6 +18211,7 @@ tskctmvpwjdb.com
 tslomhfys.com
 tsmdmunzbtu.com
 tsmwdhwvkaz.com
+tspops.com
 tssandycateup.com
 tst14netreal.com
 tsuitufixxlf.com
@@ -19311,6 +19316,7 @@ visitorpath.com
 visitorprofiler.com
 visitortracklog.com
 visitorville.com
+visitstats.com
 visitstreamer.com
 visitweb.com
 visualdna.com
@@ -19742,6 +19748,7 @@ wcobqyeqpckkzh.com
 wcoloqvrhhcf.com
 wcpanalytics.com
 wcqlebpges.com
+wcwcypfnvih.com
 wcwdjojsxbbl.com
 wcwzzauws.com
 wcyqoiyohhav.com
@@ -23401,6 +23408,7 @@ oxlerco.info
 ozmifi.info
 ozonestsscareer.info
 pabrashu.info
+packsonikolas.info
 panyeri.info
 parabled.info
 paratingexcret.info
@@ -23451,6 +23459,7 @@ ralkipa.info
 rapistory.info
 rappenedstoric.info
 rarelly.info
+rasclassignn.info
 rastafi.info
 rbaleno.info
 realer.info
@@ -24075,7 +24084,6 @@ mobylog.jp
 mopo.jp
 msgs.jp
 mtburn.jp
-n8s.jp
 nakanohito.jp
 atech.ne.jp
 doubleclick.ne.jp
@@ -25013,6 +25021,7 @@ d30zrwt3s044zr.cloudfront.net
 d3135glefggiep.cloudfront.net
 d31bfnnwekbny6.cloudfront.net
 d31j93rd8oukbv.cloudfront.net
+d31mxuhvwrofft.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d32r49xyei4vz6.cloudfront.net
@@ -26533,6 +26542,7 @@ hallaert.online
 kenvam.online
 afbanner.kinobomber3.online
 klubityd.online
+leadiklod.online
 loppjod.online
 marapcana.online
 markboil.online
@@ -26588,6 +26598,7 @@ bcoolandjustrelax.org
 benisoncanorous.org
 besucherzaehler.org
 betticket.org
+bigreal.org
 binaryoptionssystems.org
 an.blogis.org
 browser-update.org
@@ -26766,6 +26777,7 @@ trackertest.org
 analytics.truecarbon.org
 truemine.org
 trustx.org
+events.tubecup.org
 vedohd.org
 tracking.vid4u.org
 videocap.org
@@ -26958,6 +26970,7 @@ elepocial.pro
 emented.pro
 analytics.ettoredelnegro.pro
 europerty.pro
+eviclick.pro
 exponderle.pro
 ezcore.pro
 fineg.pro
@@ -26980,6 +26993,7 @@ hedthertsu.pro
 hegarberetrof.pro
 helingoneheckhes.pro
 hepsandminawas.pro
+herreperolsof.pro
 hertforthatharrigh.pro
 hindurinning.pro
 iclbodnew.pro
@@ -30152,6 +30166,7 @@ kxqvnfcg.xyz
 lamiflor.xyz
 ldnxy.xyz
 lolxm.xyz
+lorahana.xyz
 lpmde.xyz
 luven.xyz
 magdove.xyz
