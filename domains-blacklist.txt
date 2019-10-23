@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 442
+# Ignored duplicates: 428
 
 # Ignored entries due to the whitelist: 156
 
@@ -4150,6 +4150,7 @@ cafvzpusl.com
 cahepysgenpb.com
 tracker.calameo.com
 calculatorcamera.com
+caljqsml.com
 sp.caller.com
 callingjustified.com
 callmd5map.com
@@ -4406,6 +4407,7 @@ cgbqzfjf.com
 cgcukmix.com
 cgjbizumzm.com
 cgjyesqhxzzm.com
+cgkeasqkzfpepr.com
 cgkpwhkgjxo.com
 cglcdshkqiuic.com
 cglpmszvpzzxj.com
@@ -4726,6 +4728,7 @@ cmdjujqlfbts.com
 cmdnzbuynnm.com
 cmdotgwjhpqf.com
 cmfads.com
+cmhomlaipa.com
 cmhwwdwfiyx.com
 cmjjzwddw.com
 cmmeglobal.com
@@ -6563,6 +6566,7 @@ erogaliv.com
 eropayper.com
 eropays2.com
 eroppc.com
+erosyndc.com
 erotikdeal.com
 erotiksfilmizle.com
 erotraf.com
@@ -9957,6 +9961,7 @@ jhceybuguvureg.com
 jhcnnizbua.com
 jheduynirrxkro.com
 jheplryxvzvx.com
+jhhlhneavuo.com
 jhijojlatyvri.com
 jhmmbrfsqm.com
 jhnteodwqtk.com
@@ -10106,6 +10111,7 @@ counter.joins.com
 jojilabola.com
 jokoshep.com
 jolic2.com
+jomrhqkqvvxix.com
 jomznuefrw.com
 joophesh.com
 tracker.joost.com
@@ -11423,6 +11429,7 @@ ltfroezjyyhv.com
 ltfxlxze.com
 ltjvgpxg.com
 ltnfhltuksarpq.com
+ltnkbvcm.com
 lttsvesujmry.com
 ltvrdftgr.com
 ltwlxoedrydz.com
@@ -15277,6 +15284,7 @@ quqyiobevrc.com
 qurhdjkms.com
 quyxxofx.com
 qveuxmbhbhmg.com
+qvfwckuehf.com
 qvgjqhfnbdeur.com
 qvilmdus.com
 qvivzreleolawc.com
@@ -15478,6 +15486,7 @@ rdstation.com
 rdthuvynnwgind.com
 rdvrxbxwxspxd.com
 rdwcvesg.com
+rdwsjnifcemg.com
 rdxwaydglehog.com
 rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 reachforce.com
@@ -16150,6 +16159,7 @@ stats.sa-as.com
 sa2xskt.com
 ad.sacitaslan.com
 sadbads.com
+sadsans.com
 sadsims.com
 saenrwiqesp.com
 safe-connection21.com
@@ -17003,6 +17013,7 @@ sqykpwpgqqt.com
 sqyvhynwl.com
 srcip.com
 srcsmrtgs.com
+srezrzsyqrikab.com
 srfizvugkheq.com
 srgev.com
 srgszwexkpehb.com
@@ -19522,6 +19533,7 @@ vtbyvtmabpclx.com
 vtcquvxsaosz.com
 vtcxhnri.com
 vtemaaftwexu.com
+vtgcvsmzxiyoz.com
 vtgdjgtwl.com
 vth05dse.com
 vthhmbfo.com
@@ -28852,6 +28864,7 @@ upclick.ru
 uppro.ru
 upstats.ru
 hc.uralweb.ru
+j.uralweb.ru
 urwb.ru
 uryle.ru
 us1tryasemi.ru
@@ -29773,7 +29786,6 @@ crosspromotion-us.avosapps.us
 st.cdnco.us
 firstload.us
 fueox.us
-geni.us
 goclickon.us
 hashforcash.us
 hot-hits.us
@@ -29902,6 +29914,7 @@ web.f8.pyco.vn
 qccoccocmedia.vn
 rungrinh.vn
 track.sendo.vn
+sharks.vn
 userstats.shopee.vn
 s.soha.vn
 admin.sothuchi.vn
@@ -30217,6 +30230,7 @@ whatsapp-chat.xyz
 winvideo.xyz
 neyrvru.wmbgc.xyz
 wmwyq.xyz
+wranjeon.xyz
 www0.xyz
 xbmhm.xyz
 xjmrl.xyz
