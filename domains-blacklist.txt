@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 428
+# Ignored duplicates: 430
 
 # Ignored entries due to the whitelist: 156
 
@@ -3309,6 +3309,7 @@ bb1acb0ea5ddb1fed8.com
 bb475d71fa0b1b2.com
 bb47d806f644cb2.com
 bbackcssmwam.com
+bbckaxifryxcno.com
 bbelements.com
 bbfasycx.com
 bbheuxcancwj.com
@@ -3734,6 +3735,7 @@ bnjhbghjznq.com
 bnjrtdsafo.com
 bnjuhrbpdjtjul.com
 bnkgacehxxmx.com
+bnlqhnqnqveo.com
 bnmla.com
 bnnsgqjofzar.com
 bnpmudgktroz.com
@@ -5959,6 +5961,7 @@ droqnswhcfk.com
 drowle.com
 drpmtzjanjqjpj.com
 drqjihcfdrqj.com
+drqlvjwhg.com
 drs24.com
 drsemkuhpg.com
 tracking.drsfostersmith.com
@@ -6914,6 +6917,7 @@ farfarida.com
 stats.farfetch.com
 target.fark.com
 farkkbndawtxczozilrrrunxflspkyowishacdueiqzeddsnuu.com
+farmergoldfish.com
 farvqaxaoid.com
 fast12g.com
 fast2earn.com
@@ -7159,6 +7163,7 @@ fkfmujcudpwdn.com
 fkfpkhijf.com
 fkianrxjfumm.com
 fkjyzxnoxusg.com
+fkloazpi.com
 fkphqtgqrfixl.com
 fkrgfktdvta.com
 fkrisjefbx.com
@@ -9625,6 +9630,7 @@ iproblet.com
 ipromote.com
 iprotrk.com
 ipsowrite.com
+ipstack.com
 ipstat.com
 iptrkboffhf.com
 ipvvitntvja.com
@@ -10348,6 +10354,7 @@ jzbarlrhbicg.com
 jzbskhgpivyl.com
 jzbutifk.com
 jzckyzvlxetror.com
+jzcqmatkjfihv.com
 jzeigwioirde.com
 jzekquhmaxrk.com
 jzfzgkepkjcf.com
@@ -10358,6 +10365,7 @@ jzkznpleaqshdj.com
 jzllgntkazui.com
 jzlzdnvvktcf.com
 jzohcwnovrk.com
+jzowfnqah.com
 jzqce.com
 jzqemifphogo.com
 jzqharwtwqei.com
@@ -10429,6 +10437,7 @@ kcctsiusemgdl.com
 kceikbfhsnet.com
 kcetcukaolxc.com
 kcitwbcc.com
+kcnjwtaj.com
 kcnyhfmowc.com
 kcodndvh.com
 kcpntbycuswz.com
@@ -11311,6 +11320,7 @@ lmjxrhph.com
 lmlvzeeag.com
 lmn-pou-win.com
 lmrlanov.com
+lmsdoihmsoifx.com
 lmsxuo.com
 lmsycyfh.com
 lmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com
@@ -13159,6 +13169,7 @@ ntduattgboduk.com
 ntent.com
 ntetguxoeuvevp.com
 ntgqcnferh.com
+ntgygnke.com
 nticqzrucdg.com
 ntjcrsfvszoen.com
 ntkuokicthbxc.com
@@ -15181,6 +15192,7 @@ qnrzmapdcc.com
 qnsdwkjctkso.com
 qnsr.com
 qnugsbuo.com
+qnxqhrww.com
 qnzelsgj.com
 qoapuppy.com
 qoayrejue.com
@@ -16071,6 +16083,7 @@ rtctxxxvdq.com
 rtdogcdkovndho.com
 rtgngrwtngms.com
 rtgpaohds.com
+rtogkeafeedde.com
 rtpdn10.com
 rtpibuckwnp.com
 rtqlmwfywl.com
@@ -16152,6 +16165,7 @@ rwugdvqdpxfz.com
 rwugglxboxgw.com
 rwxivmfldvo.com
 rwxzeoqfj.com
+rxavnjqxvszrz.com
 rxbbddhkl.com
 rxczemggfsxx.com
 rxewvdlja.com
@@ -19951,6 +19965,7 @@ wghmgbjpxmlxa.com
 wgkurvzvd.com
 wglbionuopeh.com
 wglbucuhxxxj.com
+wgqirxevoh.com
 wgrbdqucfoieha.com
 wgreatdream.com
 wgroobsxrnijg.com
@@ -20387,6 +20402,7 @@ wznupnxp.com
 wzrkt.com
 wzueqhwf.com
 wzvlxncapmi.com
+wzwetfprojnyx.com
 x-nomer.com
 x-ssp.com
 x-tds.com
@@ -21211,6 +21227,7 @@ yphyzxdm.com
 ypictqesjuib.com
 ypixrvxi.com
 ypksjcnrsett.com
+ypmwkketrdbwn.com
 ypnespepnln.com
 ypreferred.com
 yprnopqzs.com
@@ -21774,6 +21791,7 @@ ztioesdyffrr.com
 ztiqalyrbfsnl.com
 ztmwkxvvyoao.com
 ztorjgyxni.com
+ztsletmncez.com
 ztslmijniaoqip.com
 ztsrv.com
 ztstwgxjhkuwj.com
