@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 430
 
-# Ignored entries due to the whitelist: 156
+# Ignored entries due to the whitelist: 158
 
 js.cdn.ac
 dxracers.accountant
@@ -4061,6 +4061,7 @@ bvzjhnqrypiv.com
 bwads24.com
 bwcpnpkkncszi.com
 bwinpartypartners.com
+bwjteztqdlg.com
 bwoefrhtycp.com
 bwohgwrk.com
 bwoipfjnvbw.com
@@ -5614,6 +5615,7 @@ dfrcdywe.com
 dfrekewe.com
 dfskgmrepts.com
 dfujqyjifvoe.com
+dfyudpyceqoy.com
 dgeggjwyhkrr.com
 dggcgurqynie.com
 dghgutalvz.com
@@ -5740,6 +5742,7 @@ djnroblmpyxrh.com
 djibeacon.djns.com
 djntmaplqzbi.com
 djqercix.com
+djtfkakbufpwot.com
 djuxmbjauluis.com
 djvpsxtkdmga.com
 djwdefnov.com
@@ -6143,6 +6146,7 @@ dzlpvqbyk.com
 dzqoubtxsaskdl.com
 dzyqqwixizp.com
 dzzawlkmtvug.com
+dzznyesmwj.com
 dzztjcbt.com
 e-contenta.com
 e-generator.com
@@ -6523,6 +6527,7 @@ eoecdsfvceebrv.com
 eoepqqkg.com
 eofaplocyrcxhq.com
 eojrldtucqsf.com
+eopazyxdkppnz.com
 eoqsbpvdxllxo.com
 eoredi.com
 ads.eorezo.com
@@ -8058,6 +8063,18 @@ gogntrsm.com
 gogo4girlz.com
 gogoplexer.com
 gogousenet.com
+beacon-fullpage-predictor.goguardian.com
+countvoncount.goguardian.com
+ext.goguardian.com
+inquisition.goguardian.com
+ip.goguardian.com
+panther.goguardian.com
+quiddity.goguardian.com
+sakura.goguardian.com
+screenshots.goguardian.com
+snat.goguardian.com
+x3-policy-maker.goguardian.com
+x3-predictor.goguardian.com
 gogvo.com
 gohillgo.com
 goingup.com
@@ -11441,6 +11458,7 @@ lqqpabnu.com
 lqrlhmdwy.com
 lqrrkjodhq.com
 lquodkeqws.com
+lqxoqvqljmfyt.com
 lrbllelemsx.com
 lrcrobshelr.com
 lrgtkljakwfw.com
@@ -11632,7 +11650,6 @@ macandcheeseandads.com
 machieved.com
 machings.com
 stats.macmillanusa.com
-macromill.com
 laurel.macrovision.com
 mad-adz.com
 madadsmedia.com
@@ -11781,6 +11798,7 @@ mbjrejhbcaihz.com
 mbmjqinvsil.com
 mbmwfufkaxll.com
 mbotvisit.com
+mbpjpmcz.com
 mbrxgolis.com
 mbsivmsbuteaz.com
 mbtalhkebpbpwb.com
@@ -12480,6 +12498,7 @@ mueyqvzw.com
 muhexvakuawzo.com
 mujap.com
 mujilora.com
+mujzsntbwzwc.com
 mukipol.com
 mukwonagoacampo.com
 mukxblrkoaaa.com
@@ -14402,6 +14421,7 @@ pnuymnyhbbuf.com
 pnwhrmyit.com
 pnzchguyctrsyb.com
 poaxupoqbw.com
+poazoanu.com
 poazvacfzbed.com
 podbwdcrmjufmr.com
 poewhatnvxydts.com
@@ -17891,6 +17911,7 @@ tkkfmqbisu.com
 tkncbgwor.com
 tkoatkkdwyky.com
 tkqlhce.com
+tkroqotredk.com
 tksljtdqkqxh.com
 tktyinaabq.com
 tl813.com
@@ -20441,6 +20462,7 @@ xaxggjsa.com
 xaxoro.com
 xbbcwbsadlrn.com
 xbdlsolradeh.com
+xbfuorhxpa.com
 xbgoulaxoen.com
 xbinjxvdnjqllh.com
 xblcqncce.com
@@ -21837,6 +21859,7 @@ zwbiaekgsx.com
 zwcuvwssfydj.com
 zweigciinmslan.com
 zwfvzxmc.com
+zwigjtgnzfn.com
 zwmauyerfotyh.com
 zwpaujzg.com
 zwprxzbnzxc.com
@@ -21874,6 +21897,7 @@ zyaorkkdvcbl.com
 zybxchina.com
 zycvyudt.com
 zydfsiuhqkbsqh.com
+zydvsvwgqqyxb.com
 zyeawuzisttu.com
 zyfuywrjbxyf.com
 zygrlkimddjzd.com
@@ -23025,6 +23049,7 @@ acknowinge.info
 aclassigned.info
 acrabbey.info
 acrossiblel.info
+activepr.info
 ad-generator.info
 adalgo.info
 cdn.adbert.info
@@ -23782,6 +23807,7 @@ bitvertise.io
 blockbreaker.io
 bonad.io
 branch.io
+brandlock.io
 bttn.io
 burt.io
 buzzad.io
@@ -24334,6 +24360,7 @@ skytemjo.link
 stompebi.link
 sunrisewebjo.link
 surefire.link
+thaihary.link
 wwwp.link
 zostofou.link
 nero.live
