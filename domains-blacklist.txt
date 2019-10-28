@@ -30411,7 +30411,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 30094
+# Ignored duplicates: 30294
 
 # Ignored entries due to the whitelist: 4
 
@@ -30943,6 +30943,7 @@ jjj.258.com
 60dailyhyip.com
 65today.com
 cn.666666sy.com
+blockfoundry-org.6litrcrypto.com
 72xbtc.com
 777payouts.com
 7cly.com
@@ -31158,6 +31159,7 @@ axletrade.com
 axtrades.com
 b3pool.com
 backup-pool.com
+baikalmine.com
 bandaomodel.com
 bcmonster.com
 lp.beahh.com
@@ -31309,6 +31311,7 @@ cryptoasiapool.com
 cryptobullionpools.com
 cryptocoinabout.com
 cryptocoinsclub.com
+cryptoisme.com
 cryptokittydex.com
 cryptomineros.com
 cryptomininggame.com
@@ -31726,6 +31729,9 @@ rnyethervailet.com
 rnyethervaliet.com
 rnyethierwaliet.com
 rushhourmining.com
+ryo-currency.com
+ryoblocks.com
+ryowebwallet.com
 s9pool.com
 safelinkconverter.com
 sakthikaa.com
@@ -31820,6 +31826,7 @@ vvpool.com
 wafflepool.com
 wallet-ethereum.com
 wallpool.com
+waterparkmining.com
 webmonero.com
 1000000satoshi.weebly.com
 10btc.weebly.com
@@ -32018,12 +32025,15 @@ kippo.eu
 magnetbay.eu
 mastermine.eu
 mineblocks.eu
+miner-coin.eu
+mining-bios.eu
 mininglottery.eu
 multicoin.eu
 p2p-multipool.eu
 piratenbucht.eu
 pirlpool.eu
 realpool.eu
+ryopool.eu
 sonvelesa.eu
 top-miningpool.eu
 urbanproxy.eu
@@ -32129,6 +32139,7 @@ gpool.guru
 zpool.guru
 bitcoin.inc.hk
 llama.horse
+catecoinpool.host
 d-d.host
 pocketgolf.host
 stratum.sye.host
@@ -32188,6 +32199,7 @@ coin-miners.info
 coinhive.info
 cqfnvznw.info
 crypto-pool.info
+cybtc.info
 deris.info
 tonic.dnsd.info
 bom.dnstop.info
@@ -32796,7 +32808,49 @@ prohash.net
 proxyindia.net
 punchsub.net
 saltpool.net
-serverpower.net
+220-orbit.serverpower.net
+adboost.serverpower.net
+autodiscover.serverpower.net
+btgmail.serverpower.net
+dso-orkus.serverpower.net
+fisi.serverpower.net
+fool.serverpower.net
+game.serverpower.net
+intrexx.serverpower.net
+jenkins.serverpower.net
+kreisrd.serverpower.net
+lockout.serverpower.net
+maik.serverpower.net
+mem.serverpower.net
+mine.serverpower.net
+n1.serverpower.net
+n2.serverpower.net
+n3.serverpower.net
+nadboost.serverpower.net
+nextklaus.serverpower.net
+okadboost.serverpower.net
+orbit.serverpower.net
+orbit1.serverpower.net
+orbit2.serverpower.net
+orbit3.serverpower.net
+peddz.serverpower.net
+pluto.serverpower.net
+pool.serverpower.net
+pool2.serverpower.net
+pool3.serverpower.net
+quantum.serverpower.net
+server2.serverpower.net
+space.serverpower.net
+stats.serverpower.net
+tech.serverpower.net
+titan.serverpower.net
+ultradns.serverpower.net
+umbrella.serverpower.net
+v.serverpower.net
+vpn.serverpower.net
+webdisk.serverpower.net
+whm.serverpower.net
+zcash.serverpower.net
 shitcoinmining.net
 shscrypto.net
 simplemining.net
@@ -32921,7 +32975,9 @@ znode1.mine.nu
 cryptopia.co.nz
 heigh-ho.funkypenguin.co.nz
 pool.cdy.one
+rmc.one
 xmrbackb.one
+xrqwig7erykgll4z.onion
 100pb.online
 besocial.online
 bezoglasa.online
@@ -33196,6 +33252,7 @@ miners.pro
 btcprofit.onlinetradingplatform.pro
 pickaxe.pro
 poolovich.pro
+rocketpool.pro
 sonvelesa.pro
 trackerdesk.pro
 trackerfastapps.pro
@@ -33335,6 +33392,7 @@ clokin1.ru
 clona.ru
 coandroid.ru
 cryptopool.ru
+dgpool.ru
 dxmhkisurxxxhm.ru
 e-libra.ru
 eflbruwqt.ru
@@ -33357,6 +33415,7 @@ hjnbvg.ru
 gate.hws.ru
 ns.hws.ru
 igdxzzeglrlqm.ru
+intoken.ru
 irrrymucwxjl.ru
 japveny.ru
 jhfdmiwcgnty.ru
@@ -33390,6 +33449,7 @@ j946244.myjino.ru
 kristihack46.myjino.ru
 vavajija.myjino.ru
 64.mymyxmra.ru
+nexuspool.ru
 ngay16.ru
 ningtoldrop.ru
 play.freebsd.nnna.ru
@@ -33710,6 +33770,7 @@ justintvizletir.tv
 vidzi.tv
 tpb.tw
 nord.adr.com.ua
+bitcoin-ukraine.com.ua
 ftp.s48.freehost.com.ua
 igeur9ghuiergui.kl.com.ua
 proverkasaba.kl.com.ua
@@ -33854,6 +33915,7 @@ flashplayer.nb6ret.xyz
 needgames.xyz
 newpool.xyz
 nilupool.xyz
+nons.xyz
 flashplayer.oi1ljg.xyz
 online-game-18.xyz
 flash.or5sgw.xyz
