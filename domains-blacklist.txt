@@ -2,9 +2,9 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 432
 
-# Ignored entries due to the whitelist: 158
+# Ignored entries due to the whitelist: 157
 
 js.cdn.ac
 dxracers.accountant
@@ -5060,6 +5060,7 @@ cpxadroit.com
 cpxinteractive.com
 cpxjivpayggg.com
 cpynfeqyqfby.com
+cpzxmrne.com
 cqaiylftp.com
 cqbabfsyfqse.com
 cqbphspgvhuk.com
@@ -5916,6 +5917,7 @@ ping.dozuki.com
 dpallyihgtgu.com
 dpbrrirhtlo.com
 dpbviawkrumynm.com
+analytics.dpd.com
 dpmsrv.com
 dpmvpttamz.com
 dpmyrskvbznvn.com
@@ -6387,6 +6389,7 @@ ejgdixiddmruql.com
 ejgxyfzciwyi.com
 ejjgrmutgrdwxg.com
 ejjrckrhigez.com
+ejkeshrzwoe.com
 ejkoolhhepojeu.com
 ejktviknfv.com
 ejlsbfqqxoc.com
@@ -10791,6 +10794,7 @@ cfg.cml.ksmobile.com
 gcm.ksmobile.com
 helpgrid1.ksmobile.com
 pgapi.ksmobile.com
+ksnbdfzjlyqmxs.com
 ksrcnyrntlyfo.com
 collector.kstptv5.com
 ksufusxqd.com
@@ -10840,6 +10844,7 @@ kullalabulla.com
 kumekqeccmob.com
 kumjidmumktzq.com
 kumpulblogger.com
+kumpzfcczy.com
 kumtwckyq.com
 kuplohinctdwk.com
 kuqlhzmdek.com
@@ -12838,7 +12843,6 @@ netcustos.com
 basilic.netdna-cdn.com
 lunametrics.wpengine.netdna-cdn.com
 analytics-udg.netdna-ssl.com
-eotech-yoqblou5gqrdrn.netdna-ssl.com
 pixel-xpanama.netdna-ssl.com
 sealine-pfuoxcbgd.netdna-ssl.com
 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
@@ -13648,6 +13652,7 @@ ookdapjylpvq.com
 ookiqhfioldxwj.com
 ads.ookla.com
 oonenbygymsl.com
+oonnmaxhz.com
 ooq5z.com
 ooqjqnurblp.com
 ooredi.com
@@ -14326,6 +14331,7 @@ pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com
 pkqfuffahcdbm.com
 accounts.pkr.com
 pkrgwlwhhsie.com
+pkscjfqekfahb.com
 pktgargbhjmo.com
 pkvhprfhbtft.com
 pkxquvydrgin.com
@@ -14422,6 +14428,7 @@ pntrs.com
 pnunijdm.com
 pnuymnyhbbuf.com
 pnwhrmyit.com
+pnzamawzgw.com
 pnzchguyctrsyb.com
 poaxupoqbw.com
 poazoanu.com
@@ -15393,6 +15400,7 @@ qwertypay.com
 qwfh39851jtfvkurf21hf.com
 qwhkndqqxxbq.com
 qwittqgogiip.com
+qwkiafssml.com
 qwlckbrwxizg.com
 qwqqliynxufj.com
 qwrkigqtgygc.com
@@ -15570,6 +15578,7 @@ rdkdexupxcfs.com
 rdlynbosndvx.com
 rdoovrzqazvpgv.com
 rdooybwcuyg.com
+rdoudrenv.com
 rdpqiqlirf.com
 rdqyasdstllr.com
 rdrkxlmlqpqns.com
@@ -17097,6 +17106,7 @@ sqcolqeo.com
 sqjlctmtc.com
 sqnezuqjdbhe.com
 sqnkkpba.com
+sqrmweiehtpwp.com
 sqsdyfgyjdjbx.com
 sqtsuzrfefwy.com
 harvester.ext.square-enix-europe.com
@@ -17130,6 +17140,7 @@ srvpub.com
 srvtrck.com
 srxgnzdkjucr.com
 sscefsol.com
+ssdiwjkarblih.com
 ssdphmfduwcl.com
 ssdsylfzav.com
 ssfpubkjjhftpy.com
@@ -17255,6 +17266,7 @@ stiffstem.com
 stippleit.com
 stnvgvtwzzrh.com
 stonecalcom.com
+stootoat.com
 stopphoulplay.com
 storesurprise.com
 stats.storify.com
@@ -17675,6 +17687,7 @@ teromil.com
 watch.teroti.com
 terraadstools.com
 terraclicks.com
+terrapsps.com
 terrapush.com
 terratraf.com
 terriblethumb.com
@@ -17990,6 +18003,7 @@ toenwwsmam.com
 toflvbkpwxcr.com
 toftforcal.com
 toftofcal.com
+togenron.com
 togfcqfvarpq.com
 tojinr.com
 tok-dan-host.com
@@ -18318,6 +18332,7 @@ tsvlkxhdbc.com
 tsvqrrmq.com
 tsw0.com
 tswhwnkcjvxf.com
+tswxyvxm.com
 tsyndolls.com
 ttdaxwrryiou.com
 ttdrlihuqgklvc.com
@@ -18835,6 +18850,7 @@ upasiansex.com
 upckrtagwpwk.com
 metrics.upcload.com
 upcum.com
+upijhkdcovdep.com
 upikeoshfhw.com
 upliftsearch.com
 upnorma.com
@@ -19502,6 +19518,7 @@ vmmpxl.com
 vmojhghwpsuy.com
 vmqbifesgqs.com
 vmrsmnrvzh.com
+vmtjybwfb.com
 vmtrk.com
 vmtwnkpskok.com
 vmvhmwppcsvd.com
@@ -19886,6 +19903,7 @@ tru.webelapp.com
 webengage.com
 webeyez.com
 webflowmetrics.com
+webforumtik1.com
 webgains.com
 webgekeniuos.com
 webglstats.com
@@ -20402,6 +20420,7 @@ wysistat.com
 wyuakcwxmiunqj.com
 wyueivwashc.com
 wyuxy.com
+wyvyikcnalvil.com
 wywrettqmke.com
 wywy.com
 wywyuserservice.com
@@ -21466,6 +21485,7 @@ zatrlsov.com
 zavfvuooiqvepj.com
 zavlamhx.com
 zawvukyxyfmi.com
+zaxdnhfdchet.com
 zayhipbcxig.com
 zbbqhdnef.com
 zbcsmoopwqyze.com
@@ -21565,6 +21585,7 @@ zfpsotrgboqp.com
 zfqpjxuycxdl.com
 zfrpmiqby.com
 zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
+zfsfkp.com
 zftgljkhrdze.com
 zfvrrodxfb.com
 zfwfrpcfvmd.com
@@ -23157,6 +23178,7 @@ cmllk1.info
 coin-services.info
 colleable.info
 colleduny.info
+cominghamer.info
 commodates.info
 contentdigital.info
 controllis.info
@@ -24369,6 +24391,7 @@ wwwp.link
 zostofou.link
 nero.live
 ocatdog.live
+private-show.live
 jsc.marketgid.com.p.pstl.live
 aliru2.ru.p.pstl.live
 admachina.com.s.pstl.live
@@ -26684,6 +26707,7 @@ serverflox.online
 siteverification.online
 smiinformer.online
 track.special-offers.online
+special-promotions.online
 cdn.sportlabs.online
 ucretsiz-indirin.online
 vestlitt.online
@@ -27051,6 +27075,7 @@ altpool.pro
 aphookkensidah.pro
 apprefaculty.pro
 approp.pro
+asepurch.pro
 aution.pro
 axzsd.pro
 azxsd.pro
@@ -27154,6 +27179,7 @@ nameketathar.pro
 nastoverewess.pro
 nehersheteen.pro
 nessubsets.pro
+noamiscience.pro
 noblock.pro
 ofeetles.pro
 ofughrop.pro
@@ -27606,6 +27632,7 @@ tds.astdn.ru
 thj.astrakhan.ru
 ff.astv.ru
 asuler.ru
+atavas.ru
 atshops1.ru
 easy.au.ru
 smartpixel.auditorius.ru
@@ -28322,6 +28349,7 @@ mazetin.ru
 mazuma.ru
 mcount.ru
 md5s.ru
+meborangot.ru
 mecash.ru
 med-rul.ru
 medads.ru
