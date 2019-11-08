@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 432
+# Ignored duplicates: 455
 
 # Ignored entries due to the whitelist: 157
 
@@ -638,6 +638,7 @@ fluidads.co
 fresh8.co
 geo.go2s.co
 log.go2s.co
+gop1.co
 gorgasal.co
 gripdownload.co
 haraju.co
@@ -1469,6 +1470,7 @@ a9d7c19f0282.com
 a9nf3hg5c2.com
 aa24h.com
 aa53df329975c325.com
+aaadealstoday.com
 aabmxezph.com
 aacgeuvaoqbw.com
 aadbobwqgmzi.com
@@ -2982,6 +2984,7 @@ attracta.com
 attractivecap.com
 attributionapp.com
 atwola.com
+atzcmddc.com
 au2m8.com
 auaop.com
 aubhiple2.com
@@ -7401,6 +7404,7 @@ fpdsavexteno.com
 fpeegzspcgnjt.com
 fpfivothg.com
 fpherzxrae.com
+fpkcggyczcvix.com
 fpluhtibx.com
 fpmef.com
 fpnxicejwel.com
@@ -7505,6 +7509,7 @@ fromfriendswithlove.com
 frosmo.com
 frqmnrlqk.com
 frsqgvwmzjnun.com
+frsuli.com
 frtfwlvwuw.com
 t.frtyi.com
 frtyo.com
@@ -7690,6 +7695,7 @@ fzgitqrqrsyyiv.com
 fzhxi.com
 fzmogmfqh.com
 fznpq.com
+fzorwhus.com
 fzpseyhkanhopd.com
 fzqxefkbjzwiqa.com
 fzrcalpbcu.com
@@ -8923,6 +8929,7 @@ analytics.hpprintx.com
 hprofits.com
 hpsthxyqxqae.com
 hpufwccrmiwz.com
+hpuknttzl.com
 hpvvn.com
 hpwdohgicpmi.com
 hpwoowyxhrsatx.com
@@ -9660,6 +9667,7 @@ inttrax.com
 offermatica.intuit.com
 trf.intuitwebsites.com
 intuneads.com
+inukjwvwhz.com
 inuvo.com
 investhash.com
 investingchannel.com
@@ -9863,6 +9871,7 @@ iweacndqhiht.com
 iwebtrack.com
 iwfzluau.com
 iwgdguuz.com
+iwlvufxv.com
 iwmonrwpeeku.com
 iwpxkwojbw.com
 iwqownwjbk.com
@@ -11087,6 +11096,7 @@ lbpndcvhuqlm.com
 lbsohfnkqgxo.com
 lbtifiprfzy.com
 lburmovcjefv.com
+lbushibdda.com
 lbwtrvpgvqkqc.com
 lbypppwfvagq.com
 lbytagcqxefsn.com
@@ -11608,6 +11618,7 @@ luckyforworlds.com
 luckyorange.com
 luckypushh.com
 luckysearch123.com
+ludovwmhazsx.com
 luhbhndh.com
 luhqeqaypvmc.com
 luisardo.com
@@ -12886,6 +12897,7 @@ ndf81.com
 ndfegyhf.com
 ndgmwuxzxppa.com
 ndilzwjgblea.com
+ndjelsefd.com
 ndkes.com
 ndkvzncsuxgx.com
 ndndptjtonhh.com
@@ -13103,6 +13115,7 @@ niviemwsmiaq.com
 nivsrtqdurhjz.com
 niwztgetlytxv.com
 log4x.nixcdn.com
+stc.nas.nixcdn.com
 lrc.nct.nixcdn.com
 stc-nas.nixcdn.com
 trackingdev.nixxie.com
@@ -13203,6 +13216,7 @@ nomzkqffqsz.com
 nonceynp.com
 noolablkcuyu.com
 noowho.com
+noproblfr.com
 noqukjy.com
 nordicresearch.com
 norentisol.com
@@ -13250,6 +13264,7 @@ nqiabjxpcsea.com
 nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
 nqmwfddfwogbhw.com
+nqtqrnfzvp.com
 nqtxbweqb.com
 nqtyrwyklcmh.com
 nquchhfyex.com
@@ -16317,6 +16332,7 @@ rweqvydtzyre.com
 rwfqhbwkxpewc.com
 rwgvulisul.com
 rwkxvess.com
+rwlyiedd.com
 rwlzbswwmmh.com
 rwmttawspapqcy.com
 rwpads.com
@@ -17150,6 +17166,7 @@ counter.sparklit.com
 sparkstudios.com
 sparnove.com
 spbflxvnheih.com
+spcpgtepary.com
 speakol.com
 spechee.com
 specialstat.com
@@ -17263,6 +17280,7 @@ srgev.com
 srgszwexkpehb.com
 srhovuokux.com
 sriaqmzx.com
+srigbxxv.com
 srizwhcdjruf.com
 srkdunvxun.com
 srkft.com
@@ -17443,6 +17461,7 @@ stvayyokjvxnl.com
 sualzmze.com
 sub2tech.com
 subemania.com
+subendorse.com
 submissing.com
 subtraxion.com
 succeedscene.com
@@ -18939,17 +18958,21 @@ uniquecaptcha.com
 unister-adservices.com
 unitedtraders.com
 unitethecows.com
+analytics.cloud.unity3d.com
+cdp.cloud.unity3d.com
 perf-events.cloud.unity3d.com
 api.uca.cloud.unity3d.com
 config.uca.cloud.unity3d.com
+data-optout-service.uca.cloud.unity3d.com
+userreporting.cloud.unity3d.com
+thind-gke-euw.prd.data.corp.unity3d.com
+hwstats.unity3d.com
+ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+publisher-event.ads.prd.ie.internal.unity3d.com
+tracking.prd.mz.internal.unity3d.com
+issuetracker.unity3d.com
 stats.unity3d.com
-adserver.unityads.unity3d.com
-auction.unityads.unity3d.com
-cdn.unityads.unity3d.com
-cdn-highwinds.unityads.unity3d.com
-config.unityads.unity3d.com
-httpkafka.unityads.unity3d.com
-webview.unityads.unity3d.com
+unityads.unity3d.com
 universalsearches.com
 universalsrc.com
 universaltrackingcontainer.com
@@ -20422,6 +20445,7 @@ wpkcfajkeytrro.com
 wpktjtwsidcz.com
 wplqgfpj.com
 wpnjs.com
+wpqvggsnc.com
 wpswyoyev.com
 wpsyjttctdnt.com
 wptdfllszzpczp.com
@@ -21129,6 +21153,7 @@ widget.yavli.com
 yaxbqjjemnvben.com
 yaxdboxgsbgh.com
 yb0t.com
+ybaijkluq.com
 ybbqkfzmj.com
 ybgbaxrzxxlr.com
 ybhaoglgbgdk.com
@@ -21791,6 +21816,7 @@ zhqbimjc.com
 zhqigwbchfnqn.com
 zhqzqupvgczom.com
 zhrmtsxcdkjj.com
+zhxdduzdibm.com
 zhxdiirwhtico.com
 zhxpnywjnltskd.com
 ziaxamkssw.com
@@ -27500,7 +27526,6 @@ errtmotmw.pw
 eysmaa.pw
 fardan.pw
 farpeiros.pw
-farsihd.pw
 financenews.pw
 furginator.pw
 gilzana.pw
