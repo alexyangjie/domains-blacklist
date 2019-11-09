@@ -296,6 +296,9 @@ widgetadvertising.biz
 widgetsurvey.biz
 x-ads.biz
 xkort.biz
+xn--17921-iua.biz
+xn--18225-zta.biz
+xn--20531-uua.biz
 xofys.biz
 yellowmedia.biz
 ygunaf.biz
@@ -1356,6 +1359,7 @@ wrmwb.7val.com
 8ec04f85772327328.com
 8ff01bde37db289d5.com
 8iqpy8cgkk.com
+8ixrxa2tnr.com
 c.8l8l.com
 8live.com
 8s32e590un.com
@@ -1409,6 +1413,7 @@ track.99acres.com
 9de40afd8952279e2e.com
 9e5420f6be48ccc.com
 9ec10065c976f.com
+9ehy8a8u6b.com
 9f23ab605837.com
 9f4272342f817.com
 rlog.9gag.com
@@ -2563,6 +2568,7 @@ allmygreatestlife.com
 allmyverygreatlife.com
 allnvbtrtpku.com
 allowac.com
+allowmailbox.com
 alloydigital.com
 tracking.allposters.com
 telemetry.allrecipes.com
@@ -3188,6 +3194,7 @@ b1b951f817beba948.com
 b1f6fe5e3f0c3c8ba6.com
 b1fb813dc806b7d.com
 b1fe8a95ae27823.com
+b1g1w7wic0.com
 b1img.com
 b1js.com
 b24f74fdcf29851d.com
@@ -4032,6 +4039,7 @@ bundasnovinhas.com
 bunny-net.com
 burjam.com
 sp.burlingtonfreepress.com
+burnbubble.com
 burobtnbpgkh.com
 burstbeacon.com
 burstnet.com
@@ -4043,6 +4051,7 @@ busions.com
 webanalyzer.bussion.com
 bussters.com
 butcalve.com
+butterbulb.com
 butterburst.com
 bux1le001.com
 buxept.com
@@ -4874,6 +4883,7 @@ voss.collegehumor.com
 colliersads.com
 collserve.com
 sp.coloradoan.com
+colorfulafterthought.com
 pixel.colorupmedia.com
 colossusssp.com
 adlog.com.com
@@ -4912,6 +4922,7 @@ capture.condenastdigital.com
 event.condenastdigital.com
 infinityid.condenastdigital.com
 pixel.condenastdigital.com
+conditioncrush.com
 conductrics.com
 conduit-banners.com
 canvas-ping.conduit-data.com
@@ -5434,6 +5445,7 @@ dajlkvplxyzbsa.com
 dajoetsja.com
 daljntupdaoejb.com
 dalqybwdy.com
+damdoor.com
 damihyugqet.com
 danhhmhxkrm.com
 danmeneldur.com
@@ -6958,6 +6970,7 @@ fajsbncwlaws.com
 faktty.com
 falcoware.com
 fallingfalcon.com
+falseframe.com
 fam-ad.com
 familiarfloor.com
 familiarrod.com
@@ -7899,7 +7912,6 @@ getmyfreetraffic.com
 getmygeo.com
 getoptad360.com
 getpopunder.com
-getrewardful.com
 getrockerbox.com
 getscorecash.com
 getscriptjs.com
@@ -8068,6 +8080,7 @@ player-feedback-v1.glomex.com
 gloorajo.com
 glordd.com
 glossingly.com
+gloussuz.com
 glowdot.com
 glpyiiahtdmaan.com
 glslciwwvtxn.com
@@ -8391,6 +8404,7 @@ guitarbelieve.com
 guknpywmxk.com
 geoip.gulflive.com
 mms.gulflive.com
+gulliblecamp.com
 gumdeqjzclc.com
 gumgum.com
 gunnersalmighty.com
@@ -11767,6 +11781,7 @@ laurel.macrovision.com
 mad-adz.com
 madadsmedia.com
 madserving.com
+madskis.com
 madsone.com
 maebtjn.com
 mafndqbvdgkm.com
@@ -12975,17 +12990,27 @@ networkxi.com
 neudesicmediagroup.com
 new-new-years.com
 new17write.com
+newaprads.com
 sp.newarkadvocate.com
 newaugads.com
 newcustomads.com
+newdecads.com
 pf.newegg.com
+newfebads.com
+newfriads.com
 newgentraffic.com
 newideasdaily.com
 inner.newinform.com
 news.newinform.com
+newjanads.com
+newjulads.com
 newjunads.com
+newmarads.com
+newmayads.com
 newmonads.com
+newnovads.com
 newnyqfgkkjht.com
+newoctads.com
 beacon-1.newrelic.com
 js-agent.newrelic.com
 mobile-collector.newrelic.com
@@ -12996,12 +13021,14 @@ news-super.com
 newsadst.com
 newsadstream.com
 newsarmor.com
+newsatads.com
 audience.newscgp.com
 pixel.newscgp.com
 tags.newscgp.com
 analytics.newscred.com
 pixel.newscred.com
 newscurve.com
+newsepads.com
 analytics.newsinc.com
 c.newsinc.com
 pp-serve.newsinc.com
@@ -13247,6 +13274,7 @@ nowymmrxj.com
 noxaffiliates.com
 noxredxaijqdb.com
 noy90o.com
+np1t0bcj0n.com
 npauffnlpgzw.com
 npeanaixbjptsemxrcivetuusaagofdeahtrxofqpxoshduhri.com
 npgdqwtrprfq.com
@@ -13264,10 +13292,12 @@ nqiabjxpcsea.com
 nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
 nqmwfddfwogbhw.com
+nqp0852y7r.com
 nqtqrnfzvp.com
 nqtxbweqb.com
 nqtyrwyklcmh.com
 nquchhfyex.com
+nqv63c7lai.com
 nqvlw.com
 nqxdnmsp.com
 nqzmtrwend.com
@@ -13283,6 +13313,7 @@ nrgqdsjqu.com
 nrllvmtosawfm.com
 nrmcznhlqnx.com
 nrnma.com
+nrrxxpvgtf.com
 nrtapaiums.com
 nrubehhd.com
 nryvxfosuiju.com
@@ -13296,6 +13327,7 @@ nsdfsfi1q8asdasdzz.com
 nsdsvc.com
 nselnhbwlm.com
 nsjpu.com
+nskieoxdqe.com
 nsmartad.com
 nsnfokcikwf.com
 nsomfammrmhbc.com
@@ -13343,6 +13375,7 @@ nudooapfildwbz.com
 nuhwyavc.com
 nuihcvbixjea.com
 nuilpwatzeuvzp.com
+nukqimllza.com
 nullenabler.com
 nuloox.com
 numarapaneli.com
@@ -13383,6 +13416,7 @@ nvsey.com
 nvxzjmowusg.com
 nvztwdkbldp.com
 nwazehtl.com
+nwcqntzx5i.com
 nwdufyamroaf.com
 nwfdrxktftep.com
 nwfhalifax.com
@@ -13446,6 +13480,8 @@ nzwwrvywcfqmsq.com
 nzxriltfmrpl.com
 ads.o-networkaffiliates.com
 o12zs3u2n.com
+o1mmijc4ki.com
+o1o6tadz5p.com
 o333o.com
 o4uxrk33.com
 o6ek91ag15.com
@@ -13943,6 +13979,7 @@ odb.outbrain.com
 rva.outbrain.com
 stas.outbrain.com
 tr.outbrain.com
+videoevents.outbrain.com
 vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
@@ -14102,6 +14139,7 @@ paqtnspb.com
 paradoxtraffic.com
 paramedjo.com
 parasino7.com
+parcelcreature.com
 pardous.com
 parhadat.com
 parklogic.com
@@ -14110,6 +14148,7 @@ parrable.com
 config.parsely.com
 pixel.parsely.com
 static.parsely.com
+parsimoniouspolice.com
 partner-ads.com
 partner-earning.com
 partnerearning.com
@@ -14921,6 +14960,7 @@ carl.pubsvs.com
 pubted.com
 pucemara.com
 puffyloss.com
+puffypull.com
 pugklldkhrfg.com
 puhtml.com
 collector.puhutv.com
@@ -15209,6 +15249,7 @@ qewisoti.com
 qeyps.com
 qezcdxxskinzi.com
 qfcsljgckvpz.com
+qfdn3gyfbs.com
 qfedsccxccfzut.com
 qfeorrrf.com
 qfhjthejwvgm.com
@@ -16016,6 +16057,7 @@ riluaneth.com
 rimvtigoyajas.com
 rineventrec.com
 track.ringcentral.com
+ringplayground.com
 ringtonematcher.com
 ringtonepartner.com
 rinsouxy.com
@@ -16153,6 +16195,7 @@ romeoforum.com
 rometroit.com
 ronrmbrrhqdwh.com
 rontar.com
+roofrelation.com
 roojouma.com
 rookads.com
 roosterfirework.com
@@ -16412,8 +16455,15 @@ stats.sa-as.com
 sa2xskt.com
 ad.sacitaslan.com
 sadbads.com
+sadsabs.com
+sadsamps.com
 sadsans.com
+sadsats.com
+sadsecs.com
 sadsims.com
+sadsips.com
+sadskis.com
+sadsoks.com
 saenrwiqesp.com
 safe-connection21.com
 safecllc.com
@@ -17397,6 +17447,7 @@ statun.com
 statuncore.com
 stcllctrs.com
 stcounter.com
+steadfastsound.com
 steadfastsystem.com
 stealthlockers.com
 steamac.com
@@ -17456,6 +17507,7 @@ structuresofa.com
 struq.com
 studiolineworks.com
 data.studybreakmedia.com
+stupendoussleet.com
 stuthvygifup.com
 stvayyokjvxnl.com
 sualzmze.com
@@ -21017,6 +21069,7 @@ xtozxivyaaex.com
 xtqfguvsmroo.com
 xtraffstat.com
 xtremline.com
+xts7fgss.com
 xtsnbxwak.com
 xttrofww.com
 xtvoh.com
@@ -21032,6 +21085,7 @@ xurokykjwum.com
 xurrehqawu.com
 xuwptpzdwyaw.com
 xuwxbdafults.com
+xv9xm6zxb8.com
 xvapnjwhofiv.com
 xvgfmbrifa.com
 xvijskugh.com
@@ -21066,6 +21120,7 @@ xwwvcsquuhbd.com
 xwxbiywlavgpm.com
 xwzhazcuyf.com
 xxamqnqeygbk.com
+xxccdshj.com
 xxchhgilfheu.com
 xxdjmuekj.com
 xxehantfkywk.com
@@ -21103,6 +21158,7 @@ xzbilyblsjrg.com
 xzcdzfkwk.com
 xzfhewclnun.com
 xzfswipynyuj.com
+xzipy.com
 xziqvbico.com
 xzismtaelciif.com
 xzmqokbeynlv.com
@@ -26301,6 +26357,7 @@ pseelrou.net
 psoaghie.net
 psoaptou.net
 psozoult.net
+searchad-phinf.pstatic.net
 psulsobi.net
 ptefautu.net
 loglady.publicbroadcasting.net
@@ -26884,6 +26941,7 @@ aptapebog.online
 aspampbrr.online
 code.barrior.online
 bj1110.online
+camalbbuy.online
 clks003-glaze.online
 cutescale.online
 dashgreen.online
