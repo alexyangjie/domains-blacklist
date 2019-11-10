@@ -3825,6 +3825,7 @@ boostable.com
 boostclic.com
 boostshow.com
 bootstrap-js.com
+bootstraplugin.com
 bop-bop-bam.com
 boplhfqz.com
 boqdapoiv.com
@@ -6176,6 +6177,7 @@ dynatrace.com
 dynatracesaas.com
 dynpaa.com
 dynsrvbaa.com
+dynsrvtyu.com
 dyntrk.com
 dyoyiydbwdcr.com
 dypmzetaj.com
@@ -9623,6 +9625,7 @@ inskinad.com
 inskinmedia.com
 glogger.inspcloud.com
 inspectlet.com
+inspikon.com
 eventlog.inspsearch.com
 eventlog.inspsearchapi.com
 api.instabug.com
@@ -11780,6 +11783,7 @@ stats.macmillanusa.com
 laurel.macrovision.com
 mad-adz.com
 madadsmedia.com
+madsabs.com
 madserving.com
 madskis.com
 madsone.com
@@ -14604,6 +14608,7 @@ podbwdcrmjufmr.com
 poewhatnvxydts.com
 pogdlwpmck.com
 pointclicktrack.com
+pointillist.com
 pointomatic.com
 pointroll.com
 points2shop.com
@@ -14658,6 +14663,7 @@ popunderz.com
 popunderzone.com
 popup-traffic.com
 popupdomination.com
+popupmaker.com
 popuptraffic.com
 popupvia.com
 popvertising.com
@@ -16013,6 +16019,7 @@ rgzpseubgxho.com
 rgztepyoefvm.com
 rhcamehnhkntzy.com
 analytics-rhwg.rhcloud.com
+rhfgjld.com
 rhfntvnbxfxu.com
 rhfvzboqkjfmabakkxggqdmulrsxmisvuzqijzvysbcgyycwfk.com
 rhinoseo.com
@@ -25443,7 +25450,6 @@ d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d37s9vd5t6mov7.cloudfront.net
-d38nbbai6u794i.cloudfront.net
 d396ihyrqc81w.cloudfront.net
 d39hdzmeufnl50.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
@@ -26923,6 +26929,7 @@ webads.co.nz
 megaad.nz
 nzads.net.nz
 pushservice.one
+adthebest.online
 afftrk.online
 aj1052.online
 aj1058.online
@@ -26964,6 +26971,7 @@ kenvam.online
 afbanner.kinobomber3.online
 klubityd.online
 leadiklod.online
+littitte.online
 loppjod.online
 marapcana.online
 markboil.online
@@ -26981,6 +26989,7 @@ s85n4btydl.online
 serverflox.online
 siteverification.online
 smiinformer.online
+spaceruz.online
 track.special-offers.online
 special-promotions.online
 cdn.sportlabs.online
@@ -30567,6 +30576,7 @@ deliberatelyvirtuallyshared.xyz
 dfehnb.xyz
 dflfnrmi.xyz
 dgnvmw.xyz
+ditds.xyz
 bleua.ecefibwja.xyz
 tnd.ecefibwja.xyz
 elmenor.xyz
