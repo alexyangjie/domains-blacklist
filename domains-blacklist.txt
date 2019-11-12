@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 455
+# Ignored duplicates: 456
 
 # Ignored entries due to the whitelist: 157
 
@@ -326,6 +326,7 @@ zlx.com.br
 ivcbrasil.org.br
 zap.buzz
 openads.ab-daily.by
+buyeasy.by
 call-tracking.by
 adl.kinogo.by
 tizer2.kinogo.by
@@ -1157,6 +1158,7 @@ img.56gmz.com
 5advertise.com
 5b5a93686577c13.com
 5bc58da97b.com
+5bir9vuqcq.com
 5d02977f6511aa.com
 5dabf928ad9ad4.com
 5db8d92zi2.com
@@ -3509,6 +3511,7 @@ bfvkxdhrnx.com
 bfxachbubcki.com
 bfzuuuuhvexxs.com
 bg6s0.com
+bgadx.com
 bgarilrzlgez.com
 bgbdzfeeoko.com
 bgchxhhzdee.com
@@ -4088,6 +4091,7 @@ bvjexgnagddtmu.com
 bvlbzzeqaafkj.com
 bvnmmdelarn.com
 bvobtmbziccr.com
+bvovcgdwbafgmf.com
 bvrdzbzwa.com
 bvrkzhtxlgono.com
 bvuficdch.com
@@ -4420,7 +4424,6 @@ cepailru.com
 ceppartner.com
 ceraitoa.com
 ceregete.com
-ceros.com
 cerotop.com
 certifica.com
 analytics.cervellio.com
@@ -4816,6 +4819,7 @@ cnjkrbhtbv.com
 metrics.cnn.com
 mms.cnn.com
 cnntsmnymvnp.com
+cnossxqkdoupxw.com
 cnoytvqomyhjz.com
 cnpntmju.com
 cnqanzdb.com
@@ -6555,6 +6559,7 @@ enfupatujiqb.com
 engageclick.com
 engagemaster.com
 track.engagesciences.com
+engagetosell.com
 engageya.com
 engagio.com
 engine212.com
@@ -7014,6 +7019,7 @@ fat1domain1.com
 fatayvywbebgdn.com
 fate-xy.com
 fathomseo.com
+fatrvclgpnb.com
 faultycanvas.com
 analytics.favcy.com
 faykdrhpo.com
@@ -7611,6 +7617,7 @@ funneld.com
 backstage.funnelenvy.com
 e.funnymel.com
 funstage.com
+fuojuw.com
 fupgvldb.com
 furocmay.com
 fuse-data.com
@@ -8509,7 +8516,6 @@ gzuvyhqb.com
 gzxdkaytxdsyxg.com
 gzxjfkhwvhwfzr.com
 gzzctcekf.com
-h-bid.com
 perr.h-cdn.com
 h12-media.com
 h4k5.com
@@ -9377,6 +9383,7 @@ ihqxhokndcfq.com
 ads-chunks.prod.ihrhls.com
 ihriduffgkel.com
 ji.ihualun.com
+ihutbqqmjan.com
 ihvmcqojoj.com
 ihzyxuhgocszv.com
 iialqejeka.com
@@ -10325,6 +10332,7 @@ jpuiucicqwan.com
 jpvmwnnwuzo.com
 jpwvdpvsmhow.com
 jpxevzab.com
+jpyoikrzrjcap.com
 jqanygfhqne.com
 jqcv28q.com
 jqfkitrkhpxl.com
@@ -11556,6 +11564,7 @@ loudloss.com
 love-banner.com
 lovnxkrszlsb.com
 lovvznyhujf.com
+lowaosan.com
 lowgraveleron.com
 loxmetwdjrmh.com
 loxtk.com
@@ -11704,6 +11713,7 @@ lwjzsigenxsl.com
 lwmwrsfzm.com
 lwocvazxfnuj.com
 lwqwsptepdxy.com
+lwsxrphion.com
 lwtduavwbep.com
 lwtsrwwlfd.com
 lwvdeqfhswg.com
@@ -12544,6 +12554,7 @@ mpoboqvqhjqv.com
 mprezchc.com
 mediametrics.mpsa.com
 mptentry.com
+mpudcfnsnpj.com
 mpuqvoa.com
 mpxxjdqpru.com
 mpytdykvcdsg.com
@@ -12919,6 +12930,7 @@ ncrjsserver.com
 ncruzwye.com
 ncspvnslmmbv.com
 ncsyyeabk.com
+ncvperjurh.com
 ncwjhywskph.com
 ncyemedcazdnol.com
 nczlhwsguwc.com
@@ -13309,6 +13321,7 @@ nqlkwyyzzgtn.com
 nqlrewsfmywgbx.com
 nqmwfddfwogbhw.com
 nqp0852y7r.com
+nqtnwvwigvo.com
 nqtqrnfzvp.com
 nqtxbweqb.com
 nqtyrwyklcmh.com
@@ -15879,6 +15892,7 @@ an.reflektion.com
 refunevent.com
 regardensa.com
 regisg.com
+registered-spotters-build.com
 regpole.com
 regqrfuvncqcm.com
 regurgical.com
@@ -15955,6 +15969,7 @@ retrayan.com
 rettica.com
 returso.com
 reundcwkqvctq.com
+rev-stripe.com
 rev2pub.com
 rev4rtb.com
 revcontent.com
@@ -15966,6 +15981,7 @@ revenuehits.com
 revenuemantra.com
 revenuepilot.com
 revenuescience.com
+revenuestripe.com
 revenuevids.com
 revgennetwork.com
 revhpdxqul.com
@@ -17327,6 +17343,7 @@ spywords.com
 sq2trk2.com
 sqcolqeo.com
 sqjlctmtc.com
+sqkrzzggis.com
 sqnezuqjdbhe.com
 sqnkkpba.com
 sqrmweiehtpwp.com
@@ -18695,6 +18712,7 @@ tracknet.twyn.com
 twzfqxmt.com
 tt.twzui6.com
 txbvzcyfyyoy.com
+txnpdfvqkuzrd.com
 txtrk.com
 txvivugnikdq.com
 txvsifff.com
@@ -18834,6 +18852,7 @@ uebkmtpsfvgvfx.com
 uebyotcdyshk.com
 uecjpplzfjur.com
 ueenfeiu.com
+uehequcuvujkyf.com
 uehkcendtuxt.com
 uehtuvguuf.com
 uejnzoaayhr.com
@@ -18849,6 +18868,7 @@ ueptzgugtxis.com
 uerhhgezdrdi.com
 uerladwdpkge.com
 uescuqejoirsh.com
+uesdpbrej.com
 uetqkude.com
 ueuerea.com
 uewejiuqwqx.com
@@ -19297,6 +19317,7 @@ uxxr80jwng.com
 uxxtokvw.com
 uxyofgcf.com
 uxzbsinjyld.com
+uxzcwowjd.com
 uydeapvmmlvdp.com
 uyeluxauiq.com
 uyfsqkwhpihm.com
@@ -20510,6 +20531,7 @@ c.wort-suche.com
 worthathousandwords.com
 worthyadvertising.com
 wotilhqoftvl.com
+wouvista.com
 beacon.thred.woven.com
 woxvgdtje.com
 wozltvfxtntaqk.com
@@ -21865,6 +21887,7 @@ zfrpmiqby.com
 zfrzdepuaqebzlenihciadhdjzujnexvnksksqtazbaywgmzwl.com
 zfsfkp.com
 zftgljkhrdze.com
+zfutrfvgfdr.com
 zfvrrodxfb.com
 zfwfrpcfvmd.com
 zfwzdrzcasov.com
@@ -25110,6 +25133,7 @@ aifei0755.net
 aifoosty.net
 ailtumty.net
 air360tracker.net
+airdauks.net
 airserve.net
 ads.aitype.net
 ajansreklam.net
@@ -26051,6 +26075,7 @@ arms.livedoor.net
 lcs.livedoor.net
 livehit.net
 liversely.net
+stat.livesportbar.net
 ads.livetvcdn.net
 sc.livetvcdn.net
 lkqd.net
@@ -26781,6 +26806,7 @@ wachipho.net
 wapbanner.net
 waplog.net
 wapoawoo.net
+wapsagnu.net
 cpm.wargaming.net
 watchingthat.net
 waycash.net
@@ -27434,6 +27460,7 @@ eviclick.pro
 exponderle.pro
 ezcore.pro
 fineg.pro
+flipflap.pro
 fortedrow.pro
 fortsould.pro
 friendlybcs.pro
@@ -27541,6 +27568,7 @@ steakafka.pro
 stimergeners.pro
 succumbertson.pro
 superwebs.pro
+supletcedintand.pro
 surfe.pro
 tedropkinthenligh.pro
 terhimpa.pro
@@ -28967,6 +28995,7 @@ q1ilb0enze.ru
 lstats.qip.ru
 r.qip.ru
 qload.ru
+qmsdxo.ru
 qoopler.ru
 qqbook.ru
 qqjar.ru
@@ -29161,6 +29190,7 @@ sosnews.ru
 sp9hb5jy81iw.ru
 mtp.spaces.ru
 spalitemu.ru
+sphjtw.ru
 spinyla.ru
 rb.sport-express.ru
 rot.spotsniper.ru
@@ -29267,6 +29297,7 @@ tnative.ru
 tnevota.ru
 tns-counter.ru
 todaymix.ru
+tohopes.ru
 tbe.tom.ru
 intimznaki.tomsk.ru
 toolcount.ru
@@ -29511,6 +29542,7 @@ yourfoxes2.ru
 yourfoxes3.ru
 yplan.ru
 yulkafed.ru
+ban.zab.ru
 zaebaladblock.ru
 zamiko.ru
 zapbox.ru
@@ -30427,6 +30459,7 @@ affiliate.k4.tinhte.vn
 tracker.tintucvietnam.vn
 trenddigital.vn
 trending.vn
+dt.tuoitre.vn
 quangcao.tuoitre.vn
 s.tuoitre.vn
 serving-ad.tv24.vn
