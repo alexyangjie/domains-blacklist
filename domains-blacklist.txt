@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 456
 
-# Ignored entries due to the whitelist: 157
+# Ignored entries due to the whitelist: 156
 
 js.cdn.ac
 dxracers.accountant
@@ -3135,6 +3135,7 @@ axsczaklngkxx.com
 axvabgnr.com
 axzrxkkklakka.com
 ayandns.com
+ayazstuzc.com
 ayboll.com
 ayclinical.com
 aycwvgrra.com
@@ -3182,6 +3183,7 @@ azofucrzkkaa.com
 azointel.com
 azoogleads.com
 azorbe.com
+azrjdlvlsxihbd.com
 azroydhgqcfv.com
 azwsolqpewo.com
 azzpbn.com
@@ -3994,6 +3996,7 @@ btcwkbqojiyg.com
 btdnav.com
 btgovcuviqor.com
 btkcdqrzmqca.com
+btkxogjoxtd.com
 btmcxzanpsi.com
 btnativedirect.com
 btnbdmhxdsf.com
@@ -4835,6 +4838,7 @@ cnxweb.com
 cnzz.com
 coadvertise.com
 coaincltxhw.com
+coatobpljh.com
 cobalten.com
 cobaltgroup.com
 ads-target.coccoc.com
@@ -4968,6 +4972,7 @@ contadd.com
 contadorgratis.com
 contadorvisitasgratis.com
 contadorweb.com
+cdn.contalyze.com
 contatoreaccessi.com
 contaxe.com
 content-cooperation.com
@@ -7987,6 +7992,7 @@ ghjlhnbc.com
 ghjwogfexch.com
 ghkajgexob.com
 ghkhvajwsiy.com
+ghkihfwfxb.com
 ghomifuzhobtoo.com
 cmp-cdn.ghostery.com
 ghtroafchzrt.com
@@ -10376,6 +10382,7 @@ jrmyhchnfawh.com
 jroxkqhin.com
 jrrekpskc.com
 jrrmwjybfaztct.com
+jrsrshjlzdvsk.com
 jrtawlpbusyg.com
 jrtzehrbg.com
 jrunvrfma.com
@@ -10652,6 +10659,7 @@ kfpwayrztgjj.com
 kfqronzxcrdt.com
 kfritiigmqk.com
 kftbvzlrqkakfo.com
+kfutdsjwtcvnpx.com
 kfwhcwoc.com
 kfwpyyctzmpk.com
 kfxrukfzqazrs.com
@@ -11787,6 +11795,7 @@ lzjl.com
 lzkuqbptcjqta.com
 lzmovatu.com
 lzopoqzlihfbc.com
+lzowrfhqy.com
 lzpgstae.com
 lzpv4rsmat.com
 lzrfxzvfbkay.com
@@ -18413,6 +18422,7 @@ trackset.com
 tracksy.com
 trackthatad.com
 trackuity.com
+pixel.trackverify.com
 trackvoluum.com
 trackyourlinks.com
 trackyourstats.com
@@ -19351,6 +19361,7 @@ uyxjfkgudefv.com
 uyxjnuqbti.com
 uyyalzrvkvmtiq.com
 uyznjuyfyjc.com
+uyzzzeodgommgb.com
 uzagahwfnt.com
 uzbboiydfzog.com
 uzbciwrwzzhs.com
@@ -19396,6 +19407,7 @@ analytics.vadio.com
 lp.vadio.com
 vadpay.com
 vadqibvk.com
+vaebard.com
 vafmypxwomid.com
 vaftkcyzqg.com
 vaghwpbslvbu.com
@@ -20933,6 +20945,7 @@ api.miui.security.xiaomi.com
 shenghuo.xiaomi.com
 xibnqcksoax.com
 xicuxxferbnn.com
+xidxivhiior.com
 xiebddgbseoxa.com
 xiepl.com
 xihkdzijh.com
@@ -21852,6 +21865,7 @@ zddxlih.com
 zde-engage.com
 zdenochary.com
 zdfyowkafur.com
+zdgmhsahttsj.com
 zdhnepeadrwetg.com
 zdjkzqwpqvwcmc.com
 zdolhnqbtnbcx.com
@@ -25212,6 +25226,7 @@ aso1.net
 astrsk.net
 atomex.net
 audienceinsights.net
+augheguw.net
 augmentad.net
 automoc.net
 avault.net
@@ -26219,6 +26234,7 @@ monetate.net
 monitus.net
 monkeybroker.net
 monkeyminer.net
+moowouzy.net
 more427.net
 motosal.net
 mousheen.net
@@ -27408,6 +27424,7 @@ smectapop12.pl
 stat.pl
 stsodds.sts.pl
 advmanager.techfun.pl
+trafficscanner.pl
 scontent.services.tvn.pl
 tracker.twenga.pl
 stats.ulixes.pl
@@ -30045,6 +30062,7 @@ ywhnh.top
 z6vmw.top
 zhuyuanp.top
 zouzun.top
+adserver.a24.com.tr
 adbuzz.com.tr
 admatic.com.tr
 adsp.ciner.com.tr
@@ -30642,6 +30660,7 @@ bh8yx.xyz
 bigsyst.xyz
 bilink.xyz
 bnbir.xyz
+bumbook.xyz
 butterideareligious.xyz
 caraphene.xyz
 fas.catholicgreatestinterpret.xyz
