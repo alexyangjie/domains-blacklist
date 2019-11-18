@@ -3242,6 +3242,7 @@ tracking.badgeville.com
 badjocks.com
 badokal.com
 badsamps.com
+badshades.com
 badshores.com
 badskies.com
 badslopes.com
@@ -12728,6 +12729,7 @@ mutrik.com
 mutualvehemence.com
 muwjxxvovtb.com
 muxtpvixahawy.com
+pp.muzofon-online.com
 mvbemeggnodty.com
 mvdnsrgolwgru.com
 datadog-service.mvfglobal.com
@@ -14217,6 +14219,7 @@ parasino7.com
 parcelcreature.com
 pardous.com
 parhadat.com
+start.parimatch.com
 parklogic.com
 parlaka.com
 parrable.com
@@ -17839,6 +17842,7 @@ taoclfxgf.com
 taodggarfrmd.com
 taodropship.com
 taowjygwtm.com
+taozgpkjzpdtgr.com
 tapad.com
 tapffdskgjr.com
 tapfiliate.com
@@ -22097,6 +22101,7 @@ znsqykdmcjh.com
 zntqjdvonxm.com
 znuwbselijsmyj.com
 znvctmolksaj.com
+znxvuabzgm.com
 znztvqgtaivf.com
 zobsibzczd.com
 zogzogolla.com
@@ -22995,6 +23000,7 @@ webspiration.de
 webtrekk.de
 webttracking.de
 welt-der-links.de
+pixel.welt.de
 spr.welt.de
 werbe-sponsor.de
 tracker.winload.de
@@ -27527,6 +27533,7 @@ cryptaloot.pro
 cryptoloot.pro
 cryptomine.pro
 cydownsand.pro
+dejionsite.pro
 dentaint.pro
 derler.pro
 dfmnbv.pro
