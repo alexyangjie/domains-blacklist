@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 458
+# Ignored duplicates: 455
 
 # Ignored entries due to the whitelist: 156
 
@@ -24243,6 +24243,7 @@ coinrail.io
 cointraffic.io
 coinzilla.io
 connectad.io
+tracker.convead.io
 track.cordial.io
 cosmi.io
 app.crossengage.io
@@ -26968,6 +26969,7 @@ yceml.net
 yellowacorn.net
 yepoints.net
 yieldlab.net
+yieldlove-ad-serving.net
 yieldmanager.net
 yldmgrimg.net
 t.ymlp275.net
