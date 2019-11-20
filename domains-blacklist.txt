@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 455
+# Ignored duplicates: 457
 
 # Ignored entries due to the whitelist: 156
 
@@ -6371,6 +6371,7 @@ edgsscofljhc.com
 edibegedol.com
 stats.edicy.com
 edlsdyhll.com
+edw.edmunds.com
 ednnpxhjsqyd.com
 ednplus.com
 edomz.com
@@ -7620,7 +7621,7 @@ ftytssqazcqx.com
 fuaawvoqbzza.com
 fubhyuveurmlz.com
 fuckbookvietnam.com
-cookie.fuel451.com
+fuel451.com
 fueldeck.com
 fuelx.com
 fugetech.com
@@ -13941,6 +13942,7 @@ ophpbseelohv.com
 opisumqii.com
 opjalajamak.com
 opjfqjlfdxup.com
+z.opmnstr.com
 oppcgcqytazs.com
 oproi.com
 opt-intelligence.com
@@ -15642,6 +15644,7 @@ qumagee.com
 qumzxkpexf.com
 qunnvfhdgfm.com
 quoeuedtku.com
+a.quora.com
 log.quora.com
 quowupsouefjej.com
 qupiinlyjuf.com
@@ -17588,6 +17591,7 @@ strands.com
 analytics.strangeloopnetworks.com
 strawdense.com
 stream-all.com
+stream1688.com
 streamate.com
 streamdefence.com
 streamdownloadonline.com
@@ -25027,6 +25031,7 @@ surveyvalue.mobi
 teasers.mobi
 topad.mobi
 vserv.mobi
+vyg.mobi
 waplog.mobi
 waptraff.mobi
 websexy.mobi
@@ -25526,6 +25531,7 @@ d2b7n13v8adl6f.cloudfront.net
 d2bj2texxib1qg.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2d8qsxiai9qwj.cloudfront.net
+d2dq2ahtl5zl1z.cloudfront.net
 d2fbkzyicji7c4.cloudfront.net
 d2fhjyz3dwdx87.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
