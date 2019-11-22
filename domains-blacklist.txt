@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 457
+# Ignored duplicates: 459
 
 # Ignored entries due to the whitelist: 156
 
@@ -23253,11 +23253,13 @@ cdn-analytics.ladmedia.fr
 leaderpub.fr
 tag.leadplace.fr
 deliv.lexpress.fr
+f7ds.liberation.fr
 livecount.fr
 livestats.fr
 marketshot.fr
 money-cpm.fr
 trac.oferting.fr
+ea.officedepot.fr
 oopt.fr
 orangeads.fr
 ownpage.fr
@@ -23270,6 +23272,7 @@ sk1n.fr
 sk8t.fr
 stats.fr
 tradelab.fr
+krum.vsct.fr
 wbdx.fr
 weborama.fr
 1q2w3.fun
@@ -29815,6 +29818,7 @@ pocitadlo.sk
 stat.ringier.sk
 toplist.sk
 yapi.awe.sm
+tracking.oui.sncf
 stat.social
 cloudflare.solutions
 invoca.solutions
