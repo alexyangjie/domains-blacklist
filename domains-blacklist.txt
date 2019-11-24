@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 459
+# Ignored duplicates: 460
 
 # Ignored entries due to the whitelist: 156
 
@@ -22,6 +22,7 @@ script.ag
 supert.ag
 advg.agency
 ftd.agency
+greatusenetoffer.agency
 accio.ai
 ascend.ai
 captivate.ai
@@ -3449,6 +3450,7 @@ bellaads.com
 belointeractive.com
 belstat.com
 belwrite.com
+bemobpath.com
 benchit.com
 benchmarkingstuff.com
 bentdownload.com
@@ -9290,6 +9292,7 @@ ibycicwahzg.com
 ic-live.com
 icafyriewzzrwxlxhtoeakmwroueywnwhmqmaxsqdntasgfvhc.com
 icahllwjc.com
+iccdytfvhd.com
 icdirect.com
 icdkqyeydxpjmw.com
 icebns.com
@@ -9771,6 +9774,7 @@ iohaqrkjddeq.com
 ioighavxylne.com
 ioiylgyf.com
 iojpbletb.com
+iolautrf.com
 ionbpysfukdh.com
 ionmvdpifz.com
 iopjpldd.com
@@ -10728,6 +10732,7 @@ khlgauqt2000.com
 khlgdlarmqnp.com
 khmbjndynx.com
 khnwegnamm.com
+khprspkouotscd.com
 khvfg.com
 khzbeucrltin.com
 khzehmdyybvicy.com
@@ -12183,6 +12188,7 @@ ea.melijoe.com
 mellowads.com
 mellowtin.com
 meloads.com
+melohxphr.com
 melqdjqiekcv.com
 memecounter.com
 memsyndazra.com
@@ -13258,6 +13264,7 @@ njcmfnnzwwuj.com
 njeozjhyjb.com
 njgogjkwlzroh.com
 njjybqyiuotl.com
+njkgqdxavz.com
 njlltkkaavws.com
 njmaq.com
 njmeadll.com
@@ -14910,6 +14917,7 @@ primaryads.com
 prime535.com
 ad.prismamediadigital.com
 pritesol.com
+privacysearching.com
 privacysecurityprotection.com
 events.privy.com
 privymktg.com
@@ -15218,6 +15226,7 @@ pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
 pxbugrgwy.com
 pxcveedcuzy.com
 pxcwdyasdsumdsxjnn.com
+pxgfdcfcrucazj.com
 pxgfvpwkukl.com
 pxgkuwybzuqz.com
 pxhtltatsxarl.com
@@ -15595,6 +15604,7 @@ qrkiykgbk.com
 qrksjrjppkam.com
 qrlmvqlxh.com
 qrlsx.com
+qrnpjjkwjqbl.com
 qrozsnmc.com
 qrstes.com
 qrwlerqenp.com
@@ -16212,6 +16222,7 @@ riwjpbpvkl.com
 rixaka.com
 rixpjpjl.com
 rixxvqexdlgrl.com
+rjbfjwjxwsbhho.com
 rjeksrigwzm.com
 rjeysspqsslf.com
 rjirxadtq.com
@@ -16544,6 +16555,7 @@ rylkihtmnvsh.com
 ryllae.com
 rylnirfbokjd.com
 ryminos.com
+ryquhezrbhfp.com
 ryrrhgpmlif.com
 ryuosy.com
 ryushare.com
@@ -17472,6 +17484,7 @@ srkft.com
 srksyzqzcetq.com
 srlmbvfmvl.com
 srmnfxcftazj.com
+srocvhaeaz.com
 srppykbedhqp.com
 srv1010elan.com
 srvpub.com
@@ -18598,7 +18611,7 @@ pixel.tree.com
 pixel.staging.tree.com
 treehousei.com
 statsdev.treesd.com
-bidr.trellian.com
+trellian.com
 tremorhub.com
 cdna.tremormedia.com
 dc.tremormedia.com
@@ -19975,6 +19988,7 @@ voyeurhit.com
 links.voyeurweb.com
 m.vpadn.com
 vpbyl.com
+vpfadnueru.com
 vpfiiojohjch.com
 vpgwdlayctn.com
 vpico.com
@@ -21134,6 +21148,7 @@ xnqlhbddabfsy.com
 xnrjtqmud.com
 xnuuzwthzaol.com
 xnvsheyceyjv.com
+xnwndbef.com
 xnwqhydt.com
 xnydasvpdqn.com
 xnyiljkfdwgu.com
@@ -21634,6 +21649,7 @@ ynqmordtj.com
 ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
 yntwcepykkts.com
 ynuyzeqtswtd.com
+ynvmoxqbm.com
 ynwia.com
 ynxrrzgfkuih.com
 ynyhiyqybbit.com
@@ -21871,6 +21887,8 @@ yzxibuepaiyru.com
 yzyalgnxo.com
 yzygkqjhedpw.com
 yzysnbqc.com
+yzytjgdrz.com
+yzyycjzfkpveu.com
 yzzmcxnlvyymt.com
 z-defense.com
 z444o.com
@@ -22037,6 +22055,7 @@ zhabyesrdnvn.com
 zhdjvlfszokew.com
 zhdmplptugiu.com
 zhfosenghtr.com
+zhifinwgpwakue.com
 zhihrotpyphycy.com
 zhkziiaajuad.com
 zhkzt.com
@@ -23132,6 +23151,7 @@ jshosting.download
 m3hywq3xaias4u.download
 redirecting.download
 usenetnl.download
+usenetoffer.download
 mediaindex.ee
 modastro.ee
 counter.ok.ee
@@ -24201,6 +24221,7 @@ unrestery.info
 upads.info
 urgigan.info
 urmilan.info
+usenettest.info
 userchecker.info
 uspostly.info
 utilistom.info
@@ -25837,6 +25858,7 @@ track.cpatool.net
 cpatrck.net
 cpgweb.net
 cpmmedia.net
+cr-brands.net
 criteo.net
 crosspixel.net
 crwdcntrl.net
@@ -26163,6 +26185,7 @@ ip-label.net
 ipcount.net
 ipcounter.net
 publish.iptvz.net
+iredirect.net
 isonlynews.net
 itcgin.net
 iwantmoar.net
@@ -27693,6 +27716,7 @@ letrenhegenmi.pro
 lingrethertantin.pro
 lovad.pro
 marial.pro
+megausenet.pro
 mosstc.pro
 mowithlerendu.pro
 mytrack.pro
@@ -27780,6 +27804,7 @@ webmine.pro
 wilwasharrabred.pro
 wlyeo90l.pro
 worlanned.pro
+xsusenet.pro
 youngesdresp.pro
 youngrul.pro
 zclick.pro
@@ -27940,6 +27965,7 @@ vmet.ro
 analytic.rocks
 cdn7.rocks
 err.cloudbit.rocks
+freeusenet.rocks
 glorinlost.rocks
 jettags.rocks
 monerominer.rocks
@@ -29800,6 +29826,7 @@ amp.services
 heatmap.services
 livestatsnet.services
 marketingautomation.services
+megausenet.services
 easy.mmoney.services
 ripost.services
 vip-p0rtal.services
@@ -29928,6 +29955,7 @@ sonat.space
 tlafu.space
 metrika.traff.space
 stat.uitools.space
+usenetxs.space
 webma.space
 xxslu.space
 yololike.space
@@ -30774,6 +30802,7 @@ nile.works
 420147981.world
 greedseed.world
 one-xjygn.world
+usenet.world
 acount.alley.ws
 bestdeals.ws
 freestat.ws
