@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 460
+# Ignored duplicates: 462
 
 # Ignored entries due to the whitelist: 156
 
@@ -1616,6 +1616,7 @@ ad-gbn.com
 ad-goi.com
 ad-indicator.com
 api.ad-locus.com
+ad-mapps.com
 ad-maven.com
 ad-miner.com
 ad-nex.com
@@ -4015,6 +4016,7 @@ btmcxzanpsi.com
 btnativedirect.com
 btnbdmhxdsf.com
 btnibbler.com
+btonzfjleinuax.com
 btovopyov.com
 btpnav.com
 btqwmdinav.com
@@ -5598,6 +5600,7 @@ dedicatedmedia.com
 dedicatednetworks.com
 deebwmbbytr.com
 deepattention.com
+deepchannel.com
 deepintent.com
 deepmetrix.com
 def-platform.com
@@ -5833,6 +5836,7 @@ djxvususwvso.com
 djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 dk4ywix.com
 dkfdpglo.com
+dkfindnpdgac.com
 dkgitkwo.com
 dklvewbgjksyy.com
 dkmdklhu.com
@@ -7587,6 +7591,7 @@ fryxaknn.com
 frzaj.com
 frzynewnpg.com
 fsaticze.com
+fsbotviofnthgk.com
 fscslwmvbadncb.com
 fsddidfmmzvw.com
 fsdvydpldxrbu.com
@@ -10192,6 +10197,7 @@ jguhktakkykrsb.com
 jgvjzbrnjmxoq.com
 jhceybuguvureg.com
 jhcnnizbua.com
+jhdfcbqophm.com
 jheduynirrxkro.com
 jheplryxvzvx.com
 jhhlhneavuo.com
@@ -10642,6 +10648,7 @@ kcctsiusemgdl.com
 kceikbfhsnet.com
 kcetcukaolxc.com
 kcitwbcc.com
+kcnbyecw.com
 kcnjwtaj.com
 kcnyhfmowc.com
 kcodndvh.com
@@ -12767,6 +12774,7 @@ muwjxxvovtb.com
 muxtpvixahawy.com
 pp.muzofon-online.com
 mvbemeggnodty.com
+mvdizbgdpfgl.com
 mvdnsrgolwgru.com
 datadog-service.mvfglobal.com
 mvilivestats.com
@@ -12984,6 +12992,7 @@ nbjmp.com
 nbkcuewy.com
 nbkwnsonadrb.com
 nbmffortfyyg.com
+nbnhhwnjbkdmfi.com
 nbnsioedq.com
 nbrokpopimjbw.com
 nbrwtboukesx.com
@@ -14723,6 +14732,7 @@ pnzchguyctrsyb.com
 poaxupoqbw.com
 poazoanu.com
 poazvacfzbed.com
+pochengweiyuan.com
 podbwdcrmjufmr.com
 poewhatnvxydts.com
 pogdlwpmck.com
@@ -14860,6 +14870,7 @@ ppyneidpwpepu.com
 ppzfvypsurty.com
 pqajjgjg.com
 pqdysthxgrpz.com
+pqftlgwzkuzsg.com
 pqgslqshlj.com
 pqkorfrurnn.com
 pqlueojjnccebi.com
@@ -18717,6 +18728,7 @@ tthxqtogskzp.com
 webtraffic.ttinet.com
 ttomktasfnqlg.com
 ttrwhchvj.com
+ttsipyxgpihy.com
 ttskmaaf.com
 ttulyfbkatyzp.com
 ttzmedia.com
@@ -19696,6 +19708,7 @@ vgmrqurgxlimcawbweuzbvbzxabsfuuxseldfapjmxoboaplmg.com
 vgodvvcwrshk.com
 vgogzrukn.com
 vgtnbvzkepbm.com
+vgvzvqbzhh.com
 vgyakiejafjjj.com
 vhatpbmitwcn.com
 vhbyakilp.com
@@ -20105,6 +20118,7 @@ vuysooqimdbt.com
 vvaqbhmahjb.com
 vvaqdyzdovonc.com
 vvbmvooy.com
+vvczvfrbtwrvs.com
 vvgttgprssiy.com
 vvjlrhuzmhzlws.com
 vvkvlqubnge.com
@@ -20597,6 +20611,7 @@ wlvjwquv.com
 wlwootzzijp.com
 wlzohrpjbuq.com
 wm-panel.com
+wmaqrkguf.com
 wmbgmyyxyz.com
 wmfsbxjcdsbkrw.com
 wmgtkgravimge.com
@@ -21134,6 +21149,7 @@ xmrchaqjwqyvz.com
 xmsgobwy.com
 xmtrk.com
 xmufoqjx.com
+xmwxurmgmly.com
 xmylgmmt.com
 xndskrtxkiv.com
 xnfwhndl.com
@@ -21507,6 +21523,7 @@ ygsgfzydhdgd.com
 ygsm.com
 ygvuinirwqnl.com
 ygyymhfstzuen.com
+ygzkedoxwhqlzp.com
 yhasbgva.com
 yhaztdufgmw.com
 yhdichan.com
@@ -23825,7 +23842,7 @@ hikeheoratth.info
 histock.info
 hit-counter.info
 pixel.holtzbrinckdigital.info
-t.hoood.info
+hoood.info
 hormebets.info
 hostip.info
 hoststats.info
@@ -24826,7 +24843,7 @@ n2s.co.kr
 neoebiz.co.kr
 netinsight.co.kr
 opap.co.kr
-trk.performanceplay.co.kr
+performanceplay.co.kr
 realclick.co.kr
 realssp.co.kr
 reople.co.kr
@@ -24834,6 +24851,7 @@ sndkorea.co.kr
 teralog.techhub.co.kr
 dp25.kr
 log.kcisa.kr
+mtag.mman.kr
 phorm.kr
 tenping.kr
 counter.1i.kz
@@ -25506,6 +25524,7 @@ clicksor.net
 clicktale.net
 clickterra.net
 d10g3hyu3zeg91.cloudfront.net
+d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d10lumateci472.cloudfront.net
 d10vy5gom1ed53.cloudfront.net
@@ -27862,6 +27881,7 @@ gitcdn.pw
 glynzumin.pw
 grebanise.pw
 h78xb.pw
+haorun.pw
 hitme.pw
 ianhice.pw
 ianxalim.pw
@@ -28650,6 +28670,7 @@ ad.hutor.ru
 pool.hws.ru
 hypersell.ru
 i-sol-geo.ru
+i6h1x9ss5wtv.ru
 ibishic.ru
 ibizne.ru
 ice-media.ru
@@ -30067,6 +30088,7 @@ eletry.tk
 etnhashpool.tk
 freestats.tk
 hhb123.tk
+hiqubonenete.tk
 hydesolo.tk
 javacript.tk
 leon08.tk
@@ -30472,6 +30494,8 @@ linicom.co.uk
 localsearch24.co.uk
 logo-net.co.uk
 lumatag.co.uk
+rta2.metro.co.uk
+swa.metro.co.uk
 stats.mirror.co.uk
 mirrorpersonalinjury.co.uk
 stats.netbopdev.co.uk
