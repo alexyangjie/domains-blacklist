@@ -327,7 +327,6 @@ zlx.com.br
 ivcbrasil.org.br
 zap.buzz
 openads.ab-daily.by
-buyeasy.by
 call-tracking.by
 adl.kinogo.by
 tizer2.kinogo.by
@@ -366,6 +365,7 @@ adtag.cc
 anews.cc
 compteur.cc
 goldisn.cu.cc
+pv.dakawm.cc
 deepc.cc
 curated.fieldtest.cc
 interesting.cc
@@ -539,6 +539,8 @@ pzuth.cn
 q53ztm.cn
 qchannel03.cn
 m71.qhdzfs.cn
+qienews.cn
+qsmdeyz.cn
 qt54a.cn
 r9i8ud.cn
 reachmax.cn
@@ -576,6 +578,7 @@ yeshoutuan.cn
 yunpifu.cn
 yxtwx.cn
 lynn.zgsemi.cn
+zhongwangmy.cn
 cell.zhybzp.cn
 zusrd.cn
 6sc.co
@@ -675,6 +678,7 @@ tracking.meete.co
 memo.co
 meried.co
 minecrunch.co
+mixdrop.co
 mmo123.co
 monditomasks.co
 stat.moonwalk.co
@@ -2722,7 +2726,6 @@ anwufkjjja.com
 anxiousapples.com
 anyclip-media.com
 pixel.anyclip.com
-trafficmanager.anyclip.com
 anyonemyth.com
 anypbbervqig.com
 anyuwksovtwv.com
@@ -3891,6 +3894,7 @@ bpmskwgodi.com
 bpniszadiuc.com
 bpnjigwalqjho.com
 bpprksdgogtw.com
+bppzqphtd.com
 bptracking.com
 bpudfbrc.com
 bpyxg.com
@@ -5341,6 +5345,7 @@ cwfikuwyjwnev.com
 cwkhyupiwzcjy.com
 cwkuki.com
 cwliihvsjckn.com
+cwmlm.com
 cwmycjoddoq.com
 cwnrunnvatbfug.com
 cwofongvtbsi.com
@@ -6536,6 +6541,7 @@ electusdigital.com
 elefantsearch.com
 elephantqueue.com
 elfnwncr.com
+elhzbfovikex.com
 elimpfdlss.com
 elite-s001.com
 eventtracker.elitedaily.com
@@ -11008,6 +11014,7 @@ ktfjyexcacujjg.com
 ktgndscphrtxi.com
 kthdreplfmil.com
 kthztsgfuygcw.com
+ktionz.com
 ktiwcxvrwedt.com
 ktjcrhdppesdd.com
 ktjqfqadgmxh.com
@@ -11888,6 +11895,7 @@ mad-adz.com
 madadsmedia.com
 tsj0.madeindesign.com
 madsabs.com
+madsats.com
 madserving.com
 madskis.com
 madsone.com
@@ -13721,6 +13729,7 @@ ofapes.com
 ofbqjpaamioq.com
 ofdfinqurwpi.com
 ofenltlzepz.com
+ofexmskz.com
 offerenced.com
 offerforge.com
 offermatica.com
@@ -14050,6 +14059,7 @@ osfxxqoy.com
 osiaffiliate.com
 ositracker.com
 oslzqjnh.com
+osnbddsrm.com
 ospjthkhtwv.com
 ospreymedialp.com
 osqbk.com
@@ -15378,6 +15388,7 @@ qelllwrite.com
 qelrpourxvvg.com
 qenafbvgmoci.com
 qenprsuoashu.com
+qenscqqmnfiuro.com
 qeobhjit.com
 qeqsibev.com
 qerlbvqwsqtb.com
@@ -17106,6 +17117,7 @@ sitescout.com
 sitescoutadserver.com
 sitesense-oo.com
 sitestat.com
+siteswithcontent.com
 sitethree.com
 sitetistik.com
 sitetracker.com
@@ -19302,6 +19314,7 @@ uqyirvghv.com
 urahor9u.com
 uralap.com
 stats.urban-media.com
+urcakbypjfvsq.com
 ureace.com
 urfdvrrg.com
 urhvlgfnbdhlf.com
@@ -20241,6 +20254,7 @@ wap-click.com
 wapempire.com
 waploft.com
 waptrick.com
+waqsdyxhha.com
 warfacco.com
 warpwrite.com
 tracker.washtimes.com
@@ -21479,6 +21493,7 @@ yeo1tfjz5f.com
 yeouakimhubraf.com
 yepiafsrxffl.com
 yeplavtzm.com
+country.yepshare.com
 yes-messenger.com
 yesads.com
 yesadsrv.com
@@ -21580,6 +21595,7 @@ yjipohjtdrxncg.com
 yjjglyoytiew.com
 yjjtxuhfglxa.com
 yjlocznmvvvtp.com
+yjnqrbfnocy.com
 yjoldnbcw.com
 yjseeodbma.com
 yjsshralziws.com
@@ -24074,6 +24090,7 @@ pindered.info
 pingoli.info
 pistoma.info
 pitally.info
+pkqeg5z3xffs.info
 affiliation.planethoster.info
 playerassets.info
 plexcoin.info
@@ -27628,6 +27645,7 @@ adreman.pro
 adstock.pro
 adszx.pro
 adtags.pro
+alcidebrought.pro
 altpool.pro
 aphookkensidah.pro
 apprefaculty.pro
@@ -27710,6 +27728,7 @@ herreperolsof.pro
 hertforthatharrigh.pro
 hindurinning.pro
 iclbodnew.pro
+idhvbfj.pro
 igdgsfa.pro
 infloots.pro
 ingeliteral.pro
@@ -28679,6 +28698,7 @@ ictowaz.ru
 idaschop.ru
 idntfy.ru
 idpojar.ru
+ifhei9zzyu2r.ru
 ifnime.ru
 igetsend.ru
 igoistochka.ru
@@ -29630,6 +29650,7 @@ utarget.ru
 widget.utinet.ru
 uwonderful.ru
 v0hs81ev3vepjr.ru
+vai1hqegr2ou.ru
 vam-nado.ru
 varinitconfique.ru
 vatafapac.ru
@@ -30174,6 +30195,8 @@ facebooker.top
 fingahvf.top
 flixlnk.top
 fm6dz864.top
+fowpq.top
+js.gouhei.top
 goutee.top
 gvahh.top
 m.helloworld2018.top
@@ -30213,6 +30236,7 @@ montpti.top
 mybce.top
 s.newsportalssl1.top
 nrzcj.top
+nvmsa.top
 nxstx.top
 nztrt.top
 ozdau.top
@@ -30847,6 +30871,7 @@ webmobile.ws
 029qz3xam2qq.xyz
 0483bm4mlow8.xyz
 190282.xyz
+eco.2t4fe.xyz
 3wr110.xyz
 5b15a826.xyz
 adavz.xyz
@@ -30910,6 +30935,7 @@ frfgn.xyz
 fsdwd.xyz
 fsfrz.xyz
 fyredet.xyz
+mvo.g45td.xyz
 ogbwqq.gkwtk.xyz
 goldawm.xyz
 gomtdatacom.xyz
@@ -30941,6 +30967,7 @@ ktcdn.xyz
 kurulum.xyz
 kxqvnfcg.xyz
 lamiflor.xyz
+lasimakiz.xyz
 ldnxy.xyz
 lolxm.xyz
 lorahana.xyz
