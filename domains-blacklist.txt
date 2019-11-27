@@ -477,6 +477,7 @@ lk.4jzl.cn
 6ki9d.cn
 7527v.cn
 88shu.cn
+9h5qq.cn
 imp.ad-plus.cn
 adfuture.cn
 advmob.cn
@@ -485,8 +486,11 @@ analysys.cn
 ms.awqsaged.cn
 c.bxjpl.cn
 bzoxa.cn
+cnzz.c62v.cn
 cdnmaster.cn
 clkstat.china.cn
+chinagcdxyjng.cn
+chushoushijian.cn
 clicki.cn
 log.vdn.apps.cntv.cn
 js.69lm.com.cn
@@ -502,6 +506,7 @@ counter.sina.com.cn
 r.sax.sina.com.cn
 crasheye.cn
 ctags.cn
+dlads.cn
 dmclick.cn
 log.droid4x.cn
 mtlog.droid4x.cn
@@ -528,6 +533,8 @@ lockview.cn
 lwnne.cn
 maizhenai.cn
 mastertraffic.cn
+ofd.meng-an.cn
+mgzjin.cn
 olc0.cn
 p0y.cn
 pmli.cn
@@ -582,6 +589,7 @@ zhongwangmy.cn
 cell.zhybzp.cn
 zusrd.cn
 6sc.co
+9uys.co
 adamatic.co
 adbit.co
 adcarem.co
@@ -880,6 +888,7 @@ js.133u.com
 1800cnt.com
 188server.com
 18clicks.com
+1990tu.com
 19980ad7c3fa568e092.com
 19b45a16170729.com
 19beda38dc2ce42.com
@@ -933,6 +942,7 @@ ad.1serve-sys.com
 21b507a044d841b.com
 21c9a53484951.com
 analytics.21cn.com
+y.21haodianmt.com
 22a12efe35e3c2f.com
 22b765488021d482280.com
 23205523023daea6.com
@@ -2468,6 +2478,7 @@ aimgd.com
 beacon.aimtell.com
 log.aimtell.com
 ainterme.com
+aintinuumdelos.com
 aioemfxj.com
 aiokvzsq.com
 aionvpexcmm.com
@@ -3246,6 +3257,7 @@ baaeobgdaxdvsa.com
 babator.com
 babbnrs.com
 bablace.com
+babsitlehaphow.com
 babyboomboomads.com
 backbeatmedia.com
 backlinks.com
@@ -6046,6 +6058,7 @@ dqpywdubbxih.com
 dqvckdfaa.com
 dqyczunj.com
 dqzuy.com
+e.dr-zh.com
 dragolosa.com
 dragzebra.com
 drbwugautcgh.com
@@ -8158,6 +8171,7 @@ glvzlhrrdjlme.com
 glxfls.com
 glyicpeke.com
 glzaaewyvdkae.com
+glzyw.com
 gm99.com
 gmcyfkrtw.com
 gmeomlvmqlmu.com
@@ -8275,6 +8289,7 @@ goozbkcchscvb.com
 gopjn.com
 goprediction.com
 goraps.com
+goreleetren.com
 gorgeousground.com
 gorgonkil.com
 analytics.gorillanation.com
@@ -8362,6 +8377,7 @@ insights.gravity.com
 gravity4.com
 dailymotion-ams.gravityrd-services.com
 grceweaxhbpvclyxhwuozrbtvqzjgbnzklvxdezzficwjnmfil.com
+greatdexchange.com
 greate2.com
 greatedr.com
 sp.greatfallstribune.com
@@ -9251,6 +9267,7 @@ i0s26ol9.com
 i22lo.com
 i2idata.com
 i2iserv.com
+i3535.com
 i401xox.com
 i4yfew0k6j.com
 i5rl5lf.com
@@ -10880,6 +10897,7 @@ kmveerigfvyy.com
 kmvupiadkzdn.com
 kmylvwo5.com
 kmypiwpbastt.com
+knbnejxqn.com
 knepsiwviviwed.com
 knewy.com
 knimmqli.com
@@ -13939,6 +13957,7 @@ oocoeevre.com
 ooczhygehw.com
 oodode.com
 oodraune.com
+oodsotso.com
 ooecgdeq.com
 ooecyaauiz.com
 oofophdrkjoh.com
@@ -15038,6 +15057,7 @@ psmlgjalddqu.com
 psnkrefrfh.com
 psoomeeg.com
 psoonsod.com
+psoptopi.com
 psrbrytujuxv.com
 pstats.com
 psughooy.com
@@ -15159,9 +15179,11 @@ pushfeeds.com
 pushgaga.com
 pushimer.com
 pushlaram.com
+pushlat.com
 pushlinck.com
 pushlommy.com
 pushlum.com
+pushmejs.com
 pushmenews.com
 pushmobilenews.com
 pushmono.com
@@ -16983,6 +17005,7 @@ sp.sheboyganpress.com
 pub.sheknows.com
 shelterstraw.com
 shemeejo.com
+shentuwang1.com
 shgvuhvf.com
 shhngaasah.com
 shhrbeffgz.com
@@ -17180,6 +17203,7 @@ slinse.com
 slivz.com
 slmmjkkvbkyp.com
 sloaltbyucrg.com
+sloansagnersro.com
 sloi1.com
 slopeac.com
 slopeaota.com
@@ -19675,6 +19699,7 @@ veretiggoo.com
 vergestatic.com
 verifypow.com
 veritrol.com
+vernmentbasily.com
 veroui.com
 pop.verplusonline.com
 verresof.com
@@ -21293,6 +21318,7 @@ xudfxpvm.com
 xugnzawkrkvu.com
 xuhktijdskah.com
 xuikjhak.com
+xunlaile.com
 xuqdbqkqgj.com
 xurokykjwum.com
 xurrehqawu.com
@@ -21792,6 +21818,7 @@ ysgjivctf.com
 yshsoycsac.com
 ysljgoytuyfbg.com
 ysmbdnavqsbcl.com
+ysnj74ed.com
 ysosfhyrbyre.com
 ysowy.com
 ysqdjkermxyt.com
@@ -23621,6 +23648,7 @@ alternads.info
 amnatu.info
 amountinue.info
 anothing.info
+antdivisitlodg.info
 anti-cheat.info
 antiblock.info
 antotu.info
@@ -23796,6 +23824,7 @@ fejki.info
 fermolo.info
 fetymi.info
 fexperies.info
+fgo22.info
 finverty.info
 flurryconakrychamfer.info
 fmebili.info
@@ -24067,7 +24096,6 @@ otherelis.info
 otmonog.info
 oxlerco.info
 ozmifi.info
-ozonestsscareer.info
 pabrashu.info
 packsonikolas.info
 panyeri.info
@@ -25513,6 +25541,7 @@ cegludse.net
 statstracker.celebrity-gossip.net
 centralnervous.net
 ceptavou.net
+cewaugaz.net
 chachors.net
 chaghets.net
 chanished.net
@@ -26405,6 +26434,7 @@ microad.net
 microsoftaffiliates.net
 midkotatraffic.net
 missrich.net
+mitouxoo.net
 mkt51.net
 mm7.net
 mmngte.net
@@ -26448,6 +26478,7 @@ myconst.net
 mycooliframe.net
 bauersagtnein.myeffect.net
 gobba.myeffect.net
+mynunu.net
 mypagerank.net
 myplayerhd.net
 tracker.myseofriend.net
@@ -26547,6 +26578,7 @@ opt-n.net
 optiad.net
 optify.net
 oreshki-news.net
+ouhegapy.net
 ouloutso.net
 oultuwee.net
 ouptoobe.net
@@ -27131,6 +27163,7 @@ yupfiles.net
 ad.api.yyapi.net
 z5x.net
 zampda.net
+zeegreen.net
 zetrade.net
 zhuwawa.net
 zisboombah.net
@@ -27696,6 +27729,7 @@ eberalofe.pro
 edchargina.pro
 elepocial.pro
 emented.pro
+erssamplet.pro
 analytics.ettoredelnegro.pro
 europerty.pro
 eviclick.pro
@@ -27723,6 +27757,7 @@ hedthertsu.pro
 hegarberetrof.pro
 hegtiterbuttons.pro
 helingoneheckhes.pro
+hemonledriat.pro
 hepsandminawas.pro
 herreperolsof.pro
 hertforthatharrigh.pro
@@ -27733,6 +27768,7 @@ igdgsfa.pro
 infloots.pro
 ingeliteral.pro
 ininmacerad.pro
+iwanttobe.pro
 jacopiler.pro
 jerredsite.pro
 johnsitsi.pro
@@ -27750,11 +27786,13 @@ laratlacrestot.pro
 ledsitling.pro
 leftnetarenning.pro
 legistrike.pro
+letansinevengthat.pro
 letrenhegenmi.pro
 lingrethertantin.pro
 lovad.pro
 marial.pro
 megausenet.pro
+minardict.pro
 mosstc.pro
 mowithlerendu.pro
 mytrack.pro
@@ -27764,6 +27802,7 @@ nameketathar.pro
 nastoverewess.pro
 nehersheteen.pro
 nessubsets.pro
+netanlingtheeveng.pro
 noamiscience.pro
 noblock.pro
 ofeetles.pro
@@ -27809,6 +27848,7 @@ sitionne.pro
 slavial.pro
 smothere.pro
 sourcecode.pro
+spartorshecrablac.pro
 speciadnessing.pro
 stalluva.pro
 steakafka.pro
@@ -29893,6 +29933,7 @@ akamaihd.site
 anybest.site
 apearmare.site
 apiyandex.site
+artcamcat.site
 ashamparm.site
 ashbowany.site
 boostads.site
@@ -30154,6 +30195,7 @@ ad.outstream.today
 1jvd7f7w.top
 1q2w3.top
 1xvyh.top
+23dsf.top
 2pxg8bcf.top
 6f2tjr26.top
 6jvt2.top
@@ -30235,6 +30277,7 @@ mcljm.top
 montpti.top
 mybce.top
 s.newsportalssl1.top
+niulail.top
 nrzcj.top
 nvmsa.top
 nxstx.top
@@ -31045,6 +31088,7 @@ verata.xyz
 videoplayer2.xyz
 virsalor.xyz
 virtl.xyz
+web-ad.xyz
 whatsapp-chat.xyz
 winvideo.xyz
 neyrvru.wmbgc.xyz
