@@ -719,9 +719,7 @@ nspot.co
 oads.co
 ad.ohmyad.co
 omkt.co
-adanalytics.openload.co
 logdev.openload.co
-stats.openload.co
 opt8.co
 overreare.co
 panection.co
@@ -3024,6 +3022,7 @@ atemda.com
 audience.atex.com
 track.atgstores.com
 atgsvcs.com
+atinternet.com
 ationsity.com
 atlassolutions.com
 atmalinks.com
@@ -4274,6 +4273,7 @@ cacfbf85ad2005e4c31.com
 cadchbpsifb.com
 cadimavume.com
 cadreon.com
+cadskis.com
 cafe58cc6d0ac.com
 track.cafemomstatic.com
 click2.cafepress.com
@@ -4981,6 +4981,7 @@ comegarage.com
 comfortablecheese.com
 comgnnyx.com
 commander1.com
+commandersact.com
 commandwalk.com
 commercedirections.com
 sp.commercialappeal.com
@@ -5179,6 +5180,7 @@ cpmterra.com
 cpmtree.com
 cpovvzgpc.com
 cppgf.com
+cppnznmorh.com
 cprekl.com
 cpuim.com
 cpulaptop.com
@@ -5790,6 +5792,7 @@ dhuodal.com
 dhuqolbvyla.com
 dhvaigzy.com
 dhvzrpvjwibr.com
+dhxwczetwdkt.com
 dhygr.com
 dialgold.com
 dialogtech.com
@@ -6867,6 +6870,7 @@ eudcmqdyl.com
 eugxcnqw.com
 euhewiruckv.com
 euktoywjpdxpdh.com
+eulerian.com
 eum-appdynamics.com
 eupwogkcjczz.com
 eurew.com
@@ -7366,6 +7370,7 @@ fkrrvhoierty.com
 fktrlckpmsxx.com
 fkvjntfj.com
 fkwwhndzjlqrm.com
+fkymvojkpdx.com
 fl-ads.com
 flagcounter.com
 flaghit.com
@@ -8486,6 +8491,7 @@ grt03.com
 grtbzrsndrrtsb.com
 grteab.com
 grubpbrmek.com
+grubsoan.com
 api.grumft.com
 grumpyadzen.com
 grumrt.com
@@ -9238,6 +9244,7 @@ hvbiwwek.com
 hvccjhkcvlfr.com
 hvckvfistbejp.com
 hvdddlsdexic.com
+hvduwoozla.com
 hvdyyojh.com
 hvfolkwvgjgc.com
 hvfzacisynoq.com
@@ -12573,6 +12580,7 @@ mmxbgakffqemu.com
 mmygcnboxlam.com
 mn1nm.com
 mnanijqnse.com
+mnbfujorh.com
 mnbvjhg.com
 mnetads.com
 dispatcher.mng-ads.com
@@ -13620,6 +13628,7 @@ nuscutsdqqcc.com
 nuseek.com
 nushflxucofk.com
 beacon.nuskin.com
+nusptbgwdcc.com
 nutga.com
 nutlekuainya.com
 cnt.nuvid.com
@@ -14458,6 +14467,7 @@ pceqybrdyncq.com
 pcfobwzmlts.com
 pchijkkms.com
 pcizpawioulv.com
+pcjkmabp.com
 pckbizoed.com
 pclicks.com
 ashow.pcpop.com
@@ -16397,6 +16407,7 @@ rkdms.com
 rkelvtnnhofl.com
 rkgznnhikrfphq.com
 rklluqchluxg.com
+rkpecade.com
 rkrpvzgzdwqaynyzxkuviotbvibnpqaktcioaaukckhbvkognu.com
 rktch.com
 rktu.com
@@ -16564,6 +16575,7 @@ rstdehuopwf.com
 rstjainimptgn.com
 rsuroxpotcoiq.com
 rsuuc.com
+rsviqjzhvubz.com
 rsvpgenius.com
 rsvxipjqyvfs.com
 rswgoccwzs.com
@@ -20722,6 +20734,7 @@ frog.wix.com
 orts.wixawin.com
 wiykefcon.com
 wiywlvkwwwrms.com
+wizaly.com
 wizard-teasers.com
 wizard-traffic.com
 wizejdnlqwcb.com
@@ -20983,6 +20996,7 @@ wwnlyzbedeum.com
 wwnuowyww.com
 wwohikwhl.com
 wwqnwask.com
+wwtxqylusxtd.com
 wwv4ez0n.com
 www-path.com
 www-protection.com
@@ -21457,6 +21471,7 @@ xvika.com
 xviplxteu.com
 xvlkfkjl.com
 xvlohcsc.com
+xvomqsoivtiaxh.com
 xvqaz.com
 xvtbumnuj.com
 xvtgouzdsmoeb.com
@@ -22141,6 +22156,7 @@ zbwp6ghm.com
 zbwttofskjnc.com
 zbxzcrldzzgv.com
 zcauvwmfevhox.com
+zcbyoqylllxe.com
 zccebnzdujjw.com
 zcchnqgq.com
 zcczlrtbbx.com
@@ -22491,6 +22507,7 @@ zttlnqce.com
 ztxohhagymj.com
 ztylfmoxqnafl.com
 ztyrgxdelngf.com
+ztzilyso.com
 zu4l167j77.com
 zualhpolssus.com
 zucnclozfb.com
@@ -24597,6 +24614,7 @@ ddm.io
 dimml.io
 clktrk.display.io
 districtm.io
+dnsdelegation.io
 eagleapi.io
 early-birds.io
 easyhash.io
@@ -24717,6 +24735,7 @@ sprkl.io
 sqate.io
 collector.sspinc.io
 sdk.starbolt.io
+storetail.io
 streambeam.io
 tracker.streamroot.io
 analytics.suggestv.io
@@ -24755,6 +24774,7 @@ adtube.ir
 banner.dabi.ir
 uue2.destinia.ir
 hitplus.ir
+analytics.metrix.ir
 persianstat.ir
 tinystat.ir
 banner.vatanclick.ir
@@ -25069,10 +25089,12 @@ realclick.co.kr
 realssp.co.kr
 reople.co.kr
 sndkorea.co.kr
+targetpush.co.kr
 teralog.techhub.co.kr
 dp25.kr
 log.kcisa.kr
 mtag.mman.kr
+statistics.news1.kr
 phorm.kr
 tenping.kr
 counter.1i.kz
@@ -25214,6 +25236,7 @@ doubleclicks.me
 edrone.me
 efatik.me
 deepknow.egoid.me
+ezpush.me
 feed111.me
 tracking.fits.me
 freestats.me
@@ -25611,6 +25634,7 @@ asiantraffic.net
 askmarket.net
 aso1.net
 astrsk.net
+at-o.net
 atomex.net
 audienceinsights.net
 augheguw.net
@@ -26483,6 +26507,7 @@ kaukoafa.net
 kaunairu.net
 kctag.net
 kerg.net
+keyade.net
 keydot.net
 keymetric.net
 analytics.kidoz.net
@@ -26839,6 +26864,7 @@ pheedroh.net
 phengung.net
 uniad.phimmoi.net
 phiptams.net
+phoossax.net
 phudrour.net
 pictela.net
 pipsol.net
@@ -27273,6 +27299,7 @@ vclicks.net
 vdwlf.net
 vegabet.net
 velmedia.net
+vempozah.net
 vepxl1.net
 vertical-leap.net
 ca.video-cdn.net
@@ -27589,6 +27616,7 @@ adtrace.org
 advancets.org
 advgame.org
 adxxx.org
+affex.org
 allpopular.org
 fcstats.altervista.org
 amptrack-dailymail-co-uk.cdn.ampproject.org
@@ -28592,6 +28620,7 @@ bingq.ru
 stat.biqle.ru
 bistr4.ru
 bistroduy.ru
+bjrfnps4efhldfj.ru
 blafo.ru
 blamper.ru
 blamper-news.ru
