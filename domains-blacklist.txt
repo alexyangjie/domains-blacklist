@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 464
+# Ignored duplicates: 465
 
 # Ignored entries due to the whitelist: 156
 
@@ -9216,6 +9216,7 @@ hugjupzdpvuzdr.com
 huhrxmgiofzna.com
 huigyetqu.com
 a1.huiqituan.com
+huirnbrfj.com
 track.hujiang.com
 trackcommon.hujiang.com
 u8.hujiang.com
@@ -10233,6 +10234,7 @@ jdrlnicvn.com
 jdskyjntuhea.com
 jdtufqcyumvb.com
 jducqfnxeypyw.com
+jdwimtfp.com
 jdzw3frs.com
 jeakofzseo.com
 jebuorwrqfflzl.com
@@ -12705,6 +12707,7 @@ serl.mooo.com
 mooseway.com
 mootermedia.com
 mooxar.com
+mopinion.com
 ads.mopub.com
 analytics.mopub.com
 mpx.mopub.com
@@ -15616,6 +15619,7 @@ qjmearsroiyn.com
 qjmkidiwbndolx.com
 qjobvxqp.com
 qjokrqhidpki.com
+qjotiimmb.com
 qjpxalhvenbt.com
 qjrlcrkhnj.com
 qjskosdsxanp.com
@@ -15746,6 +15750,7 @@ qqgtevtjnpwd.com
 qqipjtzgo.com
 qqjmbj.com
 qqkxrlzaaul.com
+qqqwes.com
 qqrkutrsg.com
 qqtqicbvrwg.com
 qquwjmmgtmle.com
@@ -16103,6 +16108,7 @@ recentres.com
 receptiveink.com
 receptivereaction.com
 recessary.com
+reciteme.com
 recomendedsite.com
 recoset.com
 recruitics.com
@@ -17867,8 +17873,9 @@ sumberiklan.com
 sumizxwhfsrke.com
 summerhamster.com
 summitemarketinganalytics.com
+sumo.com
 sumokoin.com
-load.sumome.com
+sumome.com
 sumsmoxssy.com
 sumvztfze.com
 sunburgh.com
@@ -17926,6 +17933,7 @@ svdmxetbyfyg.com
 svdnqszxgucgd.com
 svdsutdq.com
 sveklon.com
+svekolka.com
 svevbvsjeicl.com
 svfqoztfopv.com
 svitnews.com
@@ -22207,6 +22215,7 @@ zel-zel-fie.com
 zelllwrite.com
 zelxtujtigbx.com
 zemanta.com
+zengenti.com
 zenhppyad.com
 zenlivestats.com
 mxvp-ad-config-prod-1.zenmxapps.com
@@ -23747,6 +23756,7 @@ ta.queit.in
 rating.in
 replacescript.in
 rooton.in
+socsi.in
 tizer.in
 trafvip.in
 w3bnr.in
@@ -23760,6 +23770,7 @@ x-ads.in
 24productions.info
 24smi.info
 2mdn.info
+2vaxwkujrfwh.info
 3file.info
 5362367e.info
 69m.info
@@ -24649,6 +24660,7 @@ cc.gofile.io
 hashzone.io
 hits.io
 honeybadger.io
+hotjar.io
 hubvisor.io
 geoinfo.i2w.io
 tracking.i2w.io
