@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 465
+# Ignored duplicates: 463
 
 # Ignored entries due to the whitelist: 156
 
@@ -3639,6 +3639,7 @@ bidvertiser.com
 bidzzbjzx.com
 biemedia.com
 stats.big-boards.com
+bigbootymania.com
 bigcattracks.com
 bigchoicegroup.com
 analytics.bigcommerce.com
@@ -6479,6 +6480,7 @@ eefbzuwvnnab.com
 eefiwmtwppppay.com
 eefiywjjzxry.com
 eegjpwmi.com
+eegnacou.com
 eegputuwclsvo.com
 eehdssnxola.com
 eejcqlenlsko.com
@@ -11646,6 +11648,7 @@ llrblpesvjc.com
 llrmbabwjlzutw.com
 llrspkjasfqc.com
 llsdercqm.com
+lltgedci.com
 lluythjwk.com
 llvidwpt.com
 llwemrshzovw.com
@@ -16830,7 +16833,8 @@ sarapbeh.com
 sardfereose.com
 sare25.com
 sarevtop.com
-sas.com
+collect.sas.com
+collect2.sas.com
 sas15k01.com
 satgreera.com
 satjrvwtaertn.com
@@ -17244,6 +17248,7 @@ sincerebuffalo.com
 sinceresofa.com
 singlefeed.com
 siniature.com
+sinsoftu.com
 sinyfqrmiqgd.com
 siogczwibswm.com
 siqcrwlrqjc.com
@@ -22488,6 +22493,7 @@ zrhskqzfh.com
 zricmrcrlmdeg.com
 zridsfev.com
 zrlcr.com
+zrlxjcsvib.com
 zroitracker.com
 zrosbqwecw.com
 zrufclmvlsct.com
@@ -26401,6 +26407,7 @@ godspeaks.net
 gogetlinks.net
 goodlooknews.net
 google-pagerank.net
+gracaiko.net
 graidsee.net
 grainsox.net
 graphli.net
