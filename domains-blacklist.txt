@@ -24783,7 +24783,6 @@ ndg.io
 nextmillennium.io
 nik.io
 nimpool.io
-ntv.io
 o-s.io
 oghub.io
 stats.ombx.io
