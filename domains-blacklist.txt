@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 463
+# Ignored duplicates: 464
 
 # Ignored entries due to the whitelist: 156
 
@@ -1796,6 +1796,7 @@ adexchangetracker.com
 adexcite.com
 adexprt.com
 adexprts.com
+traffic.adexprtz.com
 adextent.com
 adeyujimmmh.com
 adezrvjcbyu.com
@@ -4940,7 +4941,7 @@ cognitivematch.com
 cogsdigital.com
 coguan.com
 cogxsnvqesph.com
-analytics.cohesionapps.com
+cohesionapps.com
 cohhcaahxxcf.com
 coin-cube.com
 coin-have.com
@@ -10970,6 +10971,7 @@ klipmart.com
 klivz.com
 klixfeed.com
 klldabck.com
+klljshial.com
 klmdwvqhi.com
 klmvharqoxdq.com
 klnzalfz.com
@@ -13472,6 +13474,7 @@ nmouzlbragpyp.com
 nmpmgmldzvrmra.com
 nmqgjoytd.com
 nmrcieuvb.com
+nmrlcnuok.com
 nmtikqygo.com
 nmuwmfgdwpwb.com
 nmvqhlengcrur.com
@@ -14819,6 +14822,7 @@ planetactive.com
 planktab.com
 planniver.com
 plannto.com
+plantdigestion.com
 platformpanda.com
 platinumadvertisement.com
 tracking.plattformad.com
@@ -17359,6 +17363,7 @@ skoovyads.com
 ads.skorfikstur.com
 sksalqvpoc.com
 skspurybnv.com
+sksytkvnvnmz.com
 analytics.faw.sky.com
 analytics.global.sky.com
 skyactivate.com
@@ -17419,6 +17424,7 @@ smartyads.com
 smartzonessva.com
 smashnewtab.com
 smashseek.com
+smazvhjn.com
 smfsvc.com
 smgaklckpszzd.com
 smhqmrxplvnx.com
@@ -20533,6 +20539,7 @@ wbvwcyssssh.com
 wbxzrxarmzyx.com
 wcabsbogwfxv.com
 wcgquaaknuha.com
+wcgrrjyjiaeocd.com
 wcksovhmd.com
 wclurprkyk.com
 wcobqyeqpckkzh.com
@@ -20942,6 +20949,7 @@ wpkbwrkejd.com
 wpkcfajkeytrro.com
 wpktjtwsidcz.com
 wplqgfpj.com
+stats.wpmucdn.com
 wpnjs.com
 wpqvggsnc.com
 wpswyoyev.com
@@ -24179,6 +24187,7 @@ invernetter.info
 ipapin.info
 ipgettraff.info
 ipinfo.info
+ipraccessie.info
 ipreparty.info
 irboga.info
 itdehod.info
@@ -26347,8 +26356,6 @@ eluxer.net
 elvate.net
 emsecure.net
 top.eomy.net
-mit.nykredit.dk.dxcloud.epicserver.net
-episerver.net
 eresmas.net
 ergerww.net
 esm1.net
@@ -27688,6 +27695,7 @@ special-promotions.online
 cdn.sportlabs.online
 ucretsiz-indirin.online
 vestlitt.online
+winr.online
 wz7a23kicq.online
 o-oo.ooo
 pl.263gmail.org
