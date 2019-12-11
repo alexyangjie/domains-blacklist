@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 464
+# Ignored duplicates: 463
 
 # Ignored entries due to the whitelist: 156
 
@@ -8756,6 +8756,7 @@ hbguvcwi.com
 hbhcilgdqxt.com
 hbhcndcpohpwib.com
 hbhfslicqq.com
+hbhgheovqz.com
 hbhjamkcubtez.com
 hbkajyvrus.com
 hbnqcbfgsjfa.com
@@ -10576,6 +10577,7 @@ jrtawlpbusyg.com
 jrtzehrbg.com
 jrunvrfma.com
 jruovuiejirpev.com
+jrvcwxubg.com
 jrvtmfxkkl.com
 jrwlxwypmgvk.com
 jryyekccnw.com
@@ -11078,6 +11080,7 @@ kovla.com
 kozloiczght.com
 kpchywhqcrkz.com
 kpehltcnwo.com
+kpgcnqxccssu.com
 kpgjogkbwjpmz.com
 kpjrmmfrxbrw.com
 kplzvizvsqrh.com
@@ -11673,6 +11676,7 @@ lkrcapch.com
 lkrojmvmxxqze.com
 lkubjgrjslmgxo.com
 lkuirehx.com
+lkvifcxvqkwrl.com
 lkyuoybczr.com
 lkzvhtetshbu.com
 lld2q.com
@@ -22754,7 +22758,7 @@ link.tym.cool
 xmr.cool
 laferia.cr
 affiliate.cx
-tw.cx
+e.tw.cx
 adocean.cz
 affilbox.cz
 bnr.alza.cz
@@ -23538,6 +23542,7 @@ cnstats.cdev.eu
 click2sell.eu
 coinwire.eu
 omniture.eaeurope.eu
+embraceable-venom.eu
 emediate.eu
 eth-pocket.eu
 ethereum-pocket.eu
