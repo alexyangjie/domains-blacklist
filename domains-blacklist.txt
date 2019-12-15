@@ -35755,5 +35755,9 @@ minez.zone
 noasic.zone
 
 
+########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_High.txt ##########
+
+
+
 ########## Blacklist from file:domains-blacklist-local-additions.txt ##########
 
