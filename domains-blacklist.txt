@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 464
+# Ignored duplicates: 465
 
 # Ignored entries due to the whitelist: 156
 
@@ -8308,6 +8308,7 @@ gnqqajovkhfmq.com
 gnrdomimplementation.com
 gnreqzzts.com
 gntzacjc.com
+go-rillatrack.com
 analytics.go.com
 clog.go.com
 log.go.com
@@ -11271,6 +11272,7 @@ kwiaofifmdqpif.com
 kwipnlppnybc.com
 kwjglwybtlhm.com
 kwkxvbjz.com
+kwnq4hg2n9.com
 kwomkjjoajcyyt.com
 kwshmdfgijgu.com
 kwsmqtposrub.com
@@ -11772,6 +11774,7 @@ lnyypjocad.com
 lnzcmgguxlac.com
 stats.load.com
 loading-resource.com
+loading-wsite.com
 localadbuy.com
 localedgemedia.com
 localytics.com
@@ -12549,6 +12552,7 @@ analytics.mindjolt.com
 mindlytix.com
 mindtake.com
 minemytraffic.com
+minently.com
 minerad.com
 minewhat.com
 minexmr.com
@@ -24780,6 +24784,7 @@ bitmedia.io
 bittraffic.io
 bitvertise.io
 blockbreaker.io
+bntech.io
 bonad.io
 branch.io
 brandlock.io
@@ -26042,6 +26047,7 @@ d1l6p2sc9645hc.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1mib12jcgwmnv.cloudfront.net
+d1miwkthq39xj8.cloudfront.net
 d1mroptkfdxko5.cloudfront.net
 d1mub3aw743hsf.cloudfront.net
 d1mxvenloqrqmu.cloudfront.net
@@ -27339,6 +27345,7 @@ steptaik.net
 sticoats.net
 stilanzeigen.net
 stinsoox.net
+stoashou.net
 stopphoulplay.net
 storoukr.net
 storygize.net
@@ -28553,6 +28560,7 @@ glorinlost.rocks
 jettags.rocks
 monerominer.rocks
 mtdatahaba.rocks
+notify.rocks
 octavius.rocks
 onti.rocks
 wtdtjs.rocks
