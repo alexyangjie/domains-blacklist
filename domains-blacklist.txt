@@ -4,7 +4,7 @@
 
 # Ignored duplicates: 465
 
-# Ignored entries due to the whitelist: 156
+# Ignored entries due to the whitelist: 157
 
 js.cdn.ac
 dxracers.accountant
@@ -614,6 +614,7 @@ cell.zhybzp.cn
 zusrd.cn
 m.zwsteel.cn
 ssl.zy3dku.cn
+og.zyzjpx.cn
 6sc.co
 9uys.co
 adamatic.co
@@ -7966,6 +7967,7 @@ gangidance.com
 pong.production.gannettdigital.com
 gapinubuso.com
 gaqhseuqp.com
+gardoult.com
 garo-garo-osh.com
 garowrite.com
 garristo.com
@@ -9571,6 +9573,7 @@ ignkopdlnlkk.com
 ignorelist.com
 collect.igodigital.com
 igraplus.com
+diagnose.igstatic.com
 igsxvpghnamnsz.com
 igupodzh.com
 igvuw.com
@@ -9810,6 +9813,7 @@ best.infoiswhatwedo.com
 infolinks.com
 infopro-insight.com
 infoprodata.com
+analytics.inform.com
 information-sale.com
 hits.informer.com
 link.informer.com
@@ -10922,7 +10926,9 @@ khlgdlarmqnp.com
 khmbjndynx.com
 khnwegnamm.com
 khprspkouotscd.com
+khqonyigsdf.com
 khvfg.com
+khwojmneehfl.com
 khzbeucrltin.com
 khzehmdyybvicy.com
 log.kibboko.com
@@ -11457,6 +11463,7 @@ leadformix.com
 leadid.com
 leadin.com
 leadium.com
+tracking.leadlander.com
 leadlife.com
 leadmanagerfx.com
 leadmediapartners.com
@@ -15513,6 +15520,7 @@ pwynoympqwgg.com
 pwzn9ze.com
 px3792.com
 pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
+pxbryexcnyz.com
 pxbugrgwy.com
 pxcveedcuzy.com
 pxcwdyasdsumdsxjnn.com
@@ -17225,6 +17233,7 @@ sfcckxdgfgzo.com
 sffmctrnimk.com
 sfgkhgfdsochwd.com
 sfhrxcbbmtfqw.com
+sfkxmchhswobcq.com
 sfmgzvam.com
 sfmnafrufk.com
 sfmzbrdtse.com
@@ -21118,6 +21127,7 @@ wrkxchcsdw.com
 wrmcfyzl.com
 wrmwikcnynbk.com
 wrnrxzstxtjsn.com
+wrpmyymqowytz.com
 wrqjwrrpsnnm.com
 wrrfckzbpygz.com
 wrrytjtsyhrnfg.com
@@ -22354,6 +22364,7 @@ zapvzwydgiwz.com
 zarazazapolaza.com
 zarget.com
 zarlomgog.com
+zarpop.com
 zasccycohek.com
 zatexta.com
 zatrlsov.com
@@ -23984,6 +23995,7 @@ x-ads.in
 24productions.info
 24smi.info
 2mdn.info
+2sfygwfxvsxv.info
 2vaxwkujrfwh.info
 3file.info
 5362367e.info
@@ -24813,6 +24825,7 @@ airbrake.io
 akstat.io
 ampush.io
 track.aplaut.io
+apxy.io
 st.astraone.io
 atas.io
 track.atom-data.io
@@ -24878,6 +24891,7 @@ firstimpression.io
 bab.frb.io
 freestar.io
 stats-dc1.frz.io
+ftz.io
 galaks.io
 geojs.io
 getbeacon.io
@@ -25166,7 +25180,6 @@ searchteria.co.jp
 beacon.toyota.co.jp
 adserver.yahoo.co.jp
 ard.yahoo.co.jp
-bc.geocities.yahoo.co.jp
 logoole.yahoo.co.jp
 logql.yahoo.co.jp
 smartads.mobile.yahoo.co.jp
@@ -26479,7 +26492,6 @@ dskrt.net
 goodsblock.dt00.net
 imgg.dt00.net
 dunyavid.net
-durasite.net
 dvaminusodin.net
 analytics.dvidshub.net
 dynad.net
