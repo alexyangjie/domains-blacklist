@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 465
+# Ignored duplicates: 464
 
 # Ignored entries due to the whitelist: 157
 
@@ -18708,7 +18708,7 @@ tmcvwyrqwyp.com
 tmdbgmhh.com
 tmdcfkxcckvqbqbixszbdyfjgusfzyguvtvvisojtswwvoduhi.com
 tmdn2015x9.com
-tmearn.com
+dash.tmearn.com
 tmexywfvjoei.com
 tmffmrsa.com
 tmfkuesmlpto.com
