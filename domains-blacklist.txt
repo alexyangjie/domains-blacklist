@@ -23875,6 +23875,7 @@ scriptall.ga
 ssl4go.ga
 window-close.ga
 wordc.ga
+xq0wju848zr.ga
 counter.gd
 bigsex.gdn
 cfcdist.gdn
@@ -24020,6 +24021,8 @@ nasdak.in
 networkplay.in
 rlinks.one.in
 counter.pixplug.in
+referer.pixplug.in
+visitor.pixplug.in
 pixtrack.in
 popt.in
 ta.queit.in
@@ -25631,6 +25634,7 @@ bjorksta.men
 hlu9tseh.men
 quideo.men
 advant.ml
+binchoise.ml
 bmcm.ml
 byebye.ml
 cfasync.ml
@@ -27847,6 +27851,7 @@ webads.co.nz
 megaad.nz
 nzads.net.nz
 pushservice.one
+power.adhacker.online
 adthebest.online
 afftrk.online
 aj1052.online
@@ -31055,6 +31060,7 @@ log.wat.tv
 zaehler.tv
 amnet.tw
 www.adbert.com.tw
+a.breaktime.com.tw
 hotrank.com.tw
 agent.tamedia.com.tw
 itad.linetv.tw
