@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 464
+# Ignored duplicates: 465
 
 # Ignored entries due to the whitelist: 157
 
@@ -563,6 +563,7 @@ prazpf.cn
 ptengine.cn
 pzuth.cn
 q53ztm.cn
+qarsza.cn
 qchannel03.cn
 m71.qhdzfs.cn
 m.qhxcdmfj.cn
@@ -1541,6 +1542,7 @@ aafdcq.com
 aagmbroxruno.com
 aahfcroigwso.com
 aaitudxr.com
+aallycspkdf.com
 aamapi.com
 aamsitecertifier.com
 aanqylta.com
@@ -3311,6 +3313,7 @@ systemmonitoring.badgeville.com
 tracking.badgeville.com
 badjocks.com
 badokal.com
+badsabs.com
 badsamps.com
 badsbads.com
 badshades.com
@@ -3393,6 +3396,7 @@ bara-banner.com
 bardogjvsa.com
 baremetrics.com
 bargainpricedude.com
+barjfzpdeqmwi.com
 baronsoffers.com
 barraien.com
 basebanner.com
@@ -4202,6 +4206,7 @@ bvvqtaltc.com
 bvwkethv.com
 bvwzffbinbou.com
 bvyoekxfjwpa.com
+bvzdfhpyz.com
 bvzjhnqrypiv.com
 bwads24.com
 bwcpnpkkncszi.com
@@ -4907,6 +4912,7 @@ cmcore.com
 cmdjujqlfbts.com
 cmdnzbuynnm.com
 cmdotgwjhpqf.com
+cmelqqmywpmf.com
 cmfads.com
 cmhomlaipa.com
 cmhwwdwfiyx.com
@@ -6593,6 +6599,7 @@ ehlfynuo.com
 ehnjtmqchrub.com
 beacon.ehow.com
 ehraxliuwt.com
+ehu96t2p.com
 ehuomemzh.com
 ehxfudlqli.com
 ehzcbife.com
@@ -7887,6 +7894,7 @@ fxprime-popular.com
 fxrgikipxnlq.com
 track.fxstreet.com
 fxtgrttlarkl.com
+fxtrqanyko.com
 fxvbsnwnwoib.com
 fxvxgwqcddvm.com
 fxwkhwcmsqne.com
@@ -8019,6 +8027,7 @@ gbiwxmjw.com
 gbjqfbnxfjx.com
 gbkfkofgks.com
 gbkfkofgmks.com
+gblcdn.com
 gbltotkythfh.com
 gbotvisit.com
 gbsxcyukuuex.com
@@ -8409,6 +8418,7 @@ gondzizo.com
 goneviral.com
 gonuuudpdcu.com
 goo2anywhere.com
+goo4anywhere.com
 gooblesdd.com
 logging.goodgamestudios.com
 tracking.goodgamestudios.com
@@ -8623,6 +8633,7 @@ gtorsoxdh.com
 gtqfsxrrerzu.com
 gtvnygwfzrhfti.com
 gtxfafvoohbc.com
+guamokqekridi.com
 sp.guampdn.com
 guanglijiudian.com
 guangzizai.com
@@ -9580,6 +9591,7 @@ ifgnsrtjcz.com
 ifhxmaazmylfx.com
 iflndvke.com
 ifmobkrjonnm.com
+ifnwfachxk.com
 ifofucuvklrnfw.com
 ifoldmuxqjeddk.com
 pbid.iforex.com
@@ -10402,6 +10414,7 @@ jgophcykrckik.com
 jgqcraids.com
 jgqkrvjtuapt.com
 jgrcggutsilp.com
+jgrroalqa.com
 jgrsqcqdfwzu.com
 jgsoloqaqp.com
 jgstny.com
@@ -13694,6 +13707,7 @@ nowspots.com
 nowymmrxj.com
 noxaffiliates.com
 noxredxaijqdb.com
+noy-95.com
 noy90o.com
 np1t0bcj0n.com
 npauffnlpgzw.com
@@ -13911,6 +13925,7 @@ o12zs3u2n.com
 o1mmijc4ki.com
 o1o6tadz5p.com
 o333o.com
+o3sndvzo25.com
 o4uxrk33.com
 o6ek91ag15.com
 oaadkiypttok.com
@@ -13933,6 +13948,7 @@ oartozvwzv.com
 oassooxo.com
 oatcheex.com
 oatheehu.com
+oatvyenmekc.com
 oawleebf.com
 oaxwtgfhsxod.com
 oazbtactg.com
@@ -14096,6 +14112,7 @@ ohszjtbehoo.com
 ohv1tie2.com
 ohwlwlus.com
 ohzczsyjadw.com
+ohznypoh.com
 oiahzjhwpsokt.com
 oicssiq.com
 oidah.com
@@ -14213,6 +14230,7 @@ onespot.com
 onestat.com
 onetag-sys.com
 oneund.com
+onfericaq.com
 ongkidcasarv.com
 ongsono.com
 onivenapud.com
@@ -15204,6 +15222,7 @@ pptxpeqqcr.com
 ppuuwencqopa.com
 ppvlj.com
 ppvlukah.com
+ppwxiuicy.com
 ppxoxkdpxtu.com
 ppxrlfhsouac.com
 ppyneidpwpepu.com
@@ -16194,7 +16213,7 @@ rankingpartner.com
 rankinteractive.com
 ranqpbnd.com
 rap4me.com
-logs.insight.rapid7.com
+insight.rapid7.com
 tracking.rapidape.com
 rapidcounter.com
 rapigoy.com
@@ -16621,6 +16640,7 @@ rjnqbphb.com
 rjpqbishujeu.com
 rjszckwlctpup.com
 rjtcrxzd.com
+rjvbtutup.com
 rjveitlz.com
 rjwdhpxdrufbcg.com
 rjwotofyxoszk.com
@@ -19107,6 +19127,7 @@ truconversion.com
 true2file.com
 truefalsetalk.com
 truefilen32.com
+truelimitinvestment.com
 truesecurejump.com
 truex.com
 truoctran.com
@@ -20285,6 +20306,7 @@ visiblegains.com
 visiblemeasures.com
 visibli.com
 visilabs.com
+visionclearz.com
 visioncriticalpanels.com
 visistat.com
 visitdetails.com
@@ -21347,6 +21369,7 @@ wyyrjymqewhulr.com
 wzadmmddcmml.com
 wzafekkdp.com
 wzcipjcjm.com
+wzdpoitbmau.com
 wzdrtzvp.com
 wzdzht7am5.com
 wzfoygianhe.com
@@ -22372,6 +22395,7 @@ yxbzsdthw.com
 yxcdiyaidaakp.com
 yxdwsuppvt.com
 yxfkdvkh.com
+yxgfcj.com
 yxhyxfyibqhd.com
 yximgdpivguxke.com
 yxjecoghjycuvm.com
@@ -22414,6 +22438,7 @@ yzuezvrahok.com
 yzus09by.com
 yzuzfvlzi.com
 yzveuheeothp.com
+t.yzwr588.com
 yzwzmxbv.com
 yzxibuepaiyru.com
 yzyalgnxo.com
@@ -24141,6 +24166,7 @@ almostle.info
 alternads.info
 amnatu.info
 amountinue.info
+angusmemor.info
 anothing.info
 antdivisitlodg.info
 anti-cheat.info
@@ -24397,6 +24423,7 @@ hdpass.info
 counter.hdvb.info
 heckhaphanofres.info
 hedtgodingsincy.info
+hemmieconverset.info
 herofandhist.info
 herordearhem.info
 hewoman.info
@@ -25095,6 +25122,7 @@ smrk.io
 snapsmedia.io
 sophi.io
 sparechange.io
+happen.spkt.io
 sprkl.io
 sqate.io
 collector.sspinc.io
@@ -28445,6 +28473,7 @@ jullssc.pro
 justailley.pro
 justardes.pro
 kidnepishlient.pro
+kolest.pro
 kolet.pro
 kurilo.pro
 kymirasite.pro
