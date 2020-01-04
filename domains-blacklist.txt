@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 462
+# Ignored duplicates: 463
 
 # Ignored entries due to the whitelist: 156
 
@@ -27,6 +27,7 @@ accio.ai
 ascend.ai
 captivate.ai
 metrics-api.dimensions.ai
+stat.glaze.ai
 hybrid.ai
 iqdata.ai
 m2.ai
@@ -285,6 +286,7 @@ tutula.biz
 umrefebaot.biz
 v2mlblack.biz
 vipromo.biz
+vn88.biz
 webtrack.biz
 widgetadvertising.biz
 widgetsurvey.biz
@@ -1142,6 +1144,7 @@ web.51fishplace.com
 51network.com
 im.51yaliesha.com
 51yes.com
+520xiaojin.com
 538b5d8f303be.com
 551f044b1a3f4ef.com
 55labs.com
@@ -1344,6 +1347,7 @@ wrmwb.7val.com
 8ixrxa2tnr.com
 c.8l8l.com
 8live.com
+8livevn.com
 8s32e590un.com
 8ue9q7i.com
 8wey4x0c.com
@@ -2837,6 +2841,7 @@ aulrains.com
 aultemeztokc.com
 tag.aumago.com
 auqefmhsutnldv.com
+auredzeon.com
 aurhgaees.com
 auspipe.com
 authcaptcha.com
@@ -3367,6 +3372,7 @@ bjcathay.com
 bjceodmwesmbth.com
 bjcpcnhssg.com
 bjcvibh.com
+bjdthyywcargba.com
 bjjingda.com
 bjkejdex.com
 bjlrdxcjnyxuba.com
@@ -3500,6 +3506,7 @@ bokroet.com
 bolizirs.com
 bolkazoopa.com
 bondinra.com
+bong88net.com
 bong99.com
 bongacash.com
 bongobono.com
@@ -4209,6 +4216,7 @@ clevernt.com
 clevi.com
 clevv.com
 clgyhwaoh.com
+t.clic2buy.com
 clic2pub.com
 click-da-click.com
 click-linking.com
@@ -4238,6 +4246,7 @@ clickcertain.com
 clickdensity.com
 clickening.com
 clickercollections.com
+clickferret.com
 clickforensics.com
 stats.clickforknowledge.com
 clickfuse.com
@@ -4488,7 +4497,6 @@ contadorweb.com
 cdn.contalyze.com
 contatoreaccessi.com
 contaxe.com
-contensis.com
 content-cooperation.com
 ads2.contentabc.com
 contentinsights.com
@@ -6362,6 +6370,7 @@ f9918c3545cc7b.com
 fa00c331ceacc.com
 faayojxf.com
 fabet.com
+fabetvn.com
 fabolele.com
 fabricww.com
 fabrkrup.com
@@ -6437,6 +6446,11 @@ faykdrhpo.com
 fb-plus.com
 fb0c32d2f28c.com
 fb88.com
+fb88club.com
+fb88en.com
+fb88go.com
+fb88live.com
+fb88sports.com
 fbafbbujy.com
 fbb8a7d231b1867a.com
 fbbjlubvwmwd.com
@@ -6556,6 +6570,7 @@ ffoifngclwfuey.com
 ffpkqjyvvneg.com
 ffpnlrnmfyeqx.com
 ffpyofnpq.com
+ffqpdpezdmnpb.com
 ffrsfowwxtlbu.com
 ffvbcwueh.com
 ffwap.com
@@ -7893,6 +7908,7 @@ creatives.gunosy.com
 gunpartners.com
 ad-specs.guoshipartners.com
 guoyhfjrpt.com
+gurktexxtpofyz.com
 gurrfwsscwda.com
 gururevenue.com
 gusxyrtlnyv.com
@@ -7963,6 +7979,7 @@ gynzvwhup.com
 gyojplgn.com
 gypxbcrmxsmikqbmnlwtezmjotrrdxpqtafumympsdtsfvkkza.com
 gyycgkchjtimu.com
+gyyzsgri.com
 gzabsbddocwn.com
 gzakmhhwrkagg.com
 gzayyacwy.com
@@ -8491,6 +8508,7 @@ hrtyc.com
 hrtye.com
 hrvxpinmdyjx.com
 hrykyhqtgcro.com
+hsbrhnkgkx.com
 hseyrxoi.com
 hsgatgymg.com
 hsllwumsezanll.com
@@ -8715,6 +8733,7 @@ ibbyu85u.com
 ibclxtlh.com
 ibcnwhnbid.com
 iberacon.com
+ibet889.com
 ibetinwubwl.com
 ibfsream.com
 ibfueyttemsefi.com
@@ -9610,6 +9629,7 @@ jemmgroup.com
 jemopaqkst.com
 jemyvtomzyha.com
 jenaowzhtbi.com
+jepmdqcn.com
 jeqixokniyny.com
 jerotidv.com
 jertwakjcaym.com
@@ -9692,6 +9712,7 @@ jimdo-stats.com
 jimqcqsyhser.com
 jimxaqrpqbxldt.com
 jinchaoyu.com
+jinfrfimajr.com
 jingavot.com
 jioivnytpmam.com
 jipzvmzzycg.com
@@ -10060,6 +10081,7 @@ k-analytix.com
 k0z09okc.com
 k26fe9xhuzm.com
 k77hof1z7k.com
+k8vn03.com
 ka04b.com
 kacfofrcndc.com
 kadjwdpzxdxd.com
@@ -10820,6 +10842,7 @@ letadnew.com
 g.letaojuan68.com
 letilyadothejob.com
 letitsoft.com
+letou8868.com
 letsdoarbitrage.com
 letsjanua.com
 letsjanuary.com
@@ -11091,6 +11114,7 @@ lnpqqigowz.com
 lnvnzrqdajau.com
 lnwbiuetoymifj.com
 lnwqvhcqw.com
+lnyhnpwjviyn.com
 lnyypjocad.com
 lnzcmgguxlac.com
 stats.load.com
@@ -11394,6 +11418,7 @@ m4clicks.com
 m4pub.com
 m57ku6sm.com
 m73lae5cpmgrv38.com
+m883d.com
 m88cvf.com
 m88my.com
 m88vina.com
@@ -12137,6 +12162,7 @@ ads.mopub.com
 analytics.mopub.com
 mpx.mopub.com
 mopvkjodhcwscyudzfqtjuwvpzpgzuwndtofzftbtpdfszeido.com
+mopxhrgiyybr.com
 moquxotvyuoo.com
 morbitempus.com
 moregamers.com
@@ -12557,6 +12583,7 @@ sanalytics.ncaa.com
 ncafclpip.com
 ncaudienceexchange.com
 ncbqi.com
+rum.nccgroup-webperf.com
 ncdxfwxijazn.com
 nchxiaxafowid.com
 nchxvxvy.com
@@ -12774,6 +12801,7 @@ nhndzbmnkps.com
 nhpfvdlbjg.com
 nhqmomir.com
 niaqaltky.com
+niazlhvok.com
 cnt.nicemix.com
 mpc.nicequest.com
 nicesearches.com
@@ -12840,6 +12868,7 @@ nkgvtmwdb.com
 nkjssnadxejm.com
 nkkreqvurtoh.com
 nklivofyjkbt.com
+nklwltrpzhy.com
 nkredir.com
 nkxdyorwbt.com
 nkyafqufx.com
@@ -15970,6 +15999,7 @@ robovoiz.com
 robsoaks.com
 rocketyield.com
 rodirola.com
+roeye.com
 rofhathe.com
 rofurekika.com
 analytics.rogersmedia.com
@@ -17869,6 +17899,7 @@ sp.thestarpress.com
 stat.thestartmagazine.com
 analytics.thetab.com
 thetabdot.com
+thethaofb88.com
 sp.thetimesherald.com
 sp.thetowntalk.com
 engagefront.theweathernetwork.com
@@ -18993,6 +19024,7 @@ upscore.com
 upsight.com
 upsight-api.com
 upstained.com
+rum.uptime.com
 uptimecdn.com
 uptimeviewer.com
 uptolike.com
@@ -19590,6 +19622,7 @@ tracking.vitringez.com
 viuboin4.com
 viunypnvhcw.com
 viurihkwo.com
+viva88.com
 vivapays.com
 cnt.vivatube.com
 vivcdctagoij.com
@@ -19644,6 +19677,7 @@ vlkdntgqqfjusm.com
 vllwccvw.com
 vlnaseyii.com
 vlnveqkifcpxdosizybusvjqkfmowoawoshlmcbittpoywblpe.com
+vlott88.com
 vlpufjkwpmjhbn.com
 vlrzhoueyoxw.com
 vlscykmnd.com
@@ -19949,6 +19983,11 @@ w00tads.com
 w3counter.com
 w3exit.com
 w4.com
+w88bro.com
+w88city.com
+w88club.com
+w88hn.com
+w88yes.com
 wa4y.com
 waarhiupyrmig.com
 wabxsybclllz.com
@@ -20575,6 +20614,7 @@ wvrntfonizbxn.com
 wvvftburvtyz.com
 wvwgfecqswm.com
 wvzhj.com
+ww88club.com
 wwbn.com
 wwbzfppvhiebl.com
 wwclickgo.com
@@ -20613,6 +20653,7 @@ wxupwyabry.com
 wxvejfvmfwl.com
 wxwxpxtoqmipif.com
 wxxfcyoaymug.com
+wyaeyjaqx.com
 wybfcxze.com
 wydpt.com
 wydwkpjomckb.com
@@ -23160,6 +23201,7 @@ analytics.ladmedia.fr
 cdn-analytics.ladmedia.fr
 leaderpub.fr
 tag.leadplace.fr
+wrapper.lemde.fr
 deliv.lexpress.fr
 f7ds.liberation.fr
 livecount.fr
@@ -24314,6 +24356,7 @@ ninja.onap.io
 onetag.io
 tt.onthe.io
 optad360.io
+oracleinfinity.io
 oribi.io
 oriel.io
 outbid.io
@@ -25051,6 +25094,7 @@ cnt.3dmy.net
 8020solutions.net
 888media.net
 8coins.net
+8live.net
 a-pagerank.net
 a2dfp.net
 t.a3cloud.net
@@ -26318,6 +26362,7 @@ mptri.net
 mpwe.net
 msads.net
 az416426.vo.msecnd.net
+az693360.vo.msecnd.net
 az708531.vo.msecnd.net
 mstracker.net
 tracker.mtrax.net
@@ -26384,6 +26429,7 @@ noosaphy.net
 nowlooking.net
 npario-inc.net
 nr-data.net
+beacon.nrholding.net
 ns1p.net
 nsstatic.net
 nuggad.net
@@ -30565,7 +30611,9 @@ top.sec.uz
 moe.video
 tea.pornolomka.video
 skyad.video
+w88.vin
 388bet.vip
+8live.vip
 hbfls.vip
 123c.vn
 banner.5giay.vn
