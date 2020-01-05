@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://filters.adtidy.org/extension/chromium/filters/15.txt ##########
 
-# Ignored duplicates: 463
+# Ignored duplicates: 464
 
 # Ignored entries due to the whitelist: 156
 
@@ -455,6 +455,7 @@ tmpopenclose.click
 vicegnem.click
 wct.click
 wildotds1.click
+connectif.cloud
 eggplant.cloud
 matomo.cloud
 odoscope.cloud
@@ -5115,6 +5116,7 @@ dieohupl.com
 mobileads.dieuviet.com
 differentdesk.com
 diffusion-tracker.com
+digadser.com
 digipathmedia.com
 digisets.com
 digital-metric.com
@@ -5429,6 +5431,7 @@ dsparking.com
 dsply.com
 dsstrk.com
 dstillery.com
+dstxhvmgkg.com
 dsultra.com
 dswwghrlwwcm.com
 dsyxresmht.com
@@ -5561,6 +5564,7 @@ dyjkbkpzxgpjfs.com
 dyllkretnnzuhm.com
 dylsjsmqjbbcs.com
 dymaffzxk.com
+dymveullwn.com
 dymzcxgdvf.com
 dynamicadx.com
 dynamicdn.com
@@ -6503,6 +6507,7 @@ fdf4.com
 fdfrbyxylhgii.com
 fdgeen.com
 fdhtjdgsk.com
+fdkevkzm.com
 sp.fdlreporter.com
 fdogfuqpgeub.com
 fdplttrk.com
@@ -6588,6 +6593,7 @@ fgkvpyrmkbap.com
 fglwxjklf.com
 fgmucsiirrsq.com
 fgnzizhe.com
+fgoocsqg.com
 fgsjjpjhdlfthp.com
 fgsmmpazsuqak.com
 fgtdzvlydqcpus.com
@@ -6673,6 +6679,7 @@ fjxlbkwhtpil.com
 fjxssyatdwttqm.com
 fjyapvqvgjmwy.com
 fkbwtoopwg.com
+fkcfaagktu.com
 fkdqrjnoxhch.com
 fkdslgyunikais.com
 fkehg.com
@@ -6864,6 +6871,7 @@ fpcptdqmjlnlu.com
 fpctraffic2.com
 fpdsavexteno.com
 fpeegzspcgnjt.com
+fpesoigpyes.com
 fpfivothg.com
 fpherzxrae.com
 fpkcggyczcvix.com
@@ -6958,6 +6966,7 @@ freshplum.com
 freshrefresher.com
 frfgfhzxtfvsp.com
 frfnlvnpzeju.com
+frgbgwnbjkgco.com
 friendbuy.com
 friendlyduck.com
 frightenedpotato.com
@@ -7748,6 +7757,7 @@ gqrwjsjbnoayff.com
 gqrxsjqo.com
 gqthfroeirol.com
 gqulrzprheth.com
+gquqjrbgaghpfq.com
 gqusxhuexmu.com
 gqutnukt.com
 gquvhveabaem.com
@@ -8300,6 +8310,7 @@ hitwastedgarden.com
 hitwebcounter.com
 hiug862dj0.com
 hivideoworld.com
+hiwtotxepiaogu.com
 hixpfhoon.com
 hixuxtufzqcq.com
 hiypucxjvfka.com
@@ -8488,6 +8499,7 @@ hqvdkbap.com
 hqwlpexoywbc.com
 hqxtsqwpvort.com
 hqyenmzgxk.com
+hqzceymmcwsvd.com
 hrahdmon.com
 hraowdzgs.com
 hrarjpeqtcsge.com
@@ -8530,6 +8542,7 @@ hsydzoapohcvbz.com
 hszyozoawqnk.com
 htalizer.com
 htamaster.com
+htckiummbyxfha.com
 htegogwj.com
 htgpsnbtha.com
 htlbid.com
@@ -9699,6 +9712,7 @@ js.jianbaimei.com
 ads.jianchiapp.com
 jiankongbao.com
 jiawen88.com
+jibysqppqkprj.com
 jicfbcczdh.com
 jiifnvkesug.com
 jiixdtavic.com
@@ -10235,6 +10249,7 @@ khaklikrt.com
 khdmabhykmj.com
 khefhmgfwnnqgv.com
 khexythfkw.com
+khkjrquge.com
 khlgauqt2000.com
 khlgdlarmqnp.com
 khmbjndynx.com
@@ -10779,7 +10794,7 @@ leadacceptor.com
 leadboxer.com
 leadchampion.com
 leadcola.com
-collector.leaddyno.com
+leaddyno.com
 leadfeeder.com
 leadforce1.com
 leadforensics.com
@@ -11061,6 +11076,7 @@ lld2q.com
 llgerege.com
 llgvjtkg.com
 llhjbwcjnuii.com
+llhshirhrbkn.com
 lliumrpvj.com
 lljoapkfnwn.com
 lljtgiwhqtue.com
@@ -12575,6 +12591,7 @@ nbrwvrqyz.com
 nbsmsblzow.com
 nbstatic.com
 nbvbblmksiahf.com
+nbwcnctzneii.com
 nbxfvfeanq.com
 nbxpuziszhqz.com
 nbylhvbswplcj.com
@@ -14659,6 +14676,7 @@ pserhnmbbwexmbjderezswultfqlamugbqzsmyxwumgqwxuerl.com
 psgdjmtpvey.com
 pshcqtizgdlm.com
 psijdbcwwnqqw.com
+psitchie.com
 pskadmzl.com
 pskajrxx.com
 psma01.com
@@ -15215,6 +15233,7 @@ qolrlwwirf.com
 qonttkxl.com
 track.qoof.com
 qopqudzeaywc.com
+qorvoxejr.com
 qosrridifvsr.com
 qotuhsvlqlpnfd.com
 qotwtnckqrke.com
@@ -16095,6 +16114,7 @@ rs-stripe.com
 rsalcch.com
 rsalcdp.com
 rsbblrpnjxgsk.com
+rsbvygxdsevaw.com
 rscgfvsximqdpowcmruwitolouncrmnribnfobxzfhrpdmahqe.com
 rscqizsukecevh.com
 rsgazdyuycbm.com
@@ -18719,6 +18739,7 @@ udorik.com
 udriveme2.com
 udrivemyr54.com
 udrwyjpwjfeg.com
+udtekwuh.com
 udvbtgkxwnap.com
 udvxwimgqr.com
 udvysuucqgadg.com
@@ -18873,6 +18894,7 @@ ultraadserver.com
 ultratokensx.com
 ulufyprtd.com
 ulwsjpfxwniz.com
+ulzcieyihw.com
 umaglven.com
 umamdmo.com
 umbel.com
@@ -20645,6 +20667,7 @@ wxbdfm.com
 wxbrdppfpr.com
 wxdtvssnezam.com
 wxhpszslw.com
+wxiwegwffls.com
 wxjqyqvagefw.com
 wxmpekoil.com
 wxonmzkkldhu.com
@@ -20960,6 +20983,7 @@ xmasdom.com
 xmaswrite.com
 xmazvzvbqli.com
 gggo.xmbhj.com
+xmegspwsjzvvh.com
 xmevsiig.com
 xmgrjuqqc.com
 pixel.xmladfeed.com
@@ -23643,6 +23667,7 @@ fonderredd.info
 foreventwithenwas.info
 forttantontherdown.info
 fphnwvkp.info
+fqab5xq7qlgt.info
 fridrici.info
 friesmeasureretain.info
 fungetbag.info
@@ -26524,6 +26549,7 @@ phiptams.net
 phoossax.net
 phudrour.net
 pictela.net
+pingclock.net
 pipsol.net
 piratepc.net
 analytic.piri.net
@@ -27193,6 +27219,8 @@ adthebest.online
 afftrk.online
 aj1052.online
 aj1058.online
+aj1090.online
+aj1124.online
 aj1574.online
 aj1602.online
 aj1603.online
@@ -27454,7 +27482,6 @@ spacepools.org
 spelar.org
 spidtest.org
 vse.srazu.org
-staticcache.org
 staticmedia.org
 summerlove4u.org
 superlady.org
