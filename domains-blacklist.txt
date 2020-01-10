@@ -29982,7 +29982,7 @@ adz.co.zw
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt ##########
 
-# Ignored duplicates: 31976
+# Ignored duplicates: 39050
 
 # Ignored entries due to the whitelist: 3
 
@@ -30190,6 +30190,7 @@ omargpools.ca
 sickrage.ca
 communitypool.stellite.ca
 virtopia.ca
+westcoastxmr.ca
 xpool.ca
 zpool.ca
 cryptogreek.cafe
@@ -30408,6 +30409,7 @@ peer2.mainnet.helloeos.com.cn
 fkpool.cn
 luckypool.cn
 pool.minexmr.cn
+schoollt.cn
 uupool.cn
 whibbit.cn
 wilf.cn
@@ -30966,6 +30968,7 @@ coinive.com
 coinjive.com
 coinminex.com
 coinotron.com
+coinpoolservices.com
 coins4upool.com
 coinsforhash.com
 coinsolver.com
@@ -30998,6 +31001,7 @@ cryptocoinpools.com
 cryptocoinsclub.com
 cryptocrowdclub.com
 cryptoisme.com
+cryptokafa.com
 cryptokittydex.com
 cryptomineros.com
 cryptomininggame.com
@@ -31127,6 +31131,7 @@ gemioni.com
 genesis-mining.com
 geolocationsystem.com
 get2mine.com
+getbze.com
 getcryptotab.com
 imperium.getmyip.com
 gigarho.com
@@ -31203,6 +31208,7 @@ intrepidpool.com
 invest-btcmining.com
 inwemo.com
 ipominer.com
+ipspool.com
 iqmining.com
 istgahkhabar.com
 italyiimp.com
@@ -31372,6 +31378,7 @@ myethiterwallet.com
 myethwalilet.com
 myfreebitcoin.com
 myhost.com
+mymoneropool.com
 mynetfixes.com
 myo-xmr.com
 myttherwalet.com
@@ -31418,6 +31425,7 @@ nnyetlherwallet.com
 nocroom.com
 eos.nodepacific.com
 nodepow.com
+nonametrade.com
 noncepool.com
 nosekefik.com
 novablock.com
@@ -31602,6 +31610,7 @@ thetechnicalspool.com
 ticketszones.com
 timeteh.com
 toastpool.com
+traaittplatform.com
 dash.treasurequarry.com
 tritaniummining.com
 trtlbutton.com
@@ -31758,9 +31767,11 @@ bitcoin-game.de
 bitcoin-pool.de
 bitmainer.de
 champmine.de
+cloud-miner.de
 de.gsearch.com.de
 cryptos-world.de
 debutech.de
+easyhash.de
 edgeno.de
 einfach-iota.de
 emeraldcrypto.de
@@ -31786,6 +31797,7 @@ xmrpool.de
 coinone.deals
 gdax.deals
 poloniex.deals
+kmd.dev
 binance.direct
 poloniex.direct
 binance.directory
@@ -31832,7 +31844,9 @@ bloc-mining.eu
 btcpmining.eu
 btgminers.eu
 btgpool.eu
+cloud-miner.eu
 cloudhash.eu
+coin-mining.eu
 coinfaucet.eu
 cryptobro.eu
 cryptoescrow.eu
@@ -31879,6 +31893,7 @@ xmrpool.eu
 publicnode.ydns.eu
 yiimp.eu
 zet-tech.eu
+next.exchange
 binance.express
 etherdelta.express
 gemini.express
@@ -31948,6 +31963,7 @@ yrtumngfdsdgf.ga
 zinterect.ga
 zinterest.ga
 mining.garden
+peering.gb
 cfcdist.gd
 cloudcdn.gd
 dogepool.rf.gd
@@ -32324,6 +32340,7 @@ eos-seed-de.privex.io
 protonmine.io
 rainpool.io
 reosc.io
+safex.io
 p2p.saltblock.io
 solomining.io
 spectresecurity.io
@@ -32352,6 +32369,7 @@ kano.is
 system-update.is
 thepiratebay.is
 0769.it
+cryptaliapool.it
 cryptopool.it
 go-mine.it
 hostmaster0769.it
@@ -32396,6 +32414,7 @@ hostingcloud.live
 minepool.live
 poloniex.live
 webchain.live
+ragerx.lol
 dns.turtlecoin.lol
 1hourprofit.lt
 8bit.lt
@@ -32763,6 +32782,7 @@ prohash.net
 protopool.net
 proxyindia.net
 punchsub.net
+safexnews.net
 saltpool.net
 220-orbit.serverpower.net
 adboost.serverpower.net
@@ -32855,6 +32875,7 @@ getpool.network
 graft.network
 hashing.network
 monad.network
+moonpool.network
 miner-deu-1.inf.nimiq.network
 miner-deu-2.inf.nimiq.network
 miner-deu-3.inf.nimiq.network
@@ -32919,6 +32940,7 @@ seed-6.nimiq.network
 seed-7.nimiq.network
 seed-8.nimiq.network
 seed-9.nimiq.network
+pirl.network
 webchain.network
 lewd.ninja
 miner.ninja
@@ -32968,6 +32990,7 @@ kalipasindra.online
 minepool.online
 miningpool.online
 modcrypto.online
+monerov.online
 msdns.online
 mypool.online
 pickaxe.online
@@ -33102,6 +33125,7 @@ indiaproxydl.org
 sugarcandy.iptime.org
 jquerystatistics.org
 stratum.khore.org
+kipcoin.org
 kosmoplovci.org
 kryptonchain.org
 litecoinpool.org
@@ -33165,6 +33189,7 @@ eosdapp.oneeos.org
 p00l.org
 p2pool.org
 phoenixcoin.org
+phoenixmax.org
 pietpiraat.org
 pigeoncoin.org
 pioncoin.org
@@ -33282,6 +33307,7 @@ dbixmine.pro
 e9658544844.pro
 easyhash.pro
 equihash.pro
+equihub.pro
 etcmine.pro
 expmine.pro
 fairmine.pro
@@ -33524,6 +33550,7 @@ sellssamp.ru
 site11117.ru
 site1117.ru
 skunz.ru
+spritzee.ru
 sptlkiyjsglayc.ru
 svchost.ru
 t00ls.ru
@@ -33536,6 +33563,7 @@ top-hacks.ru
 tsdjuuytw7udw.ru
 udqgbokvzbnqkf.ru
 uzljra.ru
+vip69.ru
 voumxy.ru
 flash.vtb-karta.ru
 vtsgaqnfvzcyu.ru
@@ -33632,6 +33660,7 @@ masterpro.site
 p2pool.site
 hwid.ruhacktester.site
 whchsvlxch.site
+xebec.site
 pool.ski
 cryptonote.so
 cryptonote.social
@@ -33715,6 +33744,15 @@ sia.tech
 txxcoin.tech
 piratebay.tel
 testnet-btcp.th
+dego.bot.tips
+dego-data-dir.bot.tips
+dego-nodes.bot.tips
+trtl.bot.tips
+trtl-data-dir.bot.tips
+trtl-nodes.bot.tips
+wrkz.bot.tips
+wrkz-cache.bot.tips
+wrkz-data-dir.bot.tips
 2k20.tk
 2xcoin.tk
 ablen01.tk
@@ -33751,6 +33789,7 @@ funwithcrypto.tk
 graftminingpool.tk
 grandhero.tk
 if1j0ytgkypa.tk
+intercoin.tk
 ipfswallet.tk
 lnbpseud.tk
 lokalfed.tk
@@ -33876,6 +33915,7 @@ findblocks.co.uk
 gntl.co.uk
 scrypt.ispace.co.uk
 mineblocks.co.uk
+postmaster.minerlagoon.co.uk
 mining4.co.uk
 drk.p2pool.n00bsys0p.co.uk
 pocketminer.co.uk
@@ -33914,6 +33954,7 @@ webcoin.us
 xavieron.us
 binance.ventures
 cnpool.vip
+iddqd.vip
 sm520.vip
 superminer.vip
 vietpool.vddns.vn
@@ -34000,6 +34041,7 @@ flashplayerb.xyz
 flashplayeru.xyz
 flashplayerv.xyz
 flashplayupdate.xyz
+fungibly.xyz
 gabberpool.xyz
 ghjdthzvcnbkfr.xyz
 golpool.xyz
