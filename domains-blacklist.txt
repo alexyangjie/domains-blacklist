@@ -1754,7 +1754,6 @@ admeta.com
 admetricspro.com
 adminer.com
 adminpromotion.com
-admitad-connect.com
 admngronline.com
 admob.com
 pixel.admobclick.com
@@ -28213,6 +28212,7 @@ fotw.xyz
 frfgn.xyz
 fsdwd.xyz
 fsfrz.xyz
+fuckthat.xyz
 fyredet.xyz
 mvo.g45td.xyz
 gigaads.xyz
